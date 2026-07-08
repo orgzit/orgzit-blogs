@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Growth-Hacker’s-Dilemma-of-Imposter-Syndrome.jpg"
+featuredImage: "/blog-images/Growth-Hacker’s-Dilemma-of-Imposter-Syndrome.jpg"
 featuredImageAlt: "Growth-Hacker’s-Dilemma-of-Imposter-Syndrome-Orgzit"
 excerpt: "Have you ever felt that you have been pretending far too much for far too long? And that any moment you might get caught red-handed in the act of pretense"
 seoTitle: "Growth Hacker’s Dilemma of Imposter Syndrome | Orgzit Blog"
 seoDescription: "Are growth hackers more vulnerable to imposter syndrome? If yes, it is high time to organize your tasks so that the feeling of accomplishment is never lost."
-ogImage: "/blog/blog-images/Growth-Hacker’s-Dilemma-of-Imposter-Syndrome.jpg"
+ogImage: "/blog-images/Growth-Hacker’s-Dilemma-of-Imposter-Syndrome.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/"

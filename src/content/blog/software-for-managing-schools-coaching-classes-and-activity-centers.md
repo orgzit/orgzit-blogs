@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Managing-Schools-Coaching-Classes-Activity-Centres-the-Orgzit-Way.jpg"
+featuredImage: "/blog-images/Managing-Schools-Coaching-Classes-Activity-Centres-the-Orgzit-Way.jpg"
 featuredImageAlt: "Managing-Schools,-Coaching-Classes,-&-Activity-Centres-the-Orgzit-Way"
 excerpt: "For schools, coaching classes, or activity centres looking to expand, the one thing that can really slow you down is poor internal…"
 seoTitle: "Managing Schools, Coaching Classes, & Activity Centres the Orgzit Way | Orgzit Blog"
 seoDescription: "Poor internal processes can be a big stumbling bock for schools, coaching classes, or activity centres looking to expand. Turn things around with Orgzit."
-ogImage: "/blog/blog-images/Managing-Schools-Coaching-Classes-Activity-Centres-the-Orgzit-Way.jpg"
+ogImage: "/blog-images/Managing-Schools-Coaching-Classes-Activity-Centres-the-Orgzit-Way.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/software-for-managing-schools-coaching-classes-and-activity-centers/"

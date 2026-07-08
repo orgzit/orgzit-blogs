@@ -11,12 +11,12 @@ categories:
   - "Productivity"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Business-Growth.jpg"
+featuredImage: "/blog-images/Business-Growth.jpg"
 featuredImageAlt: "Business-Growth-with-Orgzit"
 excerpt: "Productivity and efficiency are two major assets of a growing business that is performing exceptionally well."
 seoTitle: "7 Benefits of Project Management Software [Updated]"
 seoDescription: "Here are the 7 core benefits of using project management software: Easier Collaboration, Improved Project Planning, Enhanced Client Communication"
-ogImage: "/blog/blog-images/Business-Growth.jpg"
+ogImage: "/blog-images/Business-Growth.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-project-management-software/"

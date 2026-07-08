@@ -139,14 +139,14 @@ function buildFrontmatter(post, authors) {
     authorAvatar:     author?.avatar_urls?.['96'] ?? '',
     categories,
     tags,
-    featuredImage:    featuredFilename ? `/blog/blog-images/${featuredFilename}` : '',
+    featuredImage:    featuredFilename ? `/blog-images/${featuredFilename}` : '',
     featuredImageAlt: media?.alt_text ?? decodeEntities(post.title.rendered),
     excerpt:          decodeEntities(post.excerpt.rendered.replace(/<[^>]+>/g, '').trim()).substring(0, 200),
     seoTitle:         decodeEntities(y.title ?? post.title.rendered),
     seoDescription:   decodeEntities(y.description ?? ''),
     ogImage:          y.og_image?.[0]?.url
-      ? `/blog/blog-images/${path.basename(y.og_image[0].url.split('?')[0])}`
-      : (featuredFilename ? `/blog/blog-images/${featuredFilename}` : ''),
+      ? `/blog-images/${path.basename(y.og_image[0].url.split('?')[0])}`
+      : (featuredFilename ? `/blog-images/${featuredFilename}` : ''),
     twitterCard:      y.twitter_card ?? 'summary_large_image',
     noIndex:          y.robots?.index === 'noindex',
     canonicalUrl:     post.link,

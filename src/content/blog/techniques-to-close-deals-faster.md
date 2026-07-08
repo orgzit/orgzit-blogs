@@ -11,12 +11,12 @@ categories:
   - "Sales"
 tags: 
   - "Sales Techniques"
-featuredImage: "/blog/blog-images/techniques-to-close-deals-faster-.png"
+featuredImage: "/blog-images/techniques-to-close-deals-faster-.png"
 featuredImageAlt: "techniques to close deals faster"
 excerpt: "How to close more deals? Closing is the most important and the most difficult part of sales. Choosing the right person and the right technique…"
 seoTitle: "7 Techniques to Close Deals Faster"
 seoDescription: "Closing is the most important and the most difficult part of sales. Choosing the right person and the right technique to seal a deal is very crucial. In this article, I will talk about a few effective and mostly used closing the deal techniques."
-ogImage: "/blog/blog-images/techniques-to-close-deals-faster-.png"
+ogImage: "/blog-images/techniques-to-close-deals-faster-.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/techniques-to-close-deals-faster/"

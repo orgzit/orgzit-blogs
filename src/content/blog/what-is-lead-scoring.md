@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/What-is-lead-scoring_.png"
+featuredImage: "/blog-images/What-is-lead-scoring_.png"
 featuredImageAlt: "What is lead scoring?"
 excerpt: "Introduction Imagine you own a company that sells a type of software to different business organizations. You have a business organization, what for? For-profits, right?…"
 seoTitle: "What is lead scoring? | Orgzit Blog"
 seoDescription: "Lead Scoring is a system or a methodology of assigning a rank to the leads according to the chances of the customer’s will and readiness for buying your product and services."
-ogImage: "/blog/blog-images/What-is-lead-scoring_.png"
+ogImage: "/blog-images/What-is-lead-scoring_.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-lead-scoring/"

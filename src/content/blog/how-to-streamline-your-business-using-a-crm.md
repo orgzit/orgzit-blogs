@@ -14,12 +14,12 @@ categories:
 tags: 
   - "Benefits of CRM"
   - "CRM"
-featuredImage: "/blog/blog-images/How-CRM-Streamlines-Your-Sales-Operations.jpg"
+featuredImage: "/blog-images/How-CRM-Streamlines-Your-Sales-Operations.jpg"
 featuredImageAlt: "CRM for sales operations"
 excerpt: "Customer Relationship Management (CRM) software is a powerful tool that can help you streamline sales operations. by automating lead management, quote, management and customer support."
 seoTitle: "How CRM Streamlines Your Sales Operations? | Orgzit Blog"
 seoDescription: "Streamline your sales, marketing, and estimation teams with powerful CRM software. Optimize your business by automating processes."
-ogImage: "/blog/blog-images/How-CRM-Streamlines-Your-Sales-Operations.jpg"
+ogImage: "/blog-images/How-CRM-Streamlines-Your-Sales-Operations.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/"

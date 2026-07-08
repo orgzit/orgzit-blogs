@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/What-is-HR-Management-System.png"
+featuredImage: "/blog-images/What-is-HR-Management-System.png"
 featuredImageAlt: "What is HR Management System"
 excerpt: "Is your HR Management System helping you manage your human capital efficiently? Are you facing any problems in managing your growing team? Are you struggling…"
 seoTitle: "What is HR Management System? - Human Resource"
 seoDescription: "Human Resources Management System(HRMS) is a form of HR software that helps you manage the most important resource in your business i.e. your people."
-ogImage: "/blog/blog-images/What-is-HR-Management-System.png"
+ogImage: "/blog-images/What-is-HR-Management-System.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-hr-management-system/"

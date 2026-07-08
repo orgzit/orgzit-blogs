@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "CRM"
-featuredImage: "/blog/blog-images/87.1.jpg"
+featuredImage: "/blog-images/87.1.jpg"
 featuredImageAlt: "CRM Selection for all company sizes"
 excerpt: "Selecting the right CRM based on company size is really important for efficiency and scalability. Wondering why? Let me help you understand this further. Just…"
 seoTitle: "Why Company Size Matters in CRM Selection? | Orgzit Blog"
 seoDescription: "Discover unique attributes of company size and how they affect the decision of selecting a CRM."
-ogImage: "/blog/blog-images/87.1.jpg"
+ogImage: "/blog-images/87.1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/why-company-size-matters-in-crm-selection/"

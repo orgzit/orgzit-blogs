@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Introducing-Orgzit-Granular-Access-Control.jpg"
+featuredImage: "/blog-images/Introducing-Orgzit-Granular-Access-Control.jpg"
 featuredImageAlt: "Introducing-Orgzit-Granular-Access-Control"
 excerpt: "Data has the power to make or break companies. It is known that quality of data aggregated…"
 seoTitle: "Introducing Orgzit Granular Access Control: Extra Power To You! | Orgzit Blog"
 seoDescription: "Orgzit granular access control enables businesses to secure data and give access to team, vendors and clients as per their specific roles and work areas."
-ogImage: "/blog/blog-images/Introducing-Orgzit-Granular-Access-Control.jpg"
+ogImage: "/blog-images/Introducing-Orgzit-Granular-Access-Control.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/"

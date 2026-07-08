@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/5-Notorious-Productivity-Killers-And-How-To-Overcome-Them.jpg"
+featuredImage: "/blog-images/5-Notorious-Productivity-Killers-And-How-To-Overcome-Them.jpg"
 featuredImageAlt: "5-Notorious-Productivity-Killers-And-How-To-Overcome-Them-with-Orgzit"
 excerpt: "How much success could you achieve in the coming year if you could be more productive each and every day? Everyone wants to be more productive, the problem is people find"
 seoTitle: "5 Notorious Productivity Killers And How To Overcome Them | Orgzit Blog"
 seoDescription: "Productivity is a hard nut to crack. But not if you know what makes the surface moist. Check out ways you can retain productivity without losing focus."
-ogImage: "/blog/blog-images/5-Notorious-Productivity-Killers-And-How-To-Overcome-Them.jpg"
+ogImage: "/blog-images/5-Notorious-Productivity-Killers-And-How-To-Overcome-Them.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/5-notorious-productivity-killers-overcome/"

@@ -11,12 +11,12 @@ categories:
   - "Orgzit News"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Cloud-ERP-On-Premise-ERP.jpg"
+featuredImage: "/blog-images/Cloud-ERP-On-Premise-ERP.jpg"
 featuredImageAlt: "Cloud-ERP-On-Premise-ERP-Orgzit"
 excerpt: "As a business owner, if you ask me where I belong, I would tell you we belong to the cloud. Oh did I say it…"
 seoTitle: "Cloud ERP v/s On-Premise ERP: Who wins? | Orgzit Blog"
 seoDescription: "Cloud ERP is being being regarded highly today. Businesses of all sizes are thinking to migrate their data to cloud for enhanced security features."
-ogImage: "/blog/blog-images/Cloud-ERP-On-Premise-ERP.jpg"
+ogImage: "/blog-images/Cloud-ERP-On-Premise-ERP.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/"

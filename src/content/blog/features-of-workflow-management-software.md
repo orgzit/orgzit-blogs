@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/features-of-workflow-management.png"
+featuredImage: "/blog-images/features-of-workflow-management.png"
 featuredImageAlt: "features of workflow management"
 excerpt: "To know the features of workflow management software is a very essential thing once you start thinking about streamlining business processes in your company. Prior…"
 seoTitle: "Features of Workflow Management Software | Orgzit Blog"
 seoDescription: "Make your process scalable and repeatable. Automate and grow your business with these top 9 workflow management software features"
-ogImage: "/blog/blog-images/features-of-workflow-management.png"
+ogImage: "/blog-images/features-of-workflow-management.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/features-of-workflow-management-software/"

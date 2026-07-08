@@ -11,12 +11,12 @@ categories:
   - "Featured Articles"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/980-e1552296176634.jpg"
+featuredImage: "/blog-images/980-e1552296176634.jpg"
 featuredImageAlt: "7 Reasons To Adopt To Business Automation Solutions"
 excerpt: "Business Process Automation refers to the automation of complex business processes to streamline the flow of data and information within a workplace and make it…"
 seoTitle: "7 Reasons To Adopt Cloud-Based Business Automation Solutions | Orgzit Blog"
 seoDescription: "Are you looking to improve the efficiency of your business? Here are some reasons to adopt cloud-based business automation solutions to streamline and optimize your business."
-ogImage: "/blog/blog-images/980-e1552296176634.jpg"
+ogImage: "/blog-images/980-e1552296176634.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/7-reasons-to-adopt-cloud-based-business-automation-solutions/"

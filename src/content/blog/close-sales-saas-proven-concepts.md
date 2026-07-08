@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/How-To-Close-More-Sales-For-Your-SaaS-With-A-Few-Proven-Concepts.jpg"
+featuredImage: "/blog-images/How-To-Close-More-Sales-For-Your-SaaS-With-A-Few-Proven-Concepts.jpg"
 featuredImageAlt: "SaaS"
 excerpt: "For any team that has sacrificed worked hard for their product, launching a new SaaS for any startup can be both terrifying and"
 seoTitle: "How To Close More Sales For Your SaaS With A Few Proven Concepts | Orgzit Blog"
 seoDescription: "SaaS sales don’t have to hard with the right mindset. It all comes down to having the right sales strategy. Read the top tips to grow you revenue and customer satisfaction levels"
-ogImage: "/blog/blog-images/How-To-Close-More-Sales-For-Your-SaaS-With-A-Few-Proven-Concepts.jpg"
+ogImage: "/blog-images/How-To-Close-More-Sales-For-Your-SaaS-With-A-Few-Proven-Concepts.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/close-sales-saas-proven-concepts/"

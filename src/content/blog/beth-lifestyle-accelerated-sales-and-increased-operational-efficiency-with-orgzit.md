@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Customer Success Stories"
 tags: []
-featuredImage: "/blog/blog-images/Bangalore’s-Prime-Furniture-Home-Décor-Vendor-Increases-Sales-Operational-Efficiency-With-Orgzit-CRM.jpg"
+featuredImage: "/blog-images/Bangalore’s-Prime-Furniture-Home-Décor-Vendor-Increases-Sales-Operational-Efficiency-With-Orgzit-CRM.jpg"
 featuredImageAlt: "Beth: Bangalore’s-Prime-Furniture-&-Home-Décor-Vendor-Increases-Sales-&-Operational-Efficiency-With-Orgzit-CRM"
 excerpt: "Beth Lifestyle Private Limited is a modular home décor furniture brand in Steel and Stainless Steel."
 seoTitle: "Beth Lifestyle: Accelerated Sales by 300% and Increased Operational Efficiency with Orgzit's Distribution Management Software | Orgzit Blog"
 seoDescription: "Case Study on how to grow your dealer or franchise network by standardizing business processes and making a modular and scalable approach to managing your distribution channels."
-ogImage: "/blog/blog-images/Bangalore’s-Prime-Furniture-Home-Décor-Vendor-Increases-Sales-Operational-Efficiency-With-Orgzit-CRM.jpg"
+ogImage: "/blog-images/Bangalore’s-Prime-Furniture-Home-Décor-Vendor-Increases-Sales-Operational-Efficiency-With-Orgzit-CRM.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/beth-lifestyle-accelerated-sales-and-increased-operational-efficiency-with-orgzit/"

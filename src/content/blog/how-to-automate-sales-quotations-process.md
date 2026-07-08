@@ -14,12 +14,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/1.jpg"
+featuredImage: "/blog-images/1.jpg"
 featuredImageAlt: "Automate Sales Quotation"
 excerpt: "Wouldn’t it be great if you could simply ping someone and close a deal? It doesn’t matter what industry you operate in. Consumers need to…"
 seoTitle: "Automate Sales Quotations for Winning Deals | Orgzit"
 seoDescription: "Streamline your sales process and close more deals with ease by automating your sales quotation process. Discover how to do it in this guide."
-ogImage: "/blog/blog-images/1.jpg"
+ogImage: "/blog-images/1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-automate-sales-quotations-process/"

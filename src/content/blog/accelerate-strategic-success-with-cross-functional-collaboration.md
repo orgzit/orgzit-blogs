@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Digital-Strategy.jpg"
+featuredImage: "/blog-images/Digital-Strategy.jpg"
 featuredImageAlt: "cross functional collaboration-Orgzit"
 excerpt: "Cross Functional Collaboration describes a scenario where people from different teams or functions (sales, marketing, HR, or engineering) come together towards achieving a common goal…."
 seoTitle: "Accelerate Strategic Success With Cross Functional Collaboration | Orgzit Blog"
 seoDescription: "Cross functional collaboration is a critical part of any business process. Here's how cross functional collaboration can boosts productivity and creativity."
-ogImage: "/blog/blog-images/Digital-Strategy.jpg"
+ogImage: "/blog-images/Digital-Strategy.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/"

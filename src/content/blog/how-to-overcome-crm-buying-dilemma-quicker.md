@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "CRM"
-featuredImage: "/blog/blog-images/81.1.jpg"
+featuredImage: "/blog-images/81.1.jpg"
 featuredImageAlt: "CRM solutions checklist"
 excerpt: "Been procrastinating buying a CRM for your company because of the hectic research and know-how required?  Or are you in a buyer’s dilemma, afraid of…"
 seoTitle: "How to overcome CRM buying dilemma quicker? | Orgzit Blog"
 seoDescription: "Find here the effective strategies, bad mistakes, and possible solutions to make your CRM buying journey smooth."
-ogImage: "/blog/blog-images/81.1.jpg"
+ogImage: "/blog-images/81.1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-overcome-crm-buying-dilemma-quicker/"

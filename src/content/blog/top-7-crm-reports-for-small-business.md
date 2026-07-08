@@ -15,12 +15,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/1-1.jpg"
+featuredImage: "/blog-images/1-1.jpg"
 featuredImageAlt: "Top 7 CRM Reports Every Small Business Needs in 2023"
 excerpt: "Make these CRM reports part of your sales process and give your business a cutting edge! When a business uses Customer relationship management (CRM) software,…"
 seoTitle: "2023's Essential CRM Reports for Small Business | Orgzit"
 seoDescription: "Unlock the full potential of your small business with these top 7 CRM reports in 2023. Stay ahead of the competition with valuable insights."
-ogImage: "/blog/blog-images/1-1.jpg"
+ogImage: "/blog-images/1-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/top-7-crm-reports-for-small-business/"

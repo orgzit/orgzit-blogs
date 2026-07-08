@@ -15,12 +15,12 @@ categories:
   - "Workflow Management"
 tags: 
   - "Sales Prospecting Techniques"
-featuredImage: "/blog/blog-images/Sales-Prospecting-Techniques.jpg"
+featuredImage: "/blog-images/Sales-Prospecting-Techniques.jpg"
 featuredImageAlt: "Sales Prospecting Techniques"
 excerpt: "Every successful business knows the importance of lead generation, yet many struggles to find techniques that yield tangible results. As a business owner, it’s essential…"
 seoTitle: "15 Sales Prospecting Techniques That Will Help You Get More Leads | Orgzit"
 seoDescription: "Sales prospecting is a great way to market your product. Here are some great techniques that will give you the best results."
-ogImage: "/blog/blog-images/Sales-Prospecting-Techniques.jpg"
+ogImage: "/blog-images/Sales-Prospecting-Techniques.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/sales-prospecting-techniques/"

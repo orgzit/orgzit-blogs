@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/3-Major-Reasons-Why-Your-Indian-SaaS-Strategy-Is-Failing.jpg"
+featuredImage: "/blog-images/3-Major-Reasons-Why-Your-Indian-SaaS-Strategy-Is-Failing.jpg"
 featuredImageAlt: "3-Major-Reasons-Why-Your-Indian-SaaS-Strategy-Is-Failing-Orgzit"
 excerpt: "The software-as-a-service (SaaS) ecosystem in India is witnessing a tremendous increase in activity in terms of the number of new …"
 seoTitle: "3 Major Reasons Why Your Indian SaaS Strategy Is Failing | Orgzit Blog"
 seoDescription: "Selling SaaS is a challenge in India. What are the reasons? See how can Orgzit help overcome these challenges and help shape your Indian SaaS strategy."
-ogImage: "/blog/blog-images/3-Major-Reasons-Why-Your-Indian-SaaS-Strategy-Is-Failing.jpg"
+ogImage: "/blog-images/3-Major-Reasons-Why-Your-Indian-SaaS-Strategy-Is-Failing.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/"

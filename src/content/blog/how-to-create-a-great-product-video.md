@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/There-Is-Insanity-In-Creating-A-Sane-Product-Video.jpg"
+featuredImage: "/blog-images/There-Is-Insanity-In-Creating-A-Sane-Product-Video.jpg"
 featuredImageAlt: "There-Is-Insanity-In-Creating-A-Sane-Product-Video-Orgzit"
 excerpt: "June 13th, 2017 Update — After receiving some encouraging product video-making comments, we have given the video a voice make-over. Check out the post end…"
 seoTitle: "There Is Insanity In Creating A Sane Product Video | Orgzit Blog"
 seoDescription: "This post is to help digital marketers & DIY entrepreneurs with a shoestring budget learn how to create an awesome product video with limited resources"
-ogImage: "/blog/blog-images/There-Is-Insanity-In-Creating-A-Sane-Product-Video.jpg"
+ogImage: "/blog-images/There-Is-Insanity-In-Creating-A-Sane-Product-Video.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-create-a-great-product-video/"

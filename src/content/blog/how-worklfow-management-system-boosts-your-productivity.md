@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/How-a-Workflow-Management-System-Can-Transform-an-Average-Workplace-into-a-High-Performing-One.jpg"
+featuredImage: "/blog-images/How-a-Workflow-Management-System-Can-Transform-an-Average-Workplace-into-a-High-Performing-One.jpg"
 featuredImageAlt: "How-a-Workflow-Management-System-Can-Transform-an-Average-Workplace-into-a-High-Performing-One-Orgzit"
 excerpt: "…and other ways it can boost up productivity and collaboration…"
 seoTitle: "How workflow management system boosts your productivity"
 seoDescription: "Workflow management helps in increasing productivity. We’ve outlined the major ways in which workflow management can help your businesses."
-ogImage: "/blog/blog-images/How-a-Workflow-Management-System-Can-Transform-an-Average-Workplace-into-a-High-Performing-One.jpg"
+ogImage: "/blog-images/How-a-Workflow-Management-System-Can-Transform-an-Average-Workplace-into-a-High-Performing-One.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-worklfow-management-system-boosts-your-productivity/"

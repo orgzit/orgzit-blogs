@@ -13,6 +13,7 @@ import ReadingProgress from '@components/blog/ReadingProgress.astro';
 import { getReadingTime } from '@lib/readingTime';
 import { getRelatedPosts } from '@lib/related';
 import { formatDate, isoDate } from '@lib/dates';
+import { withBase } from '@lib/paths';
 import type { Post } from '@app-types/blog';
 
 export async function getStaticPaths() {
@@ -44,8 +45,8 @@ const postUrl = `https://orgzit.com/blog/${post.slug}/`;
 const catSlug = (cat: string) => cat.toLowerCase().replace(/\s+/g, '-');
 
 const siteUrl = 'https://orgzit.com';
-const rawImage = post.data.ogImage || post.data.featuredImage || '/blog/blog-images/default-og.png';
-const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${rawImage}`;
+const rawImage = post.data.ogImage || post.data.featuredImage || '/blog-images/default-og.png';
+const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBase(rawImage)}`;
 ---
 <BaseLayout
   title={post.data.seoTitle}
@@ -151,7 +152,7 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${rawIma
           {post.data.featuredImage && (
             <div class="aspect-video rounded-xl overflow-hidden bg-slate-100 mb-8">
               <img
-                src={post.data.featuredImage}
+                src={withBase(post.data.featuredImage)}
                 alt={post.data.featuredImageAlt}
                 class="w-full h-full object-cover"
                 loading="eager"

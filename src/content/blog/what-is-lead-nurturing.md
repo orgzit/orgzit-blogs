@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/What-Is-Lead-Nurturing_.png"
+featuredImage: "/blog-images/What-Is-Lead-Nurturing_.png"
 featuredImageAlt: "What Is Lead Nurturing"
 excerpt: "Sales is a lot like convincing the most popular girl in school to become your date for the school dance. She won’t agree at first…"
 seoTitle: "What Is Lead Nurturing? | Orgzit Blog | Productivity Orgzit Blog"
 seoDescription: "Lead nurturing is the process of building effective and meaningful relationships with leads with the aim of turning them into a qualified prospect."
-ogImage: "/blog/blog-images/What-Is-Lead-Nurturing_.png"
+ogImage: "/blog-images/What-Is-Lead-Nurturing_.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-lead-nurturing/"

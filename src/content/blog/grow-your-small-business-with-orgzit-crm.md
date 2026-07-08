@@ -14,12 +14,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Make-your-small-business-grow-with-Orgzit-CRM.jpg"
+featuredImage: "/blog-images/Make-your-small-business-grow-with-Orgzit-CRM.jpg"
 featuredImageAlt: "Make your small business grow with Orgzit CRM"
 excerpt: "Many small businesses need to realize the potential of a Customer Relationship Management (CRM) system in increasing the efficiency of their operations. By storing customer…"
 seoTitle: "Make your Small Business Grow with CRM Software. | Orgzit Blog"
 seoDescription: "Unlock the potential of your small business with Orgzit CRM. Streamline your operations and drive growth with our powerful CRM software."
-ogImage: "/blog/blog-images/Make-your-small-business-grow-with-Orgzit-CRM.jpg"
+ogImage: "/blog-images/Make-your-small-business-grow-with-Orgzit-CRM.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/grow-your-small-business-with-orgzit-crm/"

@@ -12,12 +12,12 @@ categories:
   - "No Code"
 tags: 
   - "No Code"
-featuredImage: "/blog/blog-images/Featured-Image-Blog-40.jpg"
+featuredImage: "/blog-images/Featured-Image-Blog-40.jpg"
 featuredImageAlt: ""
 excerpt: "Are you eager to expedite your digital transformation without getting entangled in the complexities of traditional software development?  Then the no-code application can be the…"
 seoTitle: "Top 10 No Code Applications for Digital Transformation in 2023 and Beyond | Orgzit Blog"
 seoDescription: "Top 10 user-friendly no-code apps reshaping digital transformation in 2023. Streamline processes, enhance experiences, and stay ahead!"
-ogImage: "/blog/blog-images/Featured-Image-Blog-40.jpg"
+ogImage: "/blog-images/Featured-Image-Blog-40.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/top-10-no-code-applications-for-digital-transformation-in-2023-and-beyond/"

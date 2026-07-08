@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Bringing-Management-Dealers-Salesmen-Customers-Together-Orgzit-Dealer-CRM-Solution.jpg"
+featuredImage: "/blog-images/Bringing-Management-Dealers-Salesmen-Customers-Together-Orgzit-Dealer-CRM-Solution.jpg"
 featuredImageAlt: "Bringing-Management,-Dealers,-Salesmen-&-Customers-Together-Orgzit-Dealer-CRM-Solution"
 excerpt: "If you are reading this, I am sure you’re familiar with the long chain of the manufacturer to dealer to consumer. No? Let me refresh…"
 seoTitle: "Bringing Management, Dealers, Salesmen & Customers Together - Orgzit Dealer CRM Solution | Orgzit Blog"
 seoDescription: "Orgzit brings your dealer, sales team and clients in the same place with you having master access to the whole platform"
-ogImage: "/blog/blog-images/Bringing-Management-Dealers-Salesmen-Customers-Together-Orgzit-Dealer-CRM-Solution.jpg"
+ogImage: "/blog-images/Bringing-Management-Dealers-Salesmen-Customers-Together-Orgzit-Dealer-CRM-Solution.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/"

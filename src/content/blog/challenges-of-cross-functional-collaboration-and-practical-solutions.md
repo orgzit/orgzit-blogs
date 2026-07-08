@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/66177-e1552294298300.jpg"
+featuredImage: "/blog-images/66177-e1552294298300.jpg"
 featuredImageAlt: "Challenges-of-cross-functional-collaboration-Orgzit"
 excerpt: "With the huge range of technologies that we are using today, cross-functional collaboration should become the easiest to introduce to people. With this the meetings,…"
 seoTitle: "Challenges of Cross Functional Collaboration and Practical Solutions | Orgzit Blog"
 seoDescription: "Cross-functional collaboration is a opportunistic approach for companies but it's very challenging. Here are some common barriers along with it's solutions."
-ogImage: "/blog/blog-images/66177-e1552294298300.jpg"
+ogImage: "/blog-images/66177-e1552294298300.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/"

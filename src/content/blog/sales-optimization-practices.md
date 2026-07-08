@@ -12,12 +12,12 @@ categories:
   - "Sales"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/Copy-of-conversion-rate-optimization-stats-show-what-youve-been-missing.png"
+featuredImage: "/blog-images/Copy-of-conversion-rate-optimization-stats-show-what-youve-been-missing.png"
 featuredImageAlt: ""
 excerpt: "“Prediction is very difficult, especially if it’s about the future.” – Nils Bohr. According to a Forbes Insights report by Brainshark, organizations rank sales productivity…"
 seoTitle: "Top 10 Sales Optimization Practices To Close More Deals | Orgzit Blog"
 seoDescription: "This blog highlights the Top 10 Sales Optimization Practices that help your businesses to elevate sales performance and get leads."
-ogImage: "/blog/blog-images/Copy-of-conversion-rate-optimization-stats-show-what-youve-been-missing.png"
+ogImage: "/blog-images/Copy-of-conversion-rate-optimization-stats-show-what-youve-been-missing.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/sales-optimization-practices/"

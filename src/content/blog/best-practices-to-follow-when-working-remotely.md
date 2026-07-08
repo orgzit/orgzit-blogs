@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/Best-Practices-to-Follow-When-Working-Remotely.png"
+featuredImage: "/blog-images/Best-Practices-to-Follow-When-Working-Remotely.png"
 featuredImageAlt: "Best Practices to Follow When Working Remotely"
 excerpt: "Working from home or not from the office has many advantages, but it takes dedication and smart strategies to pull it off successfully. There’s no…"
 seoTitle: "Best Practices to Follow When Working Remotely"
 seoDescription: "Working remotely does not have to be difficult. Here are some best practices to adopt when working from home. There is no one-size-fits-all formula, organize your remote work plan based on the tips that work best for you."
-ogImage: "/blog/blog-images/Best-Practices-to-Follow-When-Working-Remotely.png"
+ogImage: "/blog-images/Best-Practices-to-Follow-When-Working-Remotely.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/"

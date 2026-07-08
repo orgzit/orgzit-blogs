@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Project Charter"
   - "Winning Project Charter"
-featuredImage: "/blog/blog-images/How-to-Write-a-Winning-Project-Charter.png"
+featuredImage: "/blog-images/How-to-Write-a-Winning-Project-Charter.png"
 featuredImageAlt: "Winning Project Charter"
 excerpt: "Businesses, in the old days, could be run without defining or questioning some major aspects of a project undertaken. However, today, any project that is…"
 seoTitle: "How to Write a Winning Project Charter?"
 seoDescription: "A Project Charter gives a project a definite direction for successful completion. With these effective tips, you will be able to write a Winning Project Charter."
-ogImage: "/blog/blog-images/How-to-Write-a-Winning-Project-Charter.png"
+ogImage: "/blog-images/How-to-Write-a-Winning-Project-Charter.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-write-a-winning-project-charter/"

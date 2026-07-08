@@ -12,12 +12,12 @@ categories:
 tags: 
   - "No-Code Development"
   - "What is No-Code Development"
-featuredImage: "/blog/blog-images/What-is-No-code-Developmet.png"
+featuredImage: "/blog-images/What-is-No-code-Developmet.png"
 featuredImageAlt: "What is No-code Development?"
 excerpt: "No-code software development has become a very popular and promising alternative for businesses who want to build their own customized software solutions fast, and at…"
 seoTitle: "What is No-Code Development? Features, Pros and Cons"
 seoDescription: "A no-code software platform is a solution that uses a simple visual development interface to allow both developers and layman (citizen) users to create s/w"
-ogImage: "/blog/blog-images/What-is-No-code-Developmet.png"
+ogImage: "/blog-images/What-is-No-code-Developmet.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-no-code-development/"

@@ -13,12 +13,12 @@ categories:
 tags: 
   - "CRM"
   - "custom CRM Development"
-featuredImage: "/blog/blog-images/73.1.jpg"
+featuredImage: "/blog-images/73.1.jpg"
 featuredImageAlt: "Guide to Custom CRM Development"
 excerpt: "In the dynamic landscape of business operations, Customer Relationship Management (CRM) has evolved from a convenient tool to a strategic imperative. As businesses seek to…"
 seoTitle: "8 Must-Do Steps to Successful Custom CRM Development | Orgzit Blog"
 seoDescription: "Discover the essential steps for successful custom CRM development in 8 must-do strategies."
-ogImage: "/blog/blog-images/73.1.jpg"
+ogImage: "/blog-images/73.1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/8-must-do-steps-to-successful-custom-crm-development/"

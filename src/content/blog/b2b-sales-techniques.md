@@ -13,12 +13,12 @@ categories:
   - "Tips & Tricks"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/Copy-of-b2b-keyword-research-tips-61ae514435f85-sej.png"
+featuredImage: "/blog-images/Copy-of-b2b-keyword-research-tips-61ae514435f85-sej.png"
 featuredImageAlt: ""
 excerpt: "B2B selling is a sophisticated process that demands a well-crafted and effective sales strategy to attain the desired growth/outcome. Producing the kinds of results your…"
 seoTitle: "Top 10 B2B Sales Techniques That Just Work | Orgzit Blog"
 seoDescription: "B2B sales techniques are a process that demands a well-crafted and effective sales strategy to attain the desired growth outcome."
-ogImage: "/blog/blog-images/Copy-of-b2b-keyword-research-tips-61ae514435f85-sej.png"
+ogImage: "/blog-images/Copy-of-b2b-keyword-research-tips-61ae514435f85-sej.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/b2b-sales-techniques/"

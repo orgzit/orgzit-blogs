@@ -11,12 +11,12 @@ categories:
   - "Featured Articles"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/AdobeStock_208869656.jpeg"
+featuredImage: "/blog-images/AdobeStock_208869656.jpeg"
 featuredImageAlt: "Lead-management-Orgzit"
 excerpt: "Selling involves tracking leads – folks who will buy over time. Lead management is a process that helps an organization track all prospective buyers, monitor…"
 seoTitle: "How To Manage Leads When Selling Through Dealers ? | Orgzit Blog"
 seoDescription: "Without an effective lead management tool your dealership could be missing out on a lot of business. Learn how to boost sales for you dealer network."
-ogImage: "/blog/blog-images/AdobeStock_208869656.jpeg"
+ogImage: "/blog-images/AdobeStock_208869656.jpeg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/"

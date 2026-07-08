@@ -12,12 +12,12 @@ categories:
 tags: 
   - "No Code"
   - "Workflow Automation"
-featuredImage: "/blog/blog-images/Featured-Image-Blog-41-e1691651084998.png"
+featuredImage: "/blog-images/Featured-Image-Blog-41-e1691651084998.png"
 featuredImageAlt: "Benefits of No- Code Tools"
 excerpt: "Discover the game-changing world of no-code technology! If you’re a business seeking innovative ways to boost productivity and efficiency without the complexities of coding, you’re in for a treat."
 seoTitle: "Benefits of Using No Code Tools For Building Business Applications | Orgzit Blog"
 seoDescription: "Discover the game-changing world of no-code technology for business application development. Empower citizen developers to create efficient applications without coding."
-ogImage: "/blog/blog-images/Featured-Image-Blog-41-e1691651084998.png"
+ogImage: "/blog-images/Featured-Image-Blog-41-e1691651084998.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-using-no-code-tools-for-building-business-applications/"

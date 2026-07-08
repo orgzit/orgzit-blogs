@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/What-is-Lead-Management_.png"
+featuredImage: "/blog-images/What-is-Lead-Management_.png"
 featuredImageAlt: "What is Lead Management_"
 excerpt: "Overview Leads are oxygen for any business irrespective of the size of the business and lead management is the blood. Oxygen is an essential gas…"
 seoTitle: "What is Lead Management? | Orgzit Blog What is Lead Management?"
 seoDescription: "Lead management is part of the CRM process of managing business opportunities, i.e. leads, from the first hello to signing a contract with your customer."
-ogImage: "/blog/blog-images/What-is-Lead-Management_.png"
+ogImage: "/blog-images/What-is-Lead-Management_.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-lead-management/"

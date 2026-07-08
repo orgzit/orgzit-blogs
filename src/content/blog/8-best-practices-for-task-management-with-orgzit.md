@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Task-management-2.jpg"
+featuredImage: "/blog-images/Task-management-2.jpg"
 featuredImageAlt: "Task-management-with-Orgzit"
 excerpt: "Having too many tasks on your plate can be debilitating. Even the best of us find ourselves crippled into inaction by our workload every now…"
 seoTitle: "8 Best Practices For Task Management With Orgzit | Orgzit Blog"
 seoDescription: "Having too many tasks on your plate can be debilitating. These 8 best practices for task management will help you sail through your workload."
-ogImage: "/blog/blog-images/Task-management-2.jpg"
+ogImage: "/blog-images/Task-management-2.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/"

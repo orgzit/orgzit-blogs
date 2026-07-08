@@ -17,12 +17,12 @@ categories:
   - "Workflow Management"
 tags: 
   - "sales"
-featuredImage: "/blog/blog-images/Sales-Readiness-vs-Sales-Enablement.png"
+featuredImage: "/blog-images/Sales-Readiness-vs-Sales-Enablement.png"
 featuredImageAlt: "Sales Readiness vs Sales Enablement"
 excerpt: "It takes relentless work for organizations to master their trade and crack sales. Even after an organization has a compelling product or service, successfully selling…"
 seoTitle: "Sales Readiness vs. Sales Enablement: What’s the Difference? | Orgzit Blog"
 seoDescription: "Confused between Sales Readiness and Sales Enablement? In this piece, we'll look in-depth, followed by their similarities."
-ogImage: "/blog/blog-images/Sales-Readiness-vs-Sales-Enablement.png"
+ogImage: "/blog-images/Sales-Readiness-vs-Sales-Enablement.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/"

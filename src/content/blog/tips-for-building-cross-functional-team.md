@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/col-e1552294399529.png"
+featuredImage: "/blog-images/col-e1552294399529.png"
 featuredImageAlt: "tips-for-building-a-cross-functional-team-Orgzit"
 excerpt: "Cross-functional collaborations are integral to innovation and improve business performance. It is important for every business leader to lay the foundation for a united approach…"
 seoTitle: "Tips for Building Cross-Functional Team | Orgzit Blog"
 seoDescription: "Build a strategic approach with productive cross-functional team leading to success. Learn how to build your own cross-functional team with these tips."
-ogImage: "/blog/blog-images/col-e1552294399529.png"
+ogImage: "/blog-images/col-e1552294399529.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/tips-for-building-cross-functional-team/"

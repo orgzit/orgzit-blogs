@@ -16,12 +16,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Sales-Closing.jpg"
+featuredImage: "/blog-images/Sales-Closing.jpg"
 featuredImageAlt: "sales closing techniques"
 excerpt: "What is the most tricky part of the sales cycle? If you know sales, you would say closing! Even though it is considered the last…"
 seoTitle: "Top 6 Sales Closing Techniques to Win More Deals | Orgzit Blog"
 seoDescription: "The sales cycle can be complex, but here are the top 6 sales closing techniques that will help you to seal the deal."
-ogImage: "/blog/blog-images/Sales-Closing.jpg"
+ogImage: "/blog-images/Sales-Closing.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/top-sales-closing-techniques/"

@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/How-Orgzit-helped-Sunkeepers-streamline-Business-Processes.jpg"
+featuredImage: "/blog-images/How-Orgzit-helped-Sunkeepers-streamline-Business-Processes.jpg"
 featuredImageAlt: "How-Orgzit-helped-Sunkeepers-streamline-Business-Processes"
 excerpt: "Change is something that can’t be forced. It has to be realized first, and then acted upon."
 seoTitle: "How Orgzit helped Sunkeepers streamline Business Processes"
 seoDescription: "How can you use Orgzit to streamline the business processes for internal operations and sales purposes just like Sunkeepers did."
-ogImage: "/blog/blog-images/How-Orgzit-helped-Sunkeepers-streamline-Business-Processes.jpg"
+ogImage: "/blog-images/How-Orgzit-helped-Sunkeepers-streamline-Business-Processes.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/"

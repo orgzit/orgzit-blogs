@@ -13,12 +13,12 @@ categories:
   - "Productivity"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/3.png"
+featuredImage: "/blog-images/3.png"
 featuredImageAlt: "Customer database management"
 excerpt: "Customer database management for manufacturer’s reps is an essential task. Discover the most effective strategies to build trust and credibility with customers using customer database."
 seoTitle: "4 Effective Strategies for Customer Database Management: Build Trust and Credibility | Orgzit Blog"
 seoDescription: "Discover 4 proven strategies for mastering customer database management. Learn how to optimize your customer data in the easiest and fastest way for impactful decision-making."
-ogImage: "/blog/blog-images/3.png"
+ogImage: "/blog-images/3.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/4-effective-strategies-for-customer-database-management-build-trust-and-credibility/"

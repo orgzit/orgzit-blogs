@@ -11,12 +11,12 @@ categories:
   - "Productivity"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/collaboration-tools-e1552295787448.jpg"
+featuredImage: "/blog-images/collaboration-tools-e1552295787448.jpg"
 featuredImageAlt: "list of collaboration tools"
 excerpt: "One of the most important (and popular) skills managers today have to learn is having their team collaborate effectively. From online meetings to sharing files,…"
 seoTitle: "Collaboration Technologies for Productive Teams in 2020"
 seoDescription: "Making team collaboration effective is top priority for managers today. Here are some great collaboration technologies for productive teams in 2018"
-ogImage: "/blog/blog-images/collaboration-tools-e1552295787448.jpg"
+ogImage: "/blog-images/collaboration-tools-e1552295787448.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/collaboration-technologies-for-productive-teams/"

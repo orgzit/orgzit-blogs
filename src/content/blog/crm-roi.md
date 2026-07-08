@@ -12,12 +12,12 @@ categories:
   - "Sales"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/customer-relationship-management-CRM-for-small-business_0.png"
+featuredImage: "/blog-images/customer-relationship-management-CRM-for-small-business_0.png"
 featuredImageAlt: "ROI Analysis of a CRM"
 excerpt: "What is Customer Relationship Management (CRM)? Customer Relationship Management refers to any business process or software solution that allows businesses to manage their relationship with…"
 seoTitle: "ROI Analysis of a CRM: How your CRM investment pays you back | Orgzit Blog"
 seoDescription: "CRM investments are smart-tech investments that frame and connect companies to their customers in a personalized manner, which eventually helps them to advance as user-friendly and profitable firms in a short time."
-ogImage: "/blog/blog-images/customer-relationship-management-CRM-for-small-business_0.png"
+ogImage: "/blog-images/customer-relationship-management-CRM-for-small-business_0.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/crm-roi/"

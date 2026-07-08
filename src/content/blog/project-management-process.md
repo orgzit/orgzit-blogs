@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/Project-Management-Process.png"
+featuredImage: "/blog-images/Project-Management-Process.png"
 featuredImageAlt: "Project Management Process"
 excerpt: "Introduction Do you own an organization, and it seems that it is far from being organized? Do you not have a project management process in…"
 seoTitle: "Project Management Process | Orgzit Blog Project Management Process"
 seoDescription: "project management process is project initiation, Project Planning, Project Execution, Project monitoring and controlling and finally project closure."
-ogImage: "/blog/blog-images/Project-Management-Process.png"
+ogImage: "/blog-images/Project-Management-Process.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/project-management-process/"

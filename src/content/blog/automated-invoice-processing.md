@@ -16,12 +16,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Automated-Invoice-Processing.jpg"
+featuredImage: "/blog-images/Automated-Invoice-Processing.jpg"
 featuredImageAlt: "Complete Guide to Automated Invoice Processing"
 excerpt: "Managing invoices is an ever-ending, costly, and draining process, fraught with errors and fraud. By utilizing automation, an organization can expedite its payment process.  Automated…"
 seoTitle: "Complete Guide to Automated Invoice Processing | Orgzit Blog"
 seoDescription: "Managing invoices is a very complex thing to do. Here is the Complete Guide to Automated Invoice Processing and How to Implement It."
-ogImage: "/blog/blog-images/Automated-Invoice-Processing.jpg"
+ogImage: "/blog-images/Automated-Invoice-Processing.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/automated-invoice-processing/"

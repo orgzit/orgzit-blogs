@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Workflow"
   - "Workflow Management"
-featuredImage: "/blog/blog-images/How-to-Handle-Workflow-Approvals.png"
+featuredImage: "/blog-images/How-to-Handle-Workflow-Approvals.png"
 featuredImageAlt: "How to Handle Workflow Approvals"
 excerpt: "“Oh My God! The deadline is approaching and the project has not been finished yet!” “All because approvals took time and were a bottleneck throughout.”…"
 seoTitle: "How to Handle Workflow Approvals"
 seoDescription: "Facing some roadblocks in your business journey? Learn the 3 most effective ways of getting the ‘behind the scenes’ of managing your workflow approvals right!"
-ogImage: "/blog/blog-images/How-to-Handle-Workflow-Approvals.png"
+ogImage: "/blog-images/How-to-Handle-Workflow-Approvals.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-handle-workflow-approvals/"

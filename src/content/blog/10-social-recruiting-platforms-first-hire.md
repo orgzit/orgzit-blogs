@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/11-Social-Recruiting-Platforms-For-Your-First-Hire.jpg"
+featuredImage: "/blog-images/11-Social-Recruiting-Platforms-For-Your-First-Hire.jpg"
 featuredImageAlt: "11-Social-Recruiting-Platforms-For-Your-First-Hire-Orgzit"
 excerpt: "According to an answer mentioned in reference, it is estimated that in a world with a gross population of 7.6 billion, 70 percent or more…"
 seoTitle: "11 Social Recruiting Platforms For Your First Hire | Orgzit Blog"
 seoDescription: "First Hire is always an important decision. But which platform do you think is the best to do that? And where do you keep track of your candidates?"
-ogImage: "/blog/blog-images/11-Social-Recruiting-Platforms-For-Your-First-Hire.jpg"
+ogImage: "/blog-images/11-Social-Recruiting-Platforms-For-Your-First-Hire.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/"

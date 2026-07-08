@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-Wins-Awards-From-B2B-Experts-At-Compare-Camp.jpg"
+featuredImage: "/blog-images/Orgzit-Wins-Awards-From-B2B-Experts-At-Compare-Camp.jpg"
 featuredImageAlt: "Orgzit wins awards at Compare Camp"
 excerpt: "This post begins with an awesome news! For you and for us both! After being acknowledged by FinancesOnline, Orgzit was recently awarded by CompareCamp –…"
 seoTitle: "Orgzit Wins Awards From B2B Experts At Compare Camp | Orgzit Blog"
 seoDescription: "Orgzit wins awards and has been recognized as a platform that improves operational efficiency on a simple yet highly customizable platform."
-ogImage: "/blog/blog-images/Orgzit-Wins-Awards-From-B2B-Experts-At-Compare-Camp.jpg"
+ogImage: "/blog-images/Orgzit-Wins-Awards-From-B2B-Experts-At-Compare-Camp.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/orgzit-wins-two-awards-b2b-experts-compare-camp/"

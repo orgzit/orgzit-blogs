@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/5-orgzit.jpg"
+featuredImage: "/blog-images/5-orgzit.jpg"
 featuredImageAlt: "Orgzit project management"
 excerpt: "One of the most difficult aspects of project management for engineering companies is setting and…"
 seoTitle: "Reasons Why Orgzit is the Best for Project Management | Orgzit Blog"
 seoDescription: "The best project management software is the one that works for you and not the other way around. Top reasons why Orgzit is the best project management software."
-ogImage: "/blog/blog-images/5-orgzit.jpg"
+ogImage: "/blog-images/5-orgzit.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/reasons-why-orgzit-is-the-best-for-project-management/"

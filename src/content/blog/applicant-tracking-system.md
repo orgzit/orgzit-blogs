@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/applicant-tracking-system-blog.jpg"
+featuredImage: "/blog-images/applicant-tracking-system-blog.jpg"
 featuredImageAlt: "Applicant tracking system"
 excerpt: "Do you know what an Applicant Tracking System is? Do you have a fair idea that how does the Applicant Tracking Software installed at your…"
 seoTitle: "Applicant Tracking System | Orgzit Blog Applicant Tracking System"
 seoDescription: "You can say that a system/software which is used as a human resource database to organize the received applications is termed as Applicant Tracking System."
-ogImage: "/blog/blog-images/applicant-tracking-system-blog.jpg"
+ogImage: "/blog-images/applicant-tracking-system-blog.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/applicant-tracking-system/"

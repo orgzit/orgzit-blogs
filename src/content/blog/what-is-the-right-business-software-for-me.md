@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "Productivity"
-featuredImage: "/blog/blog-images/elegant-businessman-with-tablet-background-graphics-1-scaled.jpg"
+featuredImage: "/blog-images/elegant-businessman-with-tablet-background-graphics-1-scaled.jpg"
 featuredImageAlt: "Right business software"
 excerpt: "Digital transformation stands out as one of the most talked-about terms among small and midsize businesses( SMBs) today, especially when it comes to finding the…"
 seoTitle: "Steps to Choose the Right Business Software: Types, Use Cases, and Where Should It be Applicable in Your Business | Orgzit Blog"
 seoDescription: "A step-by-step, crisp, and comprehensive guide to choosing the right business software solutions for SMBs."
-ogImage: "/blog/blog-images/elegant-businessman-with-tablet-background-graphics-1-scaled.jpg"
+ogImage: "/blog-images/elegant-businessman-with-tablet-background-graphics-1-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-the-right-business-software-for-me/"

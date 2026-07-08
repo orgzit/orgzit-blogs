@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/no-data-linking-in-excel.png"
+featuredImage: "/blog-images/no-data-linking-in-excel.png"
 featuredImageAlt: "no data linking in excel"
 excerpt: "Spreadsheets are supposed to make our business more organized and efficient but sometimes, they do exactly the opposite; making it more complicated, tedious and time-consuming. …"
 seoTitle: "Excel will Not Be Your Go-To Enterprise Collaboration Tool in 2020: Here's What You Should Leave Behind that Nobody is Talking About | Orgzit Blog"
 seoDescription: "Excel is an awesome productivity tool but fails as an enterprise collaboration tool. Spreadsheets are supposed to make our business more organized and efficient but sometimes, they do exactly the opposite; making it more complicated, tedious and time-consuming. Here are the 12 most common problems that businesses face using Excel."
-ogImage: "/blog/blog-images/no-data-linking-in-excel.png"
+ogImage: "/blog-images/no-data-linking-in-excel.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/"

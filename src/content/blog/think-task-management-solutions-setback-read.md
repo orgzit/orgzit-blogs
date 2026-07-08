@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Think-Your-Task-Management-Solutions-Are-a-Setback-Read-This.jpg"
+featuredImage: "/blog-images/Think-Your-Task-Management-Solutions-Are-a-Setback-Read-This.jpg"
 featuredImageAlt: "Think-Your-Task-Management-Solutions-Are-a-Setback-Read-This!"
 excerpt: "A Brief Primer on Task Management Solutions Most people today use some project management or task management software."
 seoTitle: "Think Your Task Management Solutions Are a Setback? Read This! | Orgzit Blog"
 seoDescription: "Existing task management solutions do not help teams manage information. Orgzit has a different approach to task management – an information-first approach."
-ogImage: "/blog/blog-images/Think-Your-Task-Management-Solutions-Are-a-Setback-Read-This.jpg"
+ogImage: "/blog-images/Think-Your-Task-Management-Solutions-Are-a-Setback-Read-This.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/think-task-management-solutions-setback-read/"

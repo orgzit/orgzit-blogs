@@ -11,12 +11,12 @@ categories:
   - "CRM"
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/1.png"
+featuredImage: "/blog-images/1.png"
 featuredImageAlt: "ERP vs CRM"
 excerpt: "Companies require more than just intuitive decision-making to stay ahead of the competition. It demands efficient management of resources, streamlined processes, and nurturing lasting relationships wi"
 seoTitle: "5 Costly ‘ERP vs CRM’ Confusions Impacting Your Bottom Line | Orgzit Blog"
 seoDescription: "Are you struggling to choose between ERP and CRM software? Let's explore the reasons behind this common confusion and shed light on the distinct benefits each solution offers."
-ogImage: "/blog/blog-images/1.png"
+ogImage: "/blog-images/1.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/5-costly-erp-vs-crm-confusions-impacting-your-bottom-line/"

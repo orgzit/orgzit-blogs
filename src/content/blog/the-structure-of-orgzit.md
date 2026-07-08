@@ -11,12 +11,12 @@ categories:
   - "Orgzit News"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/The-structure.jpg"
+featuredImage: "/blog-images/The-structure.jpg"
 featuredImageAlt: "The-structure-at-Orgzit"
 excerpt: "Orgzit is structured through Teams, Projects, Apps and Records. Click the picture below to see the full size version."
 seoTitle: "The structure of Orgzit | Orgzit Blog"
 seoDescription: "Orgzit is structured through Teams, Projects, Apps, and Records. For collaboration use Tasks, Comments, Files and History under each Record."
-ogImage: "/blog/blog-images/The-structure.jpg"
+ogImage: "/blog-images/The-structure.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/the-structure-of-orgzit/"

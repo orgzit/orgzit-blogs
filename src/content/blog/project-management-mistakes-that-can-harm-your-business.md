@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Project Management"
   - "Project management mistakes"
-featuredImage: "/blog/blog-images/Project-Management-Mistakes.png"
+featuredImage: "/blog-images/Project-Management-Mistakes.png"
 featuredImageAlt: "Project Management Mistakes"
 excerpt: "“Success does not consist in never making mistakes but in never making the same one a second time.” – George Bernard Shaw Thousands of projects…"
 seoTitle: "Top 18 Project Management Mistakes"
 seoDescription: "Check out the top 18 project management mistakes that can harm your business and affect profit margins badly. Want to know more? Hit on the link."
-ogImage: "/blog/blog-images/Project-Management-Mistakes.png"
+ogImage: "/blog-images/Project-Management-Mistakes.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/"

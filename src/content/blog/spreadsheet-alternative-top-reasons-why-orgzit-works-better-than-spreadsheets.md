@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Spreadsheet-Alternative.jpg"
+featuredImage: "/blog-images/Spreadsheet-Alternative.jpg"
 featuredImageAlt: "Why-Orgzit-is-Spreadsheet-Alternative"
 excerpt: "Top Reasons why Orgzit Works Better than Spreadsheets Ditch manual, choose automation. Trusting spreadsheets to run your business is like letting your business do volcano…"
 seoTitle: "Why Orgzit Is A Better Spreadsheet Alternative? | Orgzit Blog"
 seoDescription: "Google spreadsheets is free, easy-to-use but less scalable. Whereas Orgzit i is highly customizable, ultimately scalable with multiple use case applications"
-ogImage: "/blog/blog-images/Spreadsheet-Alternative.jpg"
+ogImage: "/blog-images/Spreadsheet-Alternative.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/"

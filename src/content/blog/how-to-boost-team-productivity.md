@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Boost Teams Productivity"
   - "Productivity"
-featuredImage: "/blog/blog-images/How-to-Boost-Team-Productivity.png"
+featuredImage: "/blog-images/How-to-Boost-Team-Productivity.png"
 featuredImageAlt: "How to Boost Team Productivity"
 excerpt: "As I am comfortably settled into my workplace with the books of Jean Sasson, John Green, David Allen, Preeti Shenoy, and Tim Ferriss staring back…"
 seoTitle: "How to Boost Teams Productivity?"
 seoDescription: "How to boost your team’s productivity with 14 simple steps? Hit on the link and get into details. Contact Orgzit for more information."
-ogImage: "/blog/blog-images/How-to-Boost-Team-Productivity.png"
+ogImage: "/blog-images/How-to-Boost-Team-Productivity.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-boost-team-productivity/"

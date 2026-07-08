@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Customer Success Stories"
 tags: []
-featuredImage: "/blog/blog-images/How-Bichhonna-a-Leading-Mattress-Brand-30-Years-in-Making-Reimagined-the-Potential-of-Their-Business-with-Orgzit.jpg"
+featuredImage: "/blog-images/How-Bichhonna-a-Leading-Mattress-Brand-30-Years-in-Making-Reimagined-the-Potential-of-Their-Business-with-Orgzit.jpg"
 featuredImageAlt: "How-Bichhonna,-a-Leading-Mattress-Brand,-30-Years-in-Making,-Reimagined-the-Potential-of-Their-Business-with-Orgzit"
 excerpt: "About Customer Operational since…"
 seoTitle: "How Bichhonna, a Leading Mattress Brand, 30 Years in Making, Reimagined the Potential of Their Business with Orgzit | Orgzit Blog"
 seoDescription: "Orgzit case study on how leading mattress manufacturing company grows its business with customized workflow software solutions for order management"
-ogImage: "/blog/blog-images/How-Bichhonna-a-Leading-Mattress-Brand-30-Years-in-Making-Reimagined-the-Potential-of-Their-Business-with-Orgzit.jpg"
+ogImage: "/blog-images/How-Bichhonna-a-Leading-Mattress-Brand-30-Years-in-Making-Reimagined-the-Potential-of-Their-Business-with-Orgzit.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/"

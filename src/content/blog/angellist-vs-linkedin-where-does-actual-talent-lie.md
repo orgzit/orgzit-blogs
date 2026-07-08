@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/AngelList-LinkedIn-–-Where-Does-Actual-Talent-Lie.jpg"
+featuredImage: "/blog-images/AngelList-LinkedIn-–-Where-Does-Actual-Talent-Lie.jpg"
 featuredImageAlt: "AngelList--LinkedIn-–-Where-Does-Actual-Talent-Lie"
 excerpt: "Talent o talent! Where art thou? With businesses getting more diverse everyday, there has been an incongruous and disproportional…"
 seoTitle: "AngelList V/S LinkedIn – Where Does Actual Talent Lie? | Orgzit Blog"
 seoDescription: "AngelList & LinkedIn are two platform which are being extensively used by recruiters to hire talent. But where does the actual talent lie?"
-ogImage: "/blog/blog-images/AngelList-LinkedIn-–-Where-Does-Actual-Talent-Lie.jpg"
+ogImage: "/blog-images/AngelList-LinkedIn-–-Where-Does-Actual-Talent-Lie.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/angellist-vs-linkedin-where-does-actual-talent-lie/"

@@ -14,12 +14,12 @@ categories:
   - "Tips & Tricks"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/InsideSalesvsOutsideSales.png"
+featuredImage: "/blog-images/InsideSalesvsOutsideSales.png"
 featuredImageAlt: ""
 excerpt: "It’s time you know how inside sales differ from outside sales! Let’s begin! The inside and outside sales terms are common in the B2B industry…"
 seoTitle: "Inside Sales vs Outside Sales: Understanding the Core Differences for B2B Businesses | Orgzit Blog"
 seoDescription: "Gain an understanding of inside sales vs outside sales for B2B businesses, and how to decide which approach is right for your business."
-ogImage: "/blog/blog-images/InsideSalesvsOutsideSales.png"
+ogImage: "/blog-images/InsideSalesvsOutsideSales.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/inside-sales-vs-outside-sales/"

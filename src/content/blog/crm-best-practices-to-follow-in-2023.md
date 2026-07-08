@@ -13,12 +13,12 @@ categories:
   - "Orgzit News"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/CRM-Best-Practices-to-Follow-in-2023.png"
+featuredImage: "/blog-images/CRM-Best-Practices-to-Follow-in-2023.png"
 featuredImageAlt: "CRM Best Practices to Follow in 2023"
 excerpt: "Today, sales and marketing data is the most valuable asset of a company. The wealth of information available to make decisions based on that data…"
 seoTitle: "Best CRM Practices to Follow in 2023 | Orgzit"
 seoDescription: "A CRM is a most important software for any business. Here are the top CRM practices by Orgzit to follow to get most out of a CRM Software."
-ogImage: "/blog/blog-images/CRM-Best-Practices-to-Follow-in-2023.png"
+ogImage: "/blog-images/CRM-Best-Practices-to-Follow-in-2023.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/crm-best-practices-to-follow-in-2023/"

@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/zremote-team-collaboration-illustration-e1547298641318.png"
+featuredImage: "/blog-images/zremote-team-collaboration-illustration-e1547298641318.png"
 featuredImageAlt: "man aging remote team-Orgzit"
 excerpt: "The rising trend in the working industry is working remotely. To excel in terms of productivity and efficiency, having remote teams is serving as an…"
 seoTitle: "10 Hacks for Managing a Remote Team effectively"
 seoDescription: "Successful collaboration is the key to productivity when it comes to working with remote teams. Here are some effective hacks for managing remote team."
-ogImage: "/blog/blog-images/zremote-team-collaboration-illustration-e1547298641318.png"
+ogImage: "/blog-images/zremote-team-collaboration-illustration-e1547298641318.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/hacks-for-managing-a-remote-team/"

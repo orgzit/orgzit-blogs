@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-Features-That-Triple-Team-Productivity.jpg"
+featuredImage: "/blog-images/Orgzit-Features-That-Triple-Team-Productivity.jpg"
 featuredImageAlt: "Orgzit-Features-That-Triple-Team-Productivity"
 excerpt: "Continuously evolving businesses need continuously evolving technology. Continuously evolving technology needs a scalable platform to help solve…"
 seoTitle: "Orgzit Features That Triple Team Productivity | Orgzit Blog"
 seoDescription: ""
-ogImage: "/blog/blog-images/Orgzit-Features-That-Triple-Team-Productivity.jpg"
+ogImage: "/blog-images/Orgzit-Features-That-Triple-Team-Productivity.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/orgzit-features-triple-team-productivity/"

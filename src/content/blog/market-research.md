@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-market-researcg-agency.jpg"
+featuredImage: "/blog-images/Orgzit-market-researcg-agency.jpg"
 featuredImageAlt: "Orgzit-market-research-agency"
 excerpt: "See how burgeoning market research start-up Cerebro Consumer Consulting used Orgzit to…"
 seoTitle: "How One Market Research Start-up got Organized with Orgzit | Orgzit Blog"
 seoDescription: "See how burgeoning market research start-up Cerebro Consumer Consulting got more productive with Orgzit."
-ogImage: "/blog/blog-images/Orgzit-market-researcg-agency.jpg"
+ogImage: "/blog-images/Orgzit-market-researcg-agency.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/market-research/"

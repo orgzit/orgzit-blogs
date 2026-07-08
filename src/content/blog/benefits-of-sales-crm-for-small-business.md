@@ -17,12 +17,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/CRM-For-Small-Business-Sales-Teams.jpg"
+featuredImage: "/blog-images/CRM-For-Small-Business-Sales-Teams.jpg"
 featuredImageAlt: "CRM For Small Business Sales Teams"
 excerpt: "“The customer is why we are here. If we take good care of them, they’ll give us good reason to come back.” – Jenny McKenzie…"
 seoTitle: "8 Benefits Of CRM For Small Business Sales Teams | Orgzit"
 seoDescription: "CRM software could be a game-changer for your small business sales team. Here are some major benefits of investing in sales CRM."
-ogImage: "/blog/blog-images/CRM-For-Small-Business-Sales-Teams.jpg"
+ogImage: "/blog-images/CRM-For-Small-Business-Sales-Teams.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/"

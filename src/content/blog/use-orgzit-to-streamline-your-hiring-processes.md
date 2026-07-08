@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-for-hiring-and-recruitment-1.jpg"
+featuredImage: "/blog-images/Orgzit-for-hiring-and-recruitment-1.jpg"
 featuredImageAlt: "Orgzit-for-hiring-and-recruitment"
 excerpt: "See how burgeoning market research start-up Cerebro Consumer Consulting used Orgzit to re-structure and streamline…"
 seoTitle: "Use Orgzit to Streamline Your Hiring Processes | Orgzit Blog"
 seoDescription: "See how one tech-phobic recruiter used Orgzit to organize, simplify, and streamline her hiring processes and up her hiring game."
-ogImage: "/blog/blog-images/Orgzit-for-hiring-and-recruitment-1.jpg"
+ogImage: "/blog-images/Orgzit-for-hiring-and-recruitment-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/use-orgzit-to-streamline-your-hiring-processes/"

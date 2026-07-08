@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Schedule-time-to-meet-face-to-face.jpg"
+featuredImage: "/blog-images/Schedule-time-to-meet-face-to-face.jpg"
 featuredImageAlt: "Schedule time to meet face-to-face"
 excerpt: "If you had to identify, in one word, the reason why the human race has not achieved, and never will achieve, its full potential, that…"
 seoTitle: "Stop the Meeting Madness- How to Manage Meetings Effectively? | Orgzit Blog"
 seoDescription: "Tired of Too-Many Meetings? Stop the meeting madness with the step-by-step guide of How to manage meetings effectively. Hit on the link to know more!"
-ogImage: "/blog/blog-images/Schedule-time-to-meet-face-to-face.jpg"
+ogImage: "/blog-images/Schedule-time-to-meet-face-to-face.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/"

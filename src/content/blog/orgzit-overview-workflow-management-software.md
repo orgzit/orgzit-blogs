@@ -15,7 +15,7 @@ featuredImageAlt: "Inside Orgzit"
 excerpt: "Why we decided to build a business management software, and how we went about doing it One of the challenges facing most small business professionals…"
 seoTitle: "Inside Orgzit | Orgzit Blog"
 seoDescription: "A small business project management solution should enable easy collaboration, analysis, automation, be customizable yet easy to use and integrated solution."
-ogImage: "/blog/blog-images/Orgzit_complicated-300x298.jpg"
+ogImage: "/blog-images/Orgzit_complicated-300x298.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/orgzit-overview-workflow-management-software/"

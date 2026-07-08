@@ -13,12 +13,12 @@ categories:
   - "Tips & Tricks"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/SLA_Service_Level_Agreement1.jpg"
+featuredImage: "/blog-images/SLA_Service_Level_Agreement1.jpg"
 featuredImageAlt: "service level agreement"
 excerpt: "What is a Service Level Agreement? A service level agreement is a contract signed between two or more parties signifying both the requirements and expected…"
 seoTitle: "11 Service Level Agreement Examples to Track your Service Management Metrics | Orgzit Blog"
 seoDescription: "Looking for industry-specific service level agreement templates? Check out 11 SLA examples to track service management metrics."
-ogImage: "/blog/blog-images/SLA_Service_Level_Agreement1.jpg"
+ogImage: "/blog-images/SLA_Service_Level_Agreement1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/service-level-agreement-examples/"

@@ -16,12 +16,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Benefits-Of-CRM-For-Real-Estate-Business-1.jpg"
+featuredImage: "/blog-images/Benefits-Of-CRM-For-Real-Estate-Business-1.jpg"
 featuredImageAlt: "Benefits Of CRM For Real Estate Business"
 excerpt: "Customer relationship management (CRM) is a crucial aspect of any business, and the real estate industry is no exception. CRM can be especially beneficial for…"
 seoTitle: "7 Benefits Of CRM For Real Estate Business | Orgzit"
 seoDescription: "Getting a Real Estate CRM would be great for you growing business. Here are 7 benefits of using a real estate CRM."
-ogImage: "/blog/blog-images/Benefits-Of-CRM-For-Real-Estate-Business-1.jpg"
+ogImage: "/blog-images/Benefits-Of-CRM-For-Real-Estate-Business-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-crm-for-real-estate-business/"

@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/project-management.jpg"
+featuredImage: "/blog-images/project-management.jpg"
 featuredImageAlt: "what is project management"
 excerpt: "Project management is the act of getting things done! If you are building a house, a bridge, or a software program, you are essentially working…"
 seoTitle: "What is project management? | Orgzit Blog"
 seoDescription: "Building a house, bridge, airport, or even software program? Project management is the act of getting things done by collaborating with a team to accomplish project objectives and goals."
-ogImage: "/blog/blog-images/project-management.jpg"
+ogImage: "/blog-images/project-management.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-project-management/"

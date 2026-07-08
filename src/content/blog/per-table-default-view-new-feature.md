@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Default-View-on-Orgzit-Tables.png"
+featuredImage: "/blog-images/Default-View-on-Orgzit-Tables.png"
 featuredImageAlt: "Default View on Orgzit Tables-Orgzit"
 excerpt: "We got very encouraging feedback from our users for the Record Views feature. Thank you! Along with it, we also got some great ideas on…"
 seoTitle: "Per table default view to change the way users view data right out of the box | Orgzit Blog"
 seoDescription: "Default View on Orgzit Tables - You can now set up a different default view for your Orgzit Tables so that your team sees the most appropriate view right out of the box."
-ogImage: "/blog/blog-images/Default-View-on-Orgzit-Tables.png"
+ogImage: "/blog-images/Default-View-on-Orgzit-Tables.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/per-table-default-view-new-feature/"

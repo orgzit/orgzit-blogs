@@ -13,12 +13,12 @@ categories:
 tags: 
   - "CRM"
   - "Productivity"
-featuredImage: "/blog/blog-images/Purple-Neon-Green-Modern-Startup-Pitch-Deck-Presentation.jpg"
+featuredImage: "/blog-images/Purple-Neon-Green-Modern-Startup-Pitch-Deck-Presentation.jpg"
 featuredImageAlt: "CRM in construction"
 excerpt: "Managing the tactical aspects of construction systems can be challenging sometimes, especially when multiple stakeholders are involved. Construction is about translating client expectations into a…"
 seoTitle: "Minimize risks in construction projects even with slow cash flow: A guide to construction CRM | Orgzit Blog"
 seoDescription: "Explore the world of Construction CRM and learn how to change your goals into practicality."
-ogImage: "/blog/blog-images/Purple-Neon-Green-Modern-Startup-Pitch-Deck-Presentation.jpg"
+ogImage: "/blog-images/Purple-Neon-Green-Modern-Startup-Pitch-Deck-Presentation.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/minimize-risks-in-construction-projects-even-with-slow-cash-flow-a-guide-to-construction-crm/"

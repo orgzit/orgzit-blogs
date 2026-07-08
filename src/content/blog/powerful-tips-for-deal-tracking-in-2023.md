@@ -15,12 +15,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Powerful-Tips-for-Deal-Tracking-in-2023.jpg"
+featuredImage: "/blog-images/Powerful-Tips-for-Deal-Tracking-in-2023.jpg"
 featuredImageAlt: "Deal Tracking"
 excerpt: "If you’re a business owner, you know how important it is to keep track of deals and contracts. As your company grows, those agreements become…"
 seoTitle: "Powerful Tips for Deal Tracking in 2023 | Orgzit Blog"
 seoDescription: "If you're a business owner, you know how important it is to keep track of deals and contracts. Here are the most powerful tips for deal tracking."
-ogImage: "/blog/blog-images/Powerful-Tips-for-Deal-Tracking-in-2023.jpg"
+ogImage: "/blog-images/Powerful-Tips-for-Deal-Tracking-in-2023.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/"

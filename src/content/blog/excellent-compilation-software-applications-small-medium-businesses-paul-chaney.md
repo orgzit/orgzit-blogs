@@ -11,12 +11,12 @@ categories:
   - "#orgzitidea"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Excellent-compilation-of-software-applications-out-there-for-Small-Medium-businesses-by-Paul-Chaney.jpg"
+featuredImage: "/blog-images/Excellent-compilation-of-software-applications-out-there-for-Small-Medium-businesses-by-Paul-Chaney.jpg"
 featuredImageAlt: "Excellent-compilation-of-software-applications-out-there-for-Small-&-Medium-businesses-by-Paul-Chaney-powered-by-Orgzit"
 excerpt: "As a small business we know how challenging it gets (especially for non-tech companies) to pick and choose from…"
 seoTitle: "Excellent compilation of software applications out there for Small & Medium businesses by Paul Chaney | Orgzit Blog"
 seoDescription: "As a small business, we have gone through the struggle of choosing, setting up and then stop using various SaaS applications for managing various tasks."
-ogImage: "/blog/blog-images/Excellent-compilation-of-software-applications-out-there-for-Small-Medium-businesses-by-Paul-Chaney.jpg"
+ogImage: "/blog-images/Excellent-compilation-of-software-applications-out-there-for-Small-Medium-businesses-by-Paul-Chaney.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/excellent-compilation-software-applications-small-medium-businesses-paul-chaney/"

@@ -18,12 +18,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Automotive-Dealer-Management-System.jpg"
+featuredImage: "/blog-images/Automotive-Dealer-Management-System.jpg"
 featuredImageAlt: "dealer management system"
 excerpt: "Let’s get ready to drive success by accelerating your dealership’s operations. Allow a dealer management system (DMS) to take the wheel for this! A dealership…"
 seoTitle: "Benefits of a High Quality Automotive Dealer Management System | Orgzit"
 seoDescription: "A high quality automotive dealer management system can help you to grow your business. Learn the major benefits of a high quality automotive dealer management system."
-ogImage: "/blog/blog-images/Automotive-Dealer-Management-System.jpg"
+ogImage: "/blog-images/Automotive-Dealer-Management-System.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/"

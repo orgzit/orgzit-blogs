@@ -11,12 +11,12 @@ categories:
   - "Orgzit News"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Here’s-My-Your-Story-of-Productivity.jpg"
+featuredImage: "/blog-images/Here’s-My-Your-Story-of-Productivity.jpg"
 featuredImageAlt: "Here’s-My-(Your)-Story-of-Productivity-Orgzit"
 excerpt: "Hi, I am Kartik (a productivity enthusiast) I am a proud 21st century Indian Millennial. I have only one reason to write this blogpost –…"
 seoTitle: "Here's My (Your) Story of Productivity"
 seoDescription: "Productivity is a hard fish to catch. With so many productivity apps in the market, Orgzit comes out as a scalable and customizable solution for all."
-ogImage: "/blog/blog-images/Here’s-My-Your-Story-of-Productivity.jpg"
+ogImage: "/blog-images/Here’s-My-Your-Story-of-Productivity.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/story-productivity/"

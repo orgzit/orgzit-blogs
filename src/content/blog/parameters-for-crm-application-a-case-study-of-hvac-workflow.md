@@ -13,12 +13,12 @@ categories:
 tags: 
   - "Benefits of CRM"
   - "CRM"
-featuredImage: "/blog/blog-images/29171284_2203.i511.036.S.m009.c13.internet-setting-illustration-flat-scaled.jpg"
+featuredImage: "/blog-images/29171284_2203.i511.036.S.m009.c13.internet-setting-illustration-flat-scaled.jpg"
 featuredImageAlt: "HVAC workflow"
 excerpt: "As a business owner, you try to manually write up your invoices and estimates and send everything over and over, which absolutely frustrating for day-to-day…"
 seoTitle: "Parameters for CRM Application—A Case Study of HVAC Workflow | Orgzit Blog"
 seoDescription: "What parameters for a CRM application are applicable in different industries? Deep dive to understand with an example of HVAC workflow."
-ogImage: "/blog/blog-images/29171284_2203.i511.036.S.m009.c13.internet-setting-illustration-flat-scaled.jpg"
+ogImage: "/blog-images/29171284_2203.i511.036.S.m009.c13.internet-setting-illustration-flat-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/parameters-for-crm-application-a-case-study-of-hvac-workflow/"

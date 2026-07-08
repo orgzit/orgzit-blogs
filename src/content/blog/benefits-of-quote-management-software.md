@@ -19,12 +19,12 @@ categories:
   - "Project Management"
   - "Risk Management"
 tags: []
-featuredImage: "/blog/blog-images/Benefits-Of-A-Good-Quote-Management-Software.jpg"
+featuredImage: "/blog-images/Benefits-Of-A-Good-Quote-Management-Software.jpg"
 featuredImageAlt: "Quote Management Software"
 excerpt: "If you’re selling products or services, you know how important it is to manage and track your quotes. That’s where the sales quoting system comes…"
 seoTitle: "Benefits Of A Good Quote Management Software | Orgzit"
 seoDescription: "A good quote management software enhances your sales team’s productivity, increases client satisfaction & helps you secure new business."
-ogImage: "/blog/blog-images/Benefits-Of-A-Good-Quote-Management-Software.jpg"
+ogImage: "/blog-images/Benefits-Of-A-Good-Quote-Management-Software.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/benefits-of-quote-management-software/"

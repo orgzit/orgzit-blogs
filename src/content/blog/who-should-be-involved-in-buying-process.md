@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "CRM"
-featuredImage: "/blog/blog-images/people-using-digital-device-while-meeting-scaled.jpg"
+featuredImage: "/blog-images/people-using-digital-device-while-meeting-scaled.jpg"
 featuredImageAlt: "who should be involved in buying process?"
 excerpt: "A recent study indicates that the successful implementation of customer relationship management (CRM) is not easy and is a complex task. Almost 70% of CRM…"
 seoTitle: "From Input to Impact—Why Do Stakeholders' Involvements Matter in the CRM Buying Journey? | Orgzit Blog"
 seoDescription: "Explore why your stakeholders involvement truly matters before buying a CRM!"
-ogImage: "/blog/blog-images/people-using-digital-device-while-meeting-scaled.jpg"
+ogImage: "/blog-images/people-using-digital-device-while-meeting-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/who-should-be-involved-in-buying-process/"

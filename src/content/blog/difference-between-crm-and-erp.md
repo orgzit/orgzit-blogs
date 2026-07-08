@@ -11,12 +11,12 @@ categories:
   - "Productivity"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Understanding-CRM-ERP-Project-Management-Solutions-1.jpg"
+featuredImage: "/blog-images/Understanding-CRM-ERP-Project-Management-Solutions-1.jpg"
 featuredImageAlt: "Understanding-CRM,-ERP-Orgzit"
 excerpt: "When it comes to software, buyers and vendors both have one goal in mind – to buy and sell respectively. But which software? So, to…"
 seoTitle: "CRM vs ERP: The difference Tips & Tricks Orgzit Blog CRM vs ERP: The difference"
 seoDescription: "There is little doubt that many people still don’t understand the basic difference between CRM and ERP. let us have some knowledge on CRM vs ERP."
-ogImage: "/blog/blog-images/Understanding-CRM-ERP-Project-Management-Solutions-1.jpg"
+ogImage: "/blog-images/Understanding-CRM-ERP-Project-Management-Solutions-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/difference-between-crm-and-erp/"

@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/3-1.png"
+featuredImage: "/blog-images/3-1.png"
 featuredImageAlt: "how to become a Successful Sales Reps Who Close Deals Faster"
 excerpt: "Closing deals is the ultimate goal for any B2B sales representative. It’s the moment when all the hard work, from prospecting and nurturing leads to…"
 seoTitle: "Cheat Sheet for Sales Reps to Close Deals Faster and More Efficiently | Orgzit Blog"
 seoDescription: "Boost your B2B sales with our cheat sheet! Learn key traits useful for sales reps to close deals faster. Ready to excel? Dive into our guide and transform your sales approach today!"
-ogImage: "/blog/blog-images/3-1.png"
+ogImage: "/blog-images/3-1.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/cheat-sheet-for-sales-reps-to-close-deals-faster-and-more-efficiently/"

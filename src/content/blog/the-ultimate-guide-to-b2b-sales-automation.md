@@ -13,12 +13,12 @@ categories:
 tags: 
   - "Benefits of CRM"
   - "CRM"
-featuredImage: "/blog/blog-images/Purple-Minimalist-Digital-Marketing-Blog-Banner-2.png"
+featuredImage: "/blog-images/Purple-Minimalist-Digital-Marketing-Blog-Banner-2.png"
 featuredImageAlt: "B2B sales automation"
 excerpt: "Automation in business is now a trend that is catching up very fast. The businesses are looking to improve their output by automating mundane and…"
 seoTitle: "The Ultimate Guide to B2B Sales Automation | Orgzit Blog"
 seoDescription: ".B2B sales automation - the solution to streamline your sales process and skyrocket your revenue. Streamline and automate the sales process"
-ogImage: "/blog/blog-images/Purple-Minimalist-Digital-Marketing-Blog-Banner-2.png"
+ogImage: "/blog-images/Purple-Minimalist-Digital-Marketing-Blog-Banner-2.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/"

@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Project-management-tools-for-digital-marketing-agencies-1-1.jpg"
+featuredImage: "/blog-images/Project-management-tools-for-digital-marketing-agencies-1-1.jpg"
 featuredImageAlt: "Project-management-tools-for-digital-marketing-agencies-with-Orgzit"
 excerpt: "If you’re part of a digital marketing agency, you know what it’s like to juggle multiple clients and…"
 seoTitle: "Reasons why Orgzit is best for a Digital Marketing Agency | Orgzit Blog"
 seoDescription: "In a digital marketing agency, With the right project management tool, you can keep track of all your business processes and ensure efficiency."
-ogImage: "/blog/blog-images/Project-management-tools-for-digital-marketing-agencies-1-1.jpg"
+ogImage: "/blog-images/Project-management-tools-for-digital-marketing-agencies-1-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/"

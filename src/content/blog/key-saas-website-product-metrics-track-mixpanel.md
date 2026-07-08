@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Key-SaaS-Website-and-Product-Metrics-to-Track-Using-Mixpanel.jpg"
+featuredImage: "/blog-images/Key-SaaS-Website-and-Product-Metrics-to-Track-Using-Mixpanel.jpg"
 featuredImageAlt: "Mixpanel"
 excerpt: "So, you’re exploring Mixpanel for tracking metrics for your SaaS product. Excellent! Mixpanel rocks!"
 seoTitle: "Key SaaS Website and Product Metrics to Track Using Mixpanel | Orgzit Blog"
 seoDescription: "Exploring Mixpanel? Excellent! Know about the key SaaS website & product metrics to track and the business objectives they help achieve."
-ogImage: "/blog/blog-images/Key-SaaS-Website-and-Product-Metrics-to-Track-Using-Mixpanel.jpg"
+ogImage: "/blog-images/Key-SaaS-Website-and-Product-Metrics-to-Track-Using-Mixpanel.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/"

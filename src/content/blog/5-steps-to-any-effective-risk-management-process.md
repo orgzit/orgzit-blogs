@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Risk Management"
   - "Risk Management Process"
-featuredImage: "/blog/blog-images/5-Steps-to-Any-Effective-Risk-Management-Process.png"
+featuredImage: "/blog-images/5-Steps-to-Any-Effective-Risk-Management-Process.png"
 featuredImageAlt: "Effective Risk Management Process"
 excerpt: "Ever heard the saying – “The more the risk involved in the business, the greater the financial reward for it?” Sounds fascinating and pulls you…"
 seoTitle: "5 Steps to Any Effective Risk Management Process"
 seoDescription: "No business is 100% risk-free but businesses can limit the risks through a good risk management process. Learn and apply these top effective risk management processes today."
-ogImage: "/blog/blog-images/5-Steps-to-Any-Effective-Risk-Management-Process.png"
+ogImage: "/blog-images/5-Steps-to-Any-Effective-Risk-Management-Process.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/"

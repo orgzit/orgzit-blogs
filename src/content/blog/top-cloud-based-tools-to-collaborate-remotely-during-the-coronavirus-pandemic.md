@@ -11,12 +11,12 @@ categories:
   - "Featured Articles"
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/Top-15-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic.png"
+featuredImage: "/blog-images/Top-15-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic.png"
 featuredImageAlt: "Top 15 cloud-based tools to collaborate remotely during the coronavirus pandemic"
 excerpt: "Introduction The Earth needs healing, it needs a break. Our ears were hearing this from decades. But we ignored it. Now the earth is ignoring…"
 seoTitle: "Top 15 cloud-based tools to collaborate remotely during the coronavirus pandemic | Orgzit Blog"
 seoDescription: "Businesses and team collaboration are changing during the COVID-19 pandemic. Use these top cloud-based tools to collaborate with your remote teams"
-ogImage: "/blog/blog-images/Top-15-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic.png"
+ogImage: "/blog-images/Top-15-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/"

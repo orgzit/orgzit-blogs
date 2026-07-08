@@ -12,12 +12,12 @@ categories:
   - "Project Management"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/0816projectmanagement.jpg"
+featuredImage: "/blog-images/0816projectmanagement.jpg"
 featuredImageAlt: "software for project managers"
 excerpt: "Dec 2019 was the month when the first case of coronavirus came into the limelight. We are sitting in 2022 and the situation is as…"
 seoTitle: "Best Softwares for Project Managers in 2022 | Orgzit Blog"
 seoDescription: "Best Softwares for Project Managers for managing teams remotely in 2021. Are you missing out on productivity?"
-ogImage: "/blog/blog-images/0816projectmanagement.jpg"
+ogImage: "/blog-images/0816projectmanagement.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/best-softwares-for-project-managers/"

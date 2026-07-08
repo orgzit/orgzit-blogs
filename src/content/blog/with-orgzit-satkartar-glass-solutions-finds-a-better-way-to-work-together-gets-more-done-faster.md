@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Customer Success Stories"
 tags: []
-featuredImage: "/blog/blog-images/With-Orgzit-Satkartar-Glass-Solutions-Finds-a-Better-Way-to-Work-Together-Gets-More-Done-Faster.jpg"
+featuredImage: "/blog-images/With-Orgzit-Satkartar-Glass-Solutions-Finds-a-Better-Way-to-Work-Together-Gets-More-Done-Faster.jpg"
 featuredImageAlt: "With-Orgzit,-Satkartar-Glass-Solutions-Finds-a-Better-Way-to-Work-Together,-Gets-More-Done-Faster"
 excerpt: "About customer The Satkartar Glass Solutions (SGS) founded in the year 1963 has been providing…"
 seoTitle: "With Orgzit, Satkartar Glass Solutions Finds a Better Way to Work Together, Gets More Done Faster | Orgzit Blog"
 seoDescription: "Orgzit's software solution for a 30+ year glass manufacturing company streamlines the backend operations management processes and helps the company grow rapidly."
-ogImage: "/blog/blog-images/With-Orgzit-Satkartar-Glass-Solutions-Finds-a-Better-Way-to-Work-Together-Gets-More-Done-Faster.jpg"
+ogImage: "/blog-images/With-Orgzit-Satkartar-Glass-Solutions-Finds-a-Better-Way-to-Work-Together-Gets-More-Done-Faster.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/with-orgzit-satkartar-glass-solutions-finds-a-better-way-to-work-together-gets-more-done-faster/"

@@ -17,12 +17,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/unnamed-1.jpg"
+featuredImage: "/blog-images/unnamed-1.jpg"
 featuredImageAlt: ""
 excerpt: "Automation is the new essential, says who? The digital business world. Workflow automation is a new-age boon offered by digital transformation that makes business operations more…"
 seoTitle: "6 Business-Boosting Benefits of Workflow Automation | Orgzit Blog"
 seoDescription: "This blog shares the important benefits of workflow automation for your organization and how they can impact the productivity of your organization."
-ogImage: "/blog/blog-images/unnamed-1.jpg"
+ogImage: "/blog-images/unnamed-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/workflow-automation-benefits-for-business/"

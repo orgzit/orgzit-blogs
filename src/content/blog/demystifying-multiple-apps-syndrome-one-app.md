@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Demystifying-Multiple-Apps-Syndrome-with-One-App.jpg"
+featuredImage: "/blog-images/Demystifying-Multiple-Apps-Syndrome-with-One-App.jpg"
 featuredImageAlt: "Demystifying-Multiple-Apps-Syndrome-with-One-App-Orgzit"
 excerpt: "Ride Down The Software Memory Lane Remember the days when software, be it games or music, came in shiny CD packets"
 seoTitle: "Demystifying Multiple Apps Syndrome with One App | Orgzit Blog"
 seoDescription: "If you are using multiple apps at your workplace, it can be detrimental to your mental health. But does one single app solve the problem? Let's find out!"
-ogImage: "/blog/blog-images/Demystifying-Multiple-Apps-Syndrome-with-One-App.jpg"
+ogImage: "/blog-images/Demystifying-Multiple-Apps-Syndrome-with-One-App.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/"

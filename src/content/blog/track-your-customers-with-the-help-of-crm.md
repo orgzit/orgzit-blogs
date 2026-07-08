@@ -12,12 +12,12 @@ categories:
   - "Sales"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/Copy-of-How-To-Track-Your-Customers-Through-CRN.png"
+featuredImage: "/blog-images/Copy-of-How-To-Track-Your-Customers-Through-CRN.png"
 featuredImageAlt: "How to Track Your Customers Through CRM"
 excerpt: "Introduction The first step in exceeding your customer’s expectations is to know those expectations – Roy H. Williams. Every business wants to scale up and…"
 seoTitle: "How to Track Your Customers With the Help of CRM | Orgzit Blog"
 seoDescription: "It's worth noting how CRM can help your organization grow in diverse forms. It is simply a blessing for businesses to track client interactions and keep up with lead management."
-ogImage: "/blog/blog-images/Copy-of-How-To-Track-Your-Customers-Through-CRN.png"
+ogImage: "/blog-images/Copy-of-How-To-Track-Your-Customers-Through-CRN.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/"

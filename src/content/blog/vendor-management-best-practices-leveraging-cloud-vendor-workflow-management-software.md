@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/what-is-vendor-management.jpg"
+featuredImage: "/blog-images/what-is-vendor-management.jpg"
 featuredImageAlt: "vendor management"
 excerpt: "There are thousands of software applications out in the market for your business to leverage. So, If you’re using even a few of those at…"
 seoTitle: "Best Practices for your Vendor Management Workflows | Orgzit Blog"
 seoDescription: "Vendor management is the multi-stage workflow that establishes the buyer-seller relationship. Make sure your vendor management process has these core components."
-ogImage: "/blog/blog-images/what-is-vendor-management.jpg"
+ogImage: "/blog-images/what-is-vendor-management.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/"

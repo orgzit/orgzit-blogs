@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Introducing-Record-Views-–-Quickly-Switch-to-Columns-Relevant-to-You.png"
+featuredImage: "/blog-images/Introducing-Record-Views-–-Quickly-Switch-to-Columns-Relevant-to-You.png"
 featuredImageAlt: "Introducing-Record-Views-–-Quickly-Switch-to-Columns-Relevant-to-You-Orgzit"
 excerpt: "Use Record Views To Focus On The Information Relevant For You What are record views?"
 seoTitle: "Introducing Record Views - Quickly Switch to Columns Relevant to You | Orgzit Blog"
 seoDescription: "New Record Views feature is you can easily view the data columns relevant to you. You can easily save views, quickly switch between different views, and continue next time from last used view."
-ogImage: "/blog/blog-images/Introducing-Record-Views-–-Quickly-Switch-to-Columns-Relevant-to-You.png"
+ogImage: "/blog-images/Introducing-Record-Views-–-Quickly-Switch-to-Columns-Relevant-to-You.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/"

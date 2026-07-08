@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Why-Startups-Should-Pay-More-Attention-To-Co-Innovation.jpg"
+featuredImage: "/blog-images/Why-Startups-Should-Pay-More-Attention-To-Co-Innovation.jpg"
 featuredImageAlt: "Why-Startups-Should-Pay-More-Attention-To-Co-Innovation-with-Orgzit"
 excerpt: "If you haven’t felt the sudden thickening of air in your boss’s cubicle when a new technology helps a competitor business…"
 seoTitle: "Why Startups Should Pay More Attention To Co-Innovation"
 seoDescription: "Co-innovation is active and persistent collaboration between two entrepreneurs willing to take their business to the next level. Co-innovate with Orgzit!"
-ogImage: "/blog/blog-images/Why-Startups-Should-Pay-More-Attention-To-Co-Innovation.jpg"
+ogImage: "/blog-images/Why-Startups-Should-Pay-More-Attention-To-Co-Innovation.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/startups-pay-attention-co-innovation/"

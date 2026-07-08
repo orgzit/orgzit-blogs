@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Project Management"
 tags: []
-featuredImage: "/blog/blog-images/How-Digital-Transformation-Is-Changing-Project-Management.png"
+featuredImage: "/blog-images/How-Digital-Transformation-Is-Changing-Project-Management.png"
 featuredImageAlt: "How Digital Transformation Is Changing Project Management"
 excerpt: "Talking about changing landscapes? Let’s try and name one industry that has not experienced any form of transformation and is still known for its old…"
 seoTitle: "How Digital Transformation Is Changing Project Management"
 seoDescription: "A digital transformation commences at the C-suite level but the execution is where the project manager takes the wheel and that’s what matters!"
-ogImage: "/blog/blog-images/How-Digital-Transformation-Is-Changing-Project-Management.png"
+ogImage: "/blog-images/How-Digital-Transformation-Is-Changing-Project-Management.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/"

@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Sales Reps"
   - "CRM"
-featuredImage: "/blog/blog-images/How-to-Write-a-Thesis-Statement-Education-Presentation-in-Colorful-Illustrated-Style.jpg"
+featuredImage: "/blog-images/How-to-Write-a-Thesis-Statement-Education-Presentation-in-Colorful-Illustrated-Style.jpg"
 featuredImageAlt: "CRM vendor"
 excerpt: "The CRM marketplace is fairly mature, and a lot of the CRM vendors offer the same type of functionality and features, but depending upon the…"
 seoTitle: "How to Shortlist a CRM Vendor | Orgzit Blog"
 seoDescription: "Shortlist your CRM vendor by today who stick to your key requirements and provides everything you need for the new system."
-ogImage: "/blog/blog-images/How-to-Write-a-Thesis-Statement-Education-Presentation-in-Colorful-Illustrated-Style.jpg"
+ogImage: "/blog-images/How-to-Write-a-Thesis-Statement-Education-Presentation-in-Colorful-Illustrated-Style.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-shortlist-a-crm-vendor/"

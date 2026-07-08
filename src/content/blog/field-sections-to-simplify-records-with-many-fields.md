@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Introducing-Field-Sections-–-Simplify-Viewing-Records-with-Many-Fields.jpg"
+featuredImage: "/blog-images/Introducing-Field-Sections-–-Simplify-Viewing-Records-with-Many-Fields.jpg"
 featuredImageAlt: "Introducing-Field-Sections-–-Simplify-Viewing-Records-with-Many-Fields-Orgzit"
 excerpt: "Lots of data! Lots of confusion? Do you ever have to look at a record with tens of fields? Well, we know it’s not fun…."
 seoTitle: "Introducing Field Sections – Simplify Viewing Records with Many Fields | Orgzit Blog"
 seoDescription: "Field Sections is a feature of Orgzit that lets you group data fields into sections. Having related fields grouped together greatly helps focus on a specific category of information in the record. The ability to collapse sections helps isolate the information that needs your attention."
-ogImage: "/blog/blog-images/Introducing-Field-Sections-–-Simplify-Viewing-Records-with-Many-Fields.jpg"
+ogImage: "/blog-images/Introducing-Field-Sections-–-Simplify-Viewing-Records-with-Many-Fields.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/field-sections-to-simplify-records-with-many-fields/"

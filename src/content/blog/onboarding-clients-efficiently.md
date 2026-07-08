@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/client-onboarding-process-automation.png"
+featuredImage: "/blog-images/client-onboarding-process-automation.png"
 featuredImageAlt: "onboarding clients efficiently"
 excerpt: "“The key is to set realistic customer expectations, and then not to just meet them, but to exceed them, preferably in unexpected and helpful ways”…"
 seoTitle: "Step-by-Step Guide for Effective Clients Onboarding | Orgzit Blog"
 seoDescription: "Poor client onboarding can destroy years of hard work in minutes. Check out the top 15 tips for onboarding clients efficiently. The 9th one is our favorite"
-ogImage: "/blog/blog-images/client-onboarding-process-automation.png"
+ogImage: "/blog-images/client-onboarding-process-automation.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/onboarding-clients-efficiently/"

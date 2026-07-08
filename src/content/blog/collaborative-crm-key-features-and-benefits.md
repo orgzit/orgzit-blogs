@@ -11,12 +11,12 @@ categories:
   - "CRM"
   - "Sales"
 tags: []
-featuredImage: "/blog/blog-images/collaborative-crm.png"
+featuredImage: "/blog-images/collaborative-crm.png"
 featuredImageAlt: "Collaborative CRM"
 excerpt: "OVERVIEW ABOUT THIS ULTIMATE GUIDE ON COLLABORATIVE CRM INTRODUCTIONWHAT IS COLLABORATIVE CRM?KEY COMPONENTS OF COLLABORATIVE CRMKEY FEATURES OF COLLABORATIVE CRMBENEFITS OF COLLABORATIVE CRM The grow"
 seoTitle: "Collaborative CRM 101: Key Features and Benefits | Orgzit Blog"
 seoDescription: "This ultimate guide to Collaborative CRM covers all its key features and benefits that help facilitate communication between different stakeholders and organizational teams."
-ogImage: "/blog/blog-images/collaborative-crm.png"
+ogImage: "/blog-images/collaborative-crm.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/collaborative-crm-key-features-and-benefits/"

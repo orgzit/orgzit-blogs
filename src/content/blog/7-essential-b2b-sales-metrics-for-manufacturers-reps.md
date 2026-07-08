@@ -12,12 +12,12 @@ categories:
   - "Sales"
 tags: 
   - "B2B Sales Reps"
-featuredImage: "/blog/blog-images/B2B-Sales-Metrics-2.png"
+featuredImage: "/blog-images/B2B-Sales-Metrics-2.png"
 featuredImageAlt: "B2B Sales Metrics for Manufacturers' Reps"
 excerpt: "This article will explore seven key B2B sales metrics and KPIs specifically designed for manufacturers’ reps. These metrics enable reps to assess their sales processes, identify strengths and weakness"
 seoTitle: "7 Essential B2B Sales Metrics for Manufacturers' Reps | Orgzit Blog"
 seoDescription: "Discover the top 7 B2B sales metrics and KPIs designed for manufacturers' reps. Enhance sales strategies, and improve customer relationships."
-ogImage: "/blog/blog-images/B2B-Sales-Metrics-2.png"
+ogImage: "/blog-images/B2B-Sales-Metrics-2.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/"

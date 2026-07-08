@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "CRM"
-featuredImage: "/blog/blog-images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room-scaled.jpg"
+featuredImage: "/blog-images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room-scaled.jpg"
 featuredImageAlt: "ROI analysis of a CRM"
 excerpt: "Every dollar invested needs to deliver a measurable return. Think of it like this — your CRM could be a gold mine of insights down…"
 seoTitle: "ROI Analysis of CRM—Turn your CRM Investment into Unstoppable Sales | Orgzit Blog"
 seoDescription: "Learn how to calculate and predict the ROI of CRM implementation, a tool that can help you grow your business and improve customer relationships."
-ogImage: "/blog/blog-images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room-scaled.jpg"
+ogImage: "/blog-images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/roi-analysis-of-a-crm/"

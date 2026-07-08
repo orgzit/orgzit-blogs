@@ -12,12 +12,12 @@ categories:
   - "Tips & Tricks"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/workflow_automation_8.png"
+featuredImage: "/blog-images/workflow_automation_8.png"
 featuredImageAlt: "workflow automation"
 excerpt: "What is Workflow Automation? Defined as a series of tasks accomplished to complete a process, Workflow Automation removes all the manual steps. The process includes…"
 seoTitle: "Workflow Automation Software in 2022 | Orgzit Blog"
 seoDescription: "Are you stuck in manual tasks? Pick one of the best Workflow Automation Software for your team? The 5th on the list in our favorite."
-ogImage: "/blog/blog-images/workflow_automation_8.png"
+ogImage: "/blog-images/workflow_automation_8.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/workflow-automation-software/"

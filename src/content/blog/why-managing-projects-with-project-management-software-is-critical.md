@@ -11,12 +11,12 @@ categories:
   - "Productivity"
   - "Project Management"
 tags: []
-featuredImage: "/blog/blog-images/why-managing-projects-with-project-management-software-is-critical.jpg"
+featuredImage: "/blog-images/why-managing-projects-with-project-management-software-is-critical.jpg"
 featuredImageAlt: "why managing projects with project management software is critical"
 excerpt: "Despite all the research, accrued knowledge, and established standard practices, projects are prone to leakages, budget overruns, and delays. Some projects never meet expectations, some…"
 seoTitle: "Why Managing Projects with Project Management Software is Critical? | Orgzit Blog"
 seoDescription: "This article details the importance of managing projects with project management software solutions."
-ogImage: "/blog/blog-images/why-managing-projects-with-project-management-software-is-critical.jpg"
+ogImage: "/blog-images/why-managing-projects-with-project-management-software-is-critical.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/why-managing-projects-with-project-management-software-is-critical/"

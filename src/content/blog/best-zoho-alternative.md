@@ -11,12 +11,12 @@ categories:
   - "Orgzit News"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-–-Best-ZOHO-Alternative.jpg"
+featuredImage: "/blog-images/Orgzit-–-Best-ZOHO-Alternative.jpg"
 featuredImageAlt: "Why-Orgzit-Best-ZOHO-Alternative"
 excerpt: "” The best software is the ones which not only provide a viable solution to your pain point but encourage you to do more and…"
 seoTitle: "Orgzit - The Best Zoho Alternative | Orgzit Blog"
 seoDescription: "Orgzit is the best zoho alternative with its excellent CRM, project management and highly customizable solutions. Come and join the revolution!"
-ogImage: "/blog/blog-images/Orgzit-–-Best-ZOHO-Alternative.jpg"
+ogImage: "/blog-images/Orgzit-–-Best-ZOHO-Alternative.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/best-zoho-alternative/"

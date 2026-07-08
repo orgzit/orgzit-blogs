@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/sales-funnel-2.png"
+featuredImage: "/blog-images/sales-funnel-2.png"
 featuredImageAlt: "what is sales funnel"
 excerpt: "Introduction Did you love chemistry in school? Not so much? Me too! (ssshh, that is a secret). But, do not worry we will not talk…"
 seoTitle: "What is the sales funnel? | Orgzit Blog"
 seoDescription: "A sales funnel represents the steps in the buying process of a customer. It is a multi-stage process that needs to be effectively managed for higher sales."
-ogImage: "/blog/blog-images/sales-funnel-2.png"
+ogImage: "/blog-images/sales-funnel-2.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-sales-funnel/"

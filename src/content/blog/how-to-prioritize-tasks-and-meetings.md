@@ -11,12 +11,12 @@ categories:
   - "Project Management"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/priorities.jpg"
+featuredImage: "/blog-images/priorities.jpg"
 featuredImageAlt: "prioritize tasks and meetings"
 excerpt: "Have you ever heard of the famous Parkinson’s Law, “Work expands to fill time?” Even if you haven’t, you must have experienced its practical implications…"
 seoTitle: "How to Prioritize Tasks? | Orgzit Blog"
 seoDescription: "Missed Deadlines have become a regular thing for you? Don’t Worry! Orgzit has brought the step-by-step guide of How to Prioritize Tasks?"
-ogImage: "/blog/blog-images/priorities.jpg"
+ogImage: "/blog-images/priorities.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/"

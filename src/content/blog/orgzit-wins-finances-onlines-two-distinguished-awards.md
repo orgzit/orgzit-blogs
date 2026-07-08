@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Orgzit News"
 tags: []
-featuredImage: "/blog/blog-images/Orgzit-Wins-Finances-Online’s-Two-Distinguished-Awards.jpg"
+featuredImage: "/blog-images/Orgzit-Wins-Finances-Online’s-Two-Distinguished-Awards.jpg"
 featuredImageAlt: "Orgzit-Wins-Finances-Online’s-Two-Distinguished-Awards"
 excerpt: "Hey productivity seekers! We have got some awesome news for you all. Orgzit has just created an impregnable mark on World’s SaaS map. The good…"
 seoTitle: "Orgzit Wins Finances Online’s Two Distinguished Awards | Orgzit Blog"
 seoDescription: "Orgzit a no-code collaboration and workflow management software product gets prestigious awards from Finances Online."
-ogImage: "/blog/blog-images/Orgzit-Wins-Finances-Online’s-Two-Distinguished-Awards.jpg"
+ogImage: "/blog-images/Orgzit-Wins-Finances-Online’s-Two-Distinguished-Awards.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/orgzit-wins-finances-onlines-two-distinguished-awards/"

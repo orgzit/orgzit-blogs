@@ -12,12 +12,12 @@ categories:
   - "Project Management"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/agile-graphic.jpg"
+featuredImage: "/blog-images/agile-graphic.jpg"
 featuredImageAlt: "Agile for Remote Team Management"
 excerpt: "2020 went down in history as the year of unfortunate events! And the major problem that struck the world in the name of this deadly…"
 seoTitle: "Best Agile Practices for Remote Team Management in 2022 | Orgzit Blog"
 seoDescription: "Top 8 Agile Best Practices for managing a remote team based on feedback from 100s of customers. Benchmark to see whether your team agile?"
-ogImage: "/blog/blog-images/agile-graphic.jpg"
+ogImage: "/blog-images/agile-graphic.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/agile-practices-for-remote-team-management/"

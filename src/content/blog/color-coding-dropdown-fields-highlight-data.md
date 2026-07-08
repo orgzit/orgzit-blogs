@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Let’s-add-Color-to-Work-–-Color-Coding-for-Dropdown-String-Fields-1.jpg"
+featuredImage: "/blog-images/Let’s-add-Color-to-Work-–-Color-Coding-for-Dropdown-String-Fields-1.jpg"
 featuredImageAlt: "Let’s-add-Color-to-Work-–-Color-Coding-for-Dropdown-String-Fields-Orgzit"
 excerpt: "What is the best way to highlight or distinguish important information? Did you say color highlighting?"
 seoTitle: "Let's add Color to Work - Color Coding for Dropdown String Fields | Orgzit Blog"
 seoDescription: "Color Coding in Orgzit lets you visually highlight and distinguish important data fields such as status and type enabling you to focus on the most important data and making you more efficient for tracking your work data such as Leads, Orders, Invoices, Service Tickets, and Tasks."
-ogImage: "/blog/blog-images/Let’s-add-Color-to-Work-–-Color-Coding-for-Dropdown-String-Fields-1.jpg"
+ogImage: "/blog-images/Let’s-add-Color-to-Work-–-Color-Coding-for-Dropdown-String-Fields-1.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/color-coding-dropdown-fields-highlight-data/"

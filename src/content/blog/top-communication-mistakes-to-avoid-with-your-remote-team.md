@@ -11,12 +11,12 @@ categories:
   - "Productivity"
 tags: 
   - "Communication"
-featuredImage: "/blog/blog-images/Top-Communication-Mistakes-to-avoid-with-your-Remote-Team.png"
+featuredImage: "/blog-images/Top-Communication-Mistakes-to-avoid-with-your-Remote-Team.png"
 featuredImageAlt: "Top Communication Mistakes to avoid with your Remote Team"
 excerpt: "Gone are the times when offices were all about bricks and walls, and to watch your employees, you had to run from pillar to post…."
 seoTitle: "Top Communication Mistakes to avoid with your Remote Team"
 seoDescription: "Remote Working has become a new normal, and managers face various communication mistakes while managing remote teams. Hit on the link to read more."
-ogImage: "/blog/blog-images/Top-Communication-Mistakes-to-avoid-with-your-Remote-Team.png"
+ogImage: "/blog-images/Top-Communication-Mistakes-to-avoid-with-your-Remote-Team.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/"

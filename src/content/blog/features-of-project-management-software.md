@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/essential-features-pms.png"
+featuredImage: "/blog-images/essential-features-pms.png"
 featuredImageAlt: "essential features of project management software"
 excerpt: "To find the best software for your team, consider which features you need to manage your projects efficiently. Ensure that you don’t leave some important aspects uncovered when…"
 seoTitle: "Essential Features of Project Management Software | Orgzit Blog"
 seoDescription: "Does your project management software have these must-have features? Here is a list of the top features for project management and team collaboration software"
-ogImage: "/blog/blog-images/essential-features-pms.png"
+ogImage: "/blog-images/essential-features-pms.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/features-of-project-management-software/"

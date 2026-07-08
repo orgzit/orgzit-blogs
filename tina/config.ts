@@ -57,7 +57,7 @@ export default defineConfig({
             name:    'author',
             label:   'Author Name',
             required: true,
-            options: ['Olivia Davis', 'Pavan Verma'],
+            options: ['Olivia Davis', 'Pavan Verma', 'Nitin Verma', 'Kartik Dulloo', 'Guest Blogger'],
           },
           { type: 'string', name: 'authorSlug', label: 'Author Slug', ui: { component: 'hidden' } },
           {

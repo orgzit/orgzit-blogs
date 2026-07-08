@@ -12,12 +12,12 @@ categories:
 tags: 
   - "Customers"
   - "Productivity"
-featuredImage: "/blog/blog-images/3-Ways-to-Bridge-the-Trust-Gap-With-Customers-.png"
+featuredImage: "/blog-images/3-Ways-to-Bridge-the-Trust-Gap-With-Customers-.png"
 featuredImageAlt: "Bridge the Trust Gap With Customers"
 excerpt: "Do you ever buy from a brand or a company that you do not trust? You know the answer to it very well. Well, that…"
 seoTitle: "3 Ways to Bridge the Trust Gap With Customers"
 seoDescription: "A company can not sustain itself in the industry without customer’s trust. Here are the 3 most effective ways to bridge the trust gap with your customers."
-ogImage: "/blog/blog-images/3-Ways-to-Bridge-the-Trust-Gap-With-Customers-.png"
+ogImage: "/blog-images/3-Ways-to-Bridge-the-Trust-Gap-With-Customers-.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/"

@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { withBase } from '@lib/paths';
 
 interface Props {
   title:        string;
@@ -21,8 +22,8 @@ const {
 
 const siteUrl = 'https://orgzit.com';
 const ogImageFull = ogImage
-  ? (ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`)
-  : `${siteUrl}/blog/blog-images/default-og.png`;
+  ? (ogImage.startsWith('http') ? ogImage : `${siteUrl}${withBase(ogImage)}`)
+  : `${siteUrl}${withBase('/blog-images/default-og.png')}`;
 ---
 <!DOCTYPE html>
 <html lang="en">

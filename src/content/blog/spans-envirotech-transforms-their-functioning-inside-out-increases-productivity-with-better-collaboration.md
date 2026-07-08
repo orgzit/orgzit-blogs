@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Customer Success Stories"
 tags: []
-featuredImage: "/blog/blog-images/Spans-Envirotech-Transforms-their-Functioning-Inside-Out-Increases-Productivity-with-Better-Collaboration.jpg"
+featuredImage: "/blog-images/Spans-Envirotech-Transforms-their-Functioning-Inside-Out-Increases-Productivity-with-Better-Collaboration.jpg"
 featuredImageAlt: "Spans-Envirotech-Transforms-their-Functioning-Inside-Out,-Increases-Productivity-with-Better-Collaboration-Orgzit"
 excerpt: "About Customer Since 1993, engineering firm Spans Envirotech…"
 seoTitle: "Spans Envirotech Increases Teams' Productivity with Better Collaboration"
 seoDescription: "\"With Orgzit, we are building business like never before. I would recommend Orgzit to any engineering firm looking to increase efficiency and boost business in a simple and elegant way.”"
-ogImage: "/blog/blog-images/Spans-Envirotech-Transforms-their-Functioning-Inside-Out-Increases-Productivity-with-Better-Collaboration.jpg"
+ogImage: "/blog-images/Spans-Envirotech-Transforms-their-Functioning-Inside-Out-Increases-Productivity-with-Better-Collaboration.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/"

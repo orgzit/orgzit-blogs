@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "B2B Sales Reps"
-featuredImage: "/blog/blog-images/BID-DASHBOARD-FOR-B2B-SALES-TEAM-e1691651123850.png"
+featuredImage: "/blog-images/BID-DASHBOARD-FOR-B2B-SALES-TEAM-e1691651123850.png"
 featuredImageAlt: "BID DASHBOARD FOR B2B SALES TEAM"
 excerpt: "B2B sales teams face numerous challenges when it comes to managing bids and maximizing their sales potential. The bid dashboard empowers sales professionals by offering a comprehensive overview of ong"
 seoTitle: "Why Does Every B2B Sales Team Need a Bid Dashboard? | Orgzit Blog"
 seoDescription: "Bid Dashboard for B2B sales team to improve their chances of closing deals faster. It enables them to take strategic actions to improve their chances of winning."
-ogImage: "/blog/blog-images/BID-DASHBOARD-FOR-B2B-SALES-TEAM-e1691651123850.png"
+ogImage: "/blog-images/BID-DASHBOARD-FOR-B2B-SALES-TEAM-e1691651123850.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/"

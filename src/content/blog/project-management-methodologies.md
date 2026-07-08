@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/Project-Management-Methodologies.png"
+featuredImage: "/blog-images/Project-Management-Methodologies.png"
 featuredImageAlt: "Project Management Methodologies"
 excerpt: "Project management techniques or project management methodologies are not confined to a single industry or business type, it is an essential part of every business,…"
 seoTitle: "Project Management Methodologies | Orgzit Blog | Productivity"
 seoDescription: "Project management methodologies such as agile, scrum, CPM and others help teams deliver projects timely and efficiently. It's important to pick the right approach that works for your team."
-ogImage: "/blog/blog-images/Project-Management-Methodologies.png"
+ogImage: "/blog-images/Project-Management-Methodologies.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/project-management-methodologies/"

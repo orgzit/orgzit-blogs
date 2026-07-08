@@ -13,12 +13,12 @@ categories:
 tags: 
   - "B2B Industry"
   - "Myths about CRM"
-featuredImage: "/blog/blog-images/money-with-charts-scaled.jpg"
+featuredImage: "/blog-images/money-with-charts-scaled.jpg"
 featuredImageAlt: "CRM Integration"
 excerpt: "One of the most valuable parts of any company is its valuable data, and to keep this in order, their employees switch between different apps over…"
 seoTitle: "How CRM will work with other software: CRM Integrations  | Orgzit Blog"
 seoDescription: "CRM integration is not just a good idea but impactful in dealing with all those challenges that come with using lots of different software."
-ogImage: "/blog/blog-images/money-with-charts-scaled.jpg"
+ogImage: "/blog-images/money-with-charts-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/how-crm-will-work-with-other-software-crm-integrations/"

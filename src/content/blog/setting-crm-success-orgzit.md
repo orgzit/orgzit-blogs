@@ -10,12 +10,12 @@ authorBio: "Pavan is the CTO of Orgzit. When not hacking code or helping custome
 categories: 
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/Setting-yourself-up-for-CRM-success-with-Orgzit.jpg"
+featuredImage: "/blog-images/Setting-yourself-up-for-CRM-success-with-Orgzit.jpg"
 featuredImageAlt: "Setting-yourself-up-for-CRM-success-with-Orgzit"
 excerpt: "As an SMB, no matter what you sell, getting more customers is likely your highest business priority. But what matters most is how you sell,…"
 seoTitle: "Setting yourself up for CRM success with Orgzit | Orgzit Blog"
 seoDescription: "Cultivate effective client relationships and drive overall business growth with targeted CRM solutions for your business."
-ogImage: "/blog/blog-images/Setting-yourself-up-for-CRM-success-with-Orgzit.jpg"
+ogImage: "/blog-images/Setting-yourself-up-for-CRM-success-with-Orgzit.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/setting-crm-success-orgzit/"

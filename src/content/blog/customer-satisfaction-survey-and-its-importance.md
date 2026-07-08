@@ -12,12 +12,12 @@ categories:
   - "Sales"
   - "Uncategorized"
 tags: []
-featuredImage: "/blog/blog-images/image_6483441-4.jpg"
+featuredImage: "/blog-images/image_6483441-4.jpg"
 featuredImageAlt: ""
 excerpt: "Quality in a service or product is not what you put into it. It is what the customer gets out of it.~ Peter Drucker As…"
 seoTitle: "Customer Satisfaction Survey And Its Importance | Orgzit Blog"
 seoDescription: "This blog shares the goal and importance of Customer Satisfaction Survey for your business leading to higher sales and customer retention."
-ogImage: "/blog/blog-images/image_6483441-4.jpg"
+ogImage: "/blog-images/image_6483441-4.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/"

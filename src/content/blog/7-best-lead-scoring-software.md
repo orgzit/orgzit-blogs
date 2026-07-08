@@ -13,12 +13,12 @@ categories:
 tags: 
   - "Productivity"
   - "Sales Tools"
-featuredImage: "/blog/blog-images/Write-the-title-of-your-video-here.png"
+featuredImage: "/blog-images/Write-the-title-of-your-video-here.png"
 featuredImageAlt: "lead scoring"
 excerpt: "Hey there, Imagine you’re fishing. You don’t want just any fish, right? You want the big catch! Lead scoring helps you identify those “big catch”…"
 seoTitle: "Best Lead Scoring Software: Score Your leads by Today! | Orgzit Blog"
 seoDescription: "Discover the top 7 lead-scoring software for your business and get started with lead scoring today!"
-ogImage: "/blog/blog-images/Write-the-title-of-your-video-here.png"
+ogImage: "/blog-images/Write-the-title-of-your-video-here.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/7-best-lead-scoring-software/"

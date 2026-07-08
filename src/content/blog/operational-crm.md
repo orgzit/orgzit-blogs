@@ -13,12 +13,12 @@ categories:
   - "Uncategorized"
   - "Workflow Management"
 tags: []
-featuredImage: "/blog/blog-images/Copy-of-CRM.jpeg"
+featuredImage: "/blog-images/Copy-of-CRM.jpeg"
 featuredImageAlt: "Operational CRM"
 excerpt: "If you have a business or are planning to start one, what is that one forte which you would want to achieve first? Likely, I…"
 seoTitle: "What's an Operational CRM & Its Benefits | Orgzit Blog"
 seoDescription: "Operational CRM is a service that integrates sales, marketing, & service automation tools that store and process data about every interaction & between your company and customers."
-ogImage: "/blog/blog-images/Copy-of-CRM.jpeg"
+ogImage: "/blog-images/Copy-of-CRM.jpeg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/operational-crm/"

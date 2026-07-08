@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Productivity"
 tags: []
-featuredImage: "/blog/blog-images/productivity-man-working-from-home-scaled.jpg"
+featuredImage: "/blog-images/productivity-man-working-from-home-scaled.jpg"
 featuredImageAlt: "productivity man working from home"
 excerpt: "For some people, it is hard to work from home because of distractions. But because of the pandemic, working from home is the only option…"
 seoTitle: "Work from Home: 7 Tips to Improve Your Efficiency | Orgzit Blog"
 seoDescription: "Simple tips to stay on top of your game while working from home. Follow these and you would never want to go back to your office ever!"
-ogImage: "/blog/blog-images/productivity-man-working-from-home-scaled.jpg"
+ogImage: "/blog-images/productivity-man-working-from-home-scaled.jpg"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/"

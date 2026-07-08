@@ -11,12 +11,12 @@ categories:
   - "Productivity"
   - "Tips & Tricks"
 tags: []
-featuredImage: "/blog/blog-images/10-Ways-to-Manage-Sales-Leads-Better.png"
+featuredImage: "/blog-images/10-Ways-to-Manage-Sales-Leads-Better.png"
 featuredImageAlt: "10 Ways to Manage Sales Leads Better"
 excerpt: "Introduction Is your Lead Management Process in place and is concrete? Or you still old-school? Why do you have a business? For generating sales leads…"
 seoTitle: "10 ways to manage sales leads better | Orgzit Blog"
 seoDescription: "A sales leads is a contact, individual or organization who has the potential or interest to buy your services or products."
-ogImage: "/blog/blog-images/10-Ways-to-Manage-Sales-Leads-Better.png"
+ogImage: "/blog-images/10-Ways-to-Manage-Sales-Leads-Better.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/"

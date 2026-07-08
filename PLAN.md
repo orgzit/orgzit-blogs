@@ -22,7 +22,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                    CONTENT LAYER                                 │
 │                                                                  │
-│   GitHub Repository: orgzit/orgzit-blog                         │
+│   GitHub Repository: orgzit/orgzit-blogs                         │
 │   src/content/blog/[slug].md  ← every post as a .md file        │
 │   public/blog-images/         ← all images downloaded from WP   │
 │   src/content/data/           ← categories.json, authors.json   │

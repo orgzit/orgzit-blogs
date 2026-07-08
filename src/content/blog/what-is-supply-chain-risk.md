@@ -10,12 +10,12 @@ authorBio: ""
 categories: 
   - "Risk Management"
 tags: []
-featuredImage: "/blog/blog-images/supply-chain-risks.png"
+featuredImage: "/blog-images/supply-chain-risks.png"
 featuredImageAlt: "supply chain risks"
 excerpt: "I was talking to one of our CRM users and she asked me “What is Supply Chain Risk?” and “How can a CRM help her…"
 seoTitle: "What is Supply Chain Risk? | Orgzit Blog"
 seoDescription: "What is supply chain risk? Is your business identifying and managing these supply chain risks in your business effectively."
-ogImage: "/blog/blog-images/supply-chain-risks.png"
+ogImage: "/blog-images/supply-chain-risks.png"
 twitterCard: "summary_large_image"
 noIndex: false
 canonicalUrl: "https://orgzit.com/blog/what-is-supply-chain-risk/"
