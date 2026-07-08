@@ -1,1 +1,2995 @@
-[]
+[
+  {
+    "id": 31,
+    "count": 7,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/orgzitidea/",
+    "name": "#orgzitidea",
+    "slug": "orgzitidea",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog - Organize, Collaborate, Analyze &amp; Automate | Orgzit Ideas</title>\n<meta name=\"description\" content=\"#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"#orgzitidea Archives\" />\n<meta property=\"og:description\" content=\"#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/orgzitidea/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/orgzitidea/\",\"url\":\"https://orgzit.com/blog/category/orgzitidea/\",\"name\":\"Orgzit Blog - Organize, Collaborate, Analyze & Automate | Orgzit Ideas\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/orgzitidea/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/orgzitidea/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"#orgzitidea\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog - Organize, Collaborate, Analyze & Automate | Orgzit Ideas",
+      "description": "#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "#orgzitidea Archives",
+      "og_description": "#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.",
+      "og_url": "https://orgzit.com/blog/category/orgzitidea/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/orgzitidea/",
+            "url": "https://orgzit.com/blog/category/orgzitidea/",
+            "name": "Orgzit Blog - Organize, Collaborate, Analyze & Automate | Orgzit Ideas",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "#orgzitidea | The official Orgzit blog. Get Orgzit ideas for productivity through tips for automation and team collaboration.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/orgzitidea/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/orgzitidea/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "#orgzitidea"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/31"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1652,
+    "count": 39,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/b2b-business/",
+    "name": "B2B Business",
+    "slug": "b2b-business",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>B2B Business Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"B2B Business Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/b2b-business/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/b2b-business/\",\"url\":\"https://orgzit.com/blog/category/b2b-business/\",\"name\":\"B2B Business Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/b2b-business/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/b2b-business/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"B2B Business\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "B2B Business Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "B2B Business Archives",
+      "og_url": "https://orgzit.com/blog/category/b2b-business/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/b2b-business/",
+            "url": "https://orgzit.com/blog/category/b2b-business/",
+            "name": "B2B Business Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/b2b-business/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/b2b-business/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "B2B Business"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1652"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1652"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1217,
+    "count": 12,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/collaboration-technology/",
+    "name": "Collaboration Technology",
+    "slug": "collaboration-technology",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Collaboration Technology Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Collaboration Technology Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/collaboration-technology/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/collaboration-technology/\",\"url\":\"https://orgzit.com/blog/category/collaboration-technology/\",\"name\":\"Collaboration Technology Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/collaboration-technology/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/collaboration-technology/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Collaboration Technology\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Collaboration Technology Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Collaboration Technology Archives",
+      "og_url": "https://orgzit.com/blog/category/collaboration-technology/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/collaboration-technology/",
+            "url": "https://orgzit.com/blog/category/collaboration-technology/",
+            "name": "Collaboration Technology Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/collaboration-technology/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/collaboration-technology/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Collaboration Technology"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1217"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1217"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1612,
+    "count": 86,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/crm/",
+    "name": "CRM",
+    "slug": "crm",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>CRM Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"CRM Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/crm/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/crm/\",\"url\":\"https://orgzit.com/blog/category/crm/\",\"name\":\"CRM Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CRM\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "CRM Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "CRM Archives",
+      "og_url": "https://orgzit.com/blog/category/crm/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/crm/",
+            "url": "https://orgzit.com/blog/category/crm/",
+            "name": "CRM Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/crm/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/crm/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "CRM"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1612"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1612"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "count": 10,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/customer-success-stories/",
+    "name": "Customer Success Stories",
+    "slug": "customer-success-stories",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog | Learn about how Orgzit helps businesses get more done</title>\n<meta name=\"description\" content=\"Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Customer Success Stories Archives\" />\n<meta property=\"og:description\" content=\"Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/customer-success-stories/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/customer-success-stories/\",\"url\":\"https://orgzit.com/blog/category/customer-success-stories/\",\"name\":\"Orgzit Blog | Learn about how Orgzit helps businesses get more done\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/customer-success-stories/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/customer-success-stories/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Customer Success Stories\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog | Learn about how Orgzit helps businesses get more done",
+      "description": "Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Customer Success Stories Archives",
+      "og_description": "Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+      "og_url": "https://orgzit.com/blog/category/customer-success-stories/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/customer-success-stories/",
+            "url": "https://orgzit.com/blog/category/customer-success-stories/",
+            "name": "Orgzit Blog | Learn about how Orgzit helps businesses get more done",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Customer Success Stories | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/customer-success-stories/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/customer-success-stories/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Customer Success Stories"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/82"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=82"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1653,
+    "count": 1,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/dealership-management/",
+    "name": "Dealership management",
+    "slug": "dealership-management",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Dealership management Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Dealership management Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/dealership-management/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/dealership-management/\",\"url\":\"https://orgzit.com/blog/category/dealership-management/\",\"name\":\"Dealership management Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/dealership-management/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/dealership-management/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dealership management\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Dealership management Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Dealership management Archives",
+      "og_url": "https://orgzit.com/blog/category/dealership-management/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/dealership-management/",
+            "url": "https://orgzit.com/blog/category/dealership-management/",
+            "name": "Dealership management Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/dealership-management/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/dealership-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dealership management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1653"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1653"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "count": 12,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/featured-articles/",
+    "name": "Featured Articles",
+    "slug": "featured-articles",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog | Featured articles on automation and productivity</title>\n<meta name=\"description\" content=\"Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Featured Articles Archives\" />\n<meta property=\"og:description\" content=\"Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/featured-articles/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/featured-articles/\",\"url\":\"https://orgzit.com/blog/category/featured-articles/\",\"name\":\"Orgzit Blog | Featured articles on automation and productivity\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/featured-articles/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/featured-articles/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Featured Articles\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog | Featured articles on automation and productivity",
+      "description": "Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Featured Articles Archives",
+      "og_description": "Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+      "og_url": "https://orgzit.com/blog/category/featured-articles/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/featured-articles/",
+            "url": "https://orgzit.com/blog/category/featured-articles/",
+            "name": "Orgzit Blog | Featured articles on automation and productivity",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Featured Articles | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation and team collaboration.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/featured-articles/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/featured-articles/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Featured Articles"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/86"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1660,
+    "count": 1,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/lead-management/",
+    "name": "Lead Management",
+    "slug": "lead-management",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Lead Management Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Lead Management Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/lead-management/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/lead-management/\",\"url\":\"https://orgzit.com/blog/category/lead-management/\",\"name\":\"Lead Management Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/lead-management/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/lead-management/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Lead Management\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Lead Management Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Lead Management Archives",
+      "og_url": "https://orgzit.com/blog/category/lead-management/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/lead-management/",
+            "url": "https://orgzit.com/blog/category/lead-management/",
+            "name": "Lead Management Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/lead-management/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/lead-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Lead Management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1660"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1660"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1643,
+    "count": 9,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/crm/manufacturing-crms/",
+    "name": "Manufacturing CRMs",
+    "slug": "manufacturing-crms",
+    "taxonomy": "category",
+    "parent": 1612,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Manufacturing CRMs Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Manufacturing CRMs Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/crm/manufacturing-crms/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/crm/manufacturing-crms/\",\"url\":\"https://orgzit.com/blog/category/crm/manufacturing-crms/\",\"name\":\"Manufacturing CRMs Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/crm/manufacturing-crms/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/crm/manufacturing-crms/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CRM\",\"item\":\"https://orgzit.com/blog/category/crm/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Manufacturing CRMs\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Manufacturing CRMs Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Manufacturing CRMs Archives",
+      "og_url": "https://orgzit.com/blog/category/crm/manufacturing-crms/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/crm/manufacturing-crms/",
+            "url": "https://orgzit.com/blog/category/crm/manufacturing-crms/",
+            "name": "Manufacturing CRMs Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/crm/manufacturing-crms/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/crm/manufacturing-crms/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "CRM",
+                "item": "https://orgzit.com/blog/category/crm/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Manufacturing CRMs"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1643"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1612"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1643"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "up": [
+        {
+          "id": 1612,
+          "link": "https://orgzit.com/blog/category/crm/",
+          "name": "CRM",
+          "slug": "crm",
+          "taxonomy": "category",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>CRM Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"CRM Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/crm/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/crm/\",\"url\":\"https://orgzit.com/blog/category/crm/\",\"name\":\"CRM Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CRM\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+          "yoast_head_json": {
+            "title": "CRM Articles | Orgzit Blog",
+            "robots": {
+              "index": "noindex",
+              "follow": "follow"
+            },
+            "og_locale": "en_GB",
+            "og_type": "article",
+            "og_title": "CRM Archives",
+            "og_url": "https://orgzit.com/blog/category/crm/",
+            "og_site_name": "Orgzit Blog",
+            "twitter_card": "summary_large_image",
+            "twitter_site": "@orgzit",
+            "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "CollectionPage",
+                  "@id": "https://orgzit.com/blog/category/crm/",
+                  "url": "https://orgzit.com/blog/category/crm/",
+                  "name": "CRM Articles | Orgzit Blog",
+                  "isPartOf": {
+                    "@id": "https://orgzit.com/blog/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://orgzit.com/blog/category/crm/#breadcrumb"
+                  },
+                  "inLanguage": "en-GB"
+                },
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://orgzit.com/blog/category/crm/#breadcrumb",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://orgzit.com/blog/"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 2,
+                      "name": "CRM"
+                    }
+                  ]
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://orgzit.com/blog/#website",
+                  "url": "https://orgzit.com/blog/",
+                  "name": "Orgzit",
+                  "description": "Power of Enterprise CRM with Flexibility of Excel",
+                  "publisher": {
+                    "@id": "https://orgzit.com/blog/#organization"
+                  },
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                      },
+                      "query-input": "required name=search_term_string"
+                    }
+                  ],
+                  "inLanguage": "en-GB"
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://orgzit.com/blog/#organization",
+                  "name": "Orgzit",
+                  "url": "https://orgzit.com/blog/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "inLanguage": "en-GB",
+                    "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+                    "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+                    "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+                    "width": 175,
+                    "height": 50,
+                    "caption": "Orgzit"
+                  },
+                  "image": {
+                    "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://twitter.com/orgzit",
+                    "https://www.linkedin.com/company/orgzit/"
+                  ]
+                }
+              ]
+            }
+          },
+          "_links": {
+            "self": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1612"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1612"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 1626,
+    "count": 9,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/crm/no-code/",
+    "name": "No Code",
+    "slug": "no-code",
+    "taxonomy": "category",
+    "parent": 1612,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>No Code Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"No Code Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/crm/no-code/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/crm/no-code/\",\"url\":\"https://orgzit.com/blog/category/crm/no-code/\",\"name\":\"No Code Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/crm/no-code/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/crm/no-code/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CRM\",\"item\":\"https://orgzit.com/blog/category/crm/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"No Code\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "No Code Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "No Code Archives",
+      "og_url": "https://orgzit.com/blog/category/crm/no-code/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/crm/no-code/",
+            "url": "https://orgzit.com/blog/category/crm/no-code/",
+            "name": "No Code Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/crm/no-code/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/crm/no-code/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "CRM",
+                "item": "https://orgzit.com/blog/category/crm/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "No Code"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1626"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1612"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1626"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "up": [
+        {
+          "id": 1612,
+          "link": "https://orgzit.com/blog/category/crm/",
+          "name": "CRM",
+          "slug": "crm",
+          "taxonomy": "category",
+          "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>CRM Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"CRM Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/crm/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/crm/\",\"url\":\"https://orgzit.com/blog/category/crm/\",\"name\":\"CRM Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/crm/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CRM\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+          "yoast_head_json": {
+            "title": "CRM Articles | Orgzit Blog",
+            "robots": {
+              "index": "noindex",
+              "follow": "follow"
+            },
+            "og_locale": "en_GB",
+            "og_type": "article",
+            "og_title": "CRM Archives",
+            "og_url": "https://orgzit.com/blog/category/crm/",
+            "og_site_name": "Orgzit Blog",
+            "twitter_card": "summary_large_image",
+            "twitter_site": "@orgzit",
+            "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "CollectionPage",
+                  "@id": "https://orgzit.com/blog/category/crm/",
+                  "url": "https://orgzit.com/blog/category/crm/",
+                  "name": "CRM Articles | Orgzit Blog",
+                  "isPartOf": {
+                    "@id": "https://orgzit.com/blog/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://orgzit.com/blog/category/crm/#breadcrumb"
+                  },
+                  "inLanguage": "en-GB"
+                },
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://orgzit.com/blog/category/crm/#breadcrumb",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://orgzit.com/blog/"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 2,
+                      "name": "CRM"
+                    }
+                  ]
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://orgzit.com/blog/#website",
+                  "url": "https://orgzit.com/blog/",
+                  "name": "Orgzit",
+                  "description": "Power of Enterprise CRM with Flexibility of Excel",
+                  "publisher": {
+                    "@id": "https://orgzit.com/blog/#organization"
+                  },
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                      },
+                      "query-input": "required name=search_term_string"
+                    }
+                  ],
+                  "inLanguage": "en-GB"
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://orgzit.com/blog/#organization",
+                  "name": "Orgzit",
+                  "url": "https://orgzit.com/blog/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "inLanguage": "en-GB",
+                    "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+                    "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+                    "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+                    "width": 175,
+                    "height": 50,
+                    "caption": "Orgzit"
+                  },
+                  "image": {
+                    "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://twitter.com/orgzit",
+                    "https://www.linkedin.com/company/orgzit/"
+                  ]
+                }
+              ]
+            }
+          },
+          "_links": {
+            "self": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1612"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1612"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 1627,
+    "count": 6,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/no-code-2/",
+    "name": "No Code",
+    "slug": "no-code-2",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>No Code Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"No Code Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/no-code-2/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/no-code-2/\",\"url\":\"https://orgzit.com/blog/category/no-code-2/\",\"name\":\"No Code Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/no-code-2/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/no-code-2/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"No Code\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "No Code Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "No Code Archives",
+      "og_url": "https://orgzit.com/blog/category/no-code-2/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/no-code-2/",
+            "url": "https://orgzit.com/blog/category/no-code-2/",
+            "name": "No Code Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/no-code-2/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/no-code-2/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "No Code"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1627"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1627"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 16,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/orgzit-news/",
+    "name": "Orgzit News",
+    "slug": "orgzit-news",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog | Official Product Updates and News from the Orgzit Team</title>\n<meta name=\"description\" content=\"Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Orgzit News Archives\" />\n<meta property=\"og:description\" content=\"Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/orgzit-news/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/orgzit-news/\",\"url\":\"https://orgzit.com/blog/category/orgzit-news/\",\"name\":\"Orgzit Blog | Official Product Updates and News from the Orgzit Team\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/orgzit-news/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/orgzit-news/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Orgzit News\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog | Official Product Updates and News from the Orgzit Team",
+      "description": "Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Orgzit News Archives",
+      "og_description": "Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+      "og_url": "https://orgzit.com/blog/category/orgzit-news/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/orgzit-news/",
+            "url": "https://orgzit.com/blog/category/orgzit-news/",
+            "name": "Orgzit Blog | Official Product Updates and News from the Orgzit Team",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Orgzit News | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/orgzit-news/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/orgzit-news/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Orgzit News"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "count": 5,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/product-updates/",
+    "name": "Product Updates",
+    "slug": "product-updates",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Product Updates Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Product Updates Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/product-updates/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/product-updates/\",\"url\":\"https://orgzit.com/blog/category/product-updates/\",\"name\":\"Product Updates Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/product-updates/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/product-updates/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Product Updates\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Product Updates Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Product Updates Archives",
+      "og_url": "https://orgzit.com/blog/category/product-updates/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/product-updates/",
+            "url": "https://orgzit.com/blog/category/product-updates/",
+            "name": "Product Updates Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/product-updates/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/product-updates/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Product Updates"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/85"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=85"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 70,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/productivity/",
+    "name": "Productivity",
+    "slug": "productivity",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog | Productivity Tips for Businesses that love doing things well</title>\n<meta name=\"description\" content=\"Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Productivity Archives\" />\n<meta property=\"og:description\" content=\"Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/productivity/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/productivity/\",\"url\":\"https://orgzit.com/blog/category/productivity/\",\"name\":\"Orgzit Blog | Productivity Tips for Businesses that love doing things well\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/productivity/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/productivity/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productivity\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog | Productivity Tips for Businesses that love doing things well",
+      "description": "Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Productivity Archives",
+      "og_description": "Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+      "og_url": "https://orgzit.com/blog/category/productivity/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/productivity/",
+            "url": "https://orgzit.com/blog/category/productivity/",
+            "name": "Orgzit Blog | Productivity Tips for Businesses that love doing things well",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Productivity | The official Orgzit blog. Get Orgzit ideas for productivity through tips for workflow automation, team collaboration and more.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/productivity/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/productivity/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Productivity"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "count": 25,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/project-management/",
+    "name": "Project Management",
+    "slug": "project-management",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Project Management Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Project Management Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/project-management/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/project-management/\",\"url\":\"https://orgzit.com/blog/category/project-management/\",\"name\":\"Project Management Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/project-management/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/project-management/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Project Management\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Project Management Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Project Management Archives",
+      "og_url": "https://orgzit.com/blog/category/project-management/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/project-management/",
+            "url": "https://orgzit.com/blog/category/project-management/",
+            "name": "Project Management Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/project-management/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/project-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Project Management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/96"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1340,
+    "count": 3,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/risk-management/",
+    "name": "Risk Management",
+    "slug": "risk-management",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Risk Management Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Risk Management Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/risk-management/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/risk-management/\",\"url\":\"https://orgzit.com/blog/category/risk-management/\",\"name\":\"Risk Management Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/risk-management/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/risk-management/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Risk Management\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Risk Management Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Risk Management Archives",
+      "og_url": "https://orgzit.com/blog/category/risk-management/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/risk-management/",
+            "url": "https://orgzit.com/blog/category/risk-management/",
+            "name": "Risk Management Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/risk-management/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/risk-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Risk Management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1340"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1340"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 48,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/sales/",
+    "name": "Sales",
+    "slug": "sales",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Sales Articles | Orgzit Blog</title>\n<meta name=\"description\" content=\"Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, &amp; tools to supercharge your sales efforts.\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Sales Archives\" />\n<meta property=\"og:description\" content=\"Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, &amp; tools to supercharge your sales efforts.\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/sales/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/sales/\",\"url\":\"https://orgzit.com/blog/category/sales/\",\"name\":\"Sales Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, & tools to supercharge your sales efforts.\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/sales/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/sales/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Sales\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Sales Articles | Orgzit Blog",
+      "description": "Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, & tools to supercharge your sales efforts.",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Sales Archives",
+      "og_description": "Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, & tools to supercharge your sales efforts.",
+      "og_url": "https://orgzit.com/blog/category/sales/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/sales/",
+            "url": "https://orgzit.com/blog/category/sales/",
+            "name": "Sales Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Dive deep into the intersection of sales and CRM. Explore actionable strategies, best practices, & tools to supercharge your sales efforts.",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/sales/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/sales/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Sales"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/102"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "count": 90,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/tips-tricks/",
+    "name": "Tips & Tricks",
+    "slug": "tips-tricks",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Orgzit Blog | Tips &amp; Tricks for you to get the most out of Orgzit</title>\n<meta name=\"description\" content=\"Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tips &amp; Tricks Archives\" />\n<meta property=\"og:description\" content=\"Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/tips-tricks/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/tips-tricks/\",\"url\":\"https://orgzit.com/blog/category/tips-tricks/\",\"name\":\"Orgzit Blog | Tips & Tricks for you to get the most out of Orgzit\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"description\":\"Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features\",\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/tips-tricks/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/tips-tricks/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tips &amp; Tricks\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Orgzit Blog | Tips & Tricks for you to get the most out of Orgzit",
+      "description": "Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Tips &amp; Tricks Archives",
+      "og_description": "Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features",
+      "og_url": "https://orgzit.com/blog/category/tips-tricks/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/tips-tricks/",
+            "url": "https://orgzit.com/blog/category/tips-tricks/",
+            "name": "Orgzit Blog | Tips & Tricks for you to get the most out of Orgzit",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "description": "Tips &amp; Tricks | The official Orgzit blog. Get tips and tricks from the makers of Orgzit. Maximize the value you derive out of the various features",
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/tips-tricks/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/tips-tricks/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Tips &amp; Tricks"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/84"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=84"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 30,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Uncategorized Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Uncategorized Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/uncategorized/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/uncategorized/\",\"url\":\"https://orgzit.com/blog/category/uncategorized/\",\"name\":\"Uncategorized Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/uncategorized/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/uncategorized/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Uncategorized\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Uncategorized Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Uncategorized Archives",
+      "og_url": "https://orgzit.com/blog/category/uncategorized/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/uncategorized/",
+            "url": "https://orgzit.com/blog/category/uncategorized/",
+            "name": "Uncategorized Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/uncategorized/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/uncategorized/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Uncategorized"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1321,
+    "count": 29,
+    "description": "",
+    "link": "https://orgzit.com/blog/category/workflow-management/",
+    "name": "Workflow Management",
+    "slug": "workflow-management",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v21.2) - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Workflow Management Articles | Orgzit Blog</title>\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Workflow Management Archives\" />\n<meta property=\"og:url\" content=\"https://orgzit.com/blog/category/workflow-management/\" />\n<meta property=\"og:site_name\" content=\"Orgzit Blog\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@orgzit\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://orgzit.com/blog/category/workflow-management/\",\"url\":\"https://orgzit.com/blog/category/workflow-management/\",\"name\":\"Workflow Management Articles | Orgzit Blog\",\"isPartOf\":{\"@id\":\"https://orgzit.com/blog/#website\"},\"breadcrumb\":{\"@id\":\"https://orgzit.com/blog/category/workflow-management/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://orgzit.com/blog/category/workflow-management/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://orgzit.com/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Workflow Management\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orgzit.com/blog/#website\",\"url\":\"https://orgzit.com/blog/\",\"name\":\"Orgzit\",\"description\":\"Power of Enterprise CRM with Flexibility of Excel\",\"publisher\":{\"@id\":\"https://orgzit.com/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://orgzit.com/blog/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Organization\",\"@id\":\"https://orgzit.com/blog/#organization\",\"name\":\"Orgzit\",\"url\":\"https://orgzit.com/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\",\"url\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"contentUrl\":\"https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1\",\"width\":175,\"height\":50,\"caption\":\"Orgzit\"},\"image\":{\"@id\":\"https://orgzit.com/blog/#/schema/logo/image/\"},\"sameAs\":[\"https://twitter.com/orgzit\",\"https://www.linkedin.com/company/orgzit/\"]}]}</script>\n<!-- / Yoast SEO Premium plugin. -->",
+    "yoast_head_json": {
+      "title": "Workflow Management Articles | Orgzit Blog",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow"
+      },
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Workflow Management Archives",
+      "og_url": "https://orgzit.com/blog/category/workflow-management/",
+      "og_site_name": "Orgzit Blog",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@orgzit",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://orgzit.com/blog/category/workflow-management/",
+            "url": "https://orgzit.com/blog/category/workflow-management/",
+            "name": "Workflow Management Articles | Orgzit Blog",
+            "isPartOf": {
+              "@id": "https://orgzit.com/blog/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://orgzit.com/blog/category/workflow-management/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://orgzit.com/blog/category/workflow-management/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://orgzit.com/blog/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Workflow Management"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://orgzit.com/blog/#website",
+            "url": "https://orgzit.com/blog/",
+            "name": "Orgzit",
+            "description": "Power of Enterprise CRM with Flexibility of Excel",
+            "publisher": {
+              "@id": "https://orgzit.com/blog/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://orgzit.com/blog/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://orgzit.com/blog/#organization",
+            "name": "Orgzit",
+            "url": "https://orgzit.com/blog/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/",
+              "url": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "contentUrl": "https://euqtrwjsdgr.exactdn.com/blog/wp-content/uploads/2018/09/orgzit_logo.png?strip=all&lossy=1&ssl=1",
+              "width": 175,
+              "height": 50,
+              "caption": "Orgzit"
+            },
+            "image": {
+              "@id": "https://orgzit.com/blog/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://twitter.com/orgzit",
+              "https://www.linkedin.com/company/orgzit/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories/1321"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://orgzit.com/blog/wp-json/wp/v2/posts?categories=1321"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+fragment BlogParts on Blog {
+  __typename
+  draft
+  featured
+  title
+  slug
+  date
+  excerpt
+  author
+  authorSlug
+  categories
+  tags
+  featuredImage
+  featuredImageAlt
+  seoTitle
+  seoDescription
+  ogImage
+  canonicalUrl
+  noIndex
+  twitterCard
+  body
+}

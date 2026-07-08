@@ -5,6 +5,7 @@ import Navbar from '@components/layout/Navbar.astro';
 import Footer from '@components/layout/Footer.astro';
 import BlogCard from '@components/blog/BlogCard.astro';
 import Pagination from '@components/ui/Pagination.astro';
+import { withBase } from '@lib/paths';
 
 const POSTS_PER_PAGE = 12;
 
@@ -35,7 +36,7 @@ const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
               {featured.data.featuredImage
                 ? (
                   <img
-                    src={featured.data.featuredImage}
+                    src={withBase(featured.data.featuredImage)}
                     alt={featured.data.featuredImageAlt}
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="eager"

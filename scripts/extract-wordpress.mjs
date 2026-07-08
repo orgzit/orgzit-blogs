@@ -8,10 +8,34 @@ import { gfm } from 'turndown-plugin-gfm';
 import fs from 'fs-extra';
 import path from 'path';
 import https from 'https';
+import http from 'http';
+import crypto from 'crypto';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const API = process.env.WP_API || 'https://orgzit.com/blog/wp-json/wp/v2';
+
+// ─── AUTHOR FALLBACK ───────────────────────────────────────────
+// Wordfence blocks the /wp/v2/users endpoint for unauthenticated requests
+// (rest_user_cannot_view), so real author data can't be fetched from the
+// API. These IDs come directly from WP Admin → Users and must match each
+// post's numeric `author` field for attribution to work.
+function gravatarUrl(email) {
+  const hash = crypto.createHash('md5').update(email.trim().toLowerCase()).digest('hex');
+  return `https://www.gravatar.com/avatar/${hash}?s=96&d=identicon`;
+}
+
+const FALLBACK_AUTHORS = [
+  {
+    id: 1, slug: 'pavan', name: 'Pavan Verma',
+    description: "Pavan is the CTO of Orgzit. When not hacking code or helping customers, Pavan loves to listen to different kinds of music and travel with his 8-year old son and 1-year old daughter. Talk with Pavan on <a href=\"https://twitter.com/yinyangpavan\">Twitter</a> and connect with him on <a href=\"https://in.linkedin.com/in/pavanv0\">LinkedIn</a>.",
+    avatar_urls: { '96': gravatarUrl('pavan@orgzit.com') },
+  },
+  { id: 2,  slug: 'nitin',       name: 'Nitin Verma',     description: '', avatar_urls: { '96': gravatarUrl('nitin@orgzit.com') } },
+  { id: 5,  slug: 'kartik',      name: 'Kartik Dulloo',   description: '', avatar_urls: { '96': gravatarUrl('kartik@p3infotech.in') } },
+  { id: 19, slug: 'orgzit-guest-blogger', name: 'Guest Blogger', description: '', avatar_urls: { '96': gravatarUrl('nitinv8@gmail.com') } },
+  { id: 29, slug: 'olivia_davis', name: 'Olivia Davis',   description: '', avatar_urls: { '96': gravatarUrl('marketing@orgzit.com') } },
+];
 
 // ─── TURNDOWN CONFIG ──────────────────────────────────────────
 const td = new TurndownService({
@@ -51,11 +75,15 @@ function cleanHTML(html) {
 // ─── HTML ENTITY DECODER ──────────────────────────────────────
 function decodeEntities(str) {
   return str
-    .replace(/&#8217;/g, "'").replace(/&#8216;/g, "'")
-    .replace(/&#8220;/g, '"').replace(/&#8221;/g, '"')
-    .replace(/&#8211;/g, '–').replace(/&#8212;/g, '—')
-    .replace(/&amp;/g, '&').replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>').replace(/&quot;/g, '"');
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(parseInt(code, 10)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&hellip;/g, '…')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
 }
 
 // ─── IMAGE DOWNLOADER ─────────────────────────────────────────
@@ -63,13 +91,18 @@ async function downloadImage(url, destPath) {
   if (!url || !url.startsWith('http')) return false;
   await fs.ensureDir(path.dirname(destPath));
   if (await fs.pathExists(destPath)) return true;
+  const client = url.startsWith('https') ? https : http;
   return new Promise((resolve) => {
-    const file = fs.createWriteStream(destPath);
-    https.get(url, (res) => {
-      if (res.statusCode !== 200) { resolve(false); return; }
-      res.pipe(file);
-      file.on('finish', () => file.close(() => resolve(true)));
-    }).on('error', () => resolve(false));
+    try {
+      const file = fs.createWriteStream(destPath);
+      client.get(url, (res) => {
+        if (res.statusCode !== 200) { resolve(false); return; }
+        res.pipe(file);
+        file.on('finish', () => file.close(() => resolve(true)));
+      }).on('error', () => resolve(false));
+    } catch {
+      resolve(false);
+    }
   });
 }
 
@@ -88,8 +121,8 @@ function rewriteImageUrls(markdown) {
 function buildFrontmatter(post, authors) {
   const author   = authors.find(a => a.id === post.author);
   const allTerms = post._embedded?.['wp:term'] ?? [];
-  const categories = (allTerms[0] ?? []).map(t => t.name);
-  const tags       = (allTerms[1] ?? []).map(t => t.name);
+  const categories = (allTerms[0] ?? []).map(t => decodeEntities(t.name));
+  const tags       = (allTerms[1] ?? []).map(t => decodeEntities(t.name));
   const media      = post._embedded?.['wp:featuredmedia']?.[0];
   const y          = post.yoast_head_json ?? {};
   const featuredImageUrl = media?.source_url ?? '';
@@ -106,14 +139,14 @@ function buildFrontmatter(post, authors) {
     authorAvatar:     author?.avatar_urls?.['96'] ?? '',
     categories,
     tags,
-    featuredImage:    featuredFilename ? `/blog/blog-images/${featuredFilename}` : '',
+    featuredImage:    featuredFilename ? `/blog-images/${featuredFilename}` : '',
     featuredImageAlt: media?.alt_text ?? decodeEntities(post.title.rendered),
     excerpt:          decodeEntities(post.excerpt.rendered.replace(/<[^>]+>/g, '').trim()).substring(0, 200),
     seoTitle:         decodeEntities(y.title ?? post.title.rendered),
     seoDescription:   decodeEntities(y.description ?? ''),
     ogImage:          y.og_image?.[0]?.url
-      ? `/blog/blog-images/${path.basename(y.og_image[0].url.split('?')[0])}`
-      : (featuredFilename ? `/blog/blog-images/${featuredFilename}` : ''),
+      ? `/blog-images/${path.basename(y.og_image[0].url.split('?')[0])}`
+      : (featuredFilename ? `/blog-images/${featuredFilename}` : ''),
     twitterCard:      y.twitter_card ?? 'summary_large_image',
     noIndex:          y.robots?.index === 'noindex',
     canonicalUrl:     post.link,
@@ -155,11 +188,15 @@ featured: ${fm.featured}
 async function fetchAll(endpoint) {
   const items = [];
   let page = 1;
+  const separator = endpoint.includes('?') ? '&' : '?';
   while (true) {
-    const url = `${API}/${endpoint}?per_page=100&page=${page}&_embed=true`;
+    const url = `${API}/${endpoint}${separator}per_page=100&page=${page}&_embed=true`;
     console.log(`  Fetching: ${url}`);
     const res = await fetch(url);
-    if (!res.ok) break;
+    if (!res.ok) {
+      console.log(`  ⚠ ${url} → ${res.status}`);
+      break;
+    }
     const batch = await res.json();
     if (!Array.isArray(batch) || batch.length === 0) break;
     items.push(...batch);
@@ -179,10 +216,16 @@ async function main() {
   await fs.ensureDir('public/blog-images');
 
   console.log('Step 1: Fetching WordPress data...');
-  const posts      = await fetchAll('posts?status=publish');
-  const categories = await fetchAll('categories?hide_empty=true');
-  const tags       = await fetchAll('tags?hide_empty=true');
-  const authors    = await fetchAll('users');
+  const posts           = await fetchAll('posts?status=publish');
+  const rawCategories   = await fetchAll('categories?hide_empty=true');
+  const rawTags         = await fetchAll('tags?hide_empty=true');
+  const categories = rawCategories.map(c => ({ ...c, name: decodeEntities(c.name) }));
+  const tags       = rawTags.map(t => ({ ...t, name: decodeEntities(t.name) }));
+  let authors = await fetchAll('users');
+  if (authors.length === 0) {
+    console.log('  ⚠ /users endpoint blocked (Wordfence) — using hardcoded author fallback');
+    authors = FALLBACK_AUTHORS;
+  }
   console.log(`  ✓ ${posts.length} posts, ${categories.length} categories, ${tags.length} tags, ${authors.length} authors\n`);
 
   await fs.writeJSON('src/content/data/categories.json', categories, { spaces: 2 });
