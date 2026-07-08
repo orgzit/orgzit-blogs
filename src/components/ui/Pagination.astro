@@ -1,0 +1,48 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages:  number;
+  baseUrl:     string;
+}
+
+const { currentPage, totalPages, baseUrl } = Astro.props;
+
+function pageUrl(n: number) {
+  return n === 1 ? `${baseUrl}/` : `${baseUrl}/page/${n}/`;
+}
+---
+{totalPages > 1 && (
+  <nav aria-label="Pagination" class="flex justify-center items-center gap-2 mt-12">
+    {currentPage > 1 && (
+      <a
+        href={pageUrl(currentPage - 1)}
+        class="px-4 py-2 text-sm font-medium text-slate-600 bg-white border border-slate-200 rounded-lg hover:border-brand-300 hover:text-brand-600 transition-colors"
+      >
+        ← Previous
+      </a>
+    )}
+
+    {Array.from({ length: totalPages }, (_, i) => i + 1).map(n => (
+      <a
+        href={pageUrl(n)}
+        aria-current={n === currentPage ? 'page' : undefined}
+        class={`px-4 py-2 text-sm font-medium rounded-lg transition-colors
+          ${n === currentPage
+            ? 'bg-brand-600 text-white border border-brand-600'
+            : 'bg-white text-slate-600 border border-slate-200 hover:border-brand-300 hover:text-brand-600'
+          }`}
+      >
+        {n}
+      </a>
+    ))}
+
+    {currentPage < totalPages && (
+      <a
+        href={pageUrl(currentPage + 1)}
+        class="px-4 py-2 text-sm font-medium text-slate-600 bg-white border border-slate-200 rounded-lg hover:border-brand-300 hover:text-brand-600 transition-colors"
+      >
+        Next →
+      </a>
+    )}
+  </nav>
+)}

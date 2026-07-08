@@ -1,0 +1,24 @@
+---
+import type { TOCItem } from '@lib/toc';
+
+interface Props {
+  items: TOCItem[];
+}
+
+const { items } = Astro.props;
+---
+<nav aria-label="Table of contents" class="bg-slate-50 border border-slate-200 rounded-xl p-5">
+  <h2 class="text-sm font-semibold text-slate-900 uppercase tracking-wider mb-3">Contents</h2>
+  <ol class="space-y-1.5">
+    {items.map(item => (
+      <li class={item.level === 3 ? 'pl-4' : ''}>
+        <a
+          href={`#${item.id}`}
+          class="text-sm text-slate-600 hover:text-brand-600 transition-colors leading-snug block"
+        >
+          {item.text}
+        </a>
+      </li>
+    ))}
+  </ol>
+</nav>

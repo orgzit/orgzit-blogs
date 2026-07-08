@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /blog/
+Disallow: /admin/
+
+Sitemap: https://orgzit.com/blog/sitemap.xml

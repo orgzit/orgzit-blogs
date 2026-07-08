@@ -1,0 +1,28 @@
+---
+interface Props {
+  url:   string;
+  title: string;
+}
+
+const { url, title } = Astro.props;
+const encoded = { url: encodeURIComponent(url), title: encodeURIComponent(title) };
+---
+<div class="mt-8 flex items-center gap-3">
+  <span class="text-sm font-medium text-slate-600">Share:</span>
+  <a
+    href={`https://twitter.com/intent/tweet?url=${encoded.url}&text=${encoded.title}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-sm px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors"
+  >
+    Twitter
+  </a>
+  <a
+    href={`https://www.linkedin.com/shareArticle?mini=true&url=${encoded.url}&title=${encoded.title}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-sm px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors"
+  >
+    LinkedIn
+  </a>
+</div>

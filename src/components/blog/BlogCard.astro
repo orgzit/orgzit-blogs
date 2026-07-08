@@ -1,0 +1,53 @@
+---
+import { formatDate } from '@lib/dates';
+import type { Post } from '@app-types/blog';
+
+interface Props {
+  post: Omit<Post, 'readingTime' | 'slug'>;
+  slug: string;
+}
+
+const { post, slug } = Astro.props;
+---
+<article class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:border-brand-300 hover:shadow-md transition-all flex flex-col">
+  <a href={`/blog/${slug}/`} class="block aspect-video bg-slate-100 overflow-hidden">
+    {post.featuredImage
+      ? (
+        <img
+          src={post.featuredImage}
+          alt={post.featuredImageAlt}
+          class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+          loading="lazy"
+          width="400"
+          height="225"
+        />
+      )
+      : (
+        <div class="w-full h-full bg-gradient-to-br from-brand-100 to-brand-50 flex items-center justify-center">
+          <span class="text-brand-300 text-4xl font-bold">{post.title[0]}</span>
+        </div>
+      )
+    }
+  </a>
+  <div class="p-5 flex flex-col flex-1">
+    {post.categories[0] && (
+      <a
+        href={`/blog/category/${post.categories[0].toLowerCase().replace(/\s+/g, '-')}/`}
+        class="text-xs font-semibold text-brand-600 uppercase tracking-wider mb-2 hover:text-brand-700"
+      >
+        {post.categories[0]}
+      </a>
+    )}
+    <a href={`/blog/${slug}/`} class="flex-1">
+      <h2 class="font-bold text-slate-900 text-base leading-snug mb-2 group-hover:text-brand-700 line-clamp-2">
+        {post.title}
+      </h2>
+      <p class="text-slate-500 text-sm leading-relaxed line-clamp-2">{post.excerpt}</p>
+    </a>
+    <div class="flex items-center gap-2 mt-4 text-xs text-slate-400">
+      <span>{post.author}</span>
+      <span>·</span>
+      <time datetime={post.date}>{formatDate(post.date)}</time>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,18 @@
+---
+import BlogCard from './BlogCard.astro';
+import type { Post } from '@app-types/blog';
+
+interface Props {
+  posts: Post[];
+}
+
+const { posts } = Astro.props;
+---
+{posts.length > 0 && (
+  <section class="mt-16 pt-12 border-t border-slate-200">
+    <h2 class="text-xl font-bold text-slate-900 mb-6">Related Articles</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {posts.map(post => <BlogCard post={post} slug={post.slug} />)}
+    </div>
+  </section>
+)}
