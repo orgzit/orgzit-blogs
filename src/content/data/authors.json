@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": 1,
+    "slug": "pavan",
+    "name": "Pavan Verma",
+    "description": "Pavan is the CTO of Orgzit. When not hacking code or helping customers, Pavan loves to listen to different kinds of music and travel with his 8-year old son and 1-year old daughter. Talk with Pavan on <a href=\"https://twitter.com/yinyangpavan\">Twitter</a> and connect with him on <a href=\"https://in.linkedin.com/in/pavanv0\">LinkedIn</a>.",
+    "avatar_urls": {
+      "96": "https://www.gravatar.com/avatar/cab26faf5e9740ad6703a03458ae83f9?s=96&d=identicon"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "nitin",
+    "name": "Nitin Verma",
+    "description": "",
+    "avatar_urls": {
+      "96": "https://www.gravatar.com/avatar/912522b2c5bcb0045a42001ecb9df955?s=96&d=identicon"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "kartik",
+    "name": "Kartik Dulloo",
+    "description": "",
+    "avatar_urls": {
+      "96": "https://www.gravatar.com/avatar/d3d4d2e90d435ac91a38b29a02a1337e?s=96&d=identicon"
+    }
+  },
+  {
+    "id": 19,
+    "slug": "orgzit-guest-blogger",
+    "name": "Guest Blogger",
+    "description": "",
+    "avatar_urls": {
+      "96": "https://www.gravatar.com/avatar/8f0a8f47c5275106b7c8843328eec24d?s=96&d=identicon"
+    }
+  },
+  {
+    "id": 29,
+    "slug": "olivia_davis",
+    "name": "Olivia Davis",
+    "description": "",
+    "avatar_urls": {
+      "96": "https://www.gravatar.com/avatar/74bd31d820bcad0e88c1363b0530884e?s=96&d=identicon"
+    }
+  }
+]
