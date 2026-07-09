@@ -504,7 +504,7 @@ export const ExperimentalGetTinaClient = () =>
   getSdk(
     generateRequester(
       createClient({
-        url: "http://localhost:4001/graphql",
+        url: "https://content.tinajs.io/2.4/content/9dd68aa3-cac3-48a2-a4aa-2b88e58846e2/github/main",
         queries,
       })
     )
