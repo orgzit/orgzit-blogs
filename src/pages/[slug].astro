@@ -14,6 +14,7 @@ import { getReadingTime } from '@lib/readingTime';
 import { getRelatedPosts } from '@lib/related';
 import { formatDate, isoDate } from '@lib/dates';
 import { withBase } from '@lib/paths';
+import { slugify } from '@lib/slugify';
 import type { Post } from '@app-types/blog';
 
 export async function getStaticPaths() {
@@ -42,7 +43,7 @@ const relatedPosts = getRelatedPosts(
 );
 
 const postUrl = `https://orgzit.com/blog/${post.slug}/`;
-const catSlug = (cat: string) => cat.toLowerCase().replace(/\s+/g, '-');
+const catSlug = slugify;
 
 const siteUrl = 'https://orgzit.com';
 const rawImage = post.data.ogImage || post.data.featuredImage || '/blog-images/default-og.png';
@@ -177,7 +178,7 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
             <div class="flex flex-wrap gap-2">
               {post.data.tags.map(tag => (
                 <a
-                  href={`/blog/tag/${tag.toLowerCase().replace(/\s+/g, '-')}/`}
+                  href={`/blog/tag/${slugify(tag)}/`}
                   class="text-sm bg-slate-100 hover:bg-slate-200 text-slate-600 px-3 py-1 rounded-full transition-colors"
                 >
                   #{tag}

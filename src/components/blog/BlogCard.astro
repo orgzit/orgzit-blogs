@@ -1,6 +1,7 @@
 ---
 import { formatDate } from '@lib/dates';
 import { withBase } from '@lib/paths';
+import { slugify } from '@lib/slugify';
 import type { Post } from '@app-types/blog';
 
 interface Props {
@@ -33,7 +34,7 @@ const { post, slug } = Astro.props;
   <div class="p-5 flex flex-col flex-1">
     {post.categories[0] && (
       <a
-        href={`/blog/category/${post.categories[0].toLowerCase().replace(/\s+/g, '-')}/`}
+        href={`/blog/category/${slugify(post.categories[0])}/`}
         class="text-xs font-semibold text-brand-600 uppercase tracking-wider mb-2 hover:text-brand-700"
       >
         {post.categories[0]}
