@@ -5,8 +5,8 @@ const blog = defineCollection({
   schema: z.object({
     title:            z.string(),
     slug:             z.string().optional(),
-    date:             z.string(),
-    updatedDate:      z.string().optional(),
+    date:             z.preprocess((v) => (v instanceof Date ? v.toISOString() : v), z.string()),
+    updatedDate:      z.preprocess((v) => (v instanceof Date ? v.toISOString() : v), z.string()).optional(),
     author:           z.string(),
     authorSlug:       z.string(),
     authorAvatar:     z.string().optional(),
