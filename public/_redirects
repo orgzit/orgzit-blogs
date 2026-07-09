@@ -1,2 +1,5 @@
 # Add URL changes here after migration
 # Format: /old-url/   /new-url/   301
+
+# Fix TinaCMS Media Manager thumbnail previews missing the /blog base path
+/blog-images/*  /blog/blog-images/*  200
