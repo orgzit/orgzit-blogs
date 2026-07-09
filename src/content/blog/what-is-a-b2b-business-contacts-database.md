@@ -18,7 +18,7 @@ tags:
   - "Sales Techniques"
   - "Workflow Automation"
 featuredImage: "/blog-images/B2B-Contact-DATABASE.png"
-featuredImageAlt: ""
+featuredImageAlt: "What is a B2B Business Contacts Database?"
 excerpt: "Do you want to easily identify and connect with your target audience and grow your business by building relationships with decision-makers? Then, you need a…"
 seoTitle: "What is a B2B Business Contacts Database? | Orgzit Blog"
 seoDescription: "Do you want to easily identify and connect with your target audience and grow your business by building relationships with decision-makers? Then, you need a B2B business contacts database. A B2B contact database is an application that stores and manages a list of businesses and their decision-makers."

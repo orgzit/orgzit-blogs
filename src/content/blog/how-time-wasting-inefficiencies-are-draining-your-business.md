@@ -15,7 +15,7 @@ tags:
   - "B2B Industry"
   - "CRM"
 featuredImage: "/blog-images/3.png"
-featuredImageAlt: ""
+featuredImageAlt: "How Time-Wasting Inefficiencies Are Draining Your Business"
 excerpt: "If I asked you to name the scarcest resource in your business, what would you say? Hint: There’s only one correct answer—time. Time is the…"
 seoTitle: "How Time-Wasting Inefficiencies Are Draining Your Business | Orgzit Blog"
 seoDescription: "Discover how daily inefficiencies drain your business. Don't let them hold you back—read more & unlock the path to greater efficiency and growth."

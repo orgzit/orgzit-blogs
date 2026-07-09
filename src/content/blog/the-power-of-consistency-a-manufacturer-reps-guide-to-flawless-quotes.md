@@ -20,7 +20,7 @@ tags:
   - "Productivity"
   - "Sales Tools"
 featuredImage: "/blog-images/6.png"
-featuredImageAlt: ""
+featuredImageAlt: "The Power of Consistency: A Manufacturer Rep’s Guide to Flawless Quotes"
 excerpt: "Did you know that over 60% of sales are lost due to inconsistent quoting?  That’s a lot considering the cutthroat competition in the market, where…"
 seoTitle: "The Power of Consistency: A Manufacturer Rep's Guide to Flawless Quotes | Orgzit Blog"
 seoDescription: "Learn how manufacturer reps can achieve quote consistency with standardized procedures and sales management systems. Enhance accuracy, build trust, and improve efficiency with these practical tips."

@@ -12,7 +12,7 @@ categories:
   - "Workflow Management"
 tags: []
 featuredImage: "/blog-images/workflow-icon-with-checklist-and-gear-vector.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "10 Essential Workflow System Features"
 excerpt: "Where is the monthly report? Did you check the mail I sent in the morning? Did the client approve the revision? If you have been…"
 seoTitle: "10 Essential Workflow System Features | Orgzit Blog"
 seoDescription: "Workflow system ensures that your company follows a specific process and executes it efficiently. Check out the 10 essential workflow system features."

@@ -18,7 +18,7 @@ tags:
   - "Benefits of CRM"
   - "CRM"
 featuredImage: "/blog-images/2-2.png"
-featuredImageAlt: ""
+featuredImageAlt: "Are you using your CRM to its full potential?"
 excerpt: "Imagine investing in a cutting-edge CRM after reading this: “Per salesperson, a CRM can increase revenue by 41%.” This is the most common mistake every…"
 seoTitle: "Are you using your CRM to its full potential? | Orgzit Blog"
 seoDescription: "Discover how to fully leverage your CRM investment. Learn common adoption challenges and effective CRM strategy to maximize your growth."

@@ -15,7 +15,7 @@ categories:
   - "Uncategorized"
 tags: []
 featuredImage: "/blog-images/Top-6-proven-blog-6.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Top 6 Proven ways To Improve Sales Efficiency"
 excerpt: "“Don’t find customers for your products, find products for your customers.” – Seth Godin Well, Godin is right! In today’s ever-competitive market, making a product that…"
 seoTitle: "Top 6 Proven ways To Improve Sales Efficiency | Orgzit Blog"
 seoDescription: "Top 6 ways to improve sales efficiency for any organization to ensure a comprehensive sale boost & ROI."

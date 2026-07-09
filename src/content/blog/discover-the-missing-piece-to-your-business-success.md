@@ -11,7 +11,7 @@ categories:
   - "Uncategorized"
 tags: []
 featuredImage: "/blog-images/4.png"
-featuredImageAlt: ""
+featuredImageAlt: "Discover the Missing Piece to Your Business Success"
 excerpt: "Ever started your day without a plan? It feels chaotic, right?  The same goes for your business.  Without the right system, things can get messy…"
 seoTitle: "Discover the Missing Piece to Your Business Success | Orgzit Blog"
 seoDescription: "Learn how choosing the right system can improve efficiency, and help your business grow. Discover the benefits of the right CRM or ERP for your business."

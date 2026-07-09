@@ -17,7 +17,7 @@ tags:
   - "CRM"
   - "No Code"
 featuredImage: "/blog-images/3-3.png"
-featuredImageAlt: ""
+featuredImageAlt: "Manufacturers’ Reps: Is Your CRM More of a Hassle Than a Help?"
 excerpt: "Are you tired of using a CRM that just doesn’t fit your needs?  Maybe it’s too rigid, forcing you to adapt your workflows to its…"
 seoTitle: "Manufacturers’ Reps: Is Your CRM More of a Hassle Than a Help? | Orgzit Blog"
 seoDescription: "Discover how a no-code CRM can simplify the unique challenges of manufacturers' reps, offering tailored solutions without the hassle"

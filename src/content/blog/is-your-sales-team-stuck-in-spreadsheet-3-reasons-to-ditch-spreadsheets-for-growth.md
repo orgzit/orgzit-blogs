@@ -17,7 +17,7 @@ tags:
   - "Sales Tools"
   - "Workflow Automation"
 featuredImage: "/blog-images/4.png"
-featuredImageAlt: ""
+featuredImageAlt: "Is Your Sales Team Stuck in Spreadsheet? 3 Reasons to Ditch Spreadsheets for Growth."
 excerpt: "Since their introduction, spreadsheets have become the lifeline of sales managers and their teams, handling and sorting their data.  While spreadsheets are useful with small…"
 seoTitle: "Is Your Sales Team Stuck in Spreadsheet? 3 Reasons to Ditch Spreadsheets for Growth. | Orgzit Blog"
 seoDescription: "Are your sales reps stuck in spreadsheets? Discover three compelling reasons to ditch them for growth and embrace a more efficient sales management system. Say goodbye to the limitations of spreadsheets and hello to streamlined sales processes and data-driven success."

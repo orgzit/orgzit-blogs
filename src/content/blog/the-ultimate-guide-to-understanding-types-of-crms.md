@@ -19,7 +19,7 @@ tags:
   - "Productivity"
   - "Types of CRM"
 featuredImage: "/blog-images/blog-60.1-1.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "The ultimate guide to understanding types of CRMs"
 excerpt: "Find out the CRM that is best fit for you. By exploring the different CRMs that fit different business needs."
 seoTitle: "The ultimate guide to understanding types of CRMs | Orgzit Blog"
 seoDescription: "The ultimate handbook to everything related to CRMs; from types to myths."

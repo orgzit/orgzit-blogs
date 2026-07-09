@@ -17,7 +17,7 @@ tags:
   - "Productivity"
   - "Workflow Automation"
 featuredImage: "/blog-images/3-2.png"
-featuredImageAlt: ""
+featuredImageAlt: "Why Spreadsheets Could Be Holding Your Business Back"
 excerpt: "It’s a typical Tuesday morning, and Mark, the owner of a small manufacturing business, is sitting at his desk, staring at the maze of spreadsheets…"
 seoTitle: "Why Spreadsheets Could Be Holding Your Business Back | Orgzit Blog"
 seoDescription: "Discover the hidden costs of relying on spreadsheets for your business. Learn why upgrading to advanced tools like CRM or ERP can boost efficiency and drive growth."

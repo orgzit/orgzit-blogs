@@ -20,7 +20,7 @@ tags:
   - "CRM"
   - "No Code"
 featuredImage: "/blog-images/Blog-595.png"
-featuredImageAlt: ""
+featuredImageAlt: "How No-Code CRMs Cater to the Unique Needs of Every Industry"
 excerpt: "Think about it—every business is different, right?  The size, the industry, the way things operate—there’s no one-size-fits-all.  But here’s the interesting part: a no-code CRM…"
 seoTitle: "How No-Code CRMs Cater to the Unique Needs of Every Industry | Orgzit Blog"
 seoDescription: "Learn how no-code CRMs adapt to any industry, streamlining operations and driving business growth with ease"

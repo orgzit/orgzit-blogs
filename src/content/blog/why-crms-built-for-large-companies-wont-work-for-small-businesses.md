@@ -17,7 +17,7 @@ tags:
   - "CRM"
   - "No Code"
 featuredImage: "/blog-images/3-2.png"
-featuredImageAlt: ""
+featuredImageAlt: "Why CRMs Built for Large Companies Won’t Work for Small Businesses"
 excerpt: "You’ve probably heard all the hype about the “best” CRMs on the market.  Those top-rated systems may shine in reviews, but are they truly designed…"
 seoTitle: "Why CRMs Built for Large Companies Won’t Work for Small Businesses | Orgzit Blog"
 seoDescription: "Discover why CRMs built for large enterprises don’t fit small businesses and how a custom CRM can provide the flexibility and scalability your SMB needs to grow."

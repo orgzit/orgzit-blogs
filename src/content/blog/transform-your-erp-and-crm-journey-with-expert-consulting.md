@@ -16,7 +16,7 @@ tags:
   - "Benefits of CRM"
   - "CRM"
 featuredImage: "/blog-images/3-1.png"
-featuredImageAlt: ""
+featuredImageAlt: "Transform Your ERP and CRM Journey with Expert Consulting"
 excerpt: "Are you feeling overwhelmed by the complexities of running your manufacturing or distribution business? As a manufacturer or distributor, running your business is already a…"
 seoTitle: "Transform Your ERP and CRM Journey with Expert Consulting | Orgzit Blog"
 seoDescription: "Transform your ERP and CRM journey with expert consulting to streamline implementation and enhance efficiency for sustainable business growth."

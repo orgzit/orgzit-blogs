@@ -19,7 +19,7 @@ tags:
   - "Custom CRM"
   - "Productivity"
 featuredImage: "/blog-images/84.1.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "3 Most Effective Ways for a Smooth CRM Implementation"
 excerpt: "As a business owner who is planning to buy and implement a CRM system, facing the common dilemma of whether we should build our own…"
 seoTitle: "3 Most Effective Ways for a Smooth CRM Implementation | Orgzit Blog"
 seoDescription: "Among the three ways, two are mostly known to 90% of buyers. Find out the third way that can transform your way of implementing a CRM"

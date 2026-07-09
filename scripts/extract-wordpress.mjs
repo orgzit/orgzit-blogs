@@ -140,7 +140,7 @@ function buildFrontmatter(post, authors) {
     categories,
     tags,
     featuredImage:    featuredFilename ? `/blog-images/${featuredFilename}` : '',
-    featuredImageAlt: media?.alt_text ?? decodeEntities(post.title.rendered),
+    featuredImageAlt: media?.alt_text || decodeEntities(post.title.rendered),
     excerpt:          decodeEntities(post.excerpt.rendered.replace(/<[^>]+>/g, '').trim()).substring(0, 200),
     seoTitle:         decodeEntities(y.title ?? post.title.rendered),
     seoDescription:   decodeEntities(y.description ?? ''),

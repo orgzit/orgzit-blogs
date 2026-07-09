@@ -18,7 +18,7 @@ tags:
   - "CRM"
   - "No Code"
 featuredImage: "/blog-images/2-3.png"
-featuredImageAlt: ""
+featuredImageAlt: "Not Sure Which CRM Fits? Find the Perfect Game-Changing Solution for Your Business"
 excerpt: "Are you confused about which CRM is best for your small business?  I completely understand!  It can be really overwhelming to choose the right one,…"
 seoTitle: "Not Sure Which CRM Fits? Find the Perfect Game-Changing Solution for Your Business | Orgzit Blog"
 seoDescription: "Not sure which CRM fits your business? Explore 3 different types of CRMs to find the best option for your growth."

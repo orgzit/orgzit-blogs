@@ -19,7 +19,7 @@ tags:
   - "Productivity"
   - "Workflow Automation"
 featuredImage: "/blog-images/3-1.png"
-featuredImageAlt: ""
+featuredImageAlt: "The Tech-Driven Route to Optimize your O2C Process"
 excerpt: "Is Your Business Getting Stuck in the Day-to-Day? Let’s Fix That Together.Let me ask you—does managing orders, sending out invoices, or chasing payments feel like…"
 seoTitle: "The Tech-Driven Route to Optimize your O2C Process | Orgzit Blog"
 seoDescription: "Struggling with your O2C? Optimize your O2C with tech solutions like CRM and ERP. Streamline tasks, improve cash flow, and enhance customer experience."

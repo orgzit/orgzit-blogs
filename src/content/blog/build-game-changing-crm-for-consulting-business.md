@@ -19,7 +19,7 @@ tags:
   - "Productivity"
   - "Project Management"
 featuredImage: "/blog-images/CRM-for-Consulting-Business.png"
-featuredImageAlt: ""
+featuredImageAlt: "Build Game-Changing CRM for Consulting Business"
 excerpt: "CRM for consulting businesses. A software that nourishes your consulting business, which needs to grow. It helps you to track and manage your leads, customers,…"
 seoTitle: "Build Game-Changing CRM for Consulting Business | Orgzit Blog"
 seoDescription: "CRM for consulting business can help you to better manage your leads, customers, and projects in one place."

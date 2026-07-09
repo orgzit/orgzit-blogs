@@ -18,7 +18,7 @@ tags:
   - "No Code"
   - "Productivity"
 featuredImage: "/blog-images/Add-a-heading.png"
-featuredImageAlt: ""
+featuredImageAlt: "Why you should not choose Dynamics 365: A guide to Best CRM for small businesses?"
 excerpt: "Microsoft Dynamics 365, a veteran player in the CRM market, offers decent features but has a hefty price tag and complexities. Enterprises may love it,…"
 seoTitle: "Why you should not choose Dynamics 365: A guide to Best CRM for small businesses? | Orgzit Blog"
 seoDescription: "Upcoming competitors to veteran players like Dynamics 365 can be better growth partner and best crm for small business"

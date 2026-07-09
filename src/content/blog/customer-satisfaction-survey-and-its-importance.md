@@ -13,7 +13,7 @@ categories:
   - "Uncategorized"
 tags: []
 featuredImage: "/blog-images/image_6483441-4.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Customer Satisfaction Survey And Its Importance"
 excerpt: "Quality in a service or product is not what you put into it. It is what the customer gets out of it.~ Peter Drucker As…"
 seoTitle: "Customer Satisfaction Survey And Its Importance | Orgzit Blog"
 seoDescription: "This blog shares the goal and importance of Customer Satisfaction Survey for your business leading to higher sales and customer retention."

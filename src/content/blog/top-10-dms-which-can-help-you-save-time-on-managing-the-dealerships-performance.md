@@ -17,7 +17,7 @@ tags:
   - "CRM"
   - "Productivity"
 featuredImage: "/blog-images/531.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Top 10 DMS which can help you save time on managing the dealership’s performance"
 excerpt: "A Dealership Management System allows a dealership to conduct all of the day-to-day duties that their dealership encounters, such as sales operations, financing operations, service…"
 seoTitle: "Top 10 DMS which can help you save time on managing the dealership's performance | Orgzit Blog"
 seoDescription: "Best dealership management systems; 1. Orgzit, 2. Salesforce Automotive, 3. DealerSocket, 4. VinSolutions, 5. HubSpot CRM, 6. CDK Global, 7. ProMax, 8. Elead, 9. AutoLoop, 10. Reynolds and Reynolds!"

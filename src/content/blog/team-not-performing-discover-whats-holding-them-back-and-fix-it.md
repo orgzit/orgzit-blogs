@@ -16,7 +16,7 @@ tags:
   - "CRM"
   - "Productivity"
 featuredImage: "/blog-images/3.png"
-featuredImageAlt: ""
+featuredImageAlt: "Team Not Performing? Discover What’s Holding Them Back and Fix It"
 excerpt: "Is Your Team Management Falling Short? Does managing your team feels like a constant struggle? Are you seeing issues like missed tasks or a lack…"
 seoTitle: "Team Not Performing? Discover What’s Holding Them Back and Fix It | Orgzit Blog"
 seoDescription: "Struggling with team management challenges in your small business? Discover practical solutions to overcome inefficiencies and improve your team's performance."

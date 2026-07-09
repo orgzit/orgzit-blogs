@@ -14,7 +14,7 @@ tags:
   - "CRM"
   - "No Code"
 featuredImage: "/blog-images/1.png"
-featuredImageAlt: ""
+featuredImageAlt: "Building a CRM Without Code: A Guide to No Code CRM"
 excerpt: "The very first step for building a CRM without code is to understand what a CRM does for your business. A CRM is like a…"
 seoTitle: "Building a CRM Without Code: A Guide to No Code CRM | Orgzit Blog"
 seoDescription: "Discover the benefits of using a no-code CRM platform and learn step-by-step how to make it up for your business requirements."

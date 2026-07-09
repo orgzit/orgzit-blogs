@@ -16,7 +16,7 @@ tags:
   - "Productivity"
   - "Workflow Automation"
 featuredImage: "/blog-images/3-2.png"
-featuredImageAlt: ""
+featuredImageAlt: "Cracking the Code to Solving Key Problems for SMBs"
 excerpt: "Ever felt like you’re juggling too many tasks at a time, and everything just seems overwhelming?  Running a small or medium-sized business often involves overcoming…"
 seoTitle: "Cracking the Code to Solving Key Problems for SMBs | Orgzit Blog"
 seoDescription: "Discover tech solutions for overcoming common problems for SMBs and enhance operations for growth. Let's dive in!"

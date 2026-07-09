@@ -16,7 +16,7 @@ tags:
   - "No Code"
   - "Productivity"
 featuredImage: "/blog-images/2-5.png"
-featuredImageAlt: ""
+featuredImageAlt: "The Future Is No-Code: Why Small Businesses Should Embrace It Now"
 excerpt: "Would you like to add customized features to your business system without worrying about long deployment times or high costs? Sounds too good to be…"
 seoTitle: "The Future Is No-Code: Why Small Businesses Should Embrace It Now | Orgzit Blog"
 seoDescription: "See how no-code empowers small businesses to streamline operations, cut costs, and boost growth—no developers needed."
