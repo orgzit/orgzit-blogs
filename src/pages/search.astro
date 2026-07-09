@@ -17,8 +17,9 @@ import Footer from '@components/layout/Footer.astro';
 </BaseLayout>
 
 <link href="/blog/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/blog/pagefind/pagefind-ui.js" is:inline></script>
 <script is:inline>
-  import('/blog/pagefind/pagefind-ui.js').then(({ PagefindUI }) => {
+  window.addEventListener('DOMContentLoaded', () => {
     new PagefindUI({
       element: '#search',
       showSubResults: true,
