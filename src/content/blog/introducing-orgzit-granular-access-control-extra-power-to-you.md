@@ -50,7 +50,7 @@ Let’s take an example. Mark runs a trading business with 35 employees. He uses
 1.  **Team Access Workspaces**: They’re used for workspaces open to all members connected to the account. Any information added to the team access projects can be browsed & searched by all collaborators.
 2.  **Private Access Workspaces**: These are generally used for confidential work. You have to be specifically invited to a private workspace in order to see and search its contents.
 
-![Projects\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/09/Private-Team-projects-1024x640.png)
+![Projects\_Orgzit](/blog/blog-images/Private-Team-projects-1024x640.png)
 
 To begin with, Mark created two team projects – _CRM_ & _Trading Operations,_ which were accessed by all his team members. **However, Mark did not want to share the business finances and company accounts with all his team members**. To achieve this he quickly created a Finance and Accounts project with ‘private access’ for tracking the progress of his business finances and accounts on a daily basis without compromising on his requirements for data security. _Pretty convenient! Right?_
 
@@ -66,7 +66,7 @@ In Orgzit, you can also define role-based access controls at each **Project leve
 2.  **Edit**: With ‘edit’ access, Orgzit project users can add/edit/view records.
 3.  **View**: With ‘view access, Orgzit project users will just be able to navigate through the records without being able to make any changes.
 
-![Orgzit\_Access\_Levels](http://blog.orgzit.com/wp-content/uploads/2017/09/Access-Levels-1024x640.png)
+![Orgzit\_Access\_Levels](/blog/blog-images/Access-Levels-1024x640.png)
 
 Since Mark strongly believes in efficiently delegating responsibilities and avoiding the need for micro-management, **he takes access controls one-step ahead in projects**. How? He gives Ted, Vice-President of Mark’s company _administrator_ access, inviting him into the small circle he shares with his trusted business partners. Ted takes the center stage and manages the duties assigned to him in Orgzit’s digital world without letting Mark become the bottleneck.
 
@@ -82,13 +82,13 @@ Mark’s team has become far more productive and his business is rapidly growing
 
 But expansion means more collaborators and more role defining. In order to effectively manage the growing business needs, Mark has set up another project in Orgzit called _Outsourced Services_, where his team and other collaborators work on providing top-notch after-sales services and customer support. **But Mark had some reservations about opening up his company’s data with external collaborators**. Since he would now have multiple sales reps and customer support executives working from remote locations, this project has multiple apps where all reps either capture leads or work on customer tickets. **He wanted to ensure that his outsourced operations team (customer support) should only have access to the information pertinent to them and the rest should be restricted**. This is where he started using Orgzit’s super powerful ‘[**user groups**](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)**’.**
 
-![Orgzit\_user\_groups](http://blog.orgzit.com/wp-content/uploads/2017/09/User-Groups-804x1024.png)
+![Orgzit\_user\_groups](/blog/blog-images/User-Groups-804x1024.png)
 
 Mark created two user groups – _Customer Support_ & _Sales Reps_ inside his _Outsourced Services Project_.
 
 Secondly, Mark prioritizes data security over quality and quantity. And he didn’t want his remote after-sales team to download the list of customers or any other personal information and run away with it. (Who would?) So he wanted to define permissions on the functions that these user groups will be able to perform. This is where **Orgzit Table Permissions** that provide enterprise-grade access control features came handy.
 
-![Orgzit\_app\_permissions](http://blog.orgzit.com/wp-content/uploads/2017/09/App-Permissions-804x1024.png)
+![Orgzit\_app\_permissions](/blog/blog-images/App-Permissions-804x1024.png)
 
 With such granular app permissions, Mark could provide _the external agency with very limited functionalities of viewing and adding new information. None of the external executives were given the permissions to download, delete or edit any customer data._
 
@@ -121,6 +121,6 @@ Other Scenarios Where Orgzit’s Granular Access Control Can Be Used?
 
 ## Quick Recap of Orgzit Access Control Features?
 
-![Orgzit\_Access\_Controls](http://blog.orgzit.com/wp-content/uploads/2017/09/Orgzit-Access-Controls-410x1024.png)
+![Orgzit\_Access\_Controls](/blog/blog-images/Orgzit-Access-Controls-410x1024.png)
 
 If you are looking for a platform where you could bring together your whole team as well as your clients to organize, collaborate, and analyze, [give us a holler](https://orgzit.com/?requestdemo=1) and we will set Orgzit up for you.

@@ -60,15 +60,15 @@ Many people start using sheets for managing standardized workflows (such as Sale
 1.  There is no way to _schedule the assigned tasks_ and no way to _link a task to a particular project_.
 2.  Secondly, you are unable to add files linked to your data (say a particular cell or row in your project management spreadsheet).
 
-![Google spreadsheets](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work.png)
+![Google spreadsheets](/blog/blog-images/Orgzit-simplifies-work.png)
 
 In Orgzit, you can do all this without switching between multiple tabs. You can _collaborate in real-time as well as assign tasks in a particular record_ there and then – immediately triggering a notification to the user to whom the task has been assigned.
 
-![Orgzit Is A Better Spreadsheet Alternative?](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work2-1.png)
+![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/Orgzit-simplifies-work2-1.png)
 
 Add multiple files in OrgzitAdd and schedule multiple tasks in Orgzit
 
-![Orgzit Is A Better Spreadsheet Alternative?](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work3-1.png)
+![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/Orgzit-simplifies-work3-1.png)
 
 **Related read:** [**How to perform task management in Orgzit**](https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/)
 
@@ -78,7 +78,7 @@ Now let’s say you’ve assigned a lot of tasks to your team members in Google 
 
 In Orgzit, you can simply see all tasks assigned to you at all three levels- Account level, Spaces level, and App level. You can also keep track of all your discussions in one place with ‘My discussions’ section.
 
-![Orgzit Is A Better Spreadsheet Alternative?](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work4.png)
+![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/Orgzit-simplifies-work4.png)
 
 See all discussions you had from all projects from all apps from all records.
 
@@ -100,11 +100,11 @@ This is where Orgzit takes the stage and allows you to define role-based access 
 
 Let’s say you are outsourcing content management services from a 3rd party agency and you are collaborating with them on sheets. In order to successfully establish project statuses, you’ll need to define a new field where you will need to manually update the progress from one stage to another. You’ll need to manually enter the data in spreadsheets.
 
-![Google spreadsheets](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work5.png)
+![Google spreadsheets](/blog/blog-images/Orgzit-simplifies-work5.png)
 
 In Orgzit, you can assign different stages to individual projects to track the progress at regular intervals. You can also setup status transition rules and workflows as per your particular business processes and requirements. For example, you can set up controls such that only the QA engineer or Project Manager can change the status of a project to Completed.
 
-[https://orgzit.com/blog/wp-content/uploads/2017/10/why-orgzit.mp4](https://orgzit.com/blog/wp-content/uploads/2017/10/why-orgzit.mp4)
+[why-orgzit.mp4](/blog/blog-images/why-orgzit.mp4)
 
 **You can quickly configure stages in Orgzit**
 
@@ -134,9 +134,9 @@ You’ll need to dig deep in Google spreadsheets, chances are higher you might m
 
 Whereas in Orgzit, you can check _detailed record changes_ in a click of a button, saving you time and providing you that exact piece of information that you were looking for.
 
-![Google spreadsheets](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work7.png)
+![Google spreadsheets](/blog/blog-images/Orgzit-simplifies-work7.png)
 
-![Orgzit Is A Better Spreadsheet Alternative?](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work8.png)
+![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/Orgzit-simplifies-work8.png)
 
 **You can quickly discover minute details in Orgzit**
 
@@ -159,7 +159,7 @@ For collaboration purposes, it is almost impossible for your team members to par
 
 In today’s mobile generation, people prefer the user-friendly interface of a mobile app rather than a web-app. And that’s exactly what Orgzit provides you.
 
-![Orgzit Is A Better Spreadsheet Alternative?](https://blog.orgzit.com/wp-content/uploads/2017/10/user_discussion_mobile.png)
+![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/user_discussion_mobile.png)
 
 **It can be tough to handle sheets while you are mobile**
 
@@ -169,7 +169,7 @@ In Orgzit, once you assign a task to any of your team member, they get a push no
 
 ### **#10 Google & China Have A History**
 
-![](https://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-simplifies-work10.png)
+![](/blog/blog-images/Orgzit-simplifies-work10.png)
 
 Last but not the least, if you are handling a project where the client is located in China (or you have any team members working there), you might be at a _collaboration cul-de-sac_ as Google Suite is completely blocked in China.
 
@@ -191,4 +191,4 @@ Spreadsheets support is mostly restricted to the documentation available on the 
 
 Or, if you’re having trouble deciding the right option for your business, just [give us a holler](mailto:collaborate@orgzit.com) and we will sit down with you to understand your business problems and guide the best possible solution.
 
-![Orgzit-Spreadsheet-Alternative](https://blog.orgzit.com/wp-content/uploads/2017/10/Spreadsheet-Alternative.png)
+![Orgzit-Spreadsheet-Alternative](/blog/blog-images/Spreadsheet-Alternative.png)

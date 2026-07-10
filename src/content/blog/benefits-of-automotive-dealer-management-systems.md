@@ -31,8 +31,6 @@ draft: false
 featured: false
 ---
 
-![Benefits of a High Quality Automotive Dealer Management System](/blog/blog-images/Automotive-Dealer-Management-System.jpg)
-
 Let’s get ready to drive success by accelerating your dealership’s operations. Allow a **dealer management** system (DMS) to take the wheel for this!
 
 A **dealership management system** can provide a centralized platform for managing all aspects of your dealership. It includes inventory and sales with finance and customer relationship management.

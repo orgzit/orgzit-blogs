@@ -79,7 +79,7 @@ Every business model has its hidden cons in the valley of pros. But how do you r
 
 # Look For Existing Solutions That Can Help Weed Out The Black sheep
 
-![co-innovation](http://blog.orgzit.com/wp-content/uploads/2017/07/Sheeps-2-.png)
+![co-innovation](/blog/blog-images/Sheeps-2-.png)
 
 Crawl the web and look for a solution that solves the problems faced by your team. Keep in mind that you are looking for a solution that is not a temporary fix but a scalable one. It should allow you to innovate without affecting your existing/legacy system.
 
@@ -116,7 +116,7 @@ Here is a process that you can follow –
 
 At Orgzit, things are taking turn for the best. Co-innovation is taking a definite shape – from idea to reality, and we are actively collaborating with entrepreneurs, working towards becoming their digital partners, thus, _taking and implementing agile at a wholly new level_.
 
-![Let's get productive!](http://blog.orgzit.com/wp-content/uploads/2017/07/Co-innovation.png)
+![Let's get productive!](/blog/blog-images/Co-innovation.png)
 
 Nitin, an engineer turned entrepreneur, strongly believes that the Orgzit technology platform coupled with creative partnerships for developing innovative solutions would act as the key enabler for opening new value chains or re-designing exiting ones for business to deliver immense value to their customers.
 

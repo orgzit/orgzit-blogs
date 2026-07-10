@@ -36,7 +36,7 @@ In Orgzit, I had the privilege of testing and experiencing a large variety of wo
 1.  Not every workflow management software is the same, and
 2.  Every organization has some unique characteristics which make a particular type of workflow management software most suitable for them.
 
-[![Google Trends for Workflow Automation](https://blog.orgzit.com/wp-content/uploads/2018/10/google-trends-workflow-automation-1024x344.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/google-trends-workflow-automation.png)
+[![Google Trends for Workflow Automation](/blog/blog-images/google-trends-workflow-automation-1024x344.png)](/blog/blog-images/google-trends-workflow-automation.png)
 
 With more people searching for workflow management software and with more products in the market.
 

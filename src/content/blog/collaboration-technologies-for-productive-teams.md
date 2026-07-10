@@ -63,7 +63,7 @@ The most important aspect of team collaboration is **communication**. Unfortunat
 
 ### **1\. Slack**
 
-[![slack screenshot](https://blog.orgzit.com/wp-content/uploads/2018/10/1-slack.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/1-slack.png)
+[![slack screenshot](/blog/blog-images/1-slack.png)](/blog/blog-images/1-slack.png)
 
 Slack is currently the tool of choice for many offices today for their collaboration needs. It is fast replacing Skype for instant messaging within the workspace. Slack provides a channel-based approach to team communication.
 
@@ -73,7 +73,7 @@ The best part is, Slack is free with search functionality for only up to **10,0
 
 ### **2\. Skype**
 
-[![skype desktop screenshot](https://blog.orgzit.com/wp-content/uploads/2018/10/2-skype-1024x641.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/2-skype.png)
+[![skype desktop screenshot](/blog/blog-images/2-skype-1024x641.png)](/blog/blog-images/2-skype.png)
 
 Skype remains the pioneer of voice/video calling and conferencing. It may not be as advanced as Slack, but Skype has been around for much longer and has worked on improving its call feature greatly. Slack also has a voice calling option, but it is not as good as Skype’s.
 
@@ -81,7 +81,7 @@ Skype is also great for sharing your screen with teammates during a video call.
 
 ### **3. Yammer**
 
-[![yammer community screenshot](https://blog.orgzit.com/wp-content/uploads/2018/10/3-yammer.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/3-yammer.png)
+[![yammer community screenshot](/blog/blog-images/3-yammer.png)](/blog/blog-images/3-yammer.png)
 
 Yammer is a private social networking tool that can help teams collaborate amongst themselves across various departments. Designed for companies with a lot of employees, Yammer lets you create groups within it for specific teams. Employees can talk within these groups or globally. A post is exactly like a Facebook update, which may be set to global or restricted to a specific group.
 
@@ -89,7 +89,7 @@ Tools such as Yammer contribute to building the overall environment and culture 
 
 ### **4\. HeySpace**
 
-![heyspace community screenshot](https://blog.orgzit.com/wp-content/uploads/2018/10/4-heyspace.png)
+![heyspace community screenshot](/blog/blog-images/4-heyspace.png)
 
 HeySpace has an interface very similar to Slack, but while Slack focuses on messaging and communication, HeySpace turns towards team communication, task collaboration and basic project management. It is a great, simplistic UI that is easy to use, and provides a lot of features for **free**. As such, it is a perfect tool for startup companies.
 
@@ -99,7 +99,7 @@ No matter what type of industry you work in. If you work at an office, chances a
 
 ### **5\. Sketch**
 
-[![sketch design software](https://blog.orgzit.com/wp-content/uploads/2018/10/5-sketch-1024x640.jpg)](https://blog.orgzit.com/wp-content/uploads/2018/10/5-sketch.jpg)
+[![sketch design software](/blog/blog-images/5-sketch-1024x640.jpg)](/blog/blog-images/5-sketch.jpg)
 
 Sketch is a very popular app used by UX designers for deliverables. Its real power lies in reusing design elements that a designer has once created, so you don’t have to repeat everything again. Sketch is a pretty intuitive design application.
 
@@ -107,13 +107,13 @@ Another major advantage to using Sketch is that its files can be **version contr
 
 ### **6\. InVision**
 
-[![invision collaborative design software](https://blog.orgzit.com/wp-content/uploads/2018/10/6-invision-1024x572.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/6-invision.png)
+[![invision collaborative design software](/blog/blog-images/6-invision-1024x572.png)](/blog/blog-images/6-invision.png)
 
 InVision is a professional grade prototyping tool that allows teams to create designs and bring them to life through interactive elements such as button clicks. Designers can get feedback from colleagues and customers from within InVision. All your projects are managed from a single dashboard, and you can also integrate two projects to create one seamless design experience.
 
 ### **7\. Draw.io**
 
-[![draw.io cloud design software](https://blog.orgzit.com/wp-content/uploads/2018/10/7-draw-io.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/7-draw-io.png)
+[![draw.io cloud design software](/blog/blog-images/7-draw-io.png)](/blog/blog-images/7-draw-io.png)
 
 Draw.io is a great free tool for creating flowcharts, diagrams, software artifact drawings, illustrations and so on. It seamlessly integrates with OneDrive or Google Drive, allowing you to create as many drawings as you want for free. The user interface is pretty intuitive and allows designers to quickly create wireframes or flow diagrams for demonstration purposes.
 
@@ -121,7 +121,7 @@ Draw.io is a great free tool for creating flowcharts, diagrams, software artifac
 
 ### **8\. Office Online**
 
-[![Microsoft Office Online](https://blog.orgzit.com/wp-content/uploads/2018/10/8-office-online-1024x580.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/8-office-online.png)
+[![Microsoft Office Online](/blog/blog-images/8-office-online-1024x580.png)](/blog/blog-images/8-office-online.png)
 
 **Microsoft Office** is hands-down the best Office suite available in the market right now, and Microsoft Word and Excel are subsequently the most used tools for creating documents and spreadsheets respectively. Office Online takes things online, where you don’t need to have Microsoft Office installed on your computer, and multiple people can work on a single document at the same time.
 
@@ -129,19 +129,19 @@ If an Office document is shared with two people, and they both have OneDrive syn
 
 ### **9\. Google Docs**
 
-[![Google Docs screenshot](https://blog.orgzit.com/wp-content/uploads/2018/10/9-google-docs.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/9-google-docs.png)
+[![Google Docs screenshot](/blog/blog-images/9-google-docs.png)](/blog/blog-images/9-google-docs.png)
 
 Google Docs is one of the most convenient forms of sharing documents online. Although not as advanced as Microsoft’s Office suite, Google Docs does allow quick creation of documents, spreadsheets and presentations. Furthermore, document sharing is extremely simple and easy, and just like Office Online, multiple people can work on the same documents at a time in Google Docs.
 
 ### **10\. Dropbox Paper**
 
-[![Dropbox Paper for collaborative document creation](https://blog.orgzit.com/wp-content/uploads/2018/10/10-dropbox-paper-1024x599.jpg)](https://blog.orgzit.com/wp-content/uploads/2018/10/10-dropbox-paper.jpg)
+[![Dropbox Paper for collaborative document creation](/blog/blog-images/10-dropbox-paper-1024x599.jpg)](/blog/blog-images/10-dropbox-paper.jpg)
 
 Dropbox Paper is an offering by Dropbox that allows teams to work in real-time alongside each other on documents, spreadsheets and so on. Paper is free for Dropbox users, and since there are so many Dropbox users out there, they can immensely benefit from using it as a collaboration tool.
 
 ### **11\. Evernote**
 
-[![Evernote personal and team task and note management software](https://blog.orgzit.com/wp-content/uploads/2018/10/11-evernote-1024x480.jpg)](https://blog.orgzit.com/wp-content/uploads/2018/10/11-evernote.jpg)
+[![Evernote personal and team task and note management software](/blog/blog-images/11-evernote-1024x480.jpg)](/blog/blog-images/11-evernote.jpg)
 
 Evernote is one of the best note-taking applications available on the market. You can use it to take notes, make to-do lists, draw sketches, jot down ideas, and then share with your team. Although not a professional documentation tool, Evernote is excellent for sharing ideas and concepts, and organizing your tasks.
 
@@ -153,7 +153,7 @@ There are many tools for **file sharing** that should make you let go of physica
 
 ### **12\. OneDrive**
 
-[![One Drive Cloud Files Sharing](https://blog.orgzit.com/wp-content/uploads/2018/10/12-onedrive.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/12-onedrive.png)
+[![One Drive Cloud Files Sharing](/blog/blog-images/12-onedrive.png)](/blog/blog-images/12-onedrive.png)
 
 **OneDrive** by Microsoft is one of the most popular cloud storage services that is known for its security and reliability. Although many competitors exist, such as Google Drive and Dropbox for file sharing, Microsoft OneDrive has the edge as it comes pre-installed with Windows 10, and furthermore allows Microsoft Office document sharing seamlessly.
 
@@ -161,13 +161,13 @@ OneDrive provides 5 GB of free space to everyone. However, you can extend this b
 
 ### **13\. Dropbox**
 
-[![Dropbox cloud and mobile file sharing](https://blog.orgzit.com/wp-content/uploads/2018/10/13-dropbox.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/13-dropbox.png)
+[![Dropbox cloud and mobile file sharing](/blog/blog-images/13-dropbox.png)](/blog/blog-images/13-dropbox.png)
 
 Dropbox is a pioneer of cloud storage and has over **500 million users** worldwide. It comes with a humble 2GB of storage space, but you can extend this by referring new friends to use the service, up to 18 GB in total. Dropbox has one of the best performing sync-client for Windows and is recommended for sharing large files with teams.
 
 ### **14\. Mega**
 
-[![Mega Large Files Sharing Software](https://blog.orgzit.com/wp-content/uploads/2018/10/14-mega-1024x533.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/14-mega.png)
+[![Mega Large Files Sharing Software](/blog/blog-images/14-mega-1024x533.png)](/blog/blog-images/14-mega.png)
 
 Speaking of large files, **Mega** has the best free cloud storage offering, giving you 50 GB of space for absolutely free. It incorporates state-of-the-art encryption as well to protect your data. Mega is ideal for sharing very large files, or lots of files, with team members when Dropbox and OneDrive fail due to their lack of storage space.
 
@@ -179,7 +179,7 @@ Project Management is key to running the office like a well-oiled engine. Many m
 
 ### **15\. Asana**
 
-[![Tasks Management with Asana](https://blog.orgzit.com/wp-content/uploads/2018/10/15-asana-1024x576.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/15-asana.png)
+[![Tasks Management with Asana](/blog/blog-images/15-asana-1024x576.png)](/blog/blog-images/15-asana.png)
 
 Asana is a very popular **project management tool** that allows teams to track their activities and progress. Managers can create and assign tasks, set deadlines and monitor team progress through the dashboard. Team members can also delegate tasks, work off a calendar, communicate with other team members and more.
 
@@ -187,7 +187,7 @@ Asana is free for up to 15 members, with basic dashboards and search functionali
 
 ### **16\. Jira**
 
-[![Technical Project and Scrum Management with Jira](https://blog.orgzit.com/wp-content/uploads/2018/10/16-jira-1024x572.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/16-jira.png)
+[![Technical Project and Scrum Management with Jira](/blog/blog-images/16-jira-1024x572.png)](/blog/blog-images/16-jira.png)
 
 JIRA is an extremely popular, and a very powerful tool for agile project management. It has all the features you’d expect: task tracking, reporting, real-time insights, road-maps and more. JIRA can also be used for automating software quality assurance, which is a big reason why most major IT firms use it for their agile projects.
 
@@ -195,7 +195,7 @@ JIRA offers a free 1-week trial. However, it costs $10 per month for up to 10 us
 
 ### **17\. Orgzit**
 
-[![Orgzit dashboards and workflow management](https://blog.orgzit.com/wp-content/uploads/2018/10/17-orgzit.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/17-orgzit.png)
+[![Orgzit dashboards and workflow management](/blog/blog-images/17-orgzit.png)](/blog/blog-images/17-orgzit.png)
 
 Orgzit is a powerful, all-in-one cloud-based platform for task management and team collaboration. It is built with the purpose of boosting productivity within an organization. Starting off, Orgzit provides ready-to-use launchers that can fit the needs of any business.
 
@@ -211,7 +211,7 @@ Source control, or version control, is something that is extensively used in the
 
 ### **18\. GitHub**
 
-[![GitHub Code Repository Built for Developers](https://blog.orgzit.com/wp-content/uploads/2018/10/18-github-1024x591.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/18-github.png)
+[![GitHub Code Repository Built for Developers](/blog/blog-images/18-github-1024x591.png)](/blog/blog-images/18-github.png)
 
 GitHub is the most popular code hosting repository on the internet, hosting more than 10 million software projects. It is based on the open-source version control framework known as **git**.
 
@@ -221,7 +221,7 @@ GitHub offers you to set up as many free repositories as you want. These reposit
 
 ### **19\. BitBucket**
 
-[![BitBucket Code Repository for Professional Teams](https://blog.orgzit.com/wp-content/uploads/2018/10/19-bitbucket-1024x570.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/19-bitbucket.png)
+[![BitBucket Code Repository for Professional Teams](/blog/blog-images/19-bitbucket-1024x570.png)](/blog/blog-images/19-bitbucket.png)
 
 Just like GitHub, BitBucket is a **git-based** version controlling platform that can keep all your code safe and backed up. They follow a different business model, however.
 
@@ -231,7 +231,7 @@ So, when version controlling, if you want your code to be publicly available, go
 
 ### **20\. Abstract**
 
-[![Abstract workflow and project management software](https://blog.orgzit.com/wp-content/uploads/2018/10/20-abstract-1024x556.png)](https://blog.orgzit.com/wp-content/uploads/2018/10/20-abstract.png)
+[![Abstract workflow and project management software](/blog/blog-images/20-abstract-1024x556.png)](/blog/blog-images/20-abstract.png)
 
 Version control systems such as GitHub work really well with text-based files, but they’re not designed for binary files, i.e. images, videos, encrypted documents etc. That’s where Abstract comes in. It is a **version control** **platform** for designers.
 

@@ -31,7 +31,7 @@ Below are some practical tips for building cross-functional team:
 
 If you want to maximize the effectiveness of your cross-functional team then you must learn to create groups that are diverse across a number of areas. Some of the ideas to factor in when developing a cross-functional team include experience, skills, gender, location, age, ability, and seniority.
 
-![Promote diversity-cross functional collaboration-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/01/1_hGMvSLqPl_mNT7uZE-0wA-1024x576.png)
+![Promote diversity-cross functional collaboration-Orgzit](/blog/blog-images/1_hGMvSLqPl_mNT7uZE-0wA-1024x576.png)
 
 #### **2\. Resist the urge to overschedule meetings:**
 
@@ -47,7 +47,7 @@ It is only human to be motivated by success. One of the surest ways of creating 
 
 Virtually every organization have special groups of people who are natural born leaders regardless of the position they occupy within the organization. These people are usually respected and well-liked, and can easily work with most other people within the organization. They are also motivators, capable of motivating and inspiring others to participate and excel at activities. These are the perfect individuals that you should involve in any collaboration effort, as they can spur others towards improved performance.
 
-![involve influencers-cross functional collaboration-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/01/blog_execvoices_influencer_mktng.jpg)
+![involve influencers-cross functional collaboration-Orgzit](/blog/blog-images/blog_execvoices_influencer_mktng.jpg)
 
 #### **5\. Leverage subject matter experts:**
 
@@ -91,7 +91,7 @@ The first step toward building trust is to identify if there are trust issues. T
 
 Early in a team’s developmental stage, arrange face-to-face direct meetings so everyone can put a face to a name. In scenarios where members are in different locations, hosting online video conferencing can simulate face-to-face interactions. These meetings create an avenue for team members to connect and build trust.
 
-![face to face meetings-cross functional collaboration-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/01/business-meeting.jpg)
+![face to face meetings-cross functional collaboration-Orgzit](/blog/blog-images/business-meeting.jpg)
 
 #### **2\. Partnering team members:**
 
@@ -109,7 +109,7 @@ Action plan outline helps team members to become more responsible. It clearly id
 
 Whenever there is a major accomplishment by team members, such as meeting with a tough deadline, making a big sale or solving a particularly challenging productivity issue, such victory should be celebrated as a team. This creates an avenue for team members to recognize the contributions of others as well as enhance reliability and perception of credibility.
 
-![celebrating a win-cross functional collaboration-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/01/celebration-770x514.jpg)
+![celebrating a win-cross functional collaboration-Orgzit](/blog/blog-images/celebration-770x514.jpg)
 
 #### **6\. Encourage team members to voice their concerns:**
 

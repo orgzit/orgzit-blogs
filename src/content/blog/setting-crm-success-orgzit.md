@@ -29,7 +29,7 @@ CRM applications haven’t always been the robust, stand-alone systems that many
 
 Whether it be through a spreadsheet-based software or a dedicated CRM software, it’s likely that you’re already using a structured format to manage your business leads and relationships. However, the grind of aggregating customer data into these applications takes focus away from establishing fruitful customer relationships. Using targeted approaches to manage client interactions through the different stages of the sales funnel is crucial to get your cash registers ringing.
 
-![Orgzit sales funnel AIDA](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-sales-funnel-AIDA.jpg)
+![Orgzit sales funnel AIDA](/blog/blog-images/Orgzit-sales-funnel-AIDA.jpg)
 
 Every business is unique and has singular processes and requirements. Irrespective of the kind of sales funnel you use, your leads are generally classifiable into either [inbound or outbound leads](http://curious.stratford.edu/2015/03/02/lead-generation-explained/). It is essential to learn how to balance your team’s efforts between inbound leads versus outbound leads or [new business opportunities](http://blogs.harvard.edu/vrm/2016/10/06/the-new-frontier-for-crm-is-cdl-customer-driven-leads/). Managing all of this, coupled with the various demands of business growth, can easily get out of hand for anyone, leading to missed business opportunities or unhappy clients.
 
@@ -43,7 +43,7 @@ With Orgzit, you can choose to start with just a simple shared contact manager o
 
 Different types of businesses need to track different kinds of information for each client or company they work with. An electrical products company that sells consumer electronics as well as healthcare equipment to institutions, such as hospitals, will need to track different kinds of client information for each of these divisions. For the consumer electronics division, it may suffice to track only customer names and contact information. On the other hand, for the healthcare equipment division, it would be important to capture a whole host of client details, including but not limited to company name, expected deal value, and deal stage.
 
-![Orgzit Leads app](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-Leads-app-1-1024x576.jpg)
+![Orgzit Leads app](/blog/blog-images/Orgzit-Leads-app-1-1024x576.jpg)
 
 With Orgzit, you can capture whatever sales data is relevant to your business, irrespective of the size or scale of your dealings or the nature of product or service that you sell. You could choose to begin with a fairly simple system that captures only names, email IDs, and phone numbers, and move on to a complex format that captures a variety of complex client information. The best part is that Orgzit is completely customizable and scalable. So you can quickly and effortlessly modify the structure for your sales information in Orgzit to meet the demands of a growing and evolving business.
 
@@ -87,9 +87,9 @@ When managing a sales team, it’s easy to get lost in the rigmarole of day-to-d
 
 Orgzit’s reports not only help you plan your sales efforts better, they also go a long way towards streamlining internal sales review meetings. They completely eliminate the need to spend hours crunching sales figures ahead of sessions or to go scampering after spreadsheets when someone asks for a figure that you haven’t come prepared with.
 
-![Orgzit CRM reports 1](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-CRM-reports-1-1024x576.jpg)
+![Orgzit CRM reports 1](/blog/blog-images/Orgzit-CRM-reports-1-1024x576.jpg)
 
-![Orgzit CRM reports 2](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-CRM-reports-2-1024x576.jpg)
+![Orgzit CRM reports 2](/blog/blog-images/Orgzit-CRM-reports-2-1024x576.jpg)
 
 **Pro Tip**: All Orgzit reports are dynamic and always represent the latest data from your apps.
 

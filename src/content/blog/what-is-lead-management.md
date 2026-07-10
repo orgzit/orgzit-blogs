@@ -84,7 +84,7 @@ If you emphasize on this situation, why do you think this would have happened? B
 
 Now imagine, if your website gets 10 leads every hour which makes the number of leads 240 every day. 240 a day is quite a big number to track.
 
-So, there is a chance of you missing out on leads which could have been a prospect for your organization. Missing out on leads will prove to be a loss for your business, as you know no [SALES LEADS](https://blog.orgzit.com/10-ways-to-manage-sales-leads-better/) no PROFIT!
+So, there is a chance of you missing out on leads which could have been a prospect for your organization. Missing out on leads will prove to be a loss for your business, as you know no [SALES LEADS](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) no PROFIT!
 
 Why do you think you will lose leads? Because you were not able to track them.
 

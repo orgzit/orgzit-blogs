@@ -91,7 +91,7 @@ Orgzit Dealer CRM Solution helps you get started in the right direction without 
 
 ## **Manage Your Dealer Network**
 
-[![Orgzit-Dealer-Orgznize](/blog/blog-images/Dealer-Organzie.png)](https://blog.orgzit.com/wp-content/uploads/2017/11/Dealer-Organzie.png)
+[![Orgzit-Dealer-Orgznize](/blog/blog-images/Dealer-Organzie.png)](/blog/blog-images/Dealer-Organzie.png)
 
 I think you understand how important it is to manage your dealer network. In Orgzit, you can create a **centralized database of all dealers Information – contacts, emails, etc.** Here are a few points –
 
@@ -126,7 +126,7 @@ Once your dealers, files and conversation in one place, you’ll realize that an
 
 ### **Customize Orgzit To Fit Your Business Processes**
 
-![Dealer\_Customize\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/11/Dealer-Customize.png)
+![Dealer\_Customize\_Orgzit](/blog/blog-images/Dealer-Customize.png)
 
 _Do you run your franchise business in a particular way? Orgzit can be customized just the way you run your dealer network management process. Here’s what you can customize in Orgzit –_
 

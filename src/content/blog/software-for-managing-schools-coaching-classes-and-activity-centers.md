@@ -33,7 +33,7 @@ _Still, a lot of institutes opt to use_ _basic spreadsheets and manual record-ke
 
 –> As an institute begins to expand, there is a steady rise in the amount of programme and student information that needs to be captured. In the absence of an effective information management system, there is little uniformity in the information that is recorded and data is captured by different team members in varying formats. _This leads to overlaps and mistakes in records, and, subsequently, errors in enrollment and scheduling._
 
-![Managing information at schools and activity centres with Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/04/Information-overload-Orgzit-1024x1024.jpg)
+![Managing information at schools and activity centres with Orgzit](/blog/blog-images/Information-overload-Orgzit-1024x1024.jpg)
 
 –> For _play schools, coaching classes, or hobby centres,_ student enrollment figures are a _key indicator of growth_. But rudimentary information management systems only go so far when it comes to capturing inquiries and tracking follow-ups with interested parents or students. _As a result, you end up losing out on business that’s coming your way._
 
@@ -65,7 +65,7 @@ Let’s take a look at how play schools, activity centres, coaching centres, or 
 
 Additionally, each project has several **apps**, or lists that help store, organize, and analyze project-relevant data.
 
-![Orgzit for schools - projects](http://blog.orgzit.com/wp-content/uploads/2017/04/Orgzit-for-activity-centres-projects-1024x576.jpg)
+![Orgzit for schools - projects](/blog/blog-images/Orgzit-for-activity-centres-projects-1024x576.jpg)
 
 But this is just one of the many ways to set yourself up in Orgzit. The tool is completely customizable, and lets you organize your processes and information any way you like. You can also alter the set up at any point of time to accommodate the changing needs of your business.
 

@@ -55,13 +55,13 @@ Well, since hiring is an art as well as a science, you’ll need to find the bes
 
 ## [Belong.co](https://belong.co/)
 
-![belong\_first\_hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.05.56-AM-2-1024x576.png)Started in 2014 by BITS Pilani alumnus Vijay Sharma and Sudheendra Chilappagari, Belong is a Bengaluru-based talent sourcing startup. It defines itself as ‘_the world’s first predictive outbound hiring solution that helps you discover, engage and hire unfindable talent_.’ With machine learning capabilities deeply embedded in their platform, it makes for a great tool to let computers establish the first contact with the candidate. Isn’t it?
+![belong\_first\_hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.05.56-AM-2-1024x576.png)Started in 2014 by BITS Pilani alumnus Vijay Sharma and Sudheendra Chilappagari, Belong is a Bengaluru-based talent sourcing startup. It defines itself as ‘_the world’s first predictive outbound hiring solution that helps you discover, engage and hire unfindable talent_.’ With machine learning capabilities deeply embedded in their platform, it makes for a great tool to let computers establish the first contact with the candidate. Isn’t it?
 
 \[su\_button url=”https://www.forbes.com/sites/suparnagoswami/2016/12/01/how-indian-startup-belong-is-using-machine-learning-algorithms-to-hire-smarter-for-companies/#e2c9ddf259a4″ style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read more about Belong on Forbes\[/su\_button\]
 
 ## [Hiree](https://hiree.com/)
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.02-AM-2-1024x576.png)Quikr acquired this Bengaluru based online job portal in 2016. Hiree has proprietary, smart-matching algorithm that identifies and matches relevant skills of job seekers as per the company requirement in the most efficient manner and in the least time possible.
+![](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.02-AM-2-1024x576.png)Quikr acquired this Bengaluru based online job portal in 2016. Hiree has proprietary, smart-matching algorithm that identifies and matches relevant skills of job seekers as per the company requirement in the most efficient manner and in the least time possible.
 
 The Hiree mobile application enables recruiters to connect with candidates (your first hire) via calls, WhatsApp, SMS, e-mail and schedule meetings, on the move.
 
@@ -69,13 +69,13 @@ The Hiree mobile application enables recruiters to connect with candidates (your
 
 [HackerRank](https://www.hackerrank.com/)
 
-![HackerRank-First\_Hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.10-AM-2-1024x576.png)Their mission is to _match every developer in the world to the right job by providing a technical_ recruiting platform that assesses developers based on actual coding skills. If you are looking for a platform where your first hire needs to be your backend, frontend or full stack developer, you should dig in here.
+![HackerRank-First\_Hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.10-AM-2-1024x576.png)Their mission is to _match every developer in the world to the right job by providing a technical_ recruiting platform that assesses developers based on actual coding skills. If you are looking for a platform where your first hire needs to be your backend, frontend or full stack developer, you should dig in here.
 
 \[su\_button url=”http://www.goldmansachs.com/careers/blog/posts/guide-to-hackerrank.html” target=”blank” style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read how Goldman Sachs is using it to hire their employees\[/su\_button\]
 
 ## [HackerEarth](https://www.hackerearth.com/)
 
-![HackerEarth-First\_hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.15-AM-2-1024x576.png)Hacker Earth is a network of top developers across the world that allows you to practice solving problem statements. In other words, it is a great website for competitive coding.
+![HackerEarth-First\_hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.15-AM-2-1024x576.png)Hacker Earth is a network of top developers across the world that allows you to practice solving problem statements. In other words, it is a great website for competitive coding.
 
 Also, they have some amazing tutorials to get you going with topics such as Data Structures and Algorithms, mathematics. If not first hires, this platform has definitely helped many companies hire the best developers out there.
 
@@ -83,7 +83,7 @@ Also, they have some amazing tutorials to get you going with topics such as Data
 
 ## [Hired](https://hired.com/)
 
-![Hired\_First\_Hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.21-AM-2-1024x576.png)Hired is basically flipping the traditional recruiter-candidate relationship on its head by giving desirable candidates a platform to sell themselves and wait for employers to apply to them. This creates constructive competition between the candidates and
+![Hired\_First\_Hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.21-AM-2-1024x576.png)Hired is basically flipping the traditional recruiter-candidate relationship on its head by giving desirable candidates a platform to sell themselves and wait for employers to apply to them. This creates constructive competition between the candidates and
 
 The platform works great for tech, sales, and marketing roles in London and key US cities. Hired claims to have 2,000 plus companies already using the platform.
 
@@ -91,7 +91,7 @@ The platform works great for tech, sales, and marketing roles in London and key 
 
 ## [Proversity](https://www.proversity.org/)
 
-![Proversity\_first\_hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.05.44-AM-2-1024x576.png)London-based e-learning company Proversity is working in the corporate learning space, providing an on-demand mobile platform that brings employee attraction, recruitment and retention into one place.
+![Proversity\_first\_hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.05.44-AM-2-1024x576.png)London-based e-learning company Proversity is working in the corporate learning space, providing an on-demand mobile platform that brings employee attraction, recruitment and retention into one place.
 
 Candidates are given a structured learning program, with each course being designed on a bespoke basis depending on the employer needs. Content can range from text, photos, motion graphics, video walkthroughs and various forms of assessment, from essays to simple check boxes.
 
@@ -101,7 +101,7 @@ If you are hiring strictly based on a module that has several checkpoints, this 
 
 ## [Placed](http://placed-app.com/)
 
-![Placed\_First\_Hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.26-AM-2-1024x576.png)
+![Placed\_First\_Hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.26-AM-2-1024x576.png)
 
 [Placed](http://placed-app.com/) is focusing on the hospitality sector and short-term hiring. The app uses a proprietary algorithm to make it easier for candidates and businesses to find the best match based on skills, experience, and personality.
 
@@ -109,7 +109,7 @@ Candidates can apply for roles and employers can access and filter candidates to
 
 ## [Syft](https://syftapp.com/)
 
-![Syft\_first\_hire](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-11.06.30-AM-2-1024x576.png)Syft is a technology platform focused on temp staff. Instead of using a specialist agency, employers can search for qualified staff on the platform and pay Syft a 15 percent fee, on top of the worker’s wages, which start at £8.50.
+![Syft\_first\_hire](/blog/blog-images/Screen-Shot-2017-10-18-at-11.06.30-AM-2-1024x576.png)Syft is a technology platform focused on temp staff. Instead of using a specialist agency, employers can search for qualified staff on the platform and pay Syft a 15 percent fee, on top of the worker’s wages, which start at £8.50.
 
 Employees can use the platform to browse and apply for shifts at a variety of hospitality companies, from sports stadiums to cocktail bars.
 
@@ -121,7 +121,7 @@ If you are looking for rockstar developers and require fast and quality hiring, 
 
 ## [AngelList](https://angel.co/)
 
-![AngelList\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-21-at-2.27.15-PM-2-1024x576.png)
+![AngelList\_Orgzit](/blog/blog-images/Screen-Shot-2017-09-21-at-2.27.15-PM-2-1024x576.png)
 
 Angel list defines itself as a place ‘_where the world meets startups_. _Find a great startup job, invest in a startup, or raise money.’_ We hired our team through Angel List. It is a great platform to invest your time and money in.
 
@@ -131,11 +131,11 @@ That being said, Angel List is a platform that uniquely allows the candidate to 
 
 ## [LinkedIn](https://www.linkedin.com)
 
-![LinkedIn\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-21-at-2.29.48-PM-2-1024x576.png)
+![LinkedIn\_Orgzit](/blog/blog-images/Screen-Shot-2017-09-21-at-2.29.48-PM-2-1024x576.png)
 
 The last but not the least! LinkedIn is the booming new recruitment platform which has been adding new features to its website recently. It is a platform where experienced and freshers alike flock together and search for the job they like most.
 
-\[su\_button url=”http://blog.orgzit.com/angellist-vs-linkedin-where-does-actual-talent-lie/” target=”blank” style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read AngelList V/S LinkedIn – Where Does Actual Talent Lie?\[/su\_button\]
+\[su\_button url=”https://orgzit.com/blog/angellist-vs-linkedin-where-does-actual-talent-lie/” target=”blank” style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read AngelList V/S LinkedIn – Where Does Actual Talent Lie?\[/su\_button\]
 
 **Question #3 – Where do you keep track of all the candidates you’ve matched with from the above platforms?**
 

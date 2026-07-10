@@ -61,7 +61,7 @@ Well before you go looking for the right best vendor management software for you
 
 ## **What is vendor management?**
 
-[![](/blog/blog-images/vendor-management-workflow-1.png)](https://orgzit.com/blog/wp-content/uploads/2020/05/vendor-management-workflow-1.png)
+[![](/blog/blog-images/vendor-management-workflow-1.png)](/blog/blog-images/vendor-management-workflow-1.png)
 
 Vendors are the businesses and individuals that provide goods and services to an organization.
 

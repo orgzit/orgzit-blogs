@@ -61,7 +61,7 @@ I talked about Orgzit’s success rate in retaining new customers with emphasis 
 
 But Tom Dewell from Dewell consulting made an argument that I am forced to mention here –
 
-![Indian\_SaaS\_Strategy](http://blog.orgzit.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-04-at-3.38.17-PM.png)
+![Indian\_SaaS\_Strategy](/blog/blog-images/Screen-Shot-2017-10-04-at-3.38.17-PM.png)
 
 This stands inevitably true for the Indian target audience. Essentially, Indian SMB market doesn’t exist or is in ‘_the early stages of its making’_. So when it comes to building relationships, there are two prospects – the enterprise and the individual businessmen looking to expand.
 

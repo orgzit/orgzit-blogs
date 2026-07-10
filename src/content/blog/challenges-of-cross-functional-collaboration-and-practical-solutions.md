@@ -37,7 +37,7 @@ This put you and the other team at loggerhead as you lack an alignment of goals.
 
 The solution to such lock jam is to encourage the top Management or senior leaders to share the company’s goals publicly with everyone. This way, everyone within the organization knows what the company goals are. Orgzit is one of [the most effective tools for cross-functional collaboration](https://orgzit.com/blog/collaboration-technologies-for-productive-teams-in-2018/). It can be used to list the company’s goals and objectives. This can then be shared with everyone in the entire company so they can have a better understanding of the bigger picture.
 
-![Effective-way-of-collaboration-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/01/webapp-orgzit-tasks-kanban-1024x576.png)
+![Effective-way-of-collaboration-Orgzit](/blog/blog-images/webapp-orgzit-tasks-kanban-1024x576.png)
 
 ### **2\. You don’t understand coworkers roles, responsibilities or jargon:**
 
@@ -59,7 +59,7 @@ Not knowing what other team or departments are involved in is one of the biggest
 
 Although sharing information is important, care must be taken that it does not sound like noise. Keep your sharing brief and hit on the most important points, no one wants to know about every bug fix, tweet or customer case support. Orgzit is a reliable tool that can help to achieve this. You can use its Status Update feature to give followers an update on the progress of work.
 
-![status update feature-challenges of cross functional collaboration-Orgzit ](https://blog.orgzit.com/wp-content/uploads/2019/01/webapp-projectmanagement-template-1-1024x576.png)
+![status update feature-challenges of cross functional collaboration-Orgzit ](/blog/blog-images/webapp-projectmanagement-template-1-1024x576.png)
 
 ### **4\. Taking on another project seems too time-consuming:**
 

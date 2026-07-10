@@ -58,7 +58,7 @@ CRM customization can be a lengthy and time-consuming process. It helps companie
 
 Here is a look at Zoho custom dashboard –
 
-![Orgzit\_Zoho\_Alternative](https://blog.orgzit.com/wp-content/uploads/2017/09/crm-zoho-settings-1024x483.jpg)
+![Orgzit\_Zoho\_Alternative](/blog/blog-images/crm-zoho-settings-1024x483.jpg)
 
 Steps you need to perform to make new customization – _add a sales stage in your CRM?_
 
@@ -71,7 +71,7 @@ Now consider a new user who has limited knowledge of ZOHO CRM. He might need to 
 1.  Go to Manage app –> Fields –> Add stage–> Save
 2.  Give a name to your stage and you are good to go
 
-![Orgzit\_stage ](https://blog.orgzit.com/wp-content/uploads/2017/09/Stages_Blog-1024x640.png)
+![Orgzit\_stage ](/blog/blog-images/Stages_Blog-1024x640.png)
 
 See the difference? That’s just one. There are many other functions in Orgzit that are easy and ready to use.
 
@@ -85,7 +85,7 @@ In the case of Zoho, you will have to jump through multiple hoops trying to add 
 
 Whereas, Orgzit’s access control structure is pretty awesome. You can define access in three levels – _administrator, edit, view_. This way you can add 3rd party collaborators to the project without worrying complicated access control configurations or about unauthorized data access.
 
-![Orgzit\_securtiy levels](https://blog.orgzit.com/wp-content/uploads/2017/09/Security-levels-1024x640.png)
+![Orgzit\_securtiy levels](/blog/blog-images/Security-levels-1024x640.png)
 
 Related – [Orgzit for project management](https://orgzit.com/blog/reasons-why-orgzit-is-the-best-for-project-management/)
 
@@ -103,7 +103,7 @@ You need to check the performance of all the sales rep in the previous month. Yo
 
 In Orgzit, you can access the sales rep status, candidate database, and any other metric right from **_one application – one app – one window_**. Not only does it save you time but also puts all your conversations with team members in one place along with the files exchanged with them so that you have the liberty to create reports as you see fit based on the data collected from multiple departments.
 
-![Orgzit\_New\_Projects](https://blog.orgzit.com/wp-content/uploads/2017/09/All_in_one_window-1024x640.png)
+![Orgzit\_New\_Projects](/blog/blog-images/All_in_one_window-1024x640.png)
 
 In a nutshell, small businesses just need business apps to track the progress of deals in a sales pipeline, manage tasks in a project, schedule activities and collaborate with the stakeholders.
 

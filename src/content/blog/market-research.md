@@ -35,7 +35,7 @@ For a long time now, we were on the lookout for a solution that would help us co
 
 The solution came to us recently in the form of Orgzit, a web and mobile solution that has helped us solve our problems in simple yet efficient ways.
 
-We’ve [structured our business in Orgzit at three levels](https://blog.orgzit.com/the-structure-of-orgzit/):
+We’ve [structured our business in Orgzit at three levels](https://orgzit.com/blog/the-structure-of-orgzit/):
 
 **Accounts**: We’ve created a separate workspace for each of our **clients**, and one team for all our **Internal Processes**.
 

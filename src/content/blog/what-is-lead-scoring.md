@@ -27,7 +27,7 @@ featured: false
 
 Imagine you own a company that sells a type of software to different business organizations. You have a business organization, what for? For-profits, right?
 
-Remember, no leads, no profits? If you don’t remember, go to our [**_lead management_** article](https://blog.orgzit.com/what-is-lead-management/), you will get to know its importance.  
+Remember, no leads, no profits? If you don’t remember, go to our [**_lead management_** article](https://orgzit.com/blog/what-is-lead-management/), you will get to know its importance.  
 
 If you don’t know which lead is qualified enough to become a prospect or qualified enough for you and your sales team to invest the time on it, how will you make business? You will make business, but you will have to invest a lot of time in it.  
 

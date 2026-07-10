@@ -37,7 +37,7 @@ Sonya inherited a farm which grew wheat in abundance. She had a few neighbors wh
 > 
 > 2\. Sunkeepers working in the finance division maintained a third register to keep track of their assets – equipment sales and purchase.
 > 
-> 3\. _Only 3 people worked for the sales department, so the contracts drawn with the clients were assumed to be a joint effort – no salesperson got individual incentive.__**Related** :_ [_How can you optimize sales with a CRM_](https://blog.orgzit.com/setting-crm-success-orgzit/)
+> 3\. _Only 3 people worked for the sales department, so the contracts drawn with the clients were assumed to be a joint effort – no salesperson got individual incentive.__**Related** :_ [_How can you optimize sales with a CRM_](https://orgzit.com/blog/setting-crm-success-orgzit/)
 
 To wrap it up, majority of Sunkeeper’s sales data was stored & tucked away in piles of registers which never saw the day of light once they were closed. Since they were novice business people, they were yet to learn the best way to optimise their existing in-house resources.
 
@@ -53,7 +53,7 @@ In the next 10 years, the IT revolution created a wave of job opportunities and 
 
 Despite extensive use of spreadsheets, Sunkeepers still couldn’t use their own customer database to draw insights in order make better business decisions. They probably didn’t see it yet, but they needed data cleansing services or a better unified solution.
 
-**Related**: [See How Mark Is Handling His Business With Orgzit](https://blog.orgzit.com/orgzit-features-triple-team-productivity/)
+**Related**: [See How Mark Is Handling His Business With Orgzit](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)
 
 # 2010 – The Cloud Revolution
 

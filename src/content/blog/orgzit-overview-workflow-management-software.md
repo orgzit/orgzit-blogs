@@ -23,7 +23,7 @@ draft: false
 featured: false
 ---
 
-![Why we decided to build a business management software, and how we went about doing it](http://blog.orgzit.com/wp-content/uploads/2017/01/Orgzit_complicated-300x298.jpg)
+![Why we decided to build a business management software, and how we went about doing it](/blog/blog-images/Orgzit_complicated-300x298.jpg)
 
 ## Why we decided to build a business management software, and how we went about doing it
 
@@ -33,23 +33,23 @@ As a partner in two small businesses, I always thought there were excellent clou
 
 At this point we realized that there had to be a better way to do this. Small business should not need a separate tool for every function. With our experience of running small businesses and expertise of building easy-to-use business software, we decided to build a solution of our own.
 
-![orgzit ](http://blog.orgzit.com/wp-content/uploads/2016/08/organize-it-_logo1.png)
+![orgzit ](/blog/blog-images/organize-it-_logo1.png)
 
 In addition to building all of the basics, we wanted to make the solution real easy to use and affordable for businesses of all sizes. We have had a team working on Orgzit for nine months and we’ve been dogfooding it almost the whole time, and I have to say it’s really great and truly provides an integrated suite of fully customizable applications, which has made us reduce clutter, data inconsistency and enabled us move all our business operations information to a single platform.
 
 Orgzit is structured through Teams, Projects and Apps. Each App contains the records of the actual information that runs your business day after day. A record could be a task, a sales lead, a physical asset or literally anything else you need to keep track of.
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/01/crm_leads_app-1024x576.png)
+![](/blog/blog-images/crm_leads_app-1024x576.png)
 
 Each Orgzit Project has a URL and you can invite anyone you want to participate. Whenever anybody makes a change, everyone else sees it, instantly.
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/01/crm_manage_project-1024x576.png)
+![](/blog/blog-images/crm_manage_project-1024x576.png)
 
 The cool thing in Orgzit is that under each record, you can assign activities (Tasks), discuss (Comments), attach references (Files) and track how every small piece of information has changed (History) – all this while staying within the same context.
 
 If it seems too simple to be true, well, it is. It’s just a group of simple tables, really. But simplicity is deceptive: it turns out to be a super-powerful way to organize teams, projects, and in fact anything that needs a little reorganization.
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/01/homepage_context_specific-1024x576.gif)
+![](/blog/blog-images/homepage_context_specific-1024x576.gif)
 
 [Sales teams can use it to track contacts and leads](https://orgzit.com/customer-relationship-management/). Engineering and project teams can use it to [track and deliver projects](https://orgzit.com/project-management/). Investors can use it to track interesting startups or even operational data of their portfolio. If you ever struggle with Excel sheets to manage your day to day work, or end up searching for key information in email archives or to get insights about your business, your team needs Orgzit.
 

@@ -30,9 +30,9 @@ Many vendors placed under the “cloud ERP” umbrella rarely compete against ea
 
 I came around this [article](https://www.softwareadvice.com/resources/cloud-erp-vs-on-premise/) on Software Advice which comprehensively compares Cloud ERP with On-premise ERP. But I am going to talk about it briefly in this article.
 
-[![Cloud ERP Pros and Cons](http://blog.orgzit.com/wp-content/uploads/2017/09/cloud-ERP-688x1024.png)](https://orgzit.com/blog/wp-content/uploads/2017/09/cloud-ERP.png)
+[![Cloud ERP Pros and Cons](/blog/blog-images/cloud-ERP-688x1024.png)](/blog/blog-images/cloud-ERP.png)
 
-[![On Premise ERP](http://blog.orgzit.com/wp-content/uploads/2017/09/On-premise-ERP-752x1024.png)](https://orgzit.com/blog/wp-content/uploads/2017/09/On-premise-ERP.png)
+[![On Premise ERP](/blog/blog-images/On-premise-ERP-752x1024.png)](/blog/blog-images/On-premise-ERP.png)
 
 In this article where I talk about the major Cloud ERP benefits, I would like to define some metrics to keep it to the point.
 

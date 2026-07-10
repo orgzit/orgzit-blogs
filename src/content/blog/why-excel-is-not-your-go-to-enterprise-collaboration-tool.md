@@ -39,7 +39,7 @@ So, here’s a list of 12 common problems that businesses face using MS Excel an
 
 While it is the most flexible and widely used enterprise collaboration tool, businesses face a huge challenge when it comes to linking data across two or more Excel sheets. Usually, your employees who manually make reports need to switch between two Excel or more sheets like the one which has customer details and the other with customer orders and generally, while in the winding, often the created report is full of errors or the entire team collaboration process is tardy.
 
-[![no data linking in excel](https://blog.orgzit.com/wp-content/uploads/2019/11/no-data-linking-in-excel-300x200.png)](https://blog.orgzit.com/wp-content/uploads/2019/11/no-data-linking-in-excel.png)
+[![no data linking in excel](/blog/blog-images/no-data-linking-in-excel-300x200.png)](/blog/blog-images/no-data-linking-in-excel.png)
 
 ## **There is no way to track changes or see audit history in Excel**
 
@@ -63,7 +63,7 @@ MS Excel does not facilitate reminders for tasks. For instance, many businesses 
 
 In such a scenario, if you have to call a lead on a particular day or make a few changes in the Excel sheet before a presentation, you cannot get reminders for such tasks in MS Excel.
 
-[![no reminders in excel](https://blog.orgzit.com/wp-content/uploads/2019/11/no-reminders-in-excel-1024x576.jpg)](https://blog.orgzit.com/wp-content/uploads/2019/11/no-reminders-in-excel.jpg)
+[![no reminders in excel](/blog/blog-images/no-reminders-in-excel-1024x576.jpg)](/blog/blog-images/no-reminders-in-excel.jpg)
 
 ## **Spreadsheets at not scalable, it’s not a database**
 
@@ -91,7 +91,7 @@ For example, a field service team in an engineering or manufacturing organizatio
 
 Since Excel does not allow us to attach files, such business teams have to grapple with a separate document management software or a myriad of folders with the various files. This is not just tedious to do but also error-prone and time consuming.
 
-[![no file attachments in excel](https://blog.orgzit.com/wp-content/uploads/2019/11/no-file-attachments-in-excel-1024x576.jpg)](https://blog.orgzit.com/wp-content/uploads/2019/11/no-file-attachments-in-excel.jpg)
+[![no file attachments in excel](/blog/blog-images/no-file-attachments-in-excel-1024x576.jpg)](/blog/blog-images/no-file-attachments-in-excel.jpg)
 
 ## **No Access Control to limit access to certain parts of the spreadsheet**
 
@@ -107,7 +107,7 @@ Are you a coding junkie or a person who knows everything about macros, if not, y
 
 Excel does not have a drag and drop process to automate, you must be proficient with macros for even the simplest of the automation processes.
 
-[![](https://blog.orgzit.com/wp-content/uploads/2019/11/excel-and-trouble-with-macros-automation.png)](https://blog.orgzit.com/wp-content/uploads/2019/11/excel-and-trouble-with-macros-automation.png)
+[![](/blog/blog-images/excel-and-trouble-with-macros-automation.png)](/blog/blog-images/excel-and-trouble-with-macros-automation.png)
 
 ## **Using Excel spreadsheets is difficult on the mobile**
 
@@ -117,7 +117,7 @@ It’s a tedious task to scroll through the rows and columns and fill in data.
 
 The entire spreadsheet view is not appropriate and it will take ages to find a specific column in the compressed space on mobile screens.
 
-[![](https://blog.orgzit.com/wp-content/uploads/2019/11/excel-is-not-mobile-friendly.gif)](https://blog.orgzit.com/wp-content/uploads/2019/11/excel-is-not-mobile-friendly.gif)
+[![](/blog/blog-images/excel-is-not-mobile-friendly.gif)](/blog/blog-images/excel-is-not-mobile-friendly.gif)
 
 ## **Data Leakage is a big risk with Excel sheets**
 

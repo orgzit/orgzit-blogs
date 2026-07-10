@@ -29,8 +29,6 @@ noIndex: false
 twitterCard: summary_large_image
 ---
 
-![6 Business-Boosting Benefits of Workflow Automation](/blog/blog-images/6-Business-Boosting-Benefits-of-Workflow-Automation-1024x683.jpeg)
-
 Automation is the new essential, says who?\
 The digital business world.
 

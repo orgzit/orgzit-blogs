@@ -44,10 +44,10 @@ Field Sections have the following key benefits.
 
 Let’s take the example of a City database that organizes key statistical data of cities. Our friendly user is finding it hard to quickly view the fields he is interested in – geographical data of a city. This is what he sees right now (without sections).
 
-![](http://blog.orgzit.com/wp-content/uploads/2018/07/Screenshot-231-1.png)
+![](/blog/blog-images/Screenshot-231-1.png)
 
 Let’s see if we can help our dear friend! Let’s create a section named **Geography** in the Cities module. Instead of having to search through 20 varied fields, now our friend can simply focus on the Geography section to easily view the data relevant for him. Check out the below video to see what a world of difference sections has made for this use case.
 
-[https://orgzit.com/blog/wp-content/uploads/2018/07/orgzit-field-sections.mp4](https://orgzit.com/blog/wp-content/uploads/2018/07/orgzit-field-sections.mp4)
+[orgzit-field-sections.mp4](/blog/blog-images/orgzit-field-sections.mp4)
 
 We would love to hear from you about your feedback about the Fields Section feature and how it can benefit your team. If you have any suggestions on how we could make this feature more useful, would love to hear them. Please feel to reach out to us at [Orgzit](https://orgzit.com) via email at [collaborate@orgzit.com](mailto:collaborate@orgzit.com) or via [@Orgzit](https://twitter.com/orgzit) on Twitter.

@@ -52,7 +52,7 @@ At organizations having very large team sizes, the HR Management system becomes 
 
 ## **What are the functions of HR Management System**
 
-![various functions of HR Management system](https://blog.orgzit.com/wp-content/uploads/2020/04/hr-management-system-2-1024x544.png)
+![various functions of HR Management system](/blog/blog-images/hr-management-system-2-1024x544.png)
 
 The typical functions of HR departments are almost the same in all organizations. The essential features of an HR Management system are to bring out maximum productivity by optimizing the effectiveness of the employees.
 
@@ -127,7 +127,7 @@ The HR team members should take account of handling such grievances and make sur
 ## **How an HR Management System Can Benefit an Organization**
 
 ![why every organization needs a hrms
-](https://blog.orgzit.com/wp-content/uploads/2020/04/1_7camFvQAbwR6imSjazKNYQ-1.jpeg)
+](/blog/blog-images/1_7camFvQAbwR6imSjazKNYQ-1.jpeg)
 
 HR Management Softwares can be of great help to large organizations. Small startups can increase their growth rate and productivity. Besides this, almost all successful companies have an HR Management system to control their people management activities.
 

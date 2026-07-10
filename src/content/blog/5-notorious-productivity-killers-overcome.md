@@ -33,7 +33,7 @@ As the Founder of [Task Pigeon](https://www.taskpigeon.co/), a team task managem
 
 # **Procrastination**
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/12/Blog-2-1024x681.png)
+![](/blog/blog-images/Blog-2-1024x681.png)
 
 Procrastination is one of the major killers to any plan’s success. You simply cannot move forward if you keep pushing things back. Procrastination often goes hand in hand with perfectionism where one thinks their plan cannot succeed unless everything else is perfectly aligned.
 
@@ -51,7 +51,7 @@ Instead of attending to impress others or pass time, focus on your priorities an
 
 **General Emails**
 
-![](http://blog.orgzit.com/wp-content/uploads/2017/12/Blog-5.jpeg)
+![](/blog/blog-images/Blog-5.jpeg)
 
 Relying on general emails for confirming details or information is advisable as it is often important to get things in writing. However, emails can be productivity killers if you use them for instances where a phone call can get a much quicker response.
 

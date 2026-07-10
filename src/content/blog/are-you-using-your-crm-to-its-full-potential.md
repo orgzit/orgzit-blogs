@@ -30,8 +30,6 @@ draft: false
 featured: false
 ---
 
-![](/blog/blog-images/1-3-1024x576.png)
-
 Imagine investing in a cutting-edge CRM after reading this: “Per salesperson, a CRM can increase revenue by [41%](http://www.trackvia.com/blog/infographics/crm-a-solution-for-success-infographic).”
 
 This is the most common mistake every business owner makes. They assume that merely getting a CRM will lead to instant success.

@@ -30,7 +30,7 @@ Is your **_Lead Management Process_** in place and is concrete? Or you still old
 
 And how do profits come in? Through leads! And how do you convert leads into customers successfully, through **_lead management_**, right?  
 
-**_Lead generation_** can be done in many ways but after that the most important ingredient in the recipe for making profits is **_[lead management](https://blog.orgzit.com/what-is-lead-management/)_**.  
+**_Lead generation_** can be done in many ways but after that the most important ingredient in the recipe for making profits is **_[lead management](https://orgzit.com/blog/what-is-lead-management/)_**.  
 
 In this article, I will be telling you 10 ways to better manage **_sales leads_**. But, first let us have a short glimpse of what exactly are sales leads?
 

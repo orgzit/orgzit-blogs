@@ -54,7 +54,7 @@ While any BPA tool would be able to reduce errors, a cloud-based business workfl
 
 Cloud-based automation tools typically come with [productivity](https://orgzit.com/blog/5-notorious-productivity-killers-overcome/) tools for task management, time management, communication, collaboration and so on. These tools can be utilized by teams to work more productively by actively monitoring tasks assigned to them, reacting to latest notifications, and proactively managing their time towards better utilization.
 
-![Cloud-Based Automation Tools For Team Productivity](https://blog.orgzit.com/wp-content/uploads/2018/12/increased-productivity.jpg)
+![Cloud-Based Automation Tools For Team Productivity](/blog/blog-images/increased-productivity.jpg)
 
 For instance, task management tools such as calendar views, daily task lists, etc. can be used to stay ahead of your daily tasks without having to remember anything. Employees can simply check for tasks assigned to them, and complete them according to a priority order within the given time-frame. This makes sure that your team is working on the most important tasks first. 
 
@@ -64,7 +64,7 @@ Teams can also work more productively by actively communicating and collaboratin
 
 In my experience, customers are rarely forgiving and patient. They can change their mind easily, and any mistake your business makes can accelerate that process. If you don’t follow-up with them on time or ask them the same questions redundantly, they may lose interest or consider your business unprofessional.
 
-![Accelerate the Process with Improved Customer Satisfaction](https://blog.orgzit.com/wp-content/uploads/2018/12/customer-satisfaction-300x200.jpg)
+![Accelerate the Process with Improved Customer Satisfaction](/blog/blog-images/customer-satisfaction-300x200.jpg)
 
 Cloud-based BPA tools streamline customer processes, from marketing to customer acquisition to negotiations to deal closure and after-sales services. Each process is logged, and relevant team members can view a history of the customer interacting with your business. This will help support representatives serve customers better and improve customer satisfaction.
 
@@ -80,7 +80,7 @@ Cloud-based automation tools allow team members to work from anywhere at any tim
 
 Capital expenditure is a big concern for businesses and requires a lot of justification. You will have to fork our a lot of time and capital to custom develop an automation tool for your business. Further, setting up a tool on your local IT infrastructure also requires a purchase license which is usually very expensive.
 
-![Capital Expenditure- biggest concern of businesses](https://blog.orgzit.com/wp-content/uploads/2018/12/capex-vs-opex.jpg)
+![Capital Expenditure- biggest concern of businesses](/blog/blog-images/capex-vs-opex.jpg)
 
 Cloud-based automation tools typically follow a subscription model, where you need to pay per user per month. There’s operational expenditure involved and is only a fraction of the cost. Further, businesses are able to totally avoid high expenditure on hardware costs, which alone may overrun your budget.
 

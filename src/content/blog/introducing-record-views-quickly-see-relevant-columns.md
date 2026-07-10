@@ -47,4 +47,4 @@ For example – Chris has an app named “**Products**” which has a default vi
 
 We would love to hear from you about your feedback about the Record Views feature and how it is benefiting your team; please feel to reach out to us at [collaborate@orgzit.com](mailto:collaborate@orgzit.com)
 
-[https://orgzit.com/blog/wp-content/uploads/2018/07/Create-ampampampampampampampampampampampampampampamp-view-record.mp4](https://orgzit.com/blog/wp-content/uploads/2018/07/Create-ampampampampampampampampampampampampampampamp-view-record.mp4)
+[Create-ampampampampampampampampampampampampampampamp-view-record.mp4](/blog/blog-images/Create-ampampampampampampampampampampampampampampamp-view-record.mp4)

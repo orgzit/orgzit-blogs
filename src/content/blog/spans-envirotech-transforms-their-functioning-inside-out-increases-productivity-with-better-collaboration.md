@@ -51,7 +51,7 @@ As a technology partner to Spans, team Orgzit sat down with the customer to unde
 
 > “All the information from multiple sites is recorded systematically, so it’s easy to understand context and make decisions.”
 
-**Collaboration at its best, single window for all the tasks:** Everyone at Spans has complete clarity about their tasks and expectations are better aligned. Features like [granular access levels have made things simpler](https://blog.orgzit.com/introducing-orgzit-granular-access-control-extra-power-to-you/). For instance, they can now pass on customers and vendors access to relevant projects in Orgzit. This way the customers and vendors are constantly apprised of the projects’ progress.
+**Collaboration at its best, single window for all the tasks:** Everyone at Spans has complete clarity about their tasks and expectations are better aligned. Features like [granular access levels have made things simpler](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/). For instance, they can now pass on customers and vendors access to relevant projects in Orgzit. This way the customers and vendors are constantly apprised of the projects’ progress.
 
 > According to Jahanvi, “Even if the team choses to deny contractors access to a particular Orgzit project, communication is always completely painless. I don’t even need to open up a new browser window to shoot off an email. I can send it directly from Orgzit and view replies there as well”.
 
@@ -63,7 +63,7 @@ Additionally, the Spans team is able to respond to clients’ queries at lightni
 
 > Subhash says “Our data is so well-organized that it takes us no time at all to generate detailed and accurate reports. Our clients are always delighted with our quick turnarounds”.
 
-Initially Subhash and his team had set out to find a project management tool for Spans and even tried products such as Trello and Basecamp, he was simply looking to enforce better workflow management and [increase his team’s productivity](https://blog.orgzit.com/orgzit-features-triple-team-productivity/), but they had never imagined what all they could do with Orgzit as their work management system. From cultivating more collaborative relationships with customers and vendors, to helping their team stay more organized, to discovering a whole new line business, Spans Envirotech has seen how a simple solution can be worked out in many ways. Orgzit’s sophisticated features has empowered Spans Envirotech in more than one way to surround their business processes with the right tools to connect people.
+Initially Subhash and his team had set out to find a project management tool for Spans and even tried products such as Trello and Basecamp, he was simply looking to enforce better workflow management and [increase his team’s productivity](https://orgzit.com/blog/orgzit-features-triple-team-productivity/), but they had never imagined what all they could do with Orgzit as their work management system. From cultivating more collaborative relationships with customers and vendors, to helping their team stay more organized, to discovering a whole new line business, Spans Envirotech has seen how a simple solution can be worked out in many ways. Orgzit’s sophisticated features has empowered Spans Envirotech in more than one way to surround their business processes with the right tools to connect people.
 
 ## Afterword
 

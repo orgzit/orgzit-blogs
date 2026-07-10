@@ -27,7 +27,7 @@ Having too many tasks on your plate can be debilitating. Even the best of us fin
 
 With a staggeringly long to-do list staring you in the face, it’s difficult to know where to get started. This problem is acerbated when you’re responsible for a team. Your inaction can have a domino effect, attenuating all-round productivity.
 
-![Orgzit work load management](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-task-management-1024x576.jpg)
+![Orgzit work load management](/blog/blog-images/Orgzit-task-management-1024x576.jpg)
 
 The key lies in reorganizing your to-do list and prioritizing effectively. And achieving this can be easier than you might think. Here’s how you can go about managing your tasks effortlessly:
 
@@ -51,7 +51,7 @@ In Orgzit’s Task Management app, _task IDs are unique, un-editable, and auto-
 
 So you’ve noted down all your tasks and given them IDs. The next step is to organize your tasks on the basis of priority. Use a decision matrix such as Eisenhower’s Decision Principle, popularized by Stephen Covey as the **Time Management Matrix** in his book [_The 7 Habits of Highly Effective People_](https://www.stephencovey.com/7habits/7habits.php).
 
-![Covey's matrix for Task Management](http://blog.orgzit.com/wp-content/uploads/2017/03/Covey-Quadrant-for-Task-Management.jpg)
+![Covey's matrix for Task Management](/blog/blog-images/Covey-Quadrant-for-Task-Management.jpg)
 
 Each task can be grouped under one of the quadrants in the Covey matrix. Once all tasks are categorized, you can start working on them in order of importance and urgency.
 
@@ -109,7 +109,7 @@ However, communication can often become a task itself. A lot of time is squand
 
 Orgzit solves the problem by letting you [store all communication and files relevant to a particular task in one place](https://orgzit.com/product/) – right inside your Orgzit task list.
 
-![Orgzit task management commenting](http://blog.orgzit.com/wp-content/uploads/2017/03/Orgzit-task-management-commenting-1-1024x576.jpg)
+![Orgzit task management commenting](/blog/blog-images/Orgzit-task-management-commenting-1-1024x576.jpg)
 
 You can add relevant comments or sub-tasks for each task in your Orgzit task list itself. This way, team members don’t need to hunt for task-related information in their inboxes. You can even tag team members in your comments so that they are notified as soon as they’ve been mentioned.
 

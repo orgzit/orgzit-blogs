@@ -33,7 +33,7 @@ Amusingly, a few months before the HBR article, Quartz came up with the headline
 
 Recommended Test: [Clance IP Scale Test for Imposter Syndrome](https://paulineroseclance.com/pdf/IPscoringtest.pdf)
 
-TEDx speaker and coach Melody Wilding took a dig at the subject in fast company by categorizing this universal phenomenon into subgroups in [her article](https://blog.orgzit.com/growth-hackers-dilemma-imposter-syndrome/) titled
+TEDx speaker and coach Melody Wilding took a dig at the subject in fast company by categorizing this universal phenomenon into subgroups in [her article](https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/) titled
 
 _“The Five Types Of Imposter Syndrome And How To Beat Them”._ She brilliantly put her point forth by breaking down the 5 personalities into an array of questions, which if answered in tandem, establishes the hold of the syndrome over him/her.
 
@@ -69,7 +69,7 @@ Somewhere between the first and the second step, my team and I struggled in crea
 
 After a few days, we combined notes and came up with an amazing storyboard. It looked something like this –
 
-[![Orgzit\_Video](http://blog.orgzit.com/wp-content/uploads/2017/10/Orgzit-Storyboard-578x1024.jpeg)](http://orgzit.com/blog/how-to-create-a-great-product-video/)
+[![Orgzit\_Video](/blog/blog-images/Orgzit-Storyboard-578x1024.jpeg)](http://orgzit.com/blog/how-to-create-a-great-product-video/)
 
 With an awesome voice over done one of the fiverr guys, our video was well received within the startup community in India. And we started getting more demo requests than expected. Right then, I knew we had created value for the customers with that video.
 
@@ -79,7 +79,7 @@ Watch the Video?
 
 The feeling that the video success was attributed to luck, and not by the hours of effort put in by me and my team, struck after we started thinking of taking it one step ahead and going international. With the aim of presenting Orgzit to a much bigger target audience, we were openly inviting global competition. The task included collaborating with designers & content writers, managing operations and coming up with a plan to go ahead with. Midway through the task, I came across a comment made by one of medium readers on the previous video –
 
-[![Orgzit\_Product\_Video](/blog/blog-images/Screen-Shot-2017-10-05-at-12.45.08-PM.png)](https://orgzit.com/blog/wp-content/uploads/2017/10/Screen-Shot-2017-10-05-at-12.45.08-PM.png)
+[![Orgzit\_Product\_Video](/blog/blog-images/Screen-Shot-2017-10-05-at-12.45.08-PM.png)](/blog/blog-images/Screen-Shot-2017-10-05-at-12.45.08-PM.png)
 
 And I saw self-doubt seeping right back in. _Should I be doing it myself? What if I fail? Or should I outsource the whole project?_
 
@@ -93,7 +93,7 @@ For the intention of making a To-Do list is the first step towards reducing your
 
 Fortunately, for me, my to-do list was my Orgzit itself where I shared all my files and made an exhaustive list of tasks that I accomplished yesterday and the ones that needed to get done today.
 
-[![Orgzit\_tasks](/blog/blog-images/Screen-Shot-2017-10-05-at-1.09.40-PM-2-1024x576.png)](https://orgzit.com/blog/wp-content/uploads/2017/10/Screen-Shot-2017-10-05-at-1.09.40-PM-2.png)
+[![Orgzit\_tasks](/blog/blog-images/Screen-Shot-2017-10-05-at-1.09.40-PM-2-1024x576.png)](/blog/blog-images/Screen-Shot-2017-10-05-at-1.09.40-PM-2.png)
 
 To further redeem myself of the imposter situation, my team and I performed a thorough competitor research of the international market, compared notes with the feedback that we got from our Indian audience, and **went forward step by step, taking ownership if each step, and planning the next step** **well in advance**.
 

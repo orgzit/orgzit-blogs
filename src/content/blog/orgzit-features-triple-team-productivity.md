@@ -51,7 +51,7 @@ You can now seamlessly integrate with 3rd party applications by sending instant 
 
 Let’s take an example. Mark runs an eCommerce site and he wants to a send an automated email every time someone subscribes for his product newsletter. And he is a big fan of mailchimpTM. All he needs to do is enable webhooks in Orgzit, write a few lines of code to receive the webhook notification and then invoke a mailchimpTM API to send the email. And just like that, he has automated the back-office grunt work of writing emails and send them to each individual subscriber.
 
-[![Orgzit webhooks feature](/blog/blog-images/Webhooks-Integration-screenshot.jpeg)](http://orgzit.com/blog/wp-content/uploads/2017/09/Webhooks-Integration-screenshot.jpeg)
+[![Orgzit webhooks feature](/blog/blog-images/Webhooks-Integration-screenshot.jpeg)](/blog/blog-images/Webhooks-Integration-screenshot.jpeg)
 
 ## Other scenarios?
 
@@ -72,7 +72,7 @@ The access parameters, categorized under ‘**App Permissions’** are: _view_, 
 
 ## **How can I use User Groups?**
 
-[![Orgzit User groups](/blog/blog-images/User-Groups_App-Permission_Screenshots.jpeg)](https://orgzit.com/blog/wp-content/uploads/2017/09/User-Groups_App-Permission_Screenshots.jpeg)
+[![Orgzit User groups](/blog/blog-images/User-Groups_App-Permission_Screenshots.jpeg)](/blog/blog-images/User-Groups_App-Permission_Screenshots.jpeg)
 
 Let’s take an example. Mark has successfully acquired a few customers after sending value-adding newsletters to the people who subscribed for them on his website, automated via the Orgzit **webhook** notifications. Now he wants to give his customer support team access to a particular set of apps pertinent to them and restrict access to the rest, which is used by the sales team. So he creates two user groups, one for the customer support team and another for the sales team. He then assigns permissions to both these groups such that the customer support team has limited access so that they cannot delete customer information or do a bulk download of all customer records. This helps Mark configure appropriate **data access permissions** for his team members.
 
@@ -82,7 +82,7 @@ If you want quick updates of certain happenings in your Orgzit CRM, you can dire
 
 ## **How can I use Slack integration?**
 
-[![](/blog/blog-images/Slack_Integration_screenshot.jpeg)](https://orgzit.com/blog/wp-content/uploads/2017/09/Slack_Integration_screenshot.jpeg)
+[![](/blog/blog-images/Slack_Integration_screenshot.jpeg)](/blog/blog-images/Slack_Integration_screenshot.jpeg)
 
 Mark’s wants to integrate Orgzit with his Slack channel and wants his team to get notified every time a new lead is added to [Orgzit CRM](https://orgzit.com/blog/setting-crm-success-orgzit/). He creates a Slack incoming webhook URL and configures the Slack integration in Orgzit in 5 minutes. Every time a new lead is generated, his team gets a custom notification on Slack mentioning the new lead info.
 
@@ -102,23 +102,23 @@ Think about this! Mark has a thousand records in his company’s Orgzit account.
 
 He can search the entire database and wait for it to pop up. But what if you have a different section dedicated to your recent chats so that you skip all the hassle of ‘**search and wait’**?
 
-[![Orgzit My Discussions Feature](/blog/blog-images/Screen-Shot-2017-09-05-at-6.14.24-PM-1024x508.png)](https://orgzit.com/blog/wp-content/uploads/2017/09/Screen-Shot-2017-09-05-at-6.14.24-PM.png)
+[![Orgzit My Discussions Feature](/blog/blog-images/Screen-Shot-2017-09-05-at-6.14.24-PM-1024x508.png)](/blog/blog-images/Screen-Shot-2017-09-05-at-6.14.24-PM.png)
 
 With ‘**My Discussions’** you can now consolidate all your recent conversations in one place and quickly go through them without the hassle of ‘search and go’.
 
 You can check them out on the mobile version too –
 
-[![Orgzit Android User Discussions](http://blog.orgzit.com/wp-content/uploads/2017/09/Orgzit-mobile-my-discussions-576x1024.jpg)](https://orgzit.com/blog/wp-content/uploads/2017/09/Orgzit-mobile-my-discussions.jpg)
+[![Orgzit Android User Discussions](/blog/blog-images/Orgzit-mobile-my-discussions-576x1024.jpg)](/blog/blog-images/Orgzit-mobile-my-discussions.jpg)
 
 # Change Your Profile Picture On The Go
 
 Now your team members can look awesome on discussions, task lists, project updates right from the mobile app. All they need to do is to add their picture from the My Profile screen. You can even click a selfie and set it as your profile pic.
 
-[![Orgzit profile picture](http://blog.orgzit.com/wp-content/uploads/2017/09/Orgzit-profile-picture-576x1024.jpg)](https://orgzit.com/blog/wp-content/uploads/2017/09/Orgzit-profile-picture.jpg)
+[![Orgzit profile picture](/blog/blog-images/Orgzit-profile-picture-576x1024.jpg)](/blog/blog-images/Orgzit-profile-picture.jpg)
 
 Now the comments page is a lot more fun too!
 
-[![Orgzit Record Comments](http://blog.orgzit.com/wp-content/uploads/2017/09/Orgzit-my-discussion-android-576x1024.jpg)](https://orgzit.com/blog/wp-content/uploads/2017/09/Orgzit-my-discussion-android.jpg)
+[![Orgzit Record Comments](/blog/blog-images/Orgzit-my-discussion-android-576x1024.jpg)](/blog/blog-images/Orgzit-my-discussion-android.jpg)
 
 # Create A Stunning Client Portfolio
 
@@ -128,7 +128,7 @@ Let’s say Mark wants to **showcase his product portfolio** to his friends. He 
 
 Record images are sections which display your images in an elegant way, enhancing the viewing experience of the Orgzit app user.
 
-[![Orgzit Record Images](http://blog.orgzit.com/wp-content/uploads/2017/09/record_images-576x1024.jpg)](https://orgzit.com/blog/wp-content/uploads/2017/09/record_images.jpg)
+[![Orgzit Record Images](/blog/blog-images/record_images-576x1024.jpg)](/blog/blog-images/record_images.jpg)
 
 **Of course, you see trucks here**! They look good on a portfolio for a construction company. But no matter the company size or type, you can create a quick product portfolio for your company in two easy clicks of your Android app.
 

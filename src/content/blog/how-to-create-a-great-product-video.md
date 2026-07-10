@@ -59,7 +59,7 @@ Here’re a few things you can do to get the marketing ball rolling:
 
 **Note**: _The blog at zest.is looks awesome!_
 
-[![It looks vibrant though :)](/blog/blog-images/Untitled-1024x540.png)](https://orgzit.com/blog/wp-content/uploads/2017/05/Untitled.png)
+[![It looks vibrant though :)](/blog/blog-images/Untitled-1024x540.png)](/blog/blog-images/Untitled.png)
 
 The result I got was fairly satisfactory. Orgzit started getting more sign-ups (Yay!).
 
@@ -105,7 +105,7 @@ _Your video script is a word-to-word breakdown of the storyboard that you have c
 
 At first, I started scribbling and pondering over which words will have more impact and relate to the viewer. Yet again, I realized that it was not about the words. The crux was in showing the content, not reading it. So I laid some thumb rules to be followed while writing the script:
 
-[![The product video script writing guide](/blog/blog-images/newola.jpg)](https://orgzit.com/blog/wp-content/uploads/2017/05/newola.jpg)
+[![The product video script writing guide](/blog/blog-images/newola.jpg)](/blog/blog-images/newola.jpg)
 
 And then began the real task – refining the plotted curve; Trimming the jagged edges and smoothing the curves.
 

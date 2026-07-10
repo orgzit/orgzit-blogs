@@ -25,8 +25,6 @@ draft: false
 featured: false
 ---
 
-![Sales Optimization Practices To Close More Deals](/blog/blog-images/Sales-Optimization-Practices-To-Close-More-Deals.png)
-
 “Prediction is very difficult, especially if it’s about the future.” – Nils Bohr.
 
 According to a Forbes Insights report by Brainshark, _organizations rank [sales productivity](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) as the most critical area of the management focus, ahead of product excellence and marketing effectiveness._

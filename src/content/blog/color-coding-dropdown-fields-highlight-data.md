@@ -29,11 +29,11 @@ It is well known how color coded notes help one become a more [efficient thinker
 
 Let’s take a look at how **color coding** works in Orgzit. Firstly, check out the screenshot below that does not use any color coding.
 
-![](http://blog.orgzit.com/wp-content/uploads/2018/07/imageedit_3_4445105839.png)
+![](/blog/blog-images/imageedit_3_4445105839.png)
 
 Now, check the screenshot below that has color coding.
 
-![](http://blog.orgzit.com/wp-content/uploads/2018/07/imageedit_5_7747600499.png)
+![](/blog/blog-images/imageedit_5_7747600499.png)
 
 Is the 2nd screenshot easier to read? Well, our customers at Orgzit certainly think so.
 

@@ -38,7 +38,7 @@ Firstly, the sales staff and the rest of the company staff should understand tha
 
 One of the first steps to convert leads to buyers is reaching out to a lead with your product/service/ value-proposition and urges the leads to purchase from you. Clearly, all contacts will not be convinced in the very first interaction. Therefore, tracking the contact, the response, the follow-up, sharing additional information and in general keeping a relationship going is required to slowly convince the contact to purchase.
 
-![lead-to-customer -funnel-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/03/lead-to-customer-funnel-1.png)
+![lead-to-customer -funnel-Orgzit](/blog/blog-images/lead-to-customer-funnel-1.png)
 
 This entire series of steps is called “nurturing a lead”. You may reach out via email, phone, instant messaging or even social media but remember, if they feel you are over-selling, they may switch off. Good sales organizations bring value to their leads and occasionally deals rather than bombard them with sales offers.
 
@@ -46,7 +46,7 @@ This entire series of steps is called “nurturing a lead”. You may reach out 
 
 When you sell through a partner network (dealers and distributors) the need to manage ALL the leads in the entire [dealer network](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) is even more critical. Since the parent company doesn’t directly contact most of the customers, it’s critical to get some visibility into the deal nurturing being done by the dealers, both to get some estimate of sales and to maintain the [brand equity](https://www.latana.com/post/building-measuring-brand-equity-value?ref=quuu)/customer experience standards.
 
-![replacing-lead-management-in excel](https://blog.orgzit.com/wp-content/uploads/2019/03/business-coffee-computer-1080849-1024x714.jpg)
+![replacing-lead-management-in excel](/blog/blog-images/business-coffee-computer-1080849-1024x714.jpg)
 
 If your dealers are using excel, paper-based processes to manage their contacts and leads, then it quickly becomes a very frustrating and time-consuming process to have visibility on your sales pipeline. It takes time to aggregate all data and there are many errors due to large manual steps. Since management teams like to do weekly reviews, it means a huge chunk of effort goes into only producing the lead report.
 
@@ -54,7 +54,7 @@ If your dealers are using excel, paper-based processes to manage their contacts 
 
 Cloud-based Lead Management / Customer Relations Management (CRM) system are wonderful in creating a collaborative platform and offering simple tools for consolidating information about the contacts, leads, the state of different deals/proposals and relationships with existing customers.
 
-![Lead-management-CRM-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/03/Screenshot-from-2019-03-08-17-12-16-1024x576.png)
+![Lead-management-CRM-Orgzit](/blog/blog-images/Screenshot-from-2019-03-08-17-12-16-1024x576.png)
 
 Since all your supervisor’s salesperson and all dealers and their staff use the same system, everyone can have visibility of the entire sales pipeline depending on what they need to know. Dealers can manage their own sales forecasts, supervisors can track their cohort of dealers and management can get visibility on weekly/ monthly/ annual revenues.
 
@@ -74,7 +74,7 @@ Your dealers may or may not be doing outbound communications with their leads bu
 
 A good lead management system will enable everyone on the team to instantly know all information about their prospects. Real-time updates allow the management to serve their prospects better. Also, the historical record of all engagements helps salespeople understand the lead wins/losses. This will increase the interest in your staff and salesperson to give full satisfaction to the prospects. In this way, you can continue to generate more leads for your brand or products and increase your revenues.
 
-![Data-linked-to-leads-for-dealers-Orgzit](https://blog.orgzit.com/wp-content/uploads/2019/03/Screenshot-from-2019-03-08-17-19-43-1024x576.png)
+![Data-linked-to-leads-for-dealers-Orgzit](/blog/blog-images/Screenshot-from-2019-03-08-17-19-43-1024x576.png)
 
 #### **_3\. Measure your results_**
 

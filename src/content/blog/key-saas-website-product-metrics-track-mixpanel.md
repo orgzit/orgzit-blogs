@@ -58,7 +58,7 @@ The product manager’s main objectives were:
 -   Track usage by actions
 -   Track what are the popular / frequently used actions
 -   Track what are the less popular / infrequently used actions (could point to a UX or product education problem)
--   Track usage for recently launched features and UI changes (eg. [Views](https://blog.orgzit.com/introducing-record-views-quickly-see-relevant-columns/), [Colors for Dropdown Fields](https://orgzit.com/blog/color-coding-dropdown-fields-highlight-data/))
+-   Track usage for recently launched features and UI changes (eg. [Views](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/), [Colors for Dropdown Fields](https://orgzit.com/blog/color-coding-dropdown-fields-highlight-data/))
 
 Here is a list of things that our product manager wanted to measure:
 

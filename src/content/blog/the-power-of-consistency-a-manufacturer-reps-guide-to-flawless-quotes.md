@@ -32,8 +32,6 @@ draft: false
 featured: false
 ---
 
-![](/blog/blog-images/1-1-1024x576.png)
-
 Did you know that over 60% of sales are lost due to inconsistent quoting?
 
 That’s a lot considering the cutthroat competition in the market, where even a single error in a quote can mean the difference between securing and losing a client. Making consistent quotes is not a goal for a manufacturer representative. Rather, it’s a necessity. The ability to deliver accurate and reliable quotes directly influences your client relationships and overall business success.

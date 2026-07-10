@@ -33,7 +33,7 @@ In February 2015, Angel List announced that startups raised over $160 million in
 
 As a SaaS marketer, I am the point of contact to people in several startups who are looking for solutions to boost their team productivity as well as hire passionate and technology-driven people to join their team. After a cheerful conversation with a few, I realized that most of them tend to list their jobs on the two giants that we have been talking about.
 
-![AngelList\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-21-at-2.27.15-PM-2-1024x576.png)
+![AngelList\_Orgzit](/blog/blog-images/Screen-Shot-2017-09-21-at-2.27.15-PM-2-1024x576.png)
 
 The tech talent wars are heated and competitive. There are a large number of startups with shiny new rounds of funding head-hunting for new, young, and fresh talent with higher packages and equity in exchange for their time and energy. Most startups fall short of having full-fledged HR or recruitment departments. _If you talk about touching first base, Angel List definitely does a better job with its amazing service of connecting a potential employee and interested startup for free._
 
@@ -51,7 +51,7 @@ AngelList also connects startups with accredited angel investors looking for dea
 
 Now let’s talk about LinkedIn. The majority of the tech community is on LinkedIn. As the X-gen of the tech community, many of these users grew up professionally on LinkedIn. However, LinkedIn’s UX hasn’t kept up with the times. LinkedIn gives you better information on what’s happening in the tech world on a very superficial level. They are coming with new features that ‘Premium Members’ are finding a bit flimsy for the ‘premium’ they are paying for it.
 
-![LinkedIn\_Orgzit](http://blog.orgzit.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-21-at-2.29.48-PM-2-1024x576.png)
+![LinkedIn\_Orgzit](/blog/blog-images/Screen-Shot-2017-09-21-at-2.29.48-PM-2-1024x576.png)
 
 For example, in March, LinkedIn came up with a [new feature](https://blog.linkedin.com/2017/march/14/linkedin-profile-photo-tips-introducing-photo-filters-and-editing) where one could change his profile picture filter. Many premium members took to the platform discouraging the privileges given to LinkedIn premium members in terms of their relevance to LinkedIn’s sole purpose – professional networking and recruitment. In another example, new LinkedIn updates introduced the new ability for LinkedIn members where they can upload video and multiple photos.
 

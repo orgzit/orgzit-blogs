@@ -88,13 +88,13 @@ Let us quickly go through some points that will make this confusion more clear?
 
 I guess this image should make CRM vs ERP clear for you –
 
-![CRM vs ERP](https://blog.orgzit.com/wp-content/uploads/2017/10/ERP-Orgzit.png)
+![CRM vs ERP](/blog/blog-images/ERP-Orgzit.png)
 
 ### **The One Everybody Takes For Granted – Project Management**
 
 [Wikipedia defines project management](https://en.wikipedia.org/wiki/Project_management) as – ‘_Project management is the discipline of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria’. Let’s see what constitutes project management –_
 
-![project management-Orgzit](https://blog.orgzit.com/wp-content/uploads/2017/10/Project-management.png)
+![project management-Orgzit](/blog/blog-images/Project-management.png)
 
 ### **What Is A Project?**
 

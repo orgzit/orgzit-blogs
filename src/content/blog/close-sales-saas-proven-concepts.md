@@ -62,7 +62,7 @@ Send over any beginner guides for brand new users. Assume they’ve never seen y
 
 Follow-up with your customer for the entire duration of the onboarding period. Think of onboarding as a two to three-week timeframe rather than less than a week. Follow-up constantly, making sure they feel like their questions are addressed and that you care about their experience.
 
-**Related** – [3 Major Reasons Why Your Indian SaaS Strategy Is Failing](https://blog.orgzit.com/3-major-reasons-indian-saas-strategy-failing/)
+**Related** – [3 Major Reasons Why Your Indian SaaS Strategy Is Failing](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/)
 
 # Constantly Create Content Which Empowers
 
