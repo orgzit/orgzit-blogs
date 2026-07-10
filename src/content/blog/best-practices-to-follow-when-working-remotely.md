@@ -37,21 +37,6 @@ _Different people face different difficulties._
 
 In this article, I will help you out with some practices to follow while working remotely or from home.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Best Practices to follow when working remotely or working from home](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#Best_Practices_to_follow_when_working_remotely_or_working_from_home "Best Practices to follow when working remotely or working from home")
-    -   [1\. Set regular working hours](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#1_Set_regular_working_hours "1. Set regular working hours")
-    -   [2\. Plan your day and make a work structure](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#2_Plan_your_day_and_make_a_work_structure "2. Plan your day and make a work structure")
-    -   [3\. Set a proper work area or work environment](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#3_Set_a_proper_work_area_or_work_environment "3. Set a proper work area or work environment")
-    -   [4\. Take coffee breaks](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#4_Take_coffee_breaks "4. Take coffee breaks")
-    -   [5\. Do not get distracted easily; try to avoid distractions](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#5_Do_not_get_distracted_easily_try_to_avoid_distractions "5. Do not get distracted easily; try to avoid distractions")
-    -   [6\. Dress up nicely](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#6_Dress_up_nicely "6. Dress up nicely")
-    -   [7\. Create boundaries between work and life](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#7_Create_boundaries_between_work_and_life "7. Create boundaries between work and life")
-    -   [8\. Connect with your teammates](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#8_Connect_with_your_teammates "8. Connect with your teammates")
-    -   [Conclusion](https://orgzit.com/blog/best-practices-to-follow-when-working-remotely/#Conclusion "Conclusion")
-
 ## Best Practices to follow when working remotely or working from home
 
 ### 1\. Set regular working hours

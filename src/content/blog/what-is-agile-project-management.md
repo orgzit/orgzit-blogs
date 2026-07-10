@@ -28,29 +28,6 @@ featured: false
 
 Agile project management is a path to break down the project into small parts. This approach has lots of small steps to follow while we are on our way to complete the project.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Agile Project Management?](https://orgzit.com/blog/what-is-agile-project-management/#What_is_Agile_Project_Management "What is Agile Project Management?")
--   [Who uses Agile project management?](https://orgzit.com/blog/what-is-agile-project-management/#Who_uses_Agile_project_management "Who uses Agile project management?")
--   [What are the core values of Agile?](https://orgzit.com/blog/what-is-agile-project-management/#What_are_the_core_values_of_Agile "What are the core values of Agile?")
-    -   [1\. Individuals and Interactions Over Processes and Tools](https://orgzit.com/blog/what-is-agile-project-management/#1_Individuals_and_Interactions_Over_Processes_and_Tools "1. Individuals and Interactions Over Processes and Tools")
-    -   [2\. Software over documentation](https://orgzit.com/blog/what-is-agile-project-management/#2_Software_over_documentation "2. Software over documentation")
-    -   [3\. Customer Collaboration Over Contract Negotiation](https://orgzit.com/blog/what-is-agile-project-management/#3_Customer_Collaboration_Over_Contract_Negotiation "3. Customer Collaboration Over Contract Negotiation")
-    -   [4\. Responding to Change Over Following a Plan](https://orgzit.com/blog/what-is-agile-project-management/#4_Responding_to_Change_Over_Following_a_Plan "4. Responding to Change Over Following a Plan")
--   [What are the steps in agile methodology?](https://orgzit.com/blog/what-is-agile-project-management/#What_are_the_steps_in_agile_methodology "What are the steps in agile methodology?")
-    -   [1\. Project planning](https://orgzit.com/blog/what-is-agile-project-management/#1_Project_planning "1. Project planning")
-    -   [2\. Product roadmap creation](https://orgzit.com/blog/what-is-agile-project-management/#2_Product_roadmap_creation "2. Product roadmap creation")
-    -   [3\. Release planning](https://orgzit.com/blog/what-is-agile-project-management/#3_Release_planning "3. Release planning")
-    -   [4\. Sprint planning](https://orgzit.com/blog/what-is-agile-project-management/#4_Sprint_planning "4. Sprint planning")
-    -   [5\. Daily scrum meetings](https://orgzit.com/blog/what-is-agile-project-management/#5_Daily_scrum_meetings "5. Daily scrum meetings")
-    -   [6\. Sprint review and retrospective](https://orgzit.com/blog/what-is-agile-project-management/#6_Sprint_review_and_retrospective "6. Sprint review and retrospective ")
--   [Advantages and disadvantages of Agile Project Management](https://orgzit.com/blog/what-is-agile-project-management/#Advantages_and_disadvantages_of_Agile_Project_Management "Advantages and disadvantages of Agile Project Management")
-    -   [Advantages of Agile Project Management](https://orgzit.com/blog/what-is-agile-project-management/#Advantages_of_Agile_Project_Management "Advantages of Agile Project Management ")
-    -   [Disadvantages of Agile Project Management](https://orgzit.com/blog/what-is-agile-project-management/#Disadvantages_of_Agile_Project_Management "Disadvantages of Agile Project Management")
--   [Conclusion](https://orgzit.com/blog/what-is-agile-project-management/#Conclusion "Conclusion")
-
 ## What is Agile Project Management?
 
 It is a process through which a team takes up the responsibility of managing a project by breaking it up into smaller stages and involving constant collaboration with stakeholders and continuous improvement and iteration at every stage.

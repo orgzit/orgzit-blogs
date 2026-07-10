@@ -49,23 +49,6 @@ In this article, you are going to be introduced to ways in which you no longer w
 
 But first, let us understand what Workflow Approval is.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Workflow Approval?](https://orgzit.com/blog/how-to-handle-workflow-approvals/#What_is_Workflow_Approval "What is Workflow Approval?")
--   [What are the benefits of Workflow Approval?](https://orgzit.com/blog/how-to-handle-workflow-approvals/#What_are_the_benefits_of_Workflow_Approval "What are the benefits of Workflow Approval?")
-    -   [1\. It Keeps Transparency in check](https://orgzit.com/blog/how-to-handle-workflow-approvals/#1_It_Keeps_Transparency_in_check "1. It Keeps Transparency in check")
-    -   [2\. It helps in enforcing accountability](https://orgzit.com/blog/how-to-handle-workflow-approvals/#2_It_helps_in_enforcing_accountability "2. It helps in enforcing accountability")
-    -   [3\. It encourages communication and better collaboration within the teams](https://orgzit.com/blog/how-to-handle-workflow-approvals/#3_It_encourages_communication_and_better_collaboration_within_the_teams "3. It encourages communication and better collaboration within the teams")
-    -   [4\. It makes room for adapting to changes](https://orgzit.com/blog/how-to-handle-workflow-approvals/#4_It_makes_room_for_adapting_to_changes "4. It makes room for adapting to changes")
--   [What is going wrong currently?](https://orgzit.com/blog/how-to-handle-workflow-approvals/#What_is_going_wrong_currently "What is going wrong currently?")
--   [How to Handle Workflow Approval?](https://orgzit.com/blog/how-to-handle-workflow-approvals/#How_to_Handle_Workflow_Approval "How to Handle Workflow Approval? ")
-    -   [1\. Plan out your Approval Processes](https://orgzit.com/blog/how-to-handle-workflow-approvals/#1_Plan_out_your_Approval_Processes "1. Plan out your Approval Processes ")
-    -   [2\. Have a Centralized Online system for your data](https://orgzit.com/blog/how-to-handle-workflow-approvals/#2_Have_a_Centralized_Online_system_for_your_data "2. Have a Centralized Online system for your data ")
-    -   [3\. Look out for different Workflow Approval Management Softwares](https://orgzit.com/blog/how-to-handle-workflow-approvals/#3_Look_out_for_different_Workflow_Approval_Management_Softwares "3. Look out for different Workflow Approval Management Softwares")
--   [Conclusion](https://orgzit.com/blog/how-to-handle-workflow-approvals/#Conclusion "Conclusion")
-
 ## **What is Workflow Approval?**
 
 ![What is Workflow Approval?](/blog/blog-images/What-is-Workflow-Approval-.png)

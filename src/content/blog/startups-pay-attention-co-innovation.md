@@ -53,13 +53,6 @@ I will stress upon the second point. For IT giants, service providers and consum
 
 Oftentimes, businesses either get lost in the process of defining a sustainable co-innovation structure and have to bear the brunt of a failed co-innovation process in terms of mergers and acquisitions. So how do you find that sweet spot between co-innovation reticence and co-innovation recklessness? Let’s find out!
 
-Table of Contents
-
-[Toggle](#)
-
--   [How Do You Implement A Successful Co-Innovation Model?](https://orgzit.com/blog/startups-pay-attention-co-innovation/#How_Do_You_Implement_A_Successful_Co-Innovation_Model "How Do You Implement A Successful Co-Innovation Model?")
-    -   [Identify The Black Sheep In The White Herd Of Business Processes](https://orgzit.com/blog/startups-pay-attention-co-innovation/#Identify_The_Black_Sheep_In_The_White_Herd_Of_Business_Processes "Identify The Black Sheep In The White Herd Of Business Processes")
--   [Look For Existing Solutions That Can Help Weed Out The Black sheep](https://orgzit.com/blog/startups-pay-attention-co-innovation/#Look_For_Existing_Solutions_That_Can_Help_Weed_Out_The_Black_sheep "Look For Existing Solutions That Can Help Weed Out The Black sheep")
     -   -   [How to do that?](https://orgzit.com/blog/startups-pay-attention-co-innovation/#How_to_do_that "How to do that?")
     -   [Pick One And Go All 8 miles](https://orgzit.com/blog/startups-pay-attention-co-innovation/#Pick_One_And_Go_All_8_miles "Pick One And Go All 8 miles")
 

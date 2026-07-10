@@ -59,20 +59,6 @@ Well before you go looking for the right best vendor management software for you
 
 #### **Let us know what exactly is vendor management?**
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is vendor management?](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#What_is_vendor_management "What is vendor management?")
--   [What are the components of a good vendor management system?](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#What_are_the_components_of_a_good_vendor_management_system "What are the components of a good vendor management system? ")
-    -   [Here I will present some workflow automation that are ideas related to vendor management workflow.](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#Here_I_will_present_some_workflow_automation_that_are_ideas_related_to_vendor_management_workflow "Here I will present some workflow automation that are ideas related to vendor management workflow.")
-    -   [1\. Streamline Vendor Onboarding](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#1_Streamline_Vendor_Onboarding "1. Streamline Vendor Onboarding")
-    -   [2\. Manage Contract Approval](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#2_Manage_Contract_Approval "2. Manage Contract Approval")
-    -   [3\. Speed Up Purchase Orders](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#3_Speed_Up_Purchase_Orders "3. Speed Up Purchase Orders")
-    -   [4\. Simplify Payment Requests](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#4_Simplify_Payment_Requests "4. Simplify Payment Requests")
-    -   [5\. Put Automation to Test](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#5_Put_Automation_to_Test "5. Put Automation to Test")
--   [Conclusion](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/#Conclusion "Conclusion")
-
 ## **What is vendor management?**
 
 [![](/blog/blog-images/vendor-management-workflow-1.png)](https://orgzit.com/blog/wp-content/uploads/2020/05/vendor-management-workflow-1.png)

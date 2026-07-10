@@ -23,15 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Use Record Views To Focus On The Information Relevant For You](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/#Use_Record_Views_To_Focus_On_The_Information_Relevant_For_You "Use Record Views To Focus On The Information Relevant For You")
-    -   [What are record views?](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/#What_are_record_views "What are record views?")
-    -   [How are record views useful?](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/#How_are_record_views_useful "How are record views useful?")
-    -   [How you can add record views?](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/#How_you_can_add_record_views "How you can add record views?")
-
 # **Use Record Views To Focus On The Information Relevant For You**
 
 ## **What are record views?**

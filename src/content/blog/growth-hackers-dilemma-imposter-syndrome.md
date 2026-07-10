@@ -47,14 +47,6 @@ I believe in the process of coining that term, Sean Ellis, founder of Growth Hac
 
 In my few months of association with Orgzit, I have faced certain challenges, which have helped me identify the reason behind me feeling like an imposter and the ways to overcome it.
 
-Table of Contents
-
-[Toggle](#)
-
--   [The 2 Stages of Imposter Syndrome for a Growth Hacker](https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/#The_2_Stages_of_Imposter_Syndrome_for_a_Growth_Hacker "The 2 Stages of Imposter Syndrome for a Growth Hacker")
--   [The Marketing Imposter](https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/#The_Marketing_Imposter "The Marketing Imposter")
--   [The Sales Imposter](https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/#The_Sales_Imposter "The Sales Imposter")
-
 ## The 2 Stages of Imposter Syndrome for a Growth Hacker
 
 ## The Marketing Imposter

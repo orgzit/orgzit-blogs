@@ -37,30 +37,6 @@ Throughout the article, we will delve into these B2B sales metrics, providing in
 
 In summary, B2B sales metrics for manufacturers’ reps are essential for manufacturers’ reps to thrive in the competitive B2B sales landscape. By comprehensively understanding their performance and leveraging these metrics, reps can optimize sales strategies, improve customer relationships, and achieve revenue goals. So, let’s dive into these seven key B2B sales metrics and KPIs, exploring their importance and providing valuable insights for success.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Top B2B Sales Metrics to Track](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Top_B2B_Sales_Metrics_to_Track "Top B2B Sales Metrics to Track")
-    -   [Sales Conversion Rate](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Sales_Conversion_Rate "Sales Conversion Rate")
-    -   [Average Deal Size](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Average_Deal_Size "Average Deal Size ")
-    -   [Sales Cycle Length](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Sales_Cycle_Length "Sales Cycle Length ")
-    -   [Sales Pipeline Velocity](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Sales_Pipeline_Velocity "Sales Pipeline Velocity ")
-    -   [Win Rate](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Win_Rate "Win Rate ")
-    -   [Avg Deal Size By Customer](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Avg_Deal_Size_By_Customer "Avg Deal Size By Customer")
-    -   [B2B Sales Team Productivity](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#B2B_Sales_Team_Productivity "B2B Sales Team Productivity ")
--   [Choosing the Right Software for Managing B2B Sales Metrics for Manufacturers’ Reps](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Choosing_the_Right_Software_for_Managing_B2B_Sales_Metrics_for_Manufacturers%E2%80%99_Reps "Choosing the Right Software for Managing B2B Sales Metrics for Manufacturers’ Reps")
-    -   [Importance of Utilizing Software Tools for Effective Metric Tracking](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Importance_of_Utilizing_Software_Tools_for_Effective_Metric_Tracking "Importance of Utilizing Software Tools for Effective Metric Tracking")
--   [Comparison of Leading CRM Software Options in B2B Sales Industry](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Comparison_of_Leading_CRM_Software_Options_in_B2B_Sales_Industry "Comparison of Leading CRM Software Options in B2B Sales Industry")
-    -   [Orgzit CRM for Manufacturers’ Reps](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Orgzit_CRM_for_Manufacturers%E2%80%99_Reps "Orgzit CRM for Manufacturers’ Reps")
-    -   [HubSpot CRM](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#HubSpot_CRM "HubSpot CRM")
-    -   [Salesforce Sales Cloud](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Salesforce_Sales_Cloud "Salesforce Sales Cloud")
-    -   [Pipedrive](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Pipedrive "Pipedrive")
-    -   [Zoho CRM](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Zoho_CRM "Zoho CRM")
-    -   [Microsoft Dynamics 365 Sales](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Microsoft_Dynamics_365_Sales "Microsoft Dynamics 365 Sales")
--   [Benefits and Considerations of Each Software Tool](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Benefits_and_Considerations_of_Each_Software_Tool "Benefits and Considerations of Each Software Tool")
--   [Wrapping Up,](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/#Wrapping_Up "Wrapping Up,")
-
 ## Top B2B Sales Metrics to Track
 
 In the fast-paced and competitive world of B2B sales, tracking the right metrics is essential for success. And in this section, we will explore seven key B2B sales metrics and KPIs for sales managers (Key Performance Indicators) that they should track to measure their performance and drive better results.  

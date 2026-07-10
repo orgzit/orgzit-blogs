@@ -29,19 +29,6 @@ Many prefer the remote setup because of its convenience. But is convenience enou
 
 Below are seven tips to improve your efficiency as you work from home. Keep in mind, some of these tips may work in your situation but not for others.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Create an Effective Workflow](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Create_an_Effective_Workflow "Create an Effective Workflow")
--   [Setup Your Working Area](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Setup_Your_Working_Area "Setup Your Working Area")
--   [Get Rid of Distractions](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Get_Rid_of_Distractions "Get Rid of Distractions")
--   [Install and Subscribe on Helpful Websites/Software](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Install_and_Subscribe_on_Helpful_WebsitesSoftware "Install and Subscribe on Helpful Websites/Software")
--   [Put a Barrier Between Work and Personal Time](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Put_a_Barrier_Between_Work_and_Personal_Time "Put a Barrier Between Work and Personal Time")
--   [Maintain Daily Working Hours](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Maintain_Daily_Working_Hours "Maintain Daily Working Hours")
--   [Eat and Sleep Right](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Eat_and_Sleep_Right "Eat and Sleep Right")
--   [Final Thoughts](https://orgzit.com/blog/work-from-home-tips-to-improve-your-efficiency/#Final_Thoughts "Final Thoughts")
-
 ## Create an Effective Workflow
 
 Some people dive into their desks without planning. As a result, they get overwhelmed and end up completing nothing. One way to [increase productivity](https://orgzit.com/blog/how-to-boost-team-productivity/) is to make an effective workflow. Determining your priorities before you begin your day and set time for it is a good start. Note also what work you will squeeze in for the extra time.

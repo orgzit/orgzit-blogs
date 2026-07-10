@@ -54,28 +54,6 @@ For companies suffering from meeting madness, here is a list of detailed pointer
 
 **_Go on, Keep Reading!_**
 
-Table of Contents
-
-[Toggle](#)
-
--   [How to Manage Meetings Effectively?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#How_to_Manage_Meetings_Effectively "How to Manage Meetings Effectively? ")
-    -   [Does the Meeting have an agenda?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Does_the_Meeting_have_an_agenda "Does the Meeting have an agenda?")
-    -   [Buy-in Some Ground Rules](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Buy-in_Some_Ground_Rules "Buy-in Some Ground Rules")
-    -   [No Delay in Meetings](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#No_Delay_in_Meetings "No Delay in Meetings ") 
-    -   [Timebox Meeting Agenda](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Timebox_Meeting_Agenda "Timebox Meeting Agenda")
-    -   [No Devices Permitted](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#No_Devices_Permitted "No Devices Permitted")
-    -   [Are the Meetings consuming longer than they should?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Are_the_Meetings_consuming_longer_than_they_should "Are the Meetings consuming longer than they should?")
-    -   [Don’t forget to document your Meetings!](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Don%E2%80%99t_forget_to_document_your_Meetings "Don’t forget to document your Meetings!")
-    -   [Are there too many cooks on the table?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Are_there_too_many_cooks_on_the_table "Are there too many cooks on the table?")
-    -   [Give an option to “Opt-Out”](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Give_an_option_to_%E2%80%9COpt-Out%E2%80%9D "Give an option to “Opt-Out”")
-    -   [Is your company becoming a Meeting Addict?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Is_your_company_becoming_a_Meeting_Addict "Is your company becoming a Meeting Addict?")
-    -   [Schedule weekly Meetings-Free Days](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Schedule_weekly_Meetings-Free_Days "Schedule weekly Meetings-Free Days")
--   [Employ the Right Technology](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Employ_the_Right_Technology "Employ the Right Technology")
-    -   [So, how does it work exactly?](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#So_how_does_it_work_exactly "So, how does it work exactly?")
-    -   [Pre-Meeting](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Pre-Meeting "Pre-Meeting")
-    -   [Meeting Duration](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Meeting_Duration "Meeting Duration")
-    -   [Post-Meeting](https://orgzit.com/blog/stop-the-meeting-madness-how-to-manage-meetings-effectively/#Post-Meeting "Post-Meeting")
-
 ## How to Manage Meetings Effectively?
 
 _Check out the top 7 pointers for managing meetings-_

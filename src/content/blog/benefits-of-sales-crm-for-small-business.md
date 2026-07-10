@@ -40,23 +40,6 @@ CRM software can also help build stronger relationships with customers by allowi
 
 So, before knowing the benefits of sales CRM, let’s understand what is sales CRM.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Sales CRM?](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#What_Is_Sales_CRM "What Is Sales CRM?")
--   [A Guide To How Sales Automation Is Useful For Small Businesses](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#A_Guide_To_How_Sales_Automation_Is_Useful_For_Small_Businesses "A Guide To How Sales Automation Is Useful For Small Businesses")
--   [8 Benefits Of A Sales CRM For Small Businesses](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#8_Benefits_Of_A_Sales_CRM_For_Small_Businesses "8 Benefits Of A Sales CRM For Small Businesses ")
-    -   [1\. Centralized Customer Data](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#1_Centralized_Customer_Data "1. Centralized Customer Data")
-    -   [2\. Better Sales Tracking](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#2_Better_Sales_Tracking "2. Better Sales Tracking ")
-    -   [3\. Enhance Customer Communication](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#3_Enhance_Customer_Communication "3. Enhance Customer Communication ")
-    -   [4\. Personalized Customer Experience](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#4_Personalized_Customer_Experience "4. Personalized Customer Experience")
-    -   [5\. Close More Sales](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#5_Close_More_Sales "5. Close More Sales")
-    -   [6\. Increase the Efficiency Of Your Sales](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#6_Increase_the_Efficiency_Of_Your_Sales "6. Increase the Efficiency Of Your Sales")
-    -   [7\. Boost Sales Analytics](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#7_Boost_Sales_Analytics "7. Boost Sales Analytics")
-    -   [8\. Cost Reduction](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#8_Cost_Reduction "8. Cost Reduction")
--   [Streamline Your Sales with Orgzit!](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/#Streamline_Your_Sales_with_Orgzit "Streamline Your Sales with Orgzit!")
-
 ## **What Is Sales CRM?**
 
 ![What Is Sales CRM](/blog/blog-images/What-Is-sales-CRM-1024x1024.jpg)

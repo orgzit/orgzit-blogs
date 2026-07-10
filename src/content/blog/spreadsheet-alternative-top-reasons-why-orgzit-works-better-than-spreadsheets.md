@@ -49,24 +49,6 @@ Orgzit is a platform that allows you, and your team, to organize business data i
 
 Here are a few reasons how Orgzit can replace Google Spreadsheets/Excel and become your plug and play collaboration and workflow management tool that needs zero coding.
 
-Table of Contents
-
-[Toggle](#)
-
--   [#1 Spreadsheets can’t become your database. Orgzit can!](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#1_Spreadsheets_can%E2%80%99t_become_your_database_Orgzit_can "#1 Spreadsheets can’t become your database. Orgzit can!")
--   [#2 Spreadsheets end up like a maze, Orgzit simplifies work!](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#2_Spreadsheets_end_up_like_a_maze_Orgzit_simplifies_work "#2 Spreadsheets end up like a maze, Orgzit simplifies work!")
--   [#3 Spreadsheets cannot get your conversations in one place, again – Orgzit can!](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#3_Spreadsheets_cannot_get_your_conversations_in_one_place_again_%E2%80%93_Orgzit_can "#3 Spreadsheets cannot get your conversations in one place, again – Orgzit can!")
--   [#4 Orgzit enables user-defined access to information, Spreadsheets offers only a part of it](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#4_Orgzit_enables_user-defined_access_to_information_Spreadsheets_offers_only_a_part_of_it "#4 Orgzit enables user-defined access to information, Spreadsheets offers only a part of it")
--   [#5 Spreadsheets cannot automate workflows. Orgzit automates your projects’ journeys.](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#5_Spreadsheets_cannot_automate_workflows_Orgzit_automates_your_projects%E2%80%99_journeys "#5 Spreadsheets cannot automate workflows. Orgzit automates your projects’ journeys.")
--   [#6 Orgzit gives you complete control of your work management system. Lets you automatically assign Ids, completion dates and even send custom notifications](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#6_Orgzit_gives_you_complete_control_of_your_work_management_system_Lets_you_automatically_assign_Ids_completion_dates_and_even_send_custom_notifications "#6 Orgzit gives you complete control of your work management system. Lets you automatically assign Ids, completion dates and even send custom notifications")
--   [#7 Maintaining a dedicated audit trail/minute level history for auditing – Spreadsheet makes it complex, while it’s a cakewalk with Orgzit](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#7_Maintaining_a_dedicated_audit_trailminute_level_history_for_auditing_%E2%80%93_Spreadsheet_makes_it_complex_while_it%E2%80%99s_a_cakewalk_with_Orgzit "#7 Maintaining a dedicated audit trail/minute level history for auditing – Spreadsheet makes it complex, while it’s a cakewalk with Orgzit")
--   [#8 Spreadsheets give limited scalability, Orgzit empowers you with an impressive scalability](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#8_Spreadsheets_give_limited_scalability_Orgzit_empowers_you_with_an_impressive_scalability "#8 Spreadsheets give limited scalability, Orgzit empowers you with an impressive scalability")
--   [](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#i " ")
--   [#9 Spreadsheets + Mobile = Cereal with milk + Orange juice](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#9_Spreadsheets_Mobile_Cereal_with_milk_Orange_juice "#9 Spreadsheets + Mobile = Cereal with milk + Orange juice")
--   [#10 Google & China Have A History](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#10_Google_China_Have_A_History "#10 Google & China Have A History")
--   [Pricing](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#Pricing "Pricing")
--   [Product support](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/#Product_support "Product support")
-
 ### **#1 Spreadsheets can’t become your database. Orgzit can!**
 
 If both spreadsheets and databases play a part in your daily operations, this article might be the gold mine that you were looking for since you started crawling the web looking for an alternative to Google spreadsheets (or Excel) for effective project management purposes.

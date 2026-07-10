@@ -38,20 +38,6 @@ In this blog, we will summarise what Operational CRM is, how it works, its uses,
 
 So let’s start!
 
-Table of Contents
-
-[Toggle](#)
-
--   [WHAT IS OPERATIONAL CRM?](https://orgzit.com/blog/operational-crm/#WHAT_IS_OPERATIONAL_CRM "WHAT IS OPERATIONAL CRM?")
--   [HOW DOES OPERATIONAL CRM WORK?](https://orgzit.com/blog/operational-crm/#HOW_DOES_OPERATIONAL_CRM_WORK "HOW DOES OPERATIONAL CRM WORK?")
--   [DIFFERENCES BETWEEN CRMs](https://orgzit.com/blog/operational-crm/#DIFFERENCES_BETWEEN_CRMs "DIFFERENCES BETWEEN CRMs")
-    -   [Operational CRM :](https://orgzit.com/blog/operational-crm/#Operational_CRM "Operational CRM : ")
-    -   [Analytical CRM :](https://orgzit.com/blog/operational-crm/#Analytical_CRM "Analytical CRM : ")
-    -   [Collaborative CRM :](https://orgzit.com/blog/operational-crm/#Collaborative_CRM "Collaborative CRM :")
--   [CRM BEST PRACTICES](https://orgzit.com/blog/operational-crm/#CRM_BEST_PRACTICES "CRM BEST PRACTICES")
--   [Here are the advantages that a good CRM solution can bring to your business:](https://orgzit.com/blog/operational-crm/#Here_are_the_advantages_that_a_good_CRM_solution_can_bring_to_your_business "Here are the advantages that a good CRM solution can bring to your business: ")
--   [SELECTING THE RIGHT CRM SOLUTION](https://orgzit.com/blog/operational-crm/#SELECTING_THE_RIGHT_CRM_SOLUTION "SELECTING THE RIGHT CRM SOLUTION")
-
 ## **WHAT IS OPERATIONAL CRM?**
 
 When it comes to business, every company/startup aims to advance and get a hold over certain paradigms like service/sales automation, efficient task handling, [lead](https://orgzit.com/blog/what-is-lead-management/) conversion, and the ability to get customers to buy in fewer steps. For this, an Operational CRM works like a magic wand because it enables handling multi-tasks in no time.

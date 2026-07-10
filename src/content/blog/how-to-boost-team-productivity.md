@@ -43,27 +43,6 @@ _Are you facing the same questions? No worries!_
 
 Here is the list of 14 pointers that can help in boosting your team productivity.
 
-Table of Contents
-
-[Toggle](#)
-
--   [How to Boost Team Productivity- A step by step guide](https://orgzit.com/blog/how-to-boost-team-productivity/#How_to_Boost_Team_Productivity-_A_step_by_step_guide "How to Boost Team Productivity- A step by step guide")
-    -   [1\. Try Flexible Scheduling](https://orgzit.com/blog/how-to-boost-team-productivity/#1_Try_Flexible_Scheduling "1. Try Flexible Scheduling")
-    -   [2\. Focus on Employee Training](https://orgzit.com/blog/how-to-boost-team-productivity/#2_Focus_on_Employee_Training "2. Focus on Employee Training")
-    -   [3\. Micromanaging is a Big No-No!](https://orgzit.com/blog/how-to-boost-team-productivity/#3_Micromanaging_is_a_Big_No-No "3. Micromanaging is a Big No-No!")
-    -   [4\. Be Okay with Scheduled Blackouts](https://orgzit.com/blog/how-to-boost-team-productivity/#4_Be_Okay_with_Scheduled_Blackouts "4. Be Okay with Scheduled Blackouts")
-    -   [5\. Don’t Forget to Analyze Data](https://orgzit.com/blog/how-to-boost-team-productivity/#5_Don%E2%80%99t_Forget_to_Analyze_Data "5. Don’t Forget to Analyze Data")
-    -   [6\. Attractive Perks go Long!](https://orgzit.com/blog/how-to-boost-team-productivity/#6_Attractive_Perks_go_Long "6. Attractive Perks go Long!")
-    -   [7\. Productivity Breaks are Important](https://orgzit.com/blog/how-to-boost-team-productivity/#7_Productivity_Breaks_are_Important "7. Productivity Breaks are Important")
-    -   [8\. Avoid Pointless Meetings](https://orgzit.com/blog/how-to-boost-team-productivity/#8_Avoid_Pointless_Meetings "8. Avoid Pointless Meetings")
-    -   [9\. Get Rid of the Toxic Employees](https://orgzit.com/blog/how-to-boost-team-productivity/#9_Get_Rid_of_the_Toxic_Employees "9. Get Rid of the Toxic Employees")
-    -   [10\. Reward Creativity & Hard Work](https://orgzit.com/blog/how-to-boost-team-productivity/#10_Reward_Creativity_Hard_Work "10. Reward Creativity & Hard Work")
-    -   [11\. Two-way Feedback Mechanism](https://orgzit.com/blog/how-to-boost-team-productivity/#11_Two-way_Feedback_Mechanism "11. Two-way Feedback Mechanism")
-    -   [12\. Practice Team Building Exercise](https://orgzit.com/blog/how-to-boost-team-productivity/#12_Practice_Team_Building_Exercise "12. Practice Team Building Exercise")
-    -   [13\. Launch Employee Wellness Program](https://orgzit.com/blog/how-to-boost-team-productivity/#13_Launch_Employee_Wellness_Program "13. Launch Employee Wellness Program")
-    -   [14\. Employ Technology- A robust Project Management Software](https://orgzit.com/blog/how-to-boost-team-productivity/#14_Employ_Technology-_A_robust_Project_Management_Software "14. Employ Technology- A robust Project Management Software")
--   [There is an App for Everything!](https://orgzit.com/blog/how-to-boost-team-productivity/#There_is_an_App_for_Everything "There is an App for Everything!")
-
 ## How to Boost Team Productivity- A step by step guide
 
 ### 1\. Try Flexible Scheduling

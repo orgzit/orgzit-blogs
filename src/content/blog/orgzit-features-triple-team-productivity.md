@@ -33,14 +33,6 @@ At Orgzit, we aim to become that scalable platform which helps businesses create
 
 With that pursuit in our hearts, we have released some new features, which brings Orgzit one-step closer to becoming your digitizing and business automation partner. Take a look at how can you leverage Orgzit to organize better, collaborate better, and analyze better.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Webhooks: Seamlessly integrate Orgzit with 3rd Party Applications](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Webhooks_Seamlessly_integrate_Orgzit_with_3rd_Party_Applications "Webhooks: Seamlessly integrate Orgzit with 3rd Party Applications")
--   [Where would I use something like webhooks?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Where_would_I_use_something_like_webhooks "Where would I use something like webhooks?")
--   [Other scenarios?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Other_scenarios "Other scenarios?")
-
 -   [Granular User Access Control: More power to You](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Granular_User_Access_Control_More_power_to_You "Granular User Access Control: More power to You")
     -   [What are User groups?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#What_are_User_groups "What are User groups?")
     -   [How can I use User Groups?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#How_can_I_use_User_Groups "How can I use User Groups?")

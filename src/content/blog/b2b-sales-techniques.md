@@ -36,24 +36,6 @@ Let’s begin!Before we dive into the B2B sales tips, let’s know what B2B sell
 
 ![B2B Sales Techniques](/blog/blog-images/B2B-Sales-Techniques-That-Just-Work-1024x538.png)
 
-Table of Contents
-
-[Toggle](#)
-
--   [WHAT IS B2B SALES?](https://orgzit.com/blog/b2b-sales-techniques/#WHAT_IS_B2B_SALES "WHAT IS B2B SALES?")
--   [TOP 10 B2B SALES TECHNIQUES](https://orgzit.com/blog/b2b-sales-techniques/#TOP_10_B2B_SALES_TECHNIQUES "TOP 10 B2B SALES TECHNIQUES")
-    -   [1\. Research your target customers and B2B prospects](https://orgzit.com/blog/b2b-sales-techniques/#1_Research_your_target_customers_and_B2B_prospects "1. Research your target customers and B2B prospects")
-    -   [2\. Know your customer’s business and follow their marketing pattern](https://orgzit.com/blog/b2b-sales-techniques/#2_Know_your_customer%E2%80%99s_business_and_follow_their_marketing_pattern "2. Know your customer’s business and follow their marketing pattern")
-    -   [3\. Create case studies with current customers and share success stories:](https://orgzit.com/blog/b2b-sales-techniques/#3_Create_case_studies_with_current_customers_and_share_success_stories "3. Create case studies with current customers and share success stories:")
-    -   [4\. Listen to your customers’ needs.](https://orgzit.com/blog/b2b-sales-techniques/#4_Listen_to_your_customers%E2%80%99_needs "4. Listen to your customers’ needs.")
-    -   [5\. Be an expert on your products/services.](https://orgzit.com/blog/b2b-sales-techniques/#5_Be_an_expert_on_your_productsservices "5. Be an expert on your products/services.")
-    -   [6\. Use a Customer Relationship Management](https://orgzit.com/blog/b2b-sales-techniques/#6_Use_a_Customer_Relationship_Management "6. Use a Customer Relationship Management")
-    -   [7\. Sell Business Solutions And Outcomes](https://orgzit.com/blog/b2b-sales-techniques/#7_Sell_Business_Solutions_And_Outcomes "7. Sell Business Solutions And Outcomes")
-    -   [8\. Address difficult questions and be responsive](https://orgzit.com/blog/b2b-sales-techniques/#8_Address_difficult_questions_and_be_responsive "8. Address difficult questions and be responsive")
-    -   [9\. Learn about your competition](https://orgzit.com/blog/b2b-sales-techniques/#9_Learn_about_your_competition "9. Learn about your competition")
-    -   [10\. Qualify your leads](https://orgzit.com/blog/b2b-sales-techniques/#10_Qualify_your_leads "10. Qualify your leads")
--   [FINAL WORD](https://orgzit.com/blog/b2b-sales-techniques/#FINAL_WORD "FINAL WORD")
-
 ## **WHAT IS B2B SALES?**
 
 The term B2B sales stand for business-to-business sales. Instead of selling directly to customers, B2B is the trade of goods, services, or products between two enterprises.

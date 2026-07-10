@@ -23,32 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/what-is-sales-funnel/#Introduction "Introduction")
--   [What is the meaning of the sales funnel?](https://orgzit.com/blog/what-is-sales-funnel/#What_is_the_meaning_of_the_sales_funnel "What is the meaning of the sales funnel?")
--   [Stages of a sales funnel](https://orgzit.com/blog/what-is-sales-funnel/#Stages_of_a_sales_funnel "Stages of a sales funnel")
--   [1\. Awareness](https://orgzit.com/blog/what-is-sales-funnel/#1_Awareness "1. Awareness")
--   [2\. Interest](https://orgzit.com/blog/what-is-sales-funnel/#2_Interest "2. Interest")
--   [3.Decision](https://orgzit.com/blog/what-is-sales-funnel/#3Decision "3.Decision")
--   [4.Action](https://orgzit.com/blog/what-is-sales-funnel/#4Action "4.Action")
--   [Customer Retention](https://orgzit.com/blog/what-is-sales-funnel/#Customer_Retention "Customer Retention")
--   [How to build a sales funnel?](https://orgzit.com/blog/what-is-sales-funnel/#How_to_build_a_sales_funnel "How to build a sales funnel?")
--   [1\. Analyze how your customers interact with your business](https://orgzit.com/blog/what-is-sales-funnel/#1_Analyze_how_your_customers_interact_with_your_business "1. Analyze how your customers interact with your business")
--   [2.Capture your audience’s attention](https://orgzit.com/blog/what-is-sales-funnel/#2Capture_your_audience%E2%80%99s_attention " 2.Capture your audience’s attention")
--   [3.Build a landing page](https://orgzit.com/blog/what-is-sales-funnel/#3Build_a_landing_page "3.Build a landing page  ")  
--   [4.Create an email drip campaign](https://orgzit.com/blog/what-is-sales-funnel/#4Create_an_email_drip_campaign "4.Create an email drip campaign")
--   [5\. Keep in touch](https://orgzit.com/blog/what-is-sales-funnel/#5_Keep_in_touch "5. Keep in touch")
--   [Why do you need a sales funnel or What is the importance of the sales funnel](https://orgzit.com/blog/what-is-sales-funnel/#Why_do_you_need_a_sales_funnel_or_What_is_the_importance_of_the_sales_funnel "Why do you need a sales funnel or What is the importance of the sales funnel")
--   [Marketing becomes simpler](https://orgzit.com/blog/what-is-sales-funnel/#Marketing_becomes_simpler "Marketing becomes simpler")
--   [Sales forecasts will be more accurate](https://orgzit.com/blog/what-is-sales-funnel/#Sales_forecasts_will_be_more_accurate "Sales forecasts will be more accurate")
--   [Improved sales metrics and conversion rates](https://orgzit.com/blog/what-is-sales-funnel/#Improved_sales_metrics_and_conversion_rates "Improved sales metrics and conversion rates ")
--   [More accountability for your sales](https://orgzit.com/blog/what-is-sales-funnel/#More_accountability_for_your_sales "More accountability for your sales")
--   [Clock in more revenue](https://orgzit.com/blog/what-is-sales-funnel/#Clock_in_more_revenue "Clock in more revenue")
--   [Conclusion](https://orgzit.com/blog/what-is-sales-funnel/#Conclusion "Conclusion")
-
 ### **Introduction**
 
 Did you love chemistry in school? Not so much? Me too! (ssshh, that is a secret). But, do not worry we will not talk about it. We will only try to remember one experiment we used to do, which included a funnel, dirty water, filter paper, known as the filtration of water. That experiment is the best example I can think of relating to the sales funnel.

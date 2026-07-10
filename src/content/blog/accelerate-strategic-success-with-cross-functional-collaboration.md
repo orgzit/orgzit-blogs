@@ -25,14 +25,6 @@ featured: false
 
 Cross Functional Collaboration describes a scenario where people from different teams or functions (sales, marketing, HR, or engineering) come together towards achieving a common goal. In other words, it describes a group of people from different departments within a business who are working to solve a specific problem.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Why you should think about Cross-Functional Collaboration?](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/#Why_you_should_think_about_Cross-Functional_Collaboration "Why you should think about Cross-Functional Collaboration?")
--   [Benefits of Cross Functional Collaboration](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/#Benefits_of_Cross_Functional_Collaboration "Benefits of Cross Functional Collaboration")
--   [Summary](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/#Summary "Summary")
-
 ### **Why you should think about Cross-Functional Collaboration?**
 
 Cross-functional collaborations lead companies to work better and innovate more!  

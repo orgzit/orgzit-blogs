@@ -43,26 +43,6 @@ Today, in this article, we have brought the software list for project management
 
 **Scroll Down to know more!**
 
-Table of Contents
-
-[Toggle](#)
-
--   [Top Softwares for Project Management and Team Collaboration](https://orgzit.com/blog/best-softwares-for-project-managers/#Top_Softwares_for_Project_Management_and_Team_Collaboration "Top Softwares for Project Management and Team Collaboration")
-    -   [1\. Team Collaboration Tool- Slack](https://orgzit.com/blog/best-softwares-for-project-managers/#1_Team_Collaboration_Tool-_Slack "1. Team Collaboration Tool- Slack")
-    -   [2\. Employee Onboarding Tool- Userlane](https://orgzit.com/blog/best-softwares-for-project-managers/#2_Employee_Onboarding_Tool-_Userlane "2. Employee Onboarding Tool- Userlane")
-    -   [3\. Video Conferencing Tool- Skype for Business](https://orgzit.com/blog/best-softwares-for-project-managers/#3_Video_Conferencing_Tool-_Skype_for_Business "3. Video Conferencing Tool- Skype for Business")
-    -   [4\. Time Zone Management Tool- World Time Buddy](https://orgzit.com/blog/best-softwares-for-project-managers/#4_Time_Zone_Management_Tool-_World_Time_Buddy "4. Time Zone Management Tool- World Time Buddy")
-    -   [5\. Time Management Tool- actiTime](https://orgzit.com/blog/best-softwares-for-project-managers/#5_Time_Management_Tool-_actiTime "5. Time Management Tool- actiTime")
-    -   [6\. Employee Happiness Meter- Chimp or Champ](https://orgzit.com/blog/best-softwares-for-project-managers/#6_Employee_Happiness_Meter-_Chimp_or_Champ "6. Employee Happiness Meter- Chimp or Champ")
-    -   [7\. Productivity Tool- Todoist](https://orgzit.com/blog/best-softwares-for-project-managers/#7_Productivity_Tool-_Todoist "7. Productivity Tool- Todoist")
-    -   [8\. Note-Taking Tool- Google Keep](https://orgzit.com/blog/best-softwares-for-project-managers/#8_Note-Taking_Tool-_Google_Keep "8. Note-Taking Tool- Google Keep")
-    -   [9\. Cloud Storage Service- Google Drive](https://orgzit.com/blog/best-softwares-for-project-managers/#9_Cloud_Storage_Service-_Google_Drive "9. Cloud Storage Service- Google Drive")
-    -   [10\. Finance Management Tool- Xero](https://orgzit.com/blog/best-softwares-for-project-managers/#10_Finance_Management_Tool-_Xero "10. Finance Management Tool- Xero")
-    -   [11\. Password Sharing Tool- LastPass](https://orgzit.com/blog/best-softwares-for-project-managers/#11_Password_Sharing_Tool-_LastPass "11. Password Sharing Tool- LastPass")
-    -   [12\. Document Management Tool- HelloSign](https://orgzit.com/blog/best-softwares-for-project-managers/#12_Document_Management_Tool-_HelloSign "12. Document Management Tool- HelloSign")
-    -   [13\. Tool for Productive Headspace- Noisli](https://orgzit.com/blog/best-softwares-for-project-managers/#13_Tool_for_Productive_Headspace-_Noisli "13. Tool for Productive Headspace- Noisli")
--   [Take-Away Message](https://orgzit.com/blog/best-softwares-for-project-managers/#Take-Away_Message "Take-Away Message")
-
 ## Top Softwares for Project Management and Team Collaboration
 
 ### 1\. Team Collaboration Tool- [Slack](https://slack.com/intl/en-in/)

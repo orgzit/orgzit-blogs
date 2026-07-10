@@ -23,15 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [About Customer](https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/#About_Customer "About Customer")
--   [How it all began…](https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/#How_it_all_began%E2%80%A6 "How it all began…")
--   [Reimagining growth with Orgzit: Achieving a multi-fold increase in collaboration and speed of decision making](https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/#Reimagining_growth_with_Orgzit_Achieving_a_multi-fold_increase_in_collaboration_and_speed_of_decision_making "Reimagining growth with Orgzit: Achieving a multi-fold increase in collaboration and speed of decision making")
--   [Afterword](https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/#Afterword "Afterword")
-
 ## About Customer
 
 Since 1993, engineering firm [Spans Envirotech](https://spans.co.in/) has been providing a wide range of planning, design, and construction management services to meet the water and wastewater needs of municipalities, public agencies, private developers, and industrial firms.

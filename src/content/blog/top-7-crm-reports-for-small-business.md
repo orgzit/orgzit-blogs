@@ -28,12 +28,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Make these CRM reports part of your sales process and give your business a cutting edge!](https://orgzit.com/blog/top-7-crm-reports-for-small-business/#Make_these_CRM_reports_part_of_your_sales_process_and_give_your_business_a_cutting_edge "Make these CRM reports part of your sales process and give your business a cutting edge!")
-
 -   [What is CRM Reporting?](https://orgzit.com/blog/top-7-crm-reports-for-small-business/#What_is_CRM_Reporting "What is CRM Reporting?")
 -   [How Businesses Use CRM Reports](https://orgzit.com/blog/top-7-crm-reports-for-small-business/#How_Businesses_Use_CRM_Reports "How Businesses Use CRM Reports")
 -   [Top 7 CRM Reports For Small Business](https://orgzit.com/blog/top-7-crm-reports-for-small-business/#Top_7_CRM_Reports_For_Small_Business "Top 7 CRM Reports For Small Business")

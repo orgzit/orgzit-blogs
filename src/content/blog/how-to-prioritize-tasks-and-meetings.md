@@ -36,26 +36,6 @@ Stay ahead in the game and prioritize your tasks with this step-by-step guide of
 
 _But, first thing first!_
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a priority?](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#What_is_a_priority "What is a priority?")
--   [Why can’t a Team Meet Project Deadlines?](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Why_can%E2%80%99t_a_Team_Meet_Project_Deadlines "Why can’t a Team Meet Project Deadlines?")
--   [How to Prioritize tasks for meeting project deadlines?](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#How_to_Prioritize_tasks_for_meeting_project_deadlines "How to Prioritize tasks for meeting project deadlines?")
-    -   [Start with the Creation of Task List](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Start_with_the_Creation_of_Task_List "Start with the Creation of Task List")
-    -   [Adopt a Prioritization Methodology](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Adopt_a_Prioritization_Methodology "Adopt a Prioritization Methodology")
-    -   [MoScoW Technique](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#MoScoW_Technique "MoScoW Technique")
--   [Try determining your Most Productive Hours](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Try_determining_your_Most_Productive_Hours "Try determining your Most Productive Hours")
--   [Don’t forget to Update your Colleagues Regularly](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Don%E2%80%99t_forget_to_Update_your_Colleagues_Regularly "Don’t forget to Update your Colleagues Regularly")
--   [Say “No” to the Unproductive Meetings](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Say_%E2%80%9CNo%E2%80%9D_to_the_Unproductive_Meetings "Say “No” to the Unproductive Meetings")
--   [Distancing your Distractions is important](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Distancing_your_Distractions_is_important "Distancing your Distractions is important")
--   [Don’t forget to set Break Timings](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Don%E2%80%99t_forget_to_set_Break_Timings "Don’t forget to set Break Timings")
--   [Remember you’re a Human, so Be Realistic](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Remember_you%E2%80%99re_a_Human_so_Be_Realistic "Remember you’re a Human, so Be Realistic")
--   [Leverage a Task Management Software](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Leverage_a_Task_Management_Software "Leverage a Task Management Software")
--   [It is Completely Fine to Say No!](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#It_is_Completely_Fine_to_Say_No "It is Completely Fine to Say No!")
--   [Still, fell short? Listen, It’s Okay!](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/#Still_fell_short_Listen_It%E2%80%99s_Okay "Still, fell short? Listen, It’s Okay!")
-
 ## What is a priority?
 
 ![setting priorities in critical](/blog/blog-images/priorities-1024x683.jpg)

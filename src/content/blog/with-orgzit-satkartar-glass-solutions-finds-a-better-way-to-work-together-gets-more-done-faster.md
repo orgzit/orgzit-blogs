@@ -23,15 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [About customer](https://orgzit.com/blog/with-orgzit-satkartar-glass-solutions-finds-a-better-way-to-work-together-gets-more-done-faster/#About_customer "About customer")
--   [Manual processes eclipsed the growth process for Satkartar](https://orgzit.com/blog/with-orgzit-satkartar-glass-solutions-finds-a-better-way-to-work-together-gets-more-done-faster/#Manual_processes_eclipsed_the_growth_process_for_Satkartar "Manual processes eclipsed the growth process for Satkartar")
--   [Buddying up with Orgzit brought out the silver lining](https://orgzit.com/blog/with-orgzit-satkartar-glass-solutions-finds-a-better-way-to-work-together-gets-more-done-faster/#Buddying_up_with_Orgzit_brought_out_the_silver_lining "Buddying up with Orgzit brought out the silver lining")
--   [Afterword](https://orgzit.com/blog/with-orgzit-satkartar-glass-solutions-finds-a-better-way-to-work-together-gets-more-done-faster/#Afterword "Afterword")
-
 ## About customer
 
 The Satkartar Glass Solutions (SGS) founded in the year 1963 has been providing innovative glass solutions for residential and commercial sectors. The company was founded with a vision to provide innovative glass and aluminium concepts to their customers in New Delhi NCR.

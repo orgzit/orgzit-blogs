@@ -39,18 +39,6 @@ It will surely help you increase your hiring strategies if you are a recruiter o
 
 As a bonus during the times of the coronavirus pandemic, I’ve included some tips for job seekers too. If you are a candidate applying for a job, some of these tips could help you improve your chances of beating the ATS systems at your favorite companies and landing you an interview.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is an Applicant Tracking System?](https://orgzit.com/blog/applicant-tracking-system/#What_is_an_Applicant_Tracking_System "What is an Applicant Tracking System?")
--   [Principles of Applicant Tracking Process](https://orgzit.com/blog/applicant-tracking-system/#Principles_of_Applicant_Tracking_Process "Principles of Applicant Tracking Process")
--   [Working Mechanism of Applicant Tracking Systems](https://orgzit.com/blog/applicant-tracking-system/#Working_Mechanism_of_Applicant_Tracking_Systems "Working Mechanism of Applicant Tracking Systems ")
--   [General Features of Applicant Tracking System](https://orgzit.com/blog/applicant-tracking-system/#General_Features_of_Applicant_Tracking_System "General Features of Applicant Tracking System")
--   [How to beat applicant tracking systems?](https://orgzit.com/blog/applicant-tracking-system/#How_to_beat_applicant_tracking_systems "How to beat applicant tracking systems?")
--   [Benefits of Applicant Tracking Systems](https://orgzit.com/blog/applicant-tracking-system/#Benefits_of_Applicant_Tracking_Systems "Benefits of Applicant Tracking Systems")
--   [Final Thoughts](https://orgzit.com/blog/applicant-tracking-system/#Final_Thoughts "Final Thoughts")
-
 ## **What is an Applicant Tracking System?**
 
 You think that applying for a job online will directly land your resume in the hands of the recruiter. I am really sorry man you are having a great misconception. The recruiter might not even get a chance to look at your resume.

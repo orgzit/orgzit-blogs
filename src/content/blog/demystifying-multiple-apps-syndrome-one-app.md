@@ -23,16 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Ride Down The Software Memory Lane](https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/#Ride_Down_The_Software_Memory_Lane "Ride Down The Software Memory Lane")
--   [The Other Side](https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/#The_Other_Side "The Other Side")
-    -   [What is App Fatigue?](https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/#What_is_App_Fatigue "What is App Fatigue?")
-    -   [Few App Fatigue Stats & Studies](https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/#Few_App_Fatigue_Stats_Studies "Few App Fatigue Stats & Studies")
-    -   [How Can You Tackle App Fatigue?](https://orgzit.com/blog/demystifying-multiple-apps-syndrome-one-app/#How_Can_You_Tackle_App_Fatigue "How Can You Tackle App Fatigue?")
-
 # Ride Down The Software Memory Lane
 
 Remember the days when software, be it games or music, came in shiny CD packets and the best way to get your hands on one was to _go to the store physically (and not log in to the virtual store)_ and choose the one you wanted to buy?

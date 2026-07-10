@@ -37,17 +37,6 @@ Prioritizing data security and keeping the data quality & quantity in mind, we h
 
 Let’s dive in and see how can you use them to your advantage –
 
-Table of Contents
-
-[Toggle](#)
-
--   [List of Multi-Level Orgzit Granular Access Control Features](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#List_of_Multi-Level_Orgzit_Granular_Access_Control_Features "List of Multi-Level Orgzit Granular Access Control Features")
-    -   [Level 1 – Account Level: Create Multiple Workspaces, Exercise Robust Control](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#Level_1_%E2%80%93_Account_Level_Create_Multiple_Workspaces_Exercise_Robust_Control "Level 1 – Account Level: Create Multiple Workspaces, Exercise Robust Control")
-    -   [Level 2 – Project Level: Create Multiple Apps, Exercise Robust Control](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#Level_2_%E2%80%93_Project_Level_Create_Multiple_Apps_Exercise_Robust_Control "Level 2 – Project Level: Create Multiple Apps, Exercise Robust Control")
-    -   [Level 3 – App Level: Create multiple Records, Exercise Robust Control](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#Level_3_%E2%80%93_App_Level_Create_multiple_Records_Exercise_Robust_Control "Level 3 – App Level: Create multiple Records, Exercise Robust Control")
--   [How Does Orgzit Security Impress Your Partner?](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#How_Does_Orgzit_Security_Impress_Your_Partner "How Does Orgzit Security Impress Your Partner?")
--   [Quick Recap of Orgzit Access Control Features?](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/#Quick_Recap_of_Orgzit_Access_Control_Features "Quick Recap of Orgzit Access Control Features?")
-
 ## List of Multi-Level Orgzit Granular Access Control Features
 
 In large enterprises and SMBs, where several people work under several others, and a hierarchy comes in the picture, all the information exchanged requires certain checks and filters to define its visibility and accessibility.

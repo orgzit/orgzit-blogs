@@ -64,13 +64,6 @@ LinkedIn is a place to:
 -   You can easily keep track of your personal contacts and their doings
 -   And of course, your next (experienced or not) employee might be waiting there
 
-Table of Contents
-
-[Toggle](#)
-
--   [A real life example from someone you say?](https://orgzit.com/blog/angellist-vs-linkedin-where-does-actual-talent-lie/#A_real_life_example_from_someone_you_say "A real life example from someone you say?")
--   [Wrap it up for you?](https://orgzit.com/blog/angellist-vs-linkedin-where-does-actual-talent-lie/#Wrap_it_up_for_you "Wrap it up for you?")
-
 ## **A real life example from someone you say?**
 
 Here is what [Dasun Wang](http://dasun.us/2014/02/20/why-you-should-use-angel-list-vs-linkedin/), a programmer in the United States has to say –

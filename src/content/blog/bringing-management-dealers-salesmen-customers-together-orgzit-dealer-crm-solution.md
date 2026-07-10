@@ -41,20 +41,6 @@ And if you’re a manufacturer you’re probably thinking to yourself, “_Yeah 
 
 That’s a great point. And that’s where we come in!
 
-Table of Contents
-
-[Toggle](#)
-
--   [3 Things A Franchisor/Dealership Owner Wants From His Dealers/Franchisees?](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#3_Things_A_FranchisorDealership_Owner_Wants_From_His_DealersFranchisees "3 Things A Franchisor/Dealership Owner Wants From His Dealers/Franchisees?")
-    -   [Increased Visibility & Reporting](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Increased_Visibility_Reporting "Increased Visibility & Reporting")
-    -   [Building Strong Dealer Networks](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Building_Strong_Dealer_Networks "Building Strong Dealer Networks")
-    -   [Intellectual Resources](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Intellectual_Resources "Intellectual Resources")
--   [How Orgzit Can Help You As A Dealer CRM Solution?](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#How_Orgzit_Can_Help_You_As_A_Dealer_CRM_Solution "How Orgzit Can Help You As A Dealer CRM Solution?")
-    -   [Manage Your Dealer Network](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Manage_Your_Dealer_Network "Manage Your Dealer Network")
-    -   [Collaborate with Dealers In Orgzit Itself](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Collaborate_with_Dealers_In_Orgzit_Itself "Collaborate with Dealers In Orgzit Itself")
-    -   [Analyze Dealer Performance](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Analyze_Dealer_Performance "Analyze Dealer Performance")
-        -   [Customize Orgzit To Fit Your Business Processes](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/#Customize_Orgzit_To_Fit_Your_Business_Processes "Customize Orgzit To Fit Your Business Processes")
-
 # **3 Things A Franchisor/Dealership Owner Wants From His Dealers/Franchisees?**
 
 ## **Increased Visibility & Reporting**

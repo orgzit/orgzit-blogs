@@ -41,20 +41,6 @@ And the best part? It’s customizable to fit the specific needs of your dealers
 
 Also, take advantage of the benefits that **dealer management** can bring to your dealership. Read the article thoroughly. We assure you by the end, you’ll want to give your dealership the superhero it deserves.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is an Automotive Dealer Management System?](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#What_is_an_Automotive_Dealer_Management_System "What is an Automotive Dealer Management System?")
--   [Here are the benefits of automotive DMS systems](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#Here_are_the_benefits_of_automotive_DMS_systems "Here are the benefits of automotive DMS systems")
-    -   [1\. Improved Inventory Management](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#1_Improved_Inventory_Management "1. Improved Inventory Management")
-    -   [2\. Great Solution For Car Dealerships](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#2_Great_Solution_For_Car_Dealerships "2. Great Solution For Car Dealerships")
-    -   [3\. Enhanced Sales and Customer Service](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#3_Enhanced_Sales_and_Customer_Service "3. Enhanced Sales and Customer Service")
-    -   [4\. Cloud-based Solutions](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#4_Cloud-based_Solutions "4. Cloud-based Solutions")
-    -   [5\. Flexibility](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#5_Flexibility "5. Flexibility")
-    -   [6\. Enhanced Data Security](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#6_Enhanced_Data_Security "6. Enhanced Data Security")
--   [DMS is built to help you manage your operations and data smoothly!](https://orgzit.com/blog/benefits-of-automotive-dealer-management-systems/#DMS_is_built_to_help_you_manage_your_operations_and_data_smoothly "DMS is built to help you manage your operations and data smoothly!")
-
 ## **What is an Automotive Dealer Management System?**
 
 ![Automotive Dealer Management System](/blog/blog-images/ADMS.jpg)

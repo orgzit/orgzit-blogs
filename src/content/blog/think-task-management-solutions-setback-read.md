@@ -23,13 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [A Brief Primer on Task Management Solutions](https://orgzit.com/blog/think-task-management-solutions-setback-read/#A_Brief_Primer_on_Task_Management_Solutions "A Brief Primer on Task Management Solutions")
--   [The Task Management Hurdle](https://orgzit.com/blog/think-task-management-solutions-setback-read/#The_Task_Management_Hurdle "The Task Management Hurdle")
-
 ### **A Brief Primer on Task Management Solutions**
 
 Most people today use some project management or task management software. Users can be broadly classified into two categories:

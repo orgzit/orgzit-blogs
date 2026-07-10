@@ -58,21 +58,6 @@ Here’s the overview. Go through your main interest instantly!
   5. Improve the customer experience
   6. Increase scalability of workflows
 
-Table of Contents
-
-[Toggle](#)
-
-* [WHAT IS WORKFLOW AUTOMATION](https://orgzit.com/blog/workflow-automation-benefits-for-business/#WHAT_IS_WORKFLOW_AUTOMATION "WHAT IS WORKFLOW AUTOMATION")
-* [WHAT’S THE PROBLEM WITH MANUAL AUTOMATION](https://orgzit.com/blog/workflow-automation-benefits-for-business/#WHAT%E2%80%99S_THE_PROBLEM_WITH_MANUAL_AUTOMATION "WHAT’S THE PROBLEM WITH MANUAL AUTOMATION")
-* [6 BENEFITS OF WORKFLOW AUTOMATION](https://orgzit.com/blog/workflow-automation-benefits-for-business/#6_BENEFITS_OF_WORKFLOW_AUTOMATION "6 BENEFITS OF WORKFLOW AUTOMATION")
-  * [1. Speed Up Task Management and Completion](https://orgzit.com/blog/workflow-automation-benefits-for-business/#1_Speed_Up_Task_Management_and_Completion "1. Speed Up Task Management and Completion ")
-  * [2. Cut Back on Labor Costs](https://orgzit.com/blog/workflow-automation-benefits-for-business/#2_Cut_Back_on_Labor_Costs "2. Cut Back on Labor Costs")
-  * [3. Reduce Errors in Processing](https://orgzit.com/blog/workflow-automation-benefits-for-business/#3_Reduce_Errors_in_Processing "3. Reduce Errors in Processing ")
-  * [4. Streamline Approval Processes](https://orgzit.com/blog/workflow-automation-benefits-for-business/#4_Streamline_Approval_Processes "4. Streamline Approval Processes")
-  * [5. Improve the Customer Experience](https://orgzit.com/blog/workflow-automation-benefits-for-business/#5_Improve_the_Customer_Experience "5. Improve the Customer Experience")
-  * [6. Increase Scalability of Workflows](https://orgzit.com/blog/workflow-automation-benefits-for-business/#6_Increase_Scalability_of_Workflows "6. Increase Scalability of Workflows")
-  * [Streamline Workflows with Automation Now](https://orgzit.com/blog/workflow-automation-benefits-for-business/#Streamline_Workflows_with_Automation_Now "Streamline Workflows with Automation Now")
-
 ## **WHAT IS WORKFLOW AUTOMATION**
 
 Workflow automation is a valuable tool to transform any business process into an error-free one. It is defined as the process of automating various tasks and activities of your company to improve productivity altogether. It is used to automate repetitive processes to avoid issues that come up with manual work.

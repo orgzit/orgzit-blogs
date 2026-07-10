@@ -35,23 +35,6 @@ Yes, your business might be facing similar problems that we found many businesse
 
 So, here’s a list of 12 common problems that businesses face using MS Excel and that are not expected to be taken with us as we enter 2020.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Excel does not let you link data across sheets](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Excel_does_not_let_you_link_data_across_sheets "Excel does not let you link data across sheets")
--   [There is no way to track changes or see audit history in Excel](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#There_is_no_way_to_track_changes_or_see_audit_history_in_Excel "There is no way to track changes  or see audit history in Excel")
--   [Generating consolidated business reports using Excel is very tedious](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Generating_consolidated_business_reports_using_Excel_is_very_tedious "Generating consolidated business reports using Excel is very tedious")
--   [No Definite Status Movement](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#No_Definite_Status_Movement "No Definite Status Movement")
--   [Excel provides you no reminders for tasks](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Excel_provides_you_no_reminders_for_tasks "Excel provides you no reminders for tasks")
--   [Spreadsheets at not scalable, it’s not a database](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Spreadsheets_at_not_scalable_it%E2%80%99s_not_a_database "Spreadsheets at not scalable, it’s not a database")
--   [No Data Partition, Everyone has access to the entire sheet](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#No_Data_Partition_Everyone_has_access_to_the_entire_sheet "No Data Partition, Everyone has access to the entire sheet")
--   [You cannot attach files to an Excel spreadsheet](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#You_cannot_attach_files_to_an_Excel_spreadsheet "You cannot attach files to an Excel spreadsheet")
--   [No Access Control to limit access to certain parts of the spreadsheet](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#No_Access_Control_to_limit_access_to_certain_parts_of_the_spreadsheet "No Access Control to limit access to certain parts of the spreadsheet")
--   [Automation is hard and macros can be unsafe](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Automation_is_hard_and_macros_can_be_unsafe "Automation is hard and macros can be unsafe")
--   [Using Excel spreadsheets is difficult on the mobile](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Using_Excel_spreadsheets_is_difficult_on_the_mobile "Using Excel spreadsheets is difficult on the mobile ")
--   [Data Leakage is a big risk with Excel sheets](https://orgzit.com/blog/why-excel-is-not-your-go-to-enterprise-collaboration-tool/#Data_Leakage_is_a_big_risk_with_Excel_sheets "Data Leakage is a big risk with Excel sheets")
-
 ## **Excel does not let you link data across sheets**
 
 While it is the most flexible and widely used enterprise collaboration tool, businesses face a huge challenge when it comes to linking data across two or more Excel sheets. Usually, your employees who manually make reports need to switch between two Excel or more sheets like the one which has customer details and the other with customer orders and generally, while in the winding, often the created report is full of errors or the entire team collaboration process is tardy.

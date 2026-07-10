@@ -26,16 +26,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a Service Level Agreement?](https://orgzit.com/blog/service-level-agreement-examples/#What_is_a_Service_Level_Agreement "What is a Service Level Agreement?")
--   [Why is it important to have a Service Level Agreement?](https://orgzit.com/blog/service-level-agreement-examples/#Why_is_it_important_to_have_a_Service_Level_Agreement "Why is it important to have a Service Level Agreement?")
--   [Different kinds of commitments included in an SLA](https://orgzit.com/blog/service-level-agreement-examples/#Different_kinds_of_commitments_included_in_an_SLA "Different kinds of commitments included in an SLA")
--   [11 Service Level Agreement Templates to track your Service Management Metrics](https://orgzit.com/blog/service-level-agreement-examples/#11_Service_Level_Agreement_Templates_to_track_your_Service_Management_Metrics "11 Service Level Agreement Templates to track your Service Management Metrics")
--   [Voila! You made it to the end](https://orgzit.com/blog/service-level-agreement-examples/#Voila_You_made_it_to_the_end "Voila! You made it to the end")
-
 ## What is a Service Level Agreement?
 
 A service level agreement is a contract signed between two or more parties signifying both the requirements and expected level of services. The document determines the scope of work and aims to maintain the optimum level of performance required.  

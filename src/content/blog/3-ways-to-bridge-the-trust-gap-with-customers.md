@@ -51,22 +51,6 @@ Building trust is not a day’s affair. It takes valour as much as it takes time
 
 Let us understand why building trust with customers is so important for a company.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Importance of Building Trust with Customers](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#Importance_of_Building_Trust_with_Customers "Importance of Building Trust with Customers")
-    -   [1\. Separates you from the rest](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#1_Separates_you_from_the_rest "1. Separates you from the rest")
-    -   [2\. Builds Customer Loyalty](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#2_Builds_Customer_Loyalty "2. Builds Customer Loyalty")
-    -   [3\. Provides you with support even in your Low Times](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#3_Provides_you_with_support_even_in_your_Low_Times "3. Provides you with support even in your Low Times")
-    -   [4\. Helps you scale easier as ‘Building Trust = Building Goodwill’](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#4_Helps_you_scale_easier_as_%E2%80%98Building_Trust_Building_Goodwill%E2%80%99 "4. Helps you scale easier as ‘Building Trust = Building Goodwill’")
-    -   [5\. Turns your Leads into Paying Customers](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#5_Turns_your_Leads_into_Paying_Customers "5. Turns your Leads into Paying Customers")
--   [3 Ways to Bridge the Trust Gap with Customers](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#3_Ways_to_Bridge_the_Trust_Gap_with_Customers "3 Ways to Bridge the Trust Gap with Customers")
-    -   [1\. Always focus on delivering value for your customer through your Products or Services](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#1_Always_focus_on_delivering_value_for_your_customer_through_your_Products_or_Services "1. Always focus on delivering value for your customer through your Products or Services")
-    -   [2\. Be as honest and transparent as you can](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#2_Be_as_honest_and_transparent_as_you_can "2. Be as honest and transparent as you can")
-    -   [3\. Bring Credibility to the table during your Low Times too](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#3_Bring_Credibility_to_the_table_during_your_Low_Times_too "3. Bring Credibility to the table during your Low Times too")
--   [Conclusion](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/#Conclusion "Conclusion")
-
 ## Importance of Building Trust with Customers
 
 Now that you know what Trust Building is for companies and the amount of time and effort it requires, let’s look at some reasons why it should be the number one factor to be ticked in a company’s checklist while setting its operations. If a company is able to build faith within their consumer’s minds, that implies that it has set a strong base for his business. It helps you in the following ways:

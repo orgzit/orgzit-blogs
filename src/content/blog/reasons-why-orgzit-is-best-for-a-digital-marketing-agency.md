@@ -31,18 +31,6 @@ But with [so many tools to choose from](http://www.capterra.com/project-manageme
 
 The Orgzit team did some research and came up with a list of key features to watch out for:
 
-Table of Contents
-
-[Toggle](#)
-
--   [One platform for the entire organization](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#One_platform_for_the_entire_organization "One platform for the entire organization")
--   [Ease of use](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Ease_of_use "Ease of use")
--   [Collaboration and sharing](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Collaboration_and_sharing "Collaboration and sharing")
--   [Working on the go](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Working_on_the_go "Working on the go")
--   [Assigning accountability](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Assigning_accountability "Assigning accountability")
--   [Web-based project management application Orgzit lets you do all this and more. Here’s how:](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Web-based_project_management_application_Orgzit_lets_you_do_all_this_and_more_Here%E2%80%99s_how "Web-based project management application Orgzit lets you do all this and more. Here’s how:")
--   [Summary](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/#Summary "Summary")
-
 ### **One platform for the entire organization**
 
 A good project management tool should allow you to manage all types of projects and client requirements from a single location.

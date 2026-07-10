@@ -40,22 +40,6 @@ But instead of making the definition clearer, it looks like it has further dilut
 
 So, Today, we will look at these three software giant terms and try to break down how they enable the functioning of an organization.
 
-Table of Contents
-
-[Toggle](#)
-
--   [The One Everybody Knows About – Customer Relationship Management (CRM)](https://orgzit.com/blog/difference-between-crm-and-erp/#The_One_Everybody_Knows_About_%E2%80%93_Customer_Relationship_Management_CRM "The One Everybody Knows About – Customer Relationship Management (CRM)")
--   [What Is CRM Software?](https://orgzit.com/blog/difference-between-crm-and-erp/#What_Is_CRM_Software "What Is CRM Software?")
--   [Why Do You Need CRM Software?](https://orgzit.com/blog/difference-between-crm-and-erp/#Why_Do_You_Need_CRM_Software "Why Do You Need CRM Software?")
--   [What is ERP?](https://orgzit.com/blog/difference-between-crm-and-erp/#What_is_ERP "What is ERP?")
--   [Why do I need ERP?](https://orgzit.com/blog/difference-between-crm-and-erp/#Why_do_I_need_ERP "Why do I need ERP?")
--   [Let us have some knowledge on CRM vs ERP.](https://orgzit.com/blog/difference-between-crm-and-erp/#Let_us_have_some_knowledge_on_CRM_vs_ERP "Let us have some knowledge on CRM vs ERP.")
--   [The One Everybody Takes For Granted – Project Management](https://orgzit.com/blog/difference-between-crm-and-erp/#The_One_Everybody_Takes_For_Granted_%E2%80%93_Project_Management "The One Everybody Takes For Granted – Project Management")
--   [What Is A Project?](https://orgzit.com/blog/difference-between-crm-and-erp/#What_Is_A_Project "What Is A Project?")
--   [Who Is A Project Manager?](https://orgzit.com/blog/difference-between-crm-and-erp/#Who_Is_A_Project_Manager "Who Is A Project Manager?")
--   [What Is The Goal Of Project Management?](https://orgzit.com/blog/difference-between-crm-and-erp/#What_Is_The_Goal_Of_Project_Management "What Is The Goal Of Project Management?")
--   [Summary](https://orgzit.com/blog/difference-between-crm-and-erp/#Summary "Summary")
-
 ### **The One Everybody Knows About – Customer Relationship Management** (CRM)
 
 Customer Relationship Management (CRM) is an approach that involves managing a company’s interaction with potential and current customers. It extensively uses [data analysis](https://en.wikipedia.org/wiki/Data_analysis) about customers’ history with a company, and improve business relationships with customers, with the utmost focus on [customer retention](https://en.wikipedia.org/wiki/Customer_retention) and ultimately driving sales growth.

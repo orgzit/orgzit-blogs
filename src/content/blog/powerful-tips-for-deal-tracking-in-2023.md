@@ -36,23 +36,6 @@ A powerful deal tracking system can be an invaluable tool in managing the multip
 
 Your deal tracking process should flow naturally into your sales process. That’s because it makes you constantly aware of your deals. As a result, you’ll be ready to [**close more deals**](https://orgzit.com/blog/top-sales-closing-techniques/).
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is deal tracking?](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#What_is_deal_tracking "What is deal tracking?")
--   [Why do you want to track your deals?](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#Why_do_you_want_to_track_your_deals "Why do you want to track your deals?")
--   [List of Powerful Tips for Deal Tracking in 2023](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#List_of_Powerful_Tips_for_Deal_Tracking_in_2023 "List of Powerful Tips for Deal Tracking in 2023")
-    -   [● Search for the appropriate data to monitor](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Search_for_the_appropriate_data_to_monitor "  ● Search for the appropriate data to monitor")
-    -   [● Assemble data in one spot](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Assemble_data_in_one_spot "  ● Assemble data in one spot")
-    -   [● Utilize specialized pipelines to manage multiple deals.](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Utilize_specialized_pipelines_to_manage_multiple_deals "  ● Utilize specialized pipelines to manage multiple deals.")
-    -   [● Don’t try to automate fully](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Don%E2%80%99t_try_to_automate_fully "  ● Don’t try to automate fully")
-    -   [● Use innovative CRM software to close the deal](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Use_innovative_CRM_software_to_close_the_deal "  ● Use innovative CRM software to close the deal")
-    -   [● The buying process is more complicated than your data indicates.](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_The_buying_process_is_more_complicated_than_your_data_indicates "  ● The buying process is more complicated than your data indicates.")
-    -   [● Reorganize the procedure](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Reorganize_the_procedure "  ● Reorganize the procedure")
-    -   [● Keep an eye on your workflow system](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Keep_an_eye_on_your_workflow_system "  ● Keep an eye on your workflow system")
-    -   [● Follow-Up Activities](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/#%E2%97%8F_Follow-Up_Activities "  ● Follow-Up Activities")
-
 ## What is deal tracking?
 
 ![Deal Tracking](/blog/blog-images/Deal-Tracking.jpg)

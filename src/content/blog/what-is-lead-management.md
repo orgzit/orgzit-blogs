@@ -23,30 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Overview](https://orgzit.com/blog/what-is-lead-management/#Overview "Overview")
--   [What are the leads?](https://orgzit.com/blog/what-is-lead-management/#What_are_the_leads "What are the leads?")
--   [Why are leads important?](https://orgzit.com/blog/what-is-lead-management/#Why_are_leads_important "Why are leads important?")
--   [What is Lead Management?](https://orgzit.com/blog/what-is-lead-management/#_What_is_Lead_Management " What is Lead Management?")
--   [Why Does Lead Management Matter?](https://orgzit.com/blog/what-is-lead-management/#Why_Does_Lead_Management_Matter "Why Does Lead Management Matter?")
--   [Lead Management Process](https://orgzit.com/blog/what-is-lead-management/#Lead_Management_Process "Lead Management Process")
--   [1\. Lead Capturing](https://orgzit.com/blog/what-is-lead-management/#1_Lead_Capturing "1. Lead Capturing")
--   [2\. Lead Tracking](https://orgzit.com/blog/what-is-lead-management/#2_Lead_Tracking "2. Lead Tracking")
--   [3\. Lead Qualification](https://orgzit.com/blog/what-is-lead-management/#3_Lead_Qualification "3. Lead Qualification")
--   [4.Lead Distribution](https://orgzit.com/blog/what-is-lead-management/#4Lead_Distribution "4.Lead Distribution")
--   [5.Lead Nurturing](https://orgzit.com/blog/what-is-lead-management/#5Lead_Nurturing "5.Lead Nurturing")
--   [Benefits of Lead Management](https://orgzit.com/blog/what-is-lead-management/#Benefits_of_Lead_Management "Benefits of Lead Management")
-    -   [1.It saves your valuable time](https://orgzit.com/blog/what-is-lead-management/#1It_saves_your_valuable_time "      1.It saves your valuable time")
-    -   [2\. Keeps Transparency](https://orgzit.com/blog/what-is-lead-management/#2_Keeps_Transparency "       2. Keeps Transparency")
-    -   [3\. Lead Tracking becomes efficient](https://orgzit.com/blog/what-is-lead-management/#3_Lead_Tracking_becomes_efficient "       3. Lead Tracking becomes efficient")
-    -   [4\. Improve team coordination](https://orgzit.com/blog/what-is-lead-management/#4_Improve_team_coordination "      4. Improve team coordination")
-    -   [5\. Better insights about the leads](https://orgzit.com/blog/what-is-lead-management/#5_Better_insights_about_the_leads "        5. Better insights about the leads")
--   [How Does it Help?](https://orgzit.com/blog/what-is-lead-management/#How_Does_it_Help "How Does it Help?")
--   [Warning signs that your organization is in need of Lead Management.](https://orgzit.com/blog/what-is-lead-management/#Warning_signs_that_your_organization_is_in_need_of_Lead_Management "Warning signs that your organization is in need of Lead Management.")
-
 ## **Overview**
 
 Leads are oxygen for any business irrespective of the size of the business and lead management is the blood.

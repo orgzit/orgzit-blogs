@@ -31,22 +31,6 @@ In an eskills [blog](http://blog.eskill.com/recruiting-today-science-art/) by E
 
 And this stands ultimately true when you are going to recruit your first hire.
 
-Table of Contents
-
-[Toggle](#)
-
--   [How Do You Recruit Your First Hire?](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#How_Do_You_Recruit_Your_First_Hire "How Do You Recruit Your First Hire?")
-    -   [Belong.co](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Belongco "Belong.co")
-    -   [Hiree](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Hiree "Hiree")
-    -   [HackerEarth](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#HackerEarth "HackerEarth")
-    -   [Hired](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Hired "Hired")
-    -   [Proversity](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Proversity "Proversity")
-    -   [Placed](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Placed "Placed")
-    -   [Syft](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#Syft "Syft")
-    -   [CodeSignal Recruiter](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#CodeSignal_Recruiter "CodeSignal Recruiter")
-    -   [AngelList](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#AngelList "AngelList")
-    -   [LinkedIn](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/#LinkedIn "LinkedIn")
-
 # How Do You Recruit Your First Hire?
 
 In order to ensure that your first hire is entirely aligned with your goals and can adapt to the company’s working culture, you’ll need to implement a recruiting strategy which not only leverages the ability of current social recruiting platforms to match the company with a candidate based on the similarities in skillset and employee job responsibilities, but also factor in your gut instinct i.e. a solid combination of art and science.

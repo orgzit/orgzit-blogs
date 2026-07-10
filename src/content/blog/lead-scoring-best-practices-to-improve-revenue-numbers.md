@@ -38,25 +38,6 @@ Are you curious to know how you can get more leads? Read on to learn more about 
 
 Let’s dive in!
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Lead Scoring?](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#What_Is_Lead_Scoring "What Is Lead Scoring? ")
--   [Importance of Lead Scoring](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#Importance_of_Lead_Scoring "Importance of Lead Scoring ")
-    -   [● Link sales and marketing](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Link_sales_and_marketing "● Link sales and marketing")
-    -   [● More precise estimations](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_More_precise_estimations "● More precise estimations")
-    -   [● More concentration on the team’s opinion](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_More_concentration_on_the_team%E2%80%99s_opinion "● More concentration on the team’s opinion")
-    -   [● Rapid testing and setup](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Rapid_testing_and_setup "● Rapid testing and setup")
-    -   [● Boosts profits](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Boosts_profits "● Boosts profits")
--   [Lead Scoring Best Practices](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#Lead_Scoring_Best_Practices "Lead Scoring Best Practices ")
-    -   [● Use your sales staff](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Use_your_sales_staff "● Use your sales staff")
-    -   [● Speak with your customer](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Speak_with_your_customer "● Speak with your customer")
-    -   [● Adopt a negative scoring](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Adopt_a_negative_scoring "● Adopt a negative scoring")
-    -   [● Optimize your lead scoring models for better leads](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#%E2%97%8F_Optimize_your_lead_scoring_models_for_better_leads "● Optimize your lead scoring models for better leads")
--   [A Real Lead Scoring Example](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#A_Real_Lead_Scoring_Example "A Real Lead Scoring Example")
--   [Grow Your Business with a Lead Scoring Enabled CRM](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/#Grow_Your_Business_with_a_Lead_Scoring_Enabled_CRM "Grow Your Business with a Lead Scoring Enabled CRM ")
-
 ## What Is Lead Scoring?
 
 ![What Is Lead Scoring](/blog/blog-images/What-Is-Lead-Scoring-1.jpg)

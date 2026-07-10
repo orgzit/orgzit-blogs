@@ -43,17 +43,6 @@ Fortunately for curious and productivity hungry entrepreneurs, there are if not 
 
 But the question here lies is how to select the best tool to meet your specific needs. As fellow entrepreneurs, we have had the same challenges and ended up experimenting with various software applications. Through this article, we endeavor to share with you what we think are important features of project management.
 
-Table of Contents
-
-[Toggle](#)
-
--   [The features of project management you should keep in mind are:](https://orgzit.com/blog/features-of-project-management-software/#The_features_of_project_management_you_should_keep_in_mind_are "The features of project management you should keep in mind are:")
--   [Connectivity](https://orgzit.com/blog/features-of-project-management-software/#Connectivity "Connectivity")
--   [Flexibility and Customizability](https://orgzit.com/blog/features-of-project-management-software/#Flexibility_and_Customizability "Flexibility and Customizability")
--   [Easy Analysis & Reporting](https://orgzit.com/blog/features-of-project-management-software/#Easy_Analysis_Reporting "Easy Analysis & Reporting ")
--   [Automate your processes](https://orgzit.com/blog/features-of-project-management-software/#Automate_your_processes "Automate your processes")
--   [Integrated Solution](https://orgzit.com/blog/features-of-project-management-software/#Integrated_Solution "Integrated Solution")
-
 -   [There is no perfect tool. Pick the project management software that works for your team.](https://orgzit.com/blog/features-of-project-management-software/#There_is_no_perfect_tool_Pick_the_project_management_software_that_works_for_your_team "There is no perfect tool. Pick the project management software that works for your team. ")
 
 ### **The features of project management you should keep in mind are:**

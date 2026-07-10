@@ -43,22 +43,6 @@ It is not a tool, it is a practice.
 
 Let us explore some things about project and project managers before we dig deep into project management.  
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a project?](https://orgzit.com/blog/what-is-project-management/#What_is_a_project "What is a project?")
--   [Who is a Project Manager and What does he do?](https://orgzit.com/blog/what-is-project-management/#Who_is_a_Project_Manager_and_What_does_he_do "Who is a Project Manager and What does he do?")
--   [Core components of project management](https://orgzit.com/blog/what-is-project-management/#Core_components_of_project_management "Core components of project management")
--   [Benefits of project management](https://orgzit.com/blog/what-is-project-management/#Benefits_of_project_management "Benefits of project management ")
--   [1.Realistic project plans](https://orgzit.com/blog/what-is-project-management/#1Realistic_project_plans "1.Realistic project plans")
--   [2.Clear Focus on Objectives](https://orgzit.com/blog/what-is-project-management/#2Clear_Focus_on_Objectives "2.Clear Focus on Objectives")
--   [3.Maximum resource utilization](https://orgzit.com/blog/what-is-project-management/#3Maximum_resource_utilization "3.Maximum resource utilization")
--   [4.Risk management](https://orgzit.com/blog/what-is-project-management/#4Risk_management "4.Risk management")
--   [5.Quality Control](https://orgzit.com/blog/what-is-project-management/#5Quality_Control "5.Quality Control")
--   [Why Is Project Management Important?](https://orgzit.com/blog/what-is-project-management/#Why_Is_Project_Management_Important "Why Is Project Management Important?")
--   [What comes next?](https://orgzit.com/blog/what-is-project-management/#What_comes_next "What comes next?")
-
 ### **What is a project?**
 
 A project is a series of tasks that need to be accomplished in order to meet a particular goal or in other words it can be said that a project is a set of inputs and outputs required to achieve the desired goal.

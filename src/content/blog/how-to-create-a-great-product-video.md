@@ -27,14 +27,6 @@ featured: false
 
 _Product + X = Maximum People Reach_
 
-Table of Contents
-
-[Toggle](#)
-
--   [Pre-Video](https://orgzit.com/blog/how-to-create-a-great-product-video/#Pre-Video "Pre-Video")
--   [The Making](https://orgzit.com/blog/how-to-create-a-great-product-video/#The_Making "The Making")
--   [Post Video](https://orgzit.com/blog/how-to-create-a-great-product-video/#Post_Video "Post Video")
-
 ## Pre-Video
 
 It’s hardly been 6 months since I have graduated from the position of a Content Writer to a Content Marketer. And one thing has been explicitly clear –

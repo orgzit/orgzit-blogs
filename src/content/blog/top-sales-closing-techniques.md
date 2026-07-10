@@ -58,14 +58,6 @@ In this post:
 
 -   **Some Psychological Methods To Close Deals**
 
-Table of Contents
-
-[Toggle](#)
-
--   [Top 6 Sales Closing Techniques To Close More Deals](https://orgzit.com/blog/top-sales-closing-techniques/#Top_6_Sales_Closing_Techniques_To_Close_More_Deals "Top 6 Sales Closing Techniques To Close More Deals")
--   [Some psychological methods to close deals.](https://orgzit.com/blog/top-sales-closing-techniques/#Some_psychological_methods_to_close_deals "Some psychological methods to close deals.")
--   [Final Word](https://orgzit.com/blog/top-sales-closing-techniques/#Final_Word "Final Word")
-
 ## **Top 6 Sales Closing Techniques To Close More Deals**
 
 #### **1\. Now or Never Close**

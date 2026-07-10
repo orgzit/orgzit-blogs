@@ -44,29 +44,6 @@ Today, I will cover every nook and cranny of onboarding clients efficiently, plu
 
 _So, without further add-ons, let’s begin!!_
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Client Onboarding?](https://orgzit.com/blog/onboarding-clients-efficiently/#What_is_Client_Onboarding "What is Client Onboarding?")
--   [15 Best Tips for Onboarding Clients Efficiently](https://orgzit.com/blog/onboarding-clients-efficiently/#15_Best_Tips_for_Onboarding_Clients_Efficiently "15 Best Tips for Onboarding Clients Efficiently ")
-    -   [1\. Welcome them on a Personal Note](https://orgzit.com/blog/onboarding-clients-efficiently/#1_Welcome_them_on_a_Personal_Note "1. Welcome them on a Personal Note")
-    -   [2\. Get to know your Client Better](https://orgzit.com/blog/onboarding-clients-efficiently/#2_Get_to_know_your_Client_Better "2. Get to know your Client Better")
-    -   [3\. Assess your Client Needs & Develop an Outline](https://orgzit.com/blog/onboarding-clients-efficiently/#3_Assess_your_Client_Needs_Develop_an_Outline "3. Assess your Client Needs & Develop an Outline")
-    -   [4\. Pick the best People for Job](https://orgzit.com/blog/onboarding-clients-efficiently/#4_Pick_the_best_People_for_Job "4. Pick the best People for Job")
-    -   [5\. Hold an Internal Meeting](https://orgzit.com/blog/onboarding-clients-efficiently/#5_Hold_an_Internal_Meeting "5. Hold an Internal Meeting")
-    -   [6\. Set Clear Expectations](https://orgzit.com/blog/onboarding-clients-efficiently/#6_Set_Clear_Expectations "6. Set Clear Expectations")
-    -   [7\. Be Ready for the Kick-Off Call](https://orgzit.com/blog/onboarding-clients-efficiently/#7_Be_Ready_for_the_Kick-Off_Call "7. Be Ready for the Kick-Off Call")
-    -   [8\. Keep reminding your value proposition for the client](https://orgzit.com/blog/onboarding-clients-efficiently/#8_Keep_reminding_your_value_proposition_for_the_client "8. Keep reminding  your value proposition for the client")
-    -   [9\. Train Your Clients](https://orgzit.com/blog/onboarding-clients-efficiently/#9_Train_Your_Clients "9. Train Your Clients")
-    -   [10\. Give a Smooth Handoff at every stage](https://orgzit.com/blog/onboarding-clients-efficiently/#_10_Give_a_Smooth_Handoff_at_every_stage " 10. Give a Smooth Handoff at every stage")
-    -   [11\. Keep Communication Consistent](https://orgzit.com/blog/onboarding-clients-efficiently/#_11_Keep_Communication_Consistent " 11. Keep Communication Consistent")
-    -   [12\. Outline the technology & tools to be used in the project](https://orgzit.com/blog/onboarding-clients-efficiently/#12_Outline_the_technology_tools_to_be_used_in_the_project "12. Outline the technology & tools to be used in the project")
-    -   [13\. Don’t make the client repeat themselves](https://orgzit.com/blog/onboarding-clients-efficiently/#13_Don%E2%80%99t_make_the_client_repeat_themselves "13. Don’t make the client repeat themselves")
-    -   [14\. Don’t forget to take feedback from the clients](https://orgzit.com/blog/onboarding-clients-efficiently/#14_Don%E2%80%99t_forget_to_take_feedback_from_the_clients "14. Don’t forget to take feedback from the clients")
-    -   [15\. Get your Hands Dirty in Pit](https://orgzit.com/blog/onboarding-clients-efficiently/#15_Get_your_Hands_Dirty_in_Pit "15. Get your Hands Dirty in Pit ")
--   [Boost ROI with an efficient CRM and Project management system](https://orgzit.com/blog/onboarding-clients-efficiently/#Boost_ROI_with_an_efficient_CRM_and_Project_management_system "Boost ROI with an efficient CRM and Project management system")
-
 ## What is Client Onboarding?
 
 Client onboarding is the process of welcoming new clients into your organization, addressing their concerns, and ensuring the best quality services. Client onboarding is one of the essential functions of any organization as it directly affects the customer journey and thereby profits.

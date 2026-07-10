@@ -37,21 +37,6 @@ The relationships you build through nurturing can make closing the deal much eas
 
 This article will tell you all about **_lead nurturing_**, which is an important concept or element of your [lead management system](https://orgzit.com/blog/what-is-lead-management/).
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is lead nurturing?](https://orgzit.com/blog/what-is-lead-nurturing/#What_is_lead_nurturing "What is lead nurturing?")
--   [How to nurture leads?](https://orgzit.com/blog/what-is-lead-nurturing/#How_to_nurture_leads "How to nurture leads?")
--   [5 eye-opening statistics on lead nurturing](https://orgzit.com/blog/what-is-lead-nurturing/#5_eye-opening_statistics_on_lead_nurturing "5 eye-opening statistics on lead nurturing")
--   [What does lead nurturing actually do?](https://orgzit.com/blog/what-is-lead-nurturing/#What_does_lead_nurturing_actually_do "What does lead nurturing actually do?")
--   [Lead nurturing for account-based marketing (ABM)](https://orgzit.com/blog/what-is-lead-nurturing/#Lead_nurturing_for_account-based_marketing_ABM "Lead nurturing for account-based marketing (ABM)")
--   [What is ABM?](https://orgzit.com/blog/what-is-lead-nurturing/#What_is_ABM "What is ABM?")
--   [Few things lead nurturing can do for ABM strategy](https://orgzit.com/blog/what-is-lead-nurturing/#Few_things_lead_nurturing_can_do_for_ABM_strategy "Few things lead nurturing can do for ABM strategy")
--   [How to get started with your lead nurturing strategy?](https://orgzit.com/blog/what-is-lead-nurturing/#How_to_get_started_with_your_lead_nurturing_strategy "How to get started with your lead nurturing strategy?")
--   [Why do you use lead nurturing?](https://orgzit.com/blog/what-is-lead-nurturing/#Why_do_you_use_lead_nurturing "Why do you use lead nurturing? ")
--   [Final thoughts](https://orgzit.com/blog/what-is-lead-nurturing/#Final_thoughts "Final thoughts")
-
 ## **What is lead nurturing?**
 
 ![ what is lead nurturing?](https://lh4.googleusercontent.com/DDFdVu1MKQZXRXlpuJRN1StAoccndpr4ezBQ5PG474UjHQzh_Eb_oe0xHok9crUSWXg6uKMkGA7nY-gcd0ia2LhsjX5OaegQgITocDMksafLflX3znbIo8rMhvTSZTCBHi9Xz813)

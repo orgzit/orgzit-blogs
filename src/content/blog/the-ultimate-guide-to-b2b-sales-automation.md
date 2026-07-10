@@ -36,17 +36,6 @@ Automating your sales cycle can unearth your team’s full potential and keep yo
 
 Whether you’re a B2B startup or an established enterprise, sales automation can help you take your sales strategy to the next level.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is B2B Sales Automation?](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#What_Is_B2B_Sales_Automation "What Is B2B Sales Automation?")
--   [Why Should You Automate Your Sales In 2023?](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#Why_Should_You_Automate_Your_Sales_In_2023 "Why Should You Automate Your Sales In 2023? ")
--   [Top 5 Examples of Sales Automation](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#Top_5_Examples_of_Sales_Automation "Top 5 Examples of Sales Automation ")
--   [B2B vs. B2C Sales Automation: A Complete Overview](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#B2B_vs_B2C_Sales_Automation_A_Complete_Overview "B2B vs. B2C Sales Automation: A Complete Overview")
--   [Top 5 Benefits of B2B Sales Automation](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#Top_5_Benefits_of_B2B_Sales_Automation "Top 5 Benefits of B2B Sales Automation")
--   [To Conclude,](https://orgzit.com/blog/the-ultimate-guide-to-b2b-sales-automation/#To_Conclude "To Conclude,")
-
 ## What Is B2B Sales Automation?
 
 In general, sales automation automates repetitive and mundane manual tasks. The purpose of sales automation is to save sales teams time and money.

@@ -36,14 +36,6 @@ I tend to think about tomorrow only if there is a customer whose deadline is app
 
 _I don’t learn lessons from the past, don’t take cue from the present, and don’t think much about the future._
 
-Table of Contents
-
-[Toggle](#)
-
--   [So Why Am I Talking About How To Get Productive?](https://orgzit.com/blog/story-productivity/#So_Why_Am_I_Talking_About_How_To_Get_Productive "So Why Am I Talking About How To Get Productive?")
--   [What Did Orgzit Teach Me?](https://orgzit.com/blog/story-productivity/#What_Did_Orgzit_Teach_Me "What Did Orgzit Teach Me?")
--   [How Did Orgzit Teach Me This?](https://orgzit.com/blog/story-productivity/#How_Did_Orgzit_Teach_Me_This "How Did Orgzit Teach Me This?")
-
 ## **So Why Am I Talking About How To Get Productive?**
 
 I have learnt to _live dual lives – one as a growth hacker for Orgzit, and another as a son, brother and the [21st century millennial](https://kartiknama.com/the-proud-indian-millennial/)_. I take what I have learnt from Orgzit and try to implement it in my life, and vice versa.

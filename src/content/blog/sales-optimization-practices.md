@@ -39,25 +39,6 @@ Strategy, technology, and an active sales team are the pillars of nurturing cust
 
 But do you know how to speed up the sales process and reach out to your potential leads? We got you covered! Let’s learn the **Top 10 Sales Optimization Practices To Close More Deals.**
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Sales Optimization?](https://orgzit.com/blog/sales-optimization-practices/#What_Is_Sales_Optimization "What Is Sales Optimization?")
--   [10 Ways To Optimize Sales Performance](https://orgzit.com/blog/sales-optimization-practices/#10_Ways_To_Optimize_Sales_Performance "10 Ways To Optimize Sales Performance")
-    -   [1\. Track and Analyze Sales Data](https://orgzit.com/blog/sales-optimization-practices/#1_Track_and_Analyze_Sales_Data "1. Track and Analyze Sales Data")
-    -   [2\. Integrate Marketing and Sales](https://orgzit.com/blog/sales-optimization-practices/#2_Integrate_Marketing_and_Sales "2. Integrate Marketing and Sales")
-    -   [3\. Optimise the Lead Management Process](https://orgzit.com/blog/sales-optimization-practices/#3_Optimise_the_Lead_Management_Process "3. Optimise the Lead Management Process")
-    -   [4\. Motivate and Empower Team Members](https://orgzit.com/blog/sales-optimization-practices/#4_Motivate_and_Empower_Team_Members "4. Motivate and Empower Team Members")
-    -   [5\. Understand Buyer Personas](https://orgzit.com/blog/sales-optimization-practices/#5_Understand_Buyer_Personas "5. Understand Buyer Personas")
-    -   [6\. Embrace Sales 2.0 Methodology](https://orgzit.com/blog/sales-optimization-practices/#6_Embrace_Sales_20_Methodology "6. Embrace Sales 2.0 Methodology")
-    -   [7\. Automate as much of your sales process as possible](https://orgzit.com/blog/sales-optimization-practices/#7_Automate_as_much_of_your_sales_process_as_possible "7. Automate as much of your sales process as possible")
-    -   [8\. Reduce your churn rate](https://orgzit.com/blog/sales-optimization-practices/#8_Reduce_your_churn_rate "8. Reduce your churn rate")
-    -   [9\. Shorten your sales cycle.](https://orgzit.com/blog/sales-optimization-practices/#9_Shorten_your_sales_cycle "9.  Shorten your sales cycle.")
-    -   [10\. Tracking Sales Performance](https://orgzit.com/blog/sales-optimization-practices/#10_Tracking_Sales_Performance "10. Tracking Sales Performance")
--   [Build A Winning Sales Optimization Toolset](https://orgzit.com/blog/sales-optimization-practices/#Build_A_Winning_Sales_Optimization_Toolset "Build A Winning Sales Optimization Toolset")
--   [How Are You Going To Optimise Your Sales Process?](https://orgzit.com/blog/sales-optimization-practices/#How_Are_You_Going_To_Optimise_Your_Sales_Process "How Are You Going To Optimise Your Sales Process?")
-
 ## **What Is Sales Optimization?**
 
 ![Sales Optimization](/blog/blog-images/3-1.png)

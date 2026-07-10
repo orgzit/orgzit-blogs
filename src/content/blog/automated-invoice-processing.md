@@ -43,25 +43,6 @@ Here are links to the sections you might be interested in
 -   How Automated Invoice Processing Improves Invoice Management
 -   A Step By Step Approach To Invoice Automation Solution
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Automated Invoice Processing?](https://orgzit.com/blog/automated-invoice-processing/#What_Is_Automated_Invoice_Processing "What Is Automated Invoice Processing?")
-    -   [Here are the steps for invoice processing:](https://orgzit.com/blog/automated-invoice-processing/#Here_are_the_steps_for_invoice_processing "Here are the steps for invoice processing:")
--   [How Automated Invoice Processing Improves Invoice Management](https://orgzit.com/blog/automated-invoice-processing/#How_Automated_Invoice_Processing_Improves_Invoice_Management "How Automated Invoice Processing Improves Invoice Management")
-    -   [1\. Reduce Manual Data Entry To Improve Accuracy](https://orgzit.com/blog/automated-invoice-processing/#1_Reduce_Manual_Data_Entry_To_Improve_Accuracy "1. Reduce Manual Data Entry To Improve Accuracy")
-    -   [2\. Perform Automated Invoices Audits & Matching](https://orgzit.com/blog/automated-invoice-processing/#2_Perform_Automated_Invoices_Audits_Matching "2. Perform Automated Invoices Audits & Matching")
-    -   [3\. Route Invoices to the Right Approvers](https://orgzit.com/blog/automated-invoice-processing/#3_Route_Invoices_to_the_Right_Approvers "3. Route Invoices to the Right Approvers")
-    -   [4\. Centralize Your Records](https://orgzit.com/blog/automated-invoice-processing/#4_Centralize_Your_Records "4. Centralize Your Records")
-    -   [5\. Measure Performance & Foster Consistency](https://orgzit.com/blog/automated-invoice-processing/#5_Measure_Performance_Foster_Consistency "5. Measure Performance & Foster Consistency")
--   [A Step-By-Step Approach To Invoice Automation Solution](https://orgzit.com/blog/automated-invoice-processing/#A_Step-By-Step_Approach_To_Invoice_Automation_Solution "A Step-By-Step Approach To Invoice Automation Solution")
-    -   [Start by Analyzing Your Current Invoice Processes](https://orgzit.com/blog/automated-invoice-processing/#Start_by_Analyzing_Your_Current_Invoice_Processes "Start by Analyzing Your Current Invoice Processes")
-    -   [Establish Invoicing Policies And Processes.](https://orgzit.com/blog/automated-invoice-processing/#Establish_Invoicing_Policies_And_Processes "Establish Invoicing Policies And Processes.")
-    -   [Automate Invoice Tasks](https://orgzit.com/blog/automated-invoice-processing/#Automate_Invoice_Tasks "Automate Invoice Tasks")
-    -   [Opt For Best Automation Solution](https://orgzit.com/blog/automated-invoice-processing/#Opt_For_Best_Automation_Solution "Opt For Best Automation Solution")
--   [Choose The Best Way To Process And Approve Invoices](https://orgzit.com/blog/automated-invoice-processing/#Choose_The_Best_Way_To_Process_And_Approve_Invoices "Choose The Best Way To Process And Approve Invoices")
-
 ## **What Is Automated Invoice Processing?**
 
 Invoice automation, also known as automated invoice processing, is smoothly retrieving information from invoices entering your system and putting it into your ERP (enterprise resource planning) so that payment proceedings can be processed instantly.

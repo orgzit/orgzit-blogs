@@ -27,17 +27,6 @@ The software-as-a-service (SaaS) ecosystem in India is witnessing a tremendous i
 
 Before we deep dive into SaaS and its seemingly bittersweet relationship with the Indian software market, there is a question that needs to be answered first –
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is SaaS?](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#What_is_SaaS "What is SaaS?")
--   [SaaS is a combination of all the three points above.](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#SaaS_is_a_combination_of_all_the_three_points_above "SaaS is a combination of all the three points above.")
--   [SaaS in India](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#SaaS_in_India "SaaS in India")
-    -   [Relationships Take Precedence Over Service](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#Relationships_Take_Precedence_Over_Service "Relationships Take Precedence Over Service")
-    -   [Absence of DIY culture](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#Absence_of_DIY_culture "Absence of DIY culture")
-    -   [Unwillingness To Invest Long-Term](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/#Unwillingness_To_Invest_Long-Term "Unwillingness To Invest Long-Term")
-
 # What is SaaS?
 
 _SaaS is a software distribution model in which applications are hosted by a service provider or vendor on the cloud._

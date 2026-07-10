@@ -32,14 +32,6 @@ Luckily, modern technology has lived up to the challenge, and there are many **c
 
 In this article, we will take a look at some of the most popular and effective **collaboration technologies** for **productive teams** in **2018**.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Communication](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Communication "Communication")
-    -   [1\. Slack](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#1_Slack "1. Slack")
-    -   [2\. Skype](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#2_Skype "2. Skype")
-    -   [3. Yammer](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#3_Yammer "3. Yammer")
     -   [4\. HeySpace](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#4_HeySpace "4. HeySpace 
         ")
 -   [Design](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Design "Design")

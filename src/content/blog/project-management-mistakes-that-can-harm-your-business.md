@@ -39,30 +39,6 @@ We, as human beings, tend to imagine only the sweet fruit after struggle and not
 
 **_Go on, and check out the sinkholes that are impeding your project’s success!_**
 
-Table of Contents
-
-[Toggle](#)
-
--   [18 Project Management Mistakes that can harm your business](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#18_Project_Management_Mistakes_that_can_harm_your_business "18 Project Management Mistakes that can harm your business")
-    -   [1\. Inexperienced captain of the vessel](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#1_Inexperienced_captain_of_the_vessel "1. Inexperienced captain of the vessel")
-    -   [2\. Not understanding Teams’ Persona Before inviting them to the table](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#2_Not_understanding_Teams%E2%80%99_Persona_Before_inviting_them_to_the_table "2. Not understanding Teams’ Persona Before inviting them to the table")
-    -   [3\. Inadequate Amount of Resources](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#3_Inadequate_Amount_of_Resources "3. Inadequate Amount of Resources")
-    -   [4\. Not knowing the big picture](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#4_Not_knowing_the_big_picture "4. Not knowing the big picture")
-    -   [5\. Forgot to define Statement of Requirements](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#5_Forgot_to_define_Statement_of_Requirements "5. Forgot to define Statement of Requirements")
-    -   [6\. Not cutting the Large Pie into eatable chunks](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#6_Not_cutting_the_Large_Pie_into_eatable_chunks "6. Not cutting the Large Pie into eatable chunks")
-    -   [7\. Not clearly defining the direction in which the team has to sail](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#7_Not_clearly_defining_the_direction_in_which_the_team_has_to_sail "7. Not clearly defining the direction in which the team has to sail")
-    -   [8\. Didn’t Bother to Create a Process](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#8_Didn%E2%80%99t_Bother_to_Create_a_Process "8. Didn’t Bother to Create a Process")
-    -   [9\. Ignoring inputs from team members](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#9_Ignoring_inputs_from_team_members "9. Ignoring inputs from team members")
-    -   [10\. Poor Management of Scope Creep](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#10_Poor_Management_of_Scope_Creep "10. Poor Management of Scope Creep")
-    -   [11\. Failing to document financial expenses](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#11_Failing_to_document_financial_expenses "11. Failing to document financial expenses")
-    -   [12\. Assuming your team knows every know-hows](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#12_Assuming_your_team_knows_every_know-hows "12. Assuming your team knows every know-hows")
-    -   [13\. Ignoring Communication, the lifeblood of a project!](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#13_Ignoring_Communication_the_lifeblood_of_a_project "13. Ignoring Communication, the lifeblood of a project!")
-    -   [14\. Breathing under the neck of team members](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#14_Breathing_under_the_neck_of_team_members "14. Breathing under the neck of team members")
-    -   [15\. Not updating the stakeholder about project updates](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#15_Not_updating_the_stakeholder_about_project_updates "15. Not updating the stakeholder about project updates")
-    -   [16\. Skipping Evaluation & Dismissing the Past Mistakes](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#16_Skipping_Evaluation_Dismissing_the_Past_Mistakes "16. Skipping Evaluation & Dismissing the Past Mistakes")
-    -   [17\. Being too rigid](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#17_Being_too_rigid "17. Being too rigid")
-    -   [18\. Not having the Right Project Management Tool](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/#18_Not_having_the_Right_Project_Management_Tool "18. Not having the Right Project Management Tool")
-
 ## 18 Project Management Mistakes that can harm your business
 
 ### 1\. Inexperienced captain of the vessel

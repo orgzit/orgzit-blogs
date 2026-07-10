@@ -23,24 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/project-management-process/#Introduction "Introduction")
--   [What is a project?](https://orgzit.com/blog/project-management-process/#What_is_a_project "What is a project?")
--   [What is project management?](https://orgzit.com/blog/project-management-process/#What_is_project_management "What is project management?")
--   [5 Phases of the project management process](https://orgzit.com/blog/project-management-process/#5_Phases_of_the_project_management_process "5 Phases of the project management process")
--   [1.Project Initiation](https://orgzit.com/blog/project-management-process/#1Project_Initiation "1.Project Initiation")
--   [2\. Project Planning](https://orgzit.com/blog/project-management-process/#_2_Project_Planning "   2. Project Planning")
-    -   [Project planning includes the following components](https://orgzit.com/blog/project-management-process/#Project_planning_includes_the_following_components "Project planning includes the following components")
--   [3.Project Execution](https://orgzit.com/blog/project-management-process/#3Project_Execution "3.Project Execution")
--   [4\. Monitoring and controlling](https://orgzit.com/blog/project-management-process/#4_Monitoring_and_controlling "4. Monitoring and controlling")
--   [5\. Project Closure](https://orgzit.com/blog/project-management-process/#5_Project_Closure "5. Project Closure ")
-    -   [Below are some steps that are important to help you close projects efficiently](https://orgzit.com/blog/project-management-process/#Below_are_some_steps_that_are_important_to_help_you_close_projects_efficiently "Below are some steps that are important to help you close projects efficiently")
--   [Importance of the project management process](https://orgzit.com/blog/project-management-process/#Importance_of_the_project_management_process "Importance of the project management process")
--   [Summary](https://orgzit.com/blog/project-management-process/#Summary "Summary")
-
 ## **Introduction**
 
 Do you own an organization, and it seems that it is far from being organized? Do you not have a project management process in your organization?

@@ -67,20 +67,6 @@ It is essential to work constructively towards a common goal. To build a positiv
 
 Without further ado, let’s dive right into the 3 most important skills for improving Teamwork and Collaboration.
 
-Table of Contents
-
-[Toggle](#)
-
--   [3 most important skills for teamwork and collaboration](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#3_most_important_skills_for_teamwork_and_collaboration "3 most important skills for teamwork and collaboration")
-    -   [1\. Ensuring Strategic Communication within the team](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#1_Ensuring_Strategic_Communication_within_the_team "1. Ensuring Strategic Communication within the team")
-    -   [2\. Accepting the Diversity and Unlocking Creativity](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#2_Accepting_the_Diversity_and_Unlocking_Creativity "2. Accepting the Diversity and Unlocking Creativity")
-    -   [3\. Maintaining a Positive Outlook to Change](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#3_Maintaining_a_Positive_Outlook_to_Change "3. Maintaining a Positive Outlook to Change")
--   [Some great tools for Improving Teamwork and Collaboration](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#Some_great_tools_for_Improving_Teamwork_and_Collaboration "Some great tools for Improving Teamwork and Collaboration")
-    -   [1\. Orgzit](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#1_Orgzit "1. Orgzit ")
-    -   [2\. Asana](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#2_Asana "2. Asana")
-    -   [3\. Trello](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#3_Trello "3. Trello")
--   [Conclusion](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/#Conclusion "Conclusion")
-
 ## 3 most important skills for teamwork and collaboration
 
 While there is no hard and fast rule for better teamwork and collaboration results, there is still room for improvement in the root causes of these problems.

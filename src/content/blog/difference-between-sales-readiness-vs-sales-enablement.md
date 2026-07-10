@@ -48,19 +48,6 @@ To be top-notch in your sales game, you must be well-versed in these two terms a
 
 Let’s discover!
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Sales Readiness?](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#What_Is_Sales_Readiness "What Is Sales Readiness?")
--   [What Is Sales Enablement?](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#What_Is_Sales_Enablement "What Is Sales Enablement?")
--   [Examples of Sales Readiness and Sales Enablement](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#Examples_of_Sales_Readiness_and_Sales_Enablement "Examples of Sales Readiness and Sales Enablement")
-    -   [1\. New Product Launch](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#1_New_Product_Launch "1. New Product Launch")
-    -   [2\. Initiating a Sales Campaign For A New Target Audience](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#2_Initiating_a_Sales_Campaign_For_A_New_Target_Audience "2. Initiating a Sales Campaign For A New Target Audience")
--   [How Sales Readiness and Sales Enablement Work Together](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#How_Sales_Readiness_and_Sales_Enablement_Work_Together "How Sales Readiness and Sales Enablement Work Together")
-    -   [Artificial intelligence, sharp sales enablement, and advanced sales-readiness](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#Artificial_intelligence_sharp_sales_enablement_and_advanced_sales-readiness "Artificial intelligence, sharp sales enablement, and advanced sales-readiness")
--   [Get your team sales-ready](https://orgzit.com/blog/difference-between-sales-readiness-vs-sales-enablement/#Get_your_team_sales-ready "Get your team sales-ready")
-
 ## **What Is Sales Readiness?**
 
 ![What Is Sales Readiness](/blog/blog-images/What-Is-Sales-Readiness.png)

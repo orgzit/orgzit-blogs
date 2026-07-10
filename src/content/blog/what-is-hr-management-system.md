@@ -35,20 +35,6 @@ If you do not know the answers to these questions or have never even thought abo
 
 In this article, we are visiting to get an outline of what an HR Management System is and the way it works.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is HR Management System](https://orgzit.com/blog/what-is-hr-management-system/#What_is_HR_Management_System " What is HR Management System")
--   [What are the functions of HR Management System](https://orgzit.com/blog/what-is-hr-management-system/#What_are_the_functions_of_HR_Management_System "What are the functions of HR Management System")
--   [Core functions of HRMS](https://orgzit.com/blog/what-is-hr-management-system/#Core_functions_of_HRMS "Core functions of HRMS")
--   [How an HR Management System Can Benefit an Organization](https://orgzit.com/blog/what-is-hr-management-system/#How_an_HR_Management_System_Can_Benefit_an_Organization "How an HR Management System Can Benefit an Organization")
-    -   [Benefits of an HR Management System](https://orgzit.com/blog/what-is-hr-management-system/#Benefits_of_an_HR_Management_System "Benefits of an HR Management System")
--   [Assessing the Need for an HRMS Solution](https://orgzit.com/blog/what-is-hr-management-system/#Assessing_the_Need_for_an_HRMS_Solution "Assessing the Need for an HRMS Solution")
--   [How to find the right HR Management System for Your Company](https://orgzit.com/blog/what-is-hr-management-system/#How_to_find_the_right_HR_Management_System_for_Your_Company "How to find the right HR Management System for Your Company")
--   [HRMS Security](https://orgzit.com/blog/what-is-hr-management-system/#HRMS_Security "HRMS Security")
--   [Go Get Yourself an HRMS, Today!](https://orgzit.com/blog/what-is-hr-management-system/#Go_Get_Yourself_an_HRMS_Today "Go Get Yourself an HRMS, Today!")
-
 ##   
 **What is HR Management System**
 

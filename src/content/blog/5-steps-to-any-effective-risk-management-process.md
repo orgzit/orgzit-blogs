@@ -67,20 +67,6 @@ Do you get the importance of managing your risks now?
 
 Having a robust risk management process is critical for a business to foresee and plan mitigative measures to limit the loss to the business because of known or unknown risks.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is the Risk Management Process?](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#What_is_the_Risk_Management_Process "What is the Risk Management Process?")
--   [What are the benefits of a risk management process?](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#What_are_the_benefits_of_a_risk_management_process "What are the benefits of a risk management process?")
--   [5 Steps to An Effective Risk Management Process](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#5_Steps_to_An_Effective_Risk_Management_Process "5 Steps to An Effective Risk Management Process")
-    -   [1\. Identification of Potential Risks](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#1_Identification_of_Potential_Risks "1. Identification of Potential Risks ")
-    -   [2\. Deeper Analysis of the Risk: Frequency and Severity](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#2_Deeper_Analysis_of_the_Risk_Frequency_and_Severity "2. Deeper Analysis of the Risk: Frequency and Severity")
-    -   [3\. Prioritizing the Risk Associated and Finding Alternative Solutions](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#3_Prioritizing_the_Risk_Associated_and_Finding_Alternative_Solutions "3. Prioritizing the Risk Associated and Finding Alternative Solutions")
-    -   [4\. Implementing the Best Alternative](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#4_Implementing_the_Best_Alternative "4. Implementing the Best Alternative ")
-    -   [5\. Monitor the Progress and Update New Risks](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#5_Monitor_the_Progress_and_Update_New_Risks "5. Monitor the Progress and Update New Risks ")
--   [Conclusion](https://orgzit.com/blog/5-steps-to-any-effective-risk-management-process/#Conclusion "Conclusion")
-
 ## **What is the Risk Management Process?**
 
 A risk management process is a framework with a sequence of actions that need to be taken by the business in case it faces any threats or risks during its operational course.

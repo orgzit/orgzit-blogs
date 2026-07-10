@@ -28,17 +28,6 @@ Selling involves tracking leads – folks who will buy over time. **Lead managem
 
 This article will give you vital tips to improve **sales lead management when selling through dealers.**
 
-Table of Contents
-
-[Toggle](#)
-
--   [Understanding prospects and leads](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#Understanding_prospects_and_leads "Understanding prospects and leads")
--   [Nurturing your leads](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#Nurturing_your_leads "Nurturing your leads")
--   [Selling through dealers](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#Selling_through_dealers "Selling through dealers")
--   [Using A Centralized Lead Management/ CRM tool](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#Using_A_Centralized_Lead_Management_CRM_tool "Using A Centralized Lead Management/ CRM tool")
--   [What should a dealer oriented lead management system do?](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#What_should_a_dealer_oriented_lead_management_system_do "What should a dealer oriented lead management system do?")
--   [Ready to Invest in a Lead Management System for Your Dealer network?](https://orgzit.com/blog/how-to-manage-leads-when-selling-through-dealers/#Ready_to_Invest_in_a_Lead_Management_System_for_Your_Dealer_network "Ready to Invest in a Lead Management System for Your Dealer network?")
-
 ### **Understanding prospects and leads**
 
 Leads are generated in a company based on several ways and a central, shared **lead management system** is essential to react to them. If an organization sells thru dealers, it is also important that the organization get visibility of the leads across the entire sales organization so that sales managers can motivate dealers to follow-up with their local leads and convert to sales. Only then does [sales multiply and the company can achieve the revenue](https://orgzit.com/blog/close-sales-saas-proven-concepts/) targets positively.

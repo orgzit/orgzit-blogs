@@ -23,38 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/what-is-lead-scoring/#Introduction "Introduction")
--   [What is lead scoring?](https://orgzit.com/blog/what-is-lead-scoring/#What_is_lead_scoring "What is lead scoring?")
--   [The best of the best lead scoring systems generally use two factors for ranking the leads:](https://orgzit.com/blog/what-is-lead-scoring/#The_best_of_the_best_lead_scoring_systems_generally_use_two_factors_for_ranking_the_leads "The best of the best lead scoring systems generally use two factors for ranking the leads:")
--   [Differences between Lead qualification and Lead Scoring](https://orgzit.com/blog/what-is-lead-scoring/#Differences_between_Lead_qualification_and_Lead_Scoring "Differences between Lead qualification and Lead Scoring ")
--   [Lead Scoring factors](https://orgzit.com/blog/what-is-lead-scoring/#Lead_Scoring_factors "Lead Scoring factors")
-    -   [1.Demographic Information](https://orgzit.com/blog/what-is-lead-scoring/#1Demographic_Information "1.Demographic Information")
-    -   [2.Company Information](https://orgzit.com/blog/what-is-lead-scoring/#2Company_Information "2.Company Information")
-    -   [3.Online Behaviour](https://orgzit.com/blog/what-is-lead-scoring/#3Online_Behaviour "3.Online Behaviour")
-    -   [4.Email Engagement](https://orgzit.com/blog/what-is-lead-scoring/#4Email_Engagement "4.Email Engagement")
-    -   [5.Social Engagement](https://orgzit.com/blog/what-is-lead-scoring/#5Social_Engagement "5.Social Engagement")
-    -   [6.Spam Detection](https://orgzit.com/blog/what-is-lead-scoring/#6Spam_Detection "6.Spam Detection")
--   [How to deal with more than one lead?](https://orgzit.com/blog/what-is-lead-scoring/#How_to_deal_with_more_than_one_lead "How to deal with more than one lead?")
-    -   [1\. Fit v/s interest](https://orgzit.com/blog/what-is-lead-scoring/#1_Fit_vs_interest "1. Fit v/s interest")
-    -   [2.Multiple Personas](https://orgzit.com/blog/what-is-lead-scoring/#2Multiple_Personas "2.Multiple Personas")
-    -   [3.New business v/s up-sell](https://orgzit.com/blog/what-is-lead-scoring/#3New_business_vs_up-sell "3.New business v/s up-sell")
--   [Ways to calculate a basic lead score](https://orgzit.com/blog/what-is-lead-scoring/#Ways_to_calculate_a_basic_lead_score "Ways to calculate a basic lead score")
-    -   [1.Manual lead scoring](https://orgzit.com/blog/what-is-lead-scoring/#1Manual_lead_scoring "1.Manual lead scoring")
-    -   [2.Probability-based lead scoring](https://orgzit.com/blog/what-is-lead-scoring/#2Probability-based_lead_scoring "2.Probability-based lead scoring")
-    -   [3.Predictive lead scoring](https://orgzit.com/blog/what-is-lead-scoring/#3Predictive_lead_scoring "3.Predictive lead scoring")
--   [Why is lead scoring important for your business?](https://orgzit.com/blog/what-is-lead-scoring/#Why_is_lead_scoring_important_for_your_business "Why is lead scoring important for your business?")
-    -   [1.Less lost opportunities](https://orgzit.com/blog/what-is-lead-scoring/#1Less_lost_opportunities "1.Less lost opportunities")
-    -   [2.Helps in increasing conversions](https://orgzit.com/blog/what-is-lead-scoring/#2Helps_in_increasing_conversions "2.Helps in increasing conversions")
-    -   [3.Improves productivity of](https://orgzit.com/blog/what-is-lead-scoring/#3Improves_productivity_of "3.Improves productivity of ")
-    -   [4.Better alignment of sales and marketing teams](https://orgzit.com/blog/what-is-lead-scoring/#4Better_alignment_of_sales_and_marketing_teams "4.Better alignment of sales and marketing teams")
-    -   [5.Higher ROI (return on investment)](https://orgzit.com/blog/what-is-lead-scoring/#5Higher_ROI_return_on_investment "5.Higher ROI (return on investment)")
--   [Lead scoring tips from experts](https://orgzit.com/blog/what-is-lead-scoring/#Lead_scoring_tips_from_experts "Lead scoring tips from experts")
--   [Summary](https://orgzit.com/blog/what-is-lead-scoring/#Summary "Summary")
-
 ## **Introduction**
 
 Imagine you own a company that sells a type of software to different business organizations. You have a business organization, what for? For-profits, right?

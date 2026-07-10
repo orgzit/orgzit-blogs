@@ -33,15 +33,6 @@ Integrating your sales operations into a centralized CRM system can improve comm
 
 Let’s look at the benefits of using a CRM to streamline business processes.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is streamlining and its benefits?](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/#What_is_streamlining_and_its_benefits "What is streamlining and its benefits?")
-    -   [Benefits of Streamlining Your Sales Operations](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/#Benefits_of_Streamlining_Your_Sales_Operations "Benefits of Streamlining Your Sales Operations")
--   [Tips for Streamlining Your Business](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/#Tips_for_Streamlining_Your_Business "Tips for Streamlining Your Business")
--   [How can a CRM streamline your sales process? Top 6 ways](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/#How_can_a_CRM_streamline_your_sales_process_Top_6_ways "How can a CRM streamline your sales process? Top 6 ways")
-
 ## What is streamlining and its benefits?
 
 Streamlining your sales optimizes your lead management, quoting, and closing deals faster. At the same time, eliminating inefficiencies and redundancies and simplifying your operations to improve overall efficiency and profitability.

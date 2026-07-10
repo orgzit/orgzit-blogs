@@ -34,25 +34,6 @@ But how can you do this?
 
 You can do this by having a great project management application that will boost your productivity!! Just like boost is the secret of Sachin Tendulkar’s energy, project management application will be the secret of your success! (psshhhh it is a secret, keep it in your stomach)
 
-Table of Contents
-
-[Toggle](#)
-
--   [Best Project Management Applications](https://orgzit.com/blog/best-project-management-applications/#Best_Project_Management_Applications "Best Project Management Applications")
-    -   [1\. Trello](https://orgzit.com/blog/best-project-management-applications/#1_Trello "1. Trello")
-    -   [2\. Podio](https://orgzit.com/blog/best-project-management-applications/#2_Podio "2. Podio")
-    -   [3\. Orgzit](https://orgzit.com/blog/best-project-management-applications/#3_Orgzit "3. Orgzit")
-    -   [Pros](https://orgzit.com/blog/best-project-management-applications/#Pros "Pros")
-    -   [4\. Basecamp](https://orgzit.com/blog/best-project-management-applications/#4_Basecamp "4. Basecamp")
-    -   [5\. Asana](https://orgzit.com/blog/best-project-management-applications/#5_Asana "5. Asana")
-    -   [6\. Scoro](https://orgzit.com/blog/best-project-management-applications/#6_Scoro "6. Scoro")
-    -   [7\. Proofhub](https://orgzit.com/blog/best-project-management-applications/#7_Proofhub "7. Proofhub")
-    -   [8\. Monday.com](https://orgzit.com/blog/best-project-management-applications/#8_Mondaycom "8. Monday.com")
-    -   [9\. Zoho Projects](https://orgzit.com/blog/best-project-management-applications/#9_Zoho_Projects "9. Zoho Projects")
-    -   [10\. Teamwork](https://orgzit.com/blog/best-project-management-applications/#10_Teamwork "10. Teamwork")
-    -   [11\. Airtable](https://orgzit.com/blog/best-project-management-applications/#11_Airtable "11. Airtable")
--   [Conclusion](https://orgzit.com/blog/best-project-management-applications/#Conclusion "Conclusion")
-
 ## Best Project Management Applications
 
 Let me tell you some best project management applications:

@@ -48,19 +48,6 @@ Let us discover why satisfaction surveys are pivotal in shaping a business.
 
 -   Surveys can also help businesses track improvements over time & to measure customer loyalty and advocacy.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Customer Satisfaction Survey: What’s The Goal?](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Customer_Satisfaction_Survey_What%E2%80%99s_The_Goal "Customer Satisfaction Survey: What’s The Goal?")
--   [Importance Of Customer Satisfaction Survey](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Importance_Of_Customer_Satisfaction_Survey "Importance Of Customer Satisfaction Survey")
-    -   [Customer Retention](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Customer_Retention "Customer Retention")
-    -   [Gain Valuable Feedback](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Gain_Valuable_Feedback "Gain Valuable Feedback")
-    -   [Make Informed Business Decisions](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Make_Informed_Business_Decisions "Make Informed Business Decisions")
-    -   [Deliver the Best Customer Experience](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Deliver_the_Best_Customer_Experience "Deliver the Best Customer Experience")
-    -   [Increase Brand Loyalty](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#Increase_Brand_Loyalty "Increase Brand Loyalty")
--   [FINAL WORD](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/#FINAL_WORD "FINAL WORD")
-
 ## ****Customer Satisfaction Survey**: What’s The Goal?**
 
 Customers are the lifeblood of any business. Understanding what customers want and need is essential to company success, but customer surveys can be tricky! A poorly constructed survey can do more harm than good.

@@ -25,25 +25,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Introduction "Introduction")
--   [What is a CRM? How can CRM help a business?](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#What_is_a_CRM_How_can_CRM_help_a_business "What is a CRM? How can CRM help a business?")
--   [How does CRM work in customer retention/tracking?](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#How_does_CRM_work_in_customer_retentiontracking "How does CRM work in customer retention/tracking?")
--   [Benefits of CRM](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Benefits_of_CRM "Benefits of CRM")
-    -   [Customer Tracking](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Customer_Tracking "Customer Tracking")
-    -   [Catch-all leads](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Catch-all_leads "Catch-all leads")
-    -   [Enhances communication](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Enhances_communication "Enhances communication")
-    -   [All in one tool](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#All_in_one_tool "All in one tool")
-    -   [A storehouse of customer data](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#A_storehouse_of_customer_data "A storehouse of customer data")
-    -   [Automated instant Customer Status](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Automated_instant_Customer_Status "Automated instant Customer Status")
-    -   [Know your numbers](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Know_your_numbers "Know your numbers")
-    -   [Analytics and Reporting](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Analytics_and_Reporting "Analytics and Reporting")
-    -   [Customized Campaign](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Customized_Campaign "Customized Campaign")
--   [Wrap up](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/#Wrap_up "Wrap up")
-
 ## **Introduction**
 
 ![How to Track Your Customers Through CRM](/blog/blog-images/1.png)

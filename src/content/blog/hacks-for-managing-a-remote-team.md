@@ -29,21 +29,6 @@ Virtual teams can prove to be a great revenue, but effectively managing remote t
 
 In this blog post, I will guide you about some hacks that you can use to handle your remote team effectively and can have an increase in your productivity.
 
-Table of Contents
-
-[Toggle](#)
-
--   [1\. Schedule time to meet face-to-face](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#1_Schedule_time_to_meet_face-to-face "1. Schedule time to meet face-to-face")
--   [2\. Set boundaries with your remote employees](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#2_Set_boundaries_with_your_remote_employees "2. Set boundaries with your remote employees")
--   [3\. Send out weekly updates](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#3_Send_out_weekly_updates "3. Send out weekly updates")
--   [4\. Check-in regularly](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#4_Check-in_regularly "4. Check-in regularly")
--   [5\. Hold regular meetings for training](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#5_Hold_regular_meetings_for_training "5. Hold regular meetings for training")
--   [6\. Work on team morale](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#6_Work_on_team_morale "6. Work on team morale")
--   [7\. Respect cultural differences](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#7_Respect_cultural_differences "7. Respect cultural differences")
--   [8\. Implement a mobile CRM](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#8_Implement_a_mobile_CRM "8. Implement a mobile CRM")
--   [9\. Pick a standard method of organization.](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#9_Pick_a_standard_method_of_organization "9. Pick a standard method of organization.")
--   [10\. Install a project management software or a collaboration tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#10_Install_a_project_management_software_or_a_collaboration_tool "10. Install a project management software or a collaboration tool")
-
 -   [Project Management Tools/Software](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#Project_Management_ToolsSoftware "Project Management Tools/Software")
     -   [1\. Slack – Real-time collaboration tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#1_Slack_%E2%80%93_Real-time_collaboration_tool "1. Slack – Real-time collaboration tool")
     -   [2\. Orgzit – workflow & tasks management tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#2_Orgzit_%E2%80%93_workflow_tasks_management_tool "2. Orgzit – workflow & tasks management tool")

@@ -24,27 +24,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#Introduction "Introduction")
--   [What are sales leads?](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#What_are_sales_leads "What are sales leads?")
--   [10 ways to better manage leads](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#10_ways_to_better_manage_leads "10 ways to better manage leads")
-    -   [1\. Construct an effective definition of leads and make sure your employees are familiar with it.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#1_Construct_an_effective_definition_of_leads_and_make_sure_your_employees_are_familiar_with_it "1. Construct an effective definition of leads and make sure your employees are familiar with it.")
-    -   [2\. Install a CRM tool.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#2_Install_a_CRM_tool "2. Install a CRM tool.")
-    -   [3\. Track the source of incoming leads.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#3_Track_the_source_of_incoming_leads "3. Track the source of incoming leads.")
-    -   [4\. Distribute your leads timely.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#4_Distribute_your_leads_timely "4. Distribute your leads timely. ")
-    -   [5\. Nurture your leads properly.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#5_Nurture_your_leads_properly "5. Nurture your leads properly.")
-    -   [6\. Extract more information from prospects.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#6_Extract_more_information_from_prospects "6. Extract more information from prospects.")
-    -   [7\. Hold regular sales review meetings with the marketing and sales teams.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#7_Hold_regular_sales_review_meetings_with_the_marketing_and_sales_teams "7. Hold regular sales review meetings with the marketing and sales teams.")
-    -   [8.Quality over quantity of leads.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#8Quality_over_quantity_of_leads "8.Quality over quantity of leads.")
--   [9\. Measure your every activity.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#9_Measure_your_every_activity "9. Measure your every activity.")
-    -   [10\. Give your prospects customers like treatment.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#10_Give_your_prospects_customers_like_treatment "10. Give your prospects customers like treatment.")
-    -   [A bonus tip.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#A_bonus_tip "A bonus tip.")
-    -   [Preload your database with the right prospects.](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#Preload_your_database_with_the_right_prospects "Preload your database with the right prospects.")
--   [Summary](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/#Summary "Summary")
-
 ## **Introduction**
 
 Is your **_Lead Management Process_** in place and is concrete? Or you still old-school? Why do you have a business? For generating _**sales leads**_ and profits and ROI(Return on Investment).  

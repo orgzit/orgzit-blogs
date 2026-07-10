@@ -41,25 +41,6 @@ Nokia, once a global leader, was unseated by new entrants as those underdogs und
 
 Most of the successful initiatives in some of the most famous and large corporations are the ones that involve continually **_digitalizing_** their strategy.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Digital Transformation and Project Management](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#Digital_Transformation_and_Project_Management "Digital Transformation and Project Management ")
-    -   [What do you understand by the term ‘Digitalization’?](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#What_do_you_understand_by_the_term_%E2%80%98Digitalization%E2%80%99 "What do you understand by the term ‘Digitalization’?")
-    -   [Must be wondering how project management is related here?](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#Must_be_wondering_how_project_management_is_related_here "Must be wondering how project management is related here?")
-    -   [The way in which digital transformation is different from the previously transformative efforts is:](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#The_way_in_which_digital_transformation_is_different_from_the_previously_transformative_efforts_is "The way in which digital transformation is different from the previously transformative efforts is:")
--   [How has Digital Transformation changed the Landscape of Project Management?](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#How_has_Digital_Transformation_changed_the_Landscape_of_Project_Management "How has Digital Transformation changed the Landscape of Project Management?")
-    -   [1\. A More Effective Communication Strategy for the Teams](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#1_A_More_Effective_Communication_Strategy_for_the_Teams "1. A More Effective Communication Strategy for the Teams ")
-    -   [2\. Shifts Focus from Managing the Teams and the Workflow to Getting the Desired Results](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#2_Shifts_Focus_from_Managing_the_Teams_and_the_Workflow_to_Getting_the_Desired_Results "2. Shifts Focus from Managing the Teams and the Workflow to Getting the Desired Results ")
-    -   [3\. Shifts to a More Analytical Project Management Process for a better ROI](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#3_Shifts_to_a_More_Analytical_Project_Management_Process_for_a_better_ROI "3. Shifts to a More Analytical Project Management Process for a better ROI ")
-    -   [4\. Smarter Collaboration](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#4_Smarter_Collaboration "4. Smarter Collaboration ")
--   [Are your business operations ready for Digital Transformation?](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#Are_your_business_operations_ready_for_Digital_Transformation "Are your business operations ready for Digital Transformation? ")
-    -   [1\. Be ‘new project management skills ready’!](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#1_Be_%E2%80%98new_project_management_skills_ready%E2%80%99 "1. Be ‘new project management skills ready’!")
-    -   [2\. Be open to experience and experiment with new ways of working.](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#2_Be_open_to_experience_and_experiment_with_new_ways_of_working "2. Be open to experience and experiment with new ways of working. ")
-    -   [3\. Be ready to be supportive of agility required to be working at multiple paces across the business organization](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#3_Be_ready_to_be_supportive_of_agility_required_to_be_working_at_multiple_paces_across_the_business_organization "3. Be ready to be supportive of agility required to be working at multiple paces across the business organization")
--   [Conclusion](https://orgzit.com/blog/how-digital-transformation-is-changing-project-management/#Conclusion "Conclusion")
-
 ## **Digital Transformation and Project Management**
 
 ### **What do you understand by the term ‘Digitalization’?**

@@ -37,27 +37,6 @@ This guide will get you covered from the basics of a Project Charter to some min
 
 So, without further ado, let us get started.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a Project Charter?](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#What_is_a_Project_Charter "What is a Project Charter?")
--   [What are the core elements of a Project Charter?](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#What_are_the_core_elements_of_a_Project_Charter "What are the core elements of a Project Charter?")
--   [What is the Importance of preparing a Winning Project Charter?](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#What_is_the_Importance_of_preparing_a_Winning_Project_Charter "What is the Importance of preparing a Winning Project Charter?")
-    -   [1\. It Adds Value to Your Project](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#1_It_Adds_Value_to_Your_Project "1. It Adds Value to Your Project")
-    -   [2\. It Saves Up Crucial Time that would have later been wasted](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#2_It_Saves_Up_Crucial_Time_that_would_have_later_been_wasted "2. It Saves Up Crucial Time that would have later been wasted")
-    -   [3\. It Defines Roles and Gives Complete Clarity](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#3_It_Defines_Roles_and_Gives_Complete_Clarity "3. It Defines Roles and Gives Complete Clarity")
-    -   [4\. It Instills Confidence and Boosts the Team’s Morale](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#4_It_Instills_Confidence_and_Boosts_the_Team%E2%80%99s_Morale "4. It Instills Confidence and Boosts the Team’s Morale")
--   [7 Steps to a Winning Project Charter](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#7_Steps_to_a_Winning_Project_Charter "7 Steps to a Winning Project Charter")
-    -   [1\. Have a Brainstorming Session with your Team and Stakeholders before beginning](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#1_Have_a_Brainstorming_Session_with_your_Team_and_Stakeholders_before_beginning "1. Have a Brainstorming Session with your Team and Stakeholders before beginning")
-    -   [2\. Focus on Documenting everything to Plan Better](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#2_Focus_on_Documenting_everything_to_Plan_Better "2. Focus on Documenting everything to Plan Better")
-    -   [3\. Make Use of the Pool Of Templates Available Online](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#3_Make_Use_of_the_Pool_Of_Templates_Available_Online "3. Make Use of the Pool Of Templates Available Online")
-    -   [4\. Assess the Business’ Scope and Risk Involved](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#4_Assess_the_Business%E2%80%99_Scope_and_Risk_Involved "4. Assess the Business’ Scope and Risk Involved")
-    -   [5\. Be as precise as you can be](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#5_Be_as_precise_as_you_can_be "5. Be as precise as you can be")
-    -   [6\. Review the whole plan with the Team](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#6_Review_the_whole_plan_with_the_Team "6. Review the whole plan with the Team")
-    -   [7\. Have a final Presentation for Approval](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#7_Have_a_final_Presentation_for_Approval "7. Have a final Presentation for Approval")
--   [Conclusion](https://orgzit.com/blog/how-to-write-a-winning-project-charter/#Conclusion "Conclusion")
-
 ## What is a Project Charter?
 
 ![Project Charter](/blog/blog-images/Project-Charter.png)

@@ -61,15 +61,6 @@ Some of the best and most successful collaboration projects are the product of r
 
 All the above tips would translate to little or nothing if workers are not properly compensated for their effort. It is bad practice for financial incentives to be based on solely on goals on one department. This will cause conflict and poor results. To improve cross-functional collaboration, goals, and incentives that require it must be set by leaders and people must be rewarded for improving the overall system. not just part of it.
 
-Table of Contents
-
-[Toggle](#)
-
--   [How to build trust within a cross-platform collaboration team](https://orgzit.com/blog/tips-for-building-cross-functional-team/#How_to_build_trust_within_a_cross-platform_collaboration_team "How to build trust within a cross-platform collaboration team")
--   [Recognizing the trust issue](https://orgzit.com/blog/tips-for-building-cross-functional-team/#Recognizing_the_trust_issue " Recognizing the trust issue")
--   [Actions to build trust](https://orgzit.com/blog/tips-for-building-cross-functional-team/#Actions_to_build_trust "Actions to build trust")
--   [Final Notes](https://orgzit.com/blog/tips-for-building-cross-functional-team/#Final_Notes "Final Notes")
-
 ### **How to build trust within a cross-platform collaboration team**
 
 Trust is an ingredient very essential for any functional relationship, be it personal or organizational. In a cross-platform arrangement, trust is particularly very important as different people from different sectors of a business must come together and work towards the attainment of a goal, where no one has direct authority over anyone else.

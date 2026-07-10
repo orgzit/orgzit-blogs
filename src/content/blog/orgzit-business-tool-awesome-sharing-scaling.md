@@ -29,15 +29,6 @@ IT sectors around the world are dynamically expanding everyday to the limit that
 
 Today, all small and medium B2B organizations have started recognizing that they need to provide customers with a solution that scales with them. Otherwise, they are as good as the seasons that come and go. Take Sonya’s example –
 
-Table of Contents
-
-[Toggle](#)
-
--   [1990 – The Sunkeepers](https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/#1990_%E2%80%93_The_Sunkeepers "1990 – The Sunkeepers")
--   [2000 – The IT Revolution](https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/#2000_%E2%80%93_The_IT_Revolution "2000 – The IT Revolution")
--   [2010 – The Cloud Revolution](https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/#2010_%E2%80%93_The_Cloud_Revolution "2010 – The Cloud Revolution")
--   [Orgzit to SunKeepers’ Rescue](https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/#Orgzit_to_SunKeepers%E2%80%99_Rescue "Orgzit to SunKeepers’ Rescue")
-
 # 1990 – The Sunkeepers
 
 Sonya inherited a farm which grew wheat in abundance. She had a few neighbors who grew rice & soyabean and wanted her to collaborate with them to start a trade business together. But she wanted to pursue her studies in agriculture management and start a consultancy firm. Ambition took over Sonya’s better side and she started working part-time with her neighbours while saving for future. Within two years, she bought a small office in the countryside and started Sunkeepers Consultancy Pvt. Ltd. In addition to 10 farmers, she had a team of another 7 people handling agricultural supplies and sales. Let’s check out her key areas of in-house team management functions:

@@ -25,17 +25,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Customer Relationship Management (CRM)?](https://orgzit.com/blog/crm-roi/#What_is_Customer_Relationship_Management_CRM "What is Customer Relationship Management (CRM)?")
--   [Key Features Of CRM](https://orgzit.com/blog/crm-roi/#Key_Features_Of_CRM "Key Features Of CRM")
--   [WHAT ARE THE BENEFITS OF CRM?](https://orgzit.com/blog/crm-roi/#WHAT_ARE_THE_BENEFITS_OF_CRM "WHAT ARE THE BENEFITS OF CRM?")
--   [Breakup Of The Cost Of CRM Systems](https://orgzit.com/blog/crm-roi/#Breakup_Of_The_Cost_Of_CRM_Systems "Breakup Of The Cost Of CRM Systems")
--   [HOW TO MEASURE CRM ROI?](https://orgzit.com/blog/crm-roi/#HOW_TO_MEASURE_CRM_ROI "HOW TO MEASURE CRM ROI?")
--   [FINAL WORD](https://orgzit.com/blog/crm-roi/#FINAL_WORD "FINAL WORD")
-
 ## What is Customer Relationship Management (CRM)?
 
 ![ROI Analysis of a CRM](/blog/blog-images/Customer-Relationship-Management-CRM.png)

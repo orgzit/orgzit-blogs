@@ -45,16 +45,6 @@ Today, in this article, we will focus on the best practices remote teams need to
 
 But, first thing first.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Agile Methodology?](https://orgzit.com/blog/agile-practices-for-remote-team-management/#What_is_Agile_Methodology "What is Agile Methodology?")
--   [What are the challenges of remote working?](https://orgzit.com/blog/agile-practices-for-remote-team-management/#What_are_the_challenges_of_remote_working "What are the challenges of remote working? ")
--   [Wondering How Agile Can Help?](https://orgzit.com/blog/agile-practices-for-remote-team-management/#Wondering_How_Agile_Can_Help "Wondering How Agile Can Help? ")
--   [8 Best Agile Best Practices for Remote Teams](https://orgzit.com/blog/agile-practices-for-remote-team-management/#8_Best_Agile_Best_Practices_for_Remote_Teams "8 Best Agile Best Practices for Remote Teams")
--   [Empower your team with Right Technology](https://orgzit.com/blog/agile-practices-for-remote-team-management/#Empower_your_team_with_Right_Technology "Empower your team with Right Technology")
-
 ## What is Agile Methodology?
 
 ![What is Agile Methodology?](https://lh4.googleusercontent.com/ksPBzHFijH7CWFHd0xgKCFyVqj72Dc3cF9MO_OrFsoSlPEyNx_s_eKYx0ZO-TRxFY55hHdWe7q2VHrrlNjolosoW9HTbMRHz98M5prV3kpTZ6-KaqesdxLk-YtJKIjaJtUr_f2QW)

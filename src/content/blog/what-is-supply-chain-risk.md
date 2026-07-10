@@ -29,15 +29,6 @@ In this article, I try to provide an overview of what is supply chain risk.
 
 So let’s get started.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is Supply Chain Risk?](https://orgzit.com/blog/what-is-supply-chain-risk/#What_is_Supply_Chain_Risk "What is Supply Chain Risk? ")
-    -   [Types of Supply Chain Risks](https://orgzit.com/blog/what-is-supply-chain-risk/#Types_of_Supply_Chain_Risks "Types of Supply Chain Risks")
-    -   [Identifying Supply Chain Risks](https://orgzit.com/blog/what-is-supply-chain-risk/#Identifying_Supply_Chain_Risks "Identifying Supply Chain Risks")
-    -   [In Conclusion](https://orgzit.com/blog/what-is-supply-chain-risk/#In_Conclusion "In Conclusion")
-
 ## What is Supply Chain Risk?
 
 As a business person, it is important to brace yourself for unexpected incidents. No amount of planning can insulate you from unpredictable events like human-error mistakes and natural disasters.

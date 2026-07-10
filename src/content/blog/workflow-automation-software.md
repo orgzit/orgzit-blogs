@@ -25,21 +25,6 @@ noIndex: false
 twitterCard: summary_large_image
 ---
 
-Table of Contents
-
-[Toggle](#)
-
-* [What is Workflow Automation?](https://orgzit.com/blog/workflow-automation-software/#What_is_Workflow_Automation "What is Workflow Automation?")
-* [How does Workflow Automation help?](https://orgzit.com/blog/workflow-automation-software/#How_does_Workflow_Automation_help "How does Workflow Automation help?")
-* [Step-by-Step Guide for Workflow Automation](https://orgzit.com/blog/workflow-automation-software/#Step-by-Step_Guide_for_Workflow_Automation "Step-by-Step Guide for Workflow Automation")
-* [What are the features of good workflow automation software?](https://orgzit.com/blog/workflow-automation-software/#What_are_the_features_of_good_workflow_automation_software "What are the features of good workflow automation software?")
-* [Top 5 Workflow Automation Softwares](https://orgzit.com/blog/workflow-automation-software/#Top_5_Workflow_Automation_Softwares "Top 5 Workflow Automation Softwares")
-  * [1. Flokzu](https://orgzit.com/blog/workflow-automation-software/#1_Flokzu "1. Flokzu")
-  * [2. Zapier](https://orgzit.com/blog/workflow-automation-software/#2_Zapier "2. Zapier")
-  * [3. Kissflow](https://orgzit.com/blog/workflow-automation-software/#3_Kissflow "3. Kissflow")
-  * [4. Integrify](https://orgzit.com/blog/workflow-automation-software/#4_Integrify "4. Integrify")
-  * [5. Orgzit](https://orgzit.com/blog/workflow-automation-software/#5_Orgzit "5. Orgzit")
-
 ## What is Workflow Automation?
 
 Defined as a series of tasks accomplished to complete a process, Workflow Automation removes all the manual steps. The process includes designing, executing, and process automation based on the workflow rules. It’s like witnessing dominos fall in a harmonious pattern.

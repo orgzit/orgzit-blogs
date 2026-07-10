@@ -23,14 +23,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [About Customer](https://orgzit.com/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/#About_Customer "About Customer")
--   [What was stopping Bichhonna from becoming people’s favorite mattress brand?](https://orgzit.com/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/#What_was_stopping_Bichhonna_from_becoming_people%E2%80%99s_favorite_mattress_brand "What was stopping Bichhonna from becoming people’s favorite mattress brand?")
--   [Empowering Bichhonna’s growth by efficiently managing & automating workflows](https://orgzit.com/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/#Empowering_Bichhonna%E2%80%99s_growth_by_efficiently_managing_automating_workflows "Empowering Bichhonna’s growth by efficiently managing & automating workflows")
-
 ## About Customer
 
 Operational since last thirty years, [Bichhonna Private Limited](http://bichhonna.com/) is one of the leading mattress manufacturer in North India. Bichhonna manufactures and sells a variety of mattress and pillow products ranges. Over the years, Bichhonna has perfected the art of being boldly innovative and inherently simplistic in providing luxurious mattresses to its customers.

@@ -40,19 +40,6 @@ If you have a good product, and your goal is to set up your customer for success
 
 To understand this better, let’s look at some ideas you may want to try when implementing your sales strategy for your SaaS.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Finely Tune Your Onboarding Experience](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Finely_Tune_Your_Onboarding_Experience "Finely Tune Your Onboarding Experience")
-    -   [Prepare](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Prepare "Prepare")
-    -   [Stop Assuming](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Stop_Assuming "Stop Assuming")
-    -   [Follow Up](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Follow_Up "Follow Up")
--   [Constantly Create Content Which Empowers](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Constantly_Create_Content_Which_Empowers "Constantly Create Content Which Empowers")
--   [Be Mindful of Your Trial Periods](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Be_Mindful_of_Your_Trial_Periods "Be Mindful of Your Trial Periods")
--   [Pricing Structure & Prepaid Discounts](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Pricing_Structure_Prepaid_Discounts "Pricing Structure & Prepaid Discounts")
--   [Conclusion](https://orgzit.com/blog/close-sales-saas-proven-concepts/#Conclusion "Conclusion")
-
 # Finely Tune Your Onboarding Experience
 
 One of the most powerful selling tools you can have are glowing reviews from your current customers. If you make it so that new customers find the value in your software from the gate and have a positive experience using your product several months or even years later, chances are you have a happy customer on your hands.

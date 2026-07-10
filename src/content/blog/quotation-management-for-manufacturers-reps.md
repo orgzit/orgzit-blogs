@@ -34,16 +34,6 @@ This guide shows you how to create efficient quotes and negotiations with practi
 
 Get ready to unlock the power of quotation management for manufacturers’ reps and take your business to the next level.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Understanding the Basics of Quotations](https://orgzit.com/blog/quotation-management-for-manufacturers-reps/#Understanding_the_Basics_of_Quotations "Understanding the Basics of Quotations")
--   [Common Problems with Spreadsheet-Based Quotations](https://orgzit.com/blog/quotation-management-for-manufacturers-reps/#Common_Problems_with_Spreadsheet-Based_Quotations "Common Problems with Spreadsheet-Based Quotations")
--   [Best Practices for Creating Quotations](https://orgzit.com/blog/quotation-management-for-manufacturers-reps/#Best_Practices_for_Creating_Quotations "Best Practices for Creating Quotations ")
--   [Benefits of Using a Sales CRM for Quotation Management](https://orgzit.com/blog/quotation-management-for-manufacturers-reps/#Benefits_of_Using_a_Sales_CRM_for_Quotation_Management "Benefits of Using a Sales CRM for Quotation Management")
--   [Conclusion](https://orgzit.com/blog/quotation-management-for-manufacturers-reps/#Conclusion "Conclusion")
-
 ## Understanding the Basics of Quotations
 
 A b2b sales rep’s success relies heavily on accurate and timely quotations. Quotations represent product cost, determine profit margins, and play a vital role in client negotiations. Effective quote management systems can enhance knowledge of such prerequisites to quote generation. Manufacturers’ reps usually manage their quotations in Excel, spreadsheets, or some legacy software, rarely CRM software.

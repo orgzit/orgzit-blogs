@@ -33,12 +33,6 @@ Let us know what is project management methodology first so that we get in the b
 
 This article has 8 best Project management methodologies:
 
-Table of Contents
-
-[Toggle](#)
-
--   [What are project management methodologies?](https://orgzit.com/blog/project-management-methodologies/#What_are_project_management_methodologies "What are project management methodologies?")
-
 -   [Different types of Project Management Methodologies](https://orgzit.com/blog/project-management-methodologies/#Different_types_of_Project_Management_Methodologies "Different types of Project Management Methodologies ")
 -   [Agile](https://orgzit.com/blog/project-management-methodologies/#Agile "Agile")
 -   [Waterfall](https://orgzit.com/blog/project-management-methodologies/#Waterfall "Waterfall")

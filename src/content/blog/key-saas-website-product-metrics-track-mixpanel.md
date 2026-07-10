@@ -27,17 +27,6 @@ So, you’re exploring Mixpanel for tracking metrics for your SaaS product. Exce
 
 While getting started with Mixpanel, the technical stuff is really easy. But we found ourselves wishing for some informational sources to guide us through our journey about how to go about thinking about what metrics to capture. Hence, this blog.
 
-Table of Contents
-
-[Toggle](#)
-
--   [Our Journey with Mixpanel](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Our_Journey_with_Mixpanel "Our Journey with Mixpanel")
--   [Product Metrics](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Product_Metrics "Product Metrics")
--   [Website Metrics](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Website_Metrics "Website Metrics")
--   [Implementation Level Issues](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Implementation_Level_Issues "Implementation Level Issues")
--   [Going Forward](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Going_Forward "Going Forward")
--   [Mixpanel Resources](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/#Mixpanel_Resources "Mixpanel Resources")
-
 ## Our Journey with Mixpanel
 
 Quick introduction to about me: I am the CTO & Co-Founder at [Orgzit](https://www.orgzit.com/), a SaaS product that empowers small & medium businesses to digitize their business workflows to become more streamlined.

@@ -38,34 +38,6 @@ It turns out that alternative forms of promotion have a high success rate. It do
 
 To make this easier on yourself, we have compiled a list of 15 proven **sales prospecting methods** that will drive meaningful outcomes in no time!
 
-Table of Contents
-
-[Toggle](#)
-
--   [Here are the five Best Sales Prospecting Methods](https://orgzit.com/blog/sales-prospecting-techniques/#Here_are_the_five_Best_Sales_Prospecting_Methods "Here are the five Best Sales Prospecting Methods")
-    -   [1\. Inbound Prospecting](https://orgzit.com/blog/sales-prospecting-techniques/#1_Inbound_Prospecting "1. Inbound Prospecting")
-    -   [2\. Social Media Outreach](https://orgzit.com/blog/sales-prospecting-techniques/#2_Social_Media_Outreach "2. Social Media Outreach")
-    -   [3\. Referrals](https://orgzit.com/blog/sales-prospecting-techniques/#3_Referrals "3. Referrals")
-    -   [4\. Networking](https://orgzit.com/blog/sales-prospecting-techniques/#4_Networking "4. Networking")
-    -   [5\. Outbound Marketing Technique](https://orgzit.com/blog/sales-prospecting-techniques/#5_Outbound_Marketing_Technique "5. Outbound Marketing Technique ")
--   [15 of the Best Sales Prospecting Techniques](https://orgzit.com/blog/sales-prospecting-techniques/#15_of_the_Best_Sales_Prospecting_Techniques "15 of the Best Sales Prospecting Techniques")
-    -   [1\. Impress Your Customers](https://orgzit.com/blog/sales-prospecting-techniques/#1_Impress_Your_Customers "1. Impress Your Customers")
-    -   [2\. Give Cold Mails And Calls](https://orgzit.com/blog/sales-prospecting-techniques/#2_Give_Cold_Mails_And_Calls "2. Give Cold Mails And Calls")
-    -   [3\. Make an Optimized Script](https://orgzit.com/blog/sales-prospecting-techniques/#3_Make_an_Optimized_Script "3. Make an Optimized Script")
-    -   [4\. Never Give Up Sales Prospecting](https://orgzit.com/blog/sales-prospecting-techniques/#4_Never_Give_Up_Sales_Prospecting "4. Never Give Up Sales Prospecting")
-    -   [5\. Gain the Best Leads](https://orgzit.com/blog/sales-prospecting-techniques/#5_Gain_the_Best_Leads "5. Gain the Best Leads")
-    -   [6\. Make Use of Marketing Automation Tools](https://orgzit.com/blog/sales-prospecting-techniques/#6_Make_Use_of_Marketing_Automation_Tools "6. Make Use of Marketing Automation Tools")
-    -   [7\. Profit from Referrals](https://orgzit.com/blog/sales-prospecting-techniques/#7_Profit_from_Referrals "7. Profit from Referrals")
-    -   [8\. Be a Star in Your Industry](https://orgzit.com/blog/sales-prospecting-techniques/#8_Be_a_Star_in_Your_Industry "8. Be a Star in Your Industry")
-    -   [9\. Organize monthly workshops](https://orgzit.com/blog/sales-prospecting-techniques/#9_Organize_monthly_workshops "9. Organize monthly workshops")
-    -   [10\. Make More Time for Prospects](https://orgzit.com/blog/sales-prospecting-techniques/#10_Make_More_Time_for_Prospects "10. Make More Time for Prospects")
-    -   [11\. Go For Restless Scrolling](https://orgzit.com/blog/sales-prospecting-techniques/#11_Go_For_Restless_Scrolling "11. Go For Restless Scrolling ")
-    -   [12\. Examine the Competitive Environment](https://orgzit.com/blog/sales-prospecting-techniques/#12_Examine_the_Competitive_Environment "12. Examine the Competitive Environment")
-    -   [13\. Collaborate With Connections And Partners](https://orgzit.com/blog/sales-prospecting-techniques/#13_Collaborate_With_Connections_And_Partners "13. Collaborate With Connections And Partners")
-    -   [14\. Survey Old Customers For Future Opportunities](https://orgzit.com/blog/sales-prospecting-techniques/#14_Survey_Old_Customers_For_Future_Opportunities "14. Survey Old Customers For Future Opportunities")
-    -   [15\. Design Your Final Offer](https://orgzit.com/blog/sales-prospecting-techniques/#15_Design_Your_Final_Offer "15. Design Your Final Offer")
--   [Final Words](https://orgzit.com/blog/sales-prospecting-techniques/#Final_Words "Final Words ")
-
 ## **Here are the five Best Sales Prospecting Methods**
 
 ### 1\. **Inbound Prospecting**

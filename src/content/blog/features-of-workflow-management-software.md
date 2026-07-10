@@ -50,23 +50,6 @@ Or worse end up choosing the wrong software.
 
 Let’s start!
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is a Workflow Management System?](https://orgzit.com/blog/features-of-workflow-management-software/#What_Is_a_Workflow_Management_System "What Is a Workflow Management System?")
--   [Top Features Every Workflow Management System Should Have](https://orgzit.com/blog/features-of-workflow-management-software/#Top_Features_Every_Workflow_Management_System_Should_Have "Top Features Every Workflow Management System Should Have")
-    -   [1\. Ability to run multiple workflows for your business](https://orgzit.com/blog/features-of-workflow-management-software/#1_Ability_to_run_multiple_workflows_for_your_business "1. Ability to run multiple workflows for your business")
-    -   [2\. Easy to use and configure](https://orgzit.com/blog/features-of-workflow-management-software/#2_Easy_to_use_and_configure "2. Easy to use and configure")
-    -   [3\. Cloud and Mobile-First Technology](https://orgzit.com/blog/features-of-workflow-management-software/#3_Cloud_and_Mobile-First_Technology "3. Cloud and Mobile-First Technology")
-    -   [4\. Integration with other software](https://orgzit.com/blog/features-of-workflow-management-software/#4_Integration_with_other_software "4. Integration with other software")
-    -   [5\. Access Controls are still important, perhaps for different reasons](https://orgzit.com/blog/features-of-workflow-management-software/#5_Access_Controls_are_still_important_perhaps_for_different_reasons "5. Access Controls are still important, perhaps for different reasons")
-    -   [6\. Smart Reports](https://orgzit.com/blog/features-of-workflow-management-software/#6_Smart_Reports "6. Smart Reports")
-    -   [7\. Notifications When and Where You Need Them](https://orgzit.com/blog/features-of-workflow-management-software/#7_Notifications_When_and_Where_You_Need_Them "7. Notifications When and Where You Need Them")
-    -   [8\. Multilingual capabilities](https://orgzit.com/blog/features-of-workflow-management-software/#8_Multilingual_capabilities "8. Multilingual capabilities")
-    -   [9\. Reduced Cost of Ownership](https://orgzit.com/blog/features-of-workflow-management-software/#9_Reduced_Cost_of_Ownership "9. Reduced Cost of Ownership")
-    -   [Conclusion](https://orgzit.com/blog/features-of-workflow-management-software/#Conclusion "Conclusion")
-
 ## **What Is a Workflow Management System?**
 
 You might reach your destination, without any of these planned details. But then you expose yourself to some risks that could affect you and co-riders (read colleagues).

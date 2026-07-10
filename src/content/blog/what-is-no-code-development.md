@@ -29,25 +29,6 @@ No-code software development has become a very popular and promising alternative
 
 This is where no-code software development platforms come in to help you build software applications **without coding**.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is No Code-Development?](https://orgzit.com/blog/what-is-no-code-development/#What_is_No_Code-Development "What is No Code-Development?")
--   [Essential features of no-code development](https://orgzit.com/blog/what-is-no-code-development/#Essential_features_of_no-code_development "Essential features of no-code development")
-    -   [1\. Drag-and-drop interface](https://orgzit.com/blog/what-is-no-code-development/#1_Drag-and-drop_interface "1. Drag-and-drop interface")
-    -   [2\. Data connections](https://orgzit.com/blog/what-is-no-code-development/#2_Data_connections "2. Data connections")
-    -   [3\. User Interface Builder and Visual Modeling](https://orgzit.com/blog/what-is-no-code-development/#3_User_Interface_Builder_and_Visual_Modeling "3. User Interface Builder and Visual Modeling")
-    -   [4\. Integrations](https://orgzit.com/blog/what-is-no-code-development/#4_Integrations "4. Integrations")
-    -   [5\. AI and machine learning](https://orgzit.com/blog/what-is-no-code-development/#5_AI_and_machine_learning "5. AI and machine learning")
--   [Pros and Cons of No-Code Development](https://orgzit.com/blog/what-is-no-code-development/#Pros_and_Cons_of_No-Code_Development "Pros and Cons of No-Code Development")
-    -   [Pros:](https://orgzit.com/blog/what-is-no-code-development/#Pros "Pros: ") 
-    -   [Cons](https://orgzit.com/blog/what-is-no-code-development/#Cons "Cons")
--   [Why should no-code development be your choice?](https://orgzit.com/blog/what-is-no-code-development/#Why_should_no-code_development_be_your_choice "Why should no-code development be your choice?")
--   [Difference between no-code and low-code](https://orgzit.com/blog/what-is-no-code-development/#Difference_between_no-code_and_low-code "Difference between no-code and low-code")
-    -   [What type of business no-code suits best for?](https://orgzit.com/blog/what-is-no-code-development/#What_type_of_business_no-code_suits_best_for "What type of business no-code suits best for?")
--   [Conclusion](https://orgzit.com/blog/what-is-no-code-development/#Conclusion "Conclusion")
-
 ## **What is No Code-Development?**
 
 A no-code software platform is a solution that uses a simple visual development interface to allow both developers and layman (citizen) users to create software fast and easily.

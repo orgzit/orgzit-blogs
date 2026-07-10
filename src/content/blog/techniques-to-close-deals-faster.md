@@ -24,16 +24,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [How to close more deals?](https://orgzit.com/blog/techniques-to-close-deals-faster/#How_to_close_more_deals "How to close more deals?")
--   [Techniques to close a deal](https://orgzit.com/blog/techniques-to-close-deals-faster/#Techniques_to_close_a_deal "Techniques to close a deal")
-    -   [Traditional Techniques:](https://orgzit.com/blog/techniques-to-close-deals-faster/#Traditional_Techniques "Traditional Techniques:")
-    -   [Modern Sales Closing Techniques](https://orgzit.com/blog/techniques-to-close-deals-faster/#Modern_Sales_Closing_Techniques "Modern Sales Closing Techniques")
--   [Before you seal a deal](https://orgzit.com/blog/techniques-to-close-deals-faster/#Before_you_seal_a_deal "Before you seal a deal")
-
 ## **How to close more deals?**
 
 Closing is the most important and the most difficult part of sales. Choosing the right person and the right technique to seal a deal is very crucial. And closing a deal is the moment of truth that will decide whether your efforts were successful.

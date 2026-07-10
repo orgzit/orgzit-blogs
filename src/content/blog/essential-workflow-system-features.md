@@ -36,25 +36,6 @@ If you have been part of any organization, then you must have heard these questi
 
 Today, in this article, we are going to enlist 10 essential workflow management system features, but before we get on that stage- let’s discuss the basics of the same.  
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a Workflow Management System?](https://orgzit.com/blog/essential-workflow-system-features/#What_is_a_Workflow_Management_System "What is a Workflow Management System?")
--   [What does a Workflow System Do?](https://orgzit.com/blog/essential-workflow-system-features/#What_does_a_Workflow_System_Do "What does a Workflow System Do?")
--   [Top 10 Essential Workflow System Features](https://orgzit.com/blog/essential-workflow-system-features/#Top_10_Essential_Workflow_System_Features "Top 10 Essential Workflow System Features")
-    -   [1\. Easy to Configure](https://orgzit.com/blog/essential-workflow-system-features/#1_Easy_to_Configure "1. Easy to Configure ")
-    -   [2\. Code-free Workflow Creation](https://orgzit.com/blog/essential-workflow-system-features/#2_Code-free_Workflow_Creation "2. Code-free Workflow Creation")
-    -   [3\. Highly Scalable](https://orgzit.com/blog/essential-workflow-system-features/#3_Highly_Scalable "3. Highly Scalable")
-    -   [4\. Configurable Notifications](https://orgzit.com/blog/essential-workflow-system-features/#4_Configurable_Notifications "4. Configurable Notifications")
-    -   [5\. Facilitates Cloud-Hosting](https://orgzit.com/blog/essential-workflow-system-features/#5_Facilitates_Cloud-Hosting "5. Facilitates Cloud-Hosting")
-    -   [6\. Prioritize Privacy (Access Controls)](https://orgzit.com/blog/essential-workflow-system-features/#6_Prioritize_Privacy_Access_Controls "6. Prioritize Privacy (Access Controls)")
-    -   [7\. Get Mingle with other apps](https://orgzit.com/blog/essential-workflow-system-features/#7_Get_Mingle_with_other_apps "7. Get Mingle with other apps")
-    -   [8\. Robust Reporting](https://orgzit.com/blog/essential-workflow-system-features/#8_Robust_Reporting "8. Robust Reporting")
-    -   [9\. Multilingual](https://orgzit.com/blog/essential-workflow-system-features/#9_Multilingual "9. Multilingual")
-    -   [10\. Reduced Cost of Ownership](https://orgzit.com/blog/essential-workflow-system-features/#_10_Reduced_Cost_of_Ownership " 10. Reduced Cost of Ownership")
--   [Take-Home Message](https://orgzit.com/blog/essential-workflow-system-features/#Take-Home_Message "Take-Home Message")
-
 ## What is a Workflow Management System?
 
 The workflow management system ensures that your company follows a specific process and executes it efficiently. It includes finding repetitive tasks, automating processes, mapping out the workflow in an ideal state, and identifying areas for improvement.  

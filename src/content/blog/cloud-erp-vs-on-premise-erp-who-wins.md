@@ -40,17 +40,6 @@ In this article where I talk about the major Cloud ERP benefits, I would like to
 -   Benefits must be able to help an organization in more than one way
 -   Benefits must be value adding to the end-customer
 
-Table of Contents
-
-[Toggle](#)
-
--   [Top Five Cloud ERP Benefits](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#Top_Five_Cloud_ERP_Benefits "Top Five Cloud ERP Benefits")
--   [Simplicity Counts](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#Simplicity_Counts "Simplicity Counts")
--   [One place to store information is better than having multiple store points](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#One_place_to_store_information_is_better_than_having_multiple_store_points "One place to store information is better than having multiple store points")
--   [Cloud Apps Are A Favorable Alternative To Complex Customizations](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#Cloud_Apps_Are_A_Favorable_Alternative_To_Complex_Customizations "Cloud Apps Are A Favorable Alternative To Complex Customizations")
--   [A Modern UI Is The Source To Get More User Logged-In Time And Greater Employee Productivity](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#A_Modern_UI_Is_The_Source_To_Get_More_User_Logged-In_Time_And_Greater_Employee_Productivity "A Modern UI Is The Source To Get More User Logged-In Time And Greater Employee Productivity")
--   [Increased Data Visibility Leads To A Whole New Way Of Running Business](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/#Increased_Data_Visibility_Leads_To_A_Whole_New_Way_Of_Running_Business "Increased Data Visibility Leads To A Whole New Way Of Running Business")
-
 ## **Top Five Cloud ERP Benefits**
 
 ## **Simplicity Counts**

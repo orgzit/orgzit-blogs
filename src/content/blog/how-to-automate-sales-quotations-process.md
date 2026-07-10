@@ -48,30 +48,6 @@ So, are you ready to elevate your quoting process?
 If yes, keep reading.  
 This blog will give you a detailed solution on how to automate your sales quotation process and [close more deals](https://orgzit.com/blog/top-sales-closing-techniques/) for your business.
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a sales quotation? What are the elements of a sales quote?](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#What_is_a_sales_quotation_What_are_the_elements_of_a_sales_quote "What is a sales quotation? What are the elements of a sales quote?")
-    -   [Purpose of sales quotation](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Purpose_of_sales_quotation "Purpose of sales quotation")
-    -   [Elements Of Sales Quote](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Elements_Of_Sales_Quote "Elements Of Sales Quote")
-    -   [Importance Of Sales Quoting](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Importance_Of_Sales_Quoting "Importance Of Sales Quoting")
-    -   [Types Of Sales Quotations](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Types_Of_Sales_Quotations "Types Of Sales Quotations")
--   [What is a sales quotation process?](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#What_is_a_sales_quotation_process "What is a sales quotation process?")
-    -   [Let’s look at the manual sales quotation process:](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Let%E2%80%99s_look_at_the_manual_sales_quotation_process "Let’s look at the manual sales quotation process: ")
--   [Challenges of Manual Sales Quotation Process](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Challenges_of_Manual_Sales_Quotation_Process "Challenges of Manual Sales Quotation Process")
-    -   [Lengthy Review Process](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Lengthy_Review_Process "Lengthy Review Process")
-    -   [Trouble Managing your Pricing](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Trouble_Managing_your_Pricing "Trouble Managing your Pricing")
-    -   [Time-Consuming Process](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Time-Consuming_Process "Time-Consuming Process")
-    -   [Errors in Quotations](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Errors_in_Quotations "Errors in Quotations")
--   [How to automate the sales quoting process?](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#How_to_automate_the_sales_quoting_process "How to automate the sales quoting process?")
-    -   [Use forms for automated quotes](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Use_forms_for_automated_quotes "Use forms for automated quotes")
-    -   [Streamline The Approval Process](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Streamline_The_Approval_Process "Streamline The Approval Process")
-    -   [Provide collaborative tools for teams to use](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Provide_collaborative_tools_for_teams_to_use "Provide collaborative tools for teams to use")
-    -   [Signing The Contract](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Signing_The_Contract "Signing The Contract")
--   [How Orgzit automates and boosts your sales quotation process?](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#How_Orgzit_automates_and_boosts_your_sales_quotation_process "How Orgzit automates and boosts your sales quotation process?")
--   [Make An Impact With Automation](https://orgzit.com/blog/how-to-automate-sales-quotations-process/#Make_An_Impact_With_Automation "Make An Impact With Automation")
-
 ## **What is a sales quotation? What are the elements of a sales quote?**
 
 A sales quotation, also known as a business sale quote, is a document that enables your prospective buyer or client to assess the price & payment arrangements of your product items and services. It initiates a professional/contractual arrangement by suppliers/companies to win business deals. A sales quotation is generated when prospective customers request detailed pricing for any product or service.

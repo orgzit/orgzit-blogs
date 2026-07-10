@@ -38,26 +38,6 @@ Let’s discover now!
 
 This article will cover the meaning of sales efficiency, why you need to prioritize both sales effectiveness and how to track via sales efficiency metrics, how to boost your sales efficiency, and the **Top 6 Proven ways To Improve Sales Efficiency.**
 
-Table of Contents
-
-[Toggle](#)
-
--   [What Is Sales Efficiency?](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#What_Is_Sales_Efficiency "What Is Sales Efficiency?")
--   [Why Sales Efficiency & Effectiveness Should Be Your #1 Priority](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Why_Sales_Efficiency_Effectiveness_Should_Be_Your_1_Priority "Why Sales Efficiency & Effectiveness Should Be Your #1 Priority")
--   [Top 6 Ways To Improve Sales Efficiency](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Top_6_Ways_To_Improve_Sales_Efficiency "Top 6 Ways To Improve Sales Efficiency")
-    -   [1\. Manage And Nurture Leads Effectively](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#1_Manage_And_Nurture_Leads_Effectively "1. Manage And Nurture Leads Effectively")
-    -   [2\. Train Sales Rep Smartly](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#2_Train_Sales_Rep_Smartly "2. Train Sales Rep Smartly")
-    -   [3\. Synergize sales and marketing teams](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#3_Synergize_sales_and_marketing_teams "3. Synergize sales and marketing teams")
-    -   [4\. Identify & Connect Content With The Buyer Journey](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#4_Identify_Connect_Content_With_The_Buyer_Journey "4. Identify & Connect Content With The Buyer Journey")
-    -   [5\. Set Specific Business Goals](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#5_Set_Specific_Business_Goals "5. Set Specific Business Goals")
-    -   [6\. Discover Your Customer Needs](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#6_Discover_Your_Customer_Needs "6. Discover Your Customer Needs")
--   [Sales Efficiency Metrics To Start Tracking](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Sales_Efficiency_Metrics_To_Start_Tracking "Sales Efficiency Metrics To Start Tracking")
-    -   [Customer Acquisition Cost & Customer Lifetime Value](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Customer_Acquisition_Cost_Customer_Lifetime_Value "Customer Acquisition Cost & Customer Lifetime Value")
-    -   [Lead Response Time](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Lead_Response_Time "Lead Response Time")
-    -   [Number Of Sales Calls Per Rep](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Number_Of_Sales_Calls_Per_Rep "Number Of Sales Calls Per Rep")
-    -   [Frequency Of Customer Contact](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Frequency_Of_Customer_Contact "Frequency Of Customer Contact")
--   [Key Takeaways on How To Boost Your Sales Efficiency](https://orgzit.com/blog/ways-to-improve-sales-efficiency/#Key_Takeaways_on_How_To_Boost_Your_Sales_Efficiency "Key Takeaways on How To Boost Your Sales Efficiency")
-
 ## **What Is Sales Efficiency?**
 
 When you tend to sell a product, you keep a margin, known as the sale’s profit. For any enterprise, knowing the number of sales made by their sales team after investment (like marketing ads, promotions, sales process, etc.) is known as sales efficiency. It is a way to demonstrate how your sales process, strategies & team has managed to convert [leads](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) into customers.

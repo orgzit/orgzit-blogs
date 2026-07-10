@@ -24,33 +24,6 @@ draft: false
 featured: false
 ---
 
-Table of Contents
-
-[Toggle](#)
-
--   [Introduction](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#Introduction "Introduction")
-    -   [Best tools for various categories](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#Best_tools_for_various_categories "Best tools for various categories")
--   [1.Online meetings (substitute for physical meetings)](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#1Online_meetings_substitute_for_physical_meetings "1.Online meetings (substitute for physical meetings)")
-    -   [1\. Zoom](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#1_Zoom "1. Zoom")
-    -   [2\. Google Meet](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Google_Meet "2. Google Meet")
-    -   [3\. Airmeet](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#3_Airmeet "3. Airmeet")
--   [2.Instant Messaging (substitute for short in-person conversations/email)](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2Instant_Messaging_substitute_for_short_in-person_conversationsemail "2.Instant Messaging (substitute for short in-person conversations/email)")
-    -   [2\. Flock](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Flock "2. Flock")
--   [3\. File sharing (substitute for sharing documents via emails or USB drives)](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#3_File_sharing_substitute_for_sharing_documents_via_emails_or_USB_drives "3. File sharing (substitute for sharing documents via emails or USB drives)")
-    -   [2\. Google Drive](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Google_Drive "2. Google Drive")
--   [4\. Business workflow management (substitute for pen/paper working or exchanging information over email)](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#4_Business_workflow_management_substitute_for_penpaper_working_or_exchanging_information_over_email "4. Business workflow management (substitute for pen/paper working or exchanging information over email)")
-    -   [1\. Monday.com](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#1_Mondaycom "1. Monday.com")
--   [2\. Orgzit.com](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Orgzitcom "2. Orgzit.com ")
-    -   [3\. Trello](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#3_Trello "3. Trello")
--   [5\. Finance and Accounting](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#5_Finance_and_Accounting "5. Finance and Accounting ")
-    -   [1\. QuickBooks](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#1_QuickBooks "1. QuickBooks")
-    -   [2\. Freshbooks](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Freshbooks "2. Freshbooks")
-    -   [3\. Vyapar](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#3_Vyapar "3. Vyapar")
--   [6\. Learning & Development (employee skills up-gradation)](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#6_Learning_Development_employee_skills_up-gradation "6. Learning & Development (employee skills up-gradation)")
-    -   [1\. LinkedIn Learning](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#1_LinkedIn_Learning "1. LinkedIn Learning")
-    -   [2\. Udemy](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#2_Udemy "2. Udemy ") 
--   [Summary](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/#Summary "Summary")
-
 ## **Introduction**
 
 The Earth needs healing, it needs a break. Our ears were hearing this from decades. But we ignored it. Now the earth is ignoring our appeal, we are in this pandemic paying a big cost for our deeds. We are losing our close ones, we lost our freedom, we are losing the economic stability which means we are losing our business!!!

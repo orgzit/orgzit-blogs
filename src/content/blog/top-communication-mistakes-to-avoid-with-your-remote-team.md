@@ -34,21 +34,6 @@ _Intrigued? What are you waiting for?_
 
 **_Keep Scrolling!_**
 
-Table of Contents
-
-[Toggle](#)
-
--   [8 Communication Mistakes managers make while managing a remote team](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#8_Communication_Mistakes_managers_make_while_managing_a_remote_team "8 Communication Mistakes managers make while managing a remote team")
-    -   [1\. There is always a delay in Communication](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#1_There_is_always_a_delay_in_Communication "1. There is always a delay in Communication")
-    -   [2\. Tagging your Colleagues unnecessarily @all the time](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#2_Tagging_your_Colleagues_unnecessarily_all_the_time "2. Tagging your Colleagues unnecessarily @all the time")
-    -   [3\. Not analyzing Team’s Body Language](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#3_Not_analyzing_Team%E2%80%99s_Body_Language "3. Not analyzing Team’s Body Language")
-    -   [4\. Exhausting the team with too much work & meetings](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#4_Exhausting_the_team_with_too_much_work_meetings "4. Exhausting the team with too much work & meetings")
-    -   [5\. Micromanaging is Usual](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#5_Micromanaging_is_Usual "5. Micromanaging is Usual")
-    -   [6\. Hiring people who are unfit for Remote Working](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#6_Hiring_people_who_are_unfit_for_Remote_Working "6. Hiring people who are unfit for Remote Working")
-    -   [7\. Forgetting to analyze employees performance](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#7_Forgetting_to_analyze_employees_performance "7. Forgetting to analyze employees performance")
-    -   [8\. Not using the right technology](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#8_Not_using_the_right_technology "8. Not using the right technology")
--   [Not Everyone is a Remote Worker!](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/#Not_Everyone_is_a_Remote_Worker "Not Everyone is a Remote Worker!")
-
 ## 8 Communication Mistakes managers make while managing a remote team
 
 ### 1\. There is always a delay in Communication

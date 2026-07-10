@@ -32,22 +32,6 @@ A bid dashboard enables sales teams to track and manage multiple bids simultaneo
 
 But that’s not it! Let’s delve deeper!
 
-Table of Contents
-
-[Toggle](#)
-
--   [What is a Bidding process?](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#What_is_a_Bidding_process "What is a Bidding process?")
--   [Challenges of the Manual Bidding Process](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Challenges_of_the_Manual_Bidding_Process "Challenges of the Manual Bidding Process")
--   [What Is a Bid Dashboard for B2B Sales Teams?](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#What_Is_a_Bid_Dashboard_for_B2B_Sales_Teams "What Is a Bid Dashboard for B2B Sales Teams?")
--   [6 Essential Tasks Made Easy on a Bid Dashboard](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#6_Essential_Tasks_Made_Easy_on_a_Bid_Dashboard "6 Essential Tasks Made Easy on a Bid Dashboard ")
--   [Top Benefits of Using a Bids Dashboard for B2B Sales](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Top_Benefits_of_Using_a_Bids_Dashboard_for_B2B_Sales "Top Benefits of Using a Bids Dashboard for B2B Sales")
-    -   [Enhanced Visibility and Tracking of Sales Bids](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Enhanced_Visibility_and_Tracking_of_Sales_Bids "Enhanced Visibility and Tracking of Sales Bids")
-    -   [Improved Bidding Strategy](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Improved_Bidding_Strategy "Improved Bidding Strategy")
-    -   [Streamlined Collaboration and Communication](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Streamlined_Collaboration_and_Communication "Streamlined Collaboration and Communication")
-    -   [Centralized Bid Management and Documentation](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Centralized_Bid_Management_and_Documentation "Centralized Bid Management and Documentation")
-    -   [Data-Driven Insights and Performance Tracking](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#Data-Driven_Insights_and_Performance_Tracking "Data-Driven Insights and Performance Tracking")
--   [To Conclude](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/#To_Conclude "To Conclude")
-
 ## What is a Bidding process?
 
 Starting from the basics, the bidding process selects a vendor for subcontracting a project or purchasing products and services required. Bid records contain the specifications of the project or details of the products and services to be purchased.

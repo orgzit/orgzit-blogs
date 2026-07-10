@@ -27,17 +27,6 @@ With the huge range of technologies that we are using today, cross-functional co
 
 Collaboration plays a key role while coordinating work between different teams of an organization. But when the clarity is lost, it becomes hard facilitating the goal of bringing the whole organization on common grounds. Below are some barriers to collaboration across teams as well as departments along with the solution to each.   
 
-Table of Contents
-
-[Toggle](#)
-
--   [1\. The team involved have conflicting goals:](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#1_The_team_involved_have_conflicting_goals "1. The team involved have conflicting goals:")
--   [2\. You don’t understand coworkers roles, responsibilities or jargon:](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#2_You_don%E2%80%99t_understand_coworkers_roles_responsibilities_or_jargon "2. You don’t understand coworkers roles, responsibilities or jargon:")
--   [3\. You are not aware of other team’s projects:](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#3_You_are_not_aware_of_other_team%E2%80%99s_projects "3. You are not aware of other team’s projects:")
--   [4\. Taking on another project seems too time-consuming:](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#4_Taking_on_another_project_seems_too_time-consuming "4. Taking on another project seems too time-consuming:")
--   [5\. There’s a reluctance to adopt new ways of working:](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#5_There%E2%80%99s_a_reluctance_to_adopt_new_ways_of_working "5. There’s a reluctance to adopt new ways of working:")
--   [Final Note](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/#Final_Note "Final Note")
-
 ### **1\. The team involved have conflicting goals:**
 
 This is one of the major constraints to cross-functional collaboration and can be a source of tremendous challenge or conflict. While you and your team believe that a particular project may generate tremendous revenue, increase customer base, fix a technical glitch, or in any way positively impact the organization, another team may be less enthused.
