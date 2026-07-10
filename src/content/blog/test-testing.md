@@ -16,6 +16,7 @@ seoTitle: 10 Essential Workflow System Features | Orgzit Blog
 seoDescription: 6 Benefits of Workflow Automation
 noIndex: false
 twitterCard: summary_large_image
+canonicalUrl: "https://orgzit.com/blog/test-testing/"
 ---
 
 6 Benefits of Workflow Automation6 Benefits of Workflow Automation6 Benefits of Workflow Automation6 Benefits of Workflow Automation6 Benefits of Workflow Automation6 Benefits of Workflow Automation6 Benefits of Workflow Automation
@@ -28,7 +29,7 @@ twitterCard: summary_large_image
 
 6 Benefits of Workflow Automation
 
-\<p>test\</p>
+<p>test\</p>
 
 ##
 

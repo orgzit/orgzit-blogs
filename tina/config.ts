@@ -43,6 +43,16 @@ export default defineConfig({
               values?.title?.toLowerCase().replace(/[^a-z0-9]+/g, '-') ??
               'new-post',
           },
+          beforeSubmit: async ({ values }: { values: any }) => {
+            const slug =
+              values?.slug ??
+              values?.title?.toLowerCase().replace(/[^a-z0-9]+/g, '-') ??
+              'new-post';
+            return {
+              ...values,
+              canonicalUrl: values?.canonicalUrl || `https://orgzit.com/blog/${slug}/`,
+            };
+          },
         },
 
         fields: [
