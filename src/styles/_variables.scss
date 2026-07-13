@@ -23,10 +23,9 @@ $slate-900: #0f172a;
 
 $white: #ffffff;
 
-// Fonts (was theme.extend.fontFamily)
-$font-sans:  'Inter', ui-sans-serif, system-ui, sans-serif;
-$font-serif: 'Georgia', ui-serif, Georgia, serif;
-$font-mono:  'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+// Fonts
+$font-sans: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+$font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
 
 // Breakpoints (Tailwind defaults: sm/md/lg)
 $bp-sm: 640px;
