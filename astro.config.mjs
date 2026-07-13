@@ -1,5 +1,4 @@
 import { defineConfig } from 'astro/config';
-import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 // Dev-only: rewrites Tina Media Manager's thumbnail requests (missing the /blog
@@ -25,7 +24,6 @@ export default defineConfig({
   trailingSlash: 'always',
   output: 'static',
   integrations: [
-    tailwind({ applyBaseStyles: false }),
     sitemap({
       filter: (page) => !page.includes('/404'),
     }),

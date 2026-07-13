@@ -5,76 +5,79 @@ const topCategories = (categoriesData as any[])
   .sort((a, b) => b.count - a.count)
   .slice(0, 6);
 ---
-<header class="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
-  <nav class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+<header class="navbar">
+  <nav class="navbar-inner">
 
-    <a href="/blog/" class="flex items-center gap-2 font-bold text-slate-900 text-lg">
-      <span class="text-brand-600">Orgzit</span>
-      <span class="text-slate-500 font-normal text-sm">Blog</span>
+    <a href="/blog/" class="navbar-logo">
+      <span class="navbar-logo-brand">Orgzit</span>
+      <span class="navbar-logo-suffix">Blog</span>
     </a>
 
-    <div class="hidden md:flex items-center gap-6">
-      <a href="/blog/" class="text-sm font-medium text-slate-600 hover:text-brand-600 transition-colors">
+    <div class="navbar-links">
+      <a href="/blog/" class="navbar-link">
         All Posts
       </a>
 
       {topCategories.length > 0 && (
-        <div class="relative group">
-          <button class="text-sm font-medium text-slate-600 hover:text-brand-600 flex items-center gap-1">
+        <div class="navbar-dropdown">
+          <button class="navbar-dropdown-btn">
             Categories
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="icon-sm" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <div class="absolute top-full left-0 mt-1 w-56 bg-white border border-slate-200 rounded-xl shadow-lg
-                      opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-150 py-2">
+          <div class="navbar-dropdown-panel">
             {topCategories.map((cat: any) => (
               <a
                 href={`/blog/category/${cat.slug}/`}
-                class="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-brand-600"
+                class="navbar-dropdown-item"
               >
                 {cat.name}
-                <span class="text-slate-400 text-xs ml-1">({cat.count})</span>
+                <span class="navbar-dropdown-count">({cat.count})</span>
               </a>
             ))}
           </div>
         </div>
       )}
 
-      <a href="/blog/search/" class="text-sm font-medium text-slate-600 hover:text-brand-600">
+      <a href="/blog/search/" class="navbar-link">
         Search
       </a>
     </div>
 
     <a
       href="https://orgzit.com/book-demo/"
-      class="hidden md:inline-flex items-center gap-2 bg-brand-600 text-white text-sm font-semibold
-             px-4 py-2 rounded-lg hover:bg-brand-700 transition-colors"
+      class="navbar-cta"
+      onclick="if (window.Calendly) { Calendly.initPopupWidget({ url: 'https://calendly.com/orgzit/personalized-consultation-30' }); return false; }"
     >
       Book a Demo →
     </a>
 
-    <button id="mobile-menu-btn" class="md:hidden p-2 text-slate-600">
-      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <button id="mobile-menu-btn" class="navbar-mobile-btn">
+      <svg class="icon-md" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
       </svg>
     </button>
   </nav>
 
-  <div id="mobile-menu" class="hidden md:hidden border-t border-slate-200 bg-white px-6 py-4">
-    <a href="/blog/" class="block py-2 text-sm font-medium text-slate-700">All Posts</a>
+  <div id="mobile-menu" class="navbar-mobile-menu">
+    <a href="/blog/" class="navbar-mobile-link">All Posts</a>
     {topCategories.length > 0 && (
-      <div class="py-2">
-        <div class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Categories</div>
+      <div class="navbar-mobile-categories">
+        <div class="navbar-mobile-categories-label">Categories</div>
         {topCategories.map((cat: any) => (
-          <a href={`/blog/category/${cat.slug}/`} class="block py-1.5 text-sm text-slate-600 pl-2">
+          <a href={`/blog/category/${cat.slug}/`} class="navbar-mobile-category-link">
             {cat.name}
           </a>
         ))}
       </div>
     )}
-    <a href="/blog/search/" class="block py-2 text-sm font-medium text-slate-700">Search</a>
-    <a href="https://orgzit.com/book-demo/" class="block mt-3 bg-brand-600 text-white text-sm font-semibold px-4 py-2.5 rounded-lg text-center">
+    <a href="/blog/search/" class="navbar-mobile-link">Search</a>
+    <a
+      href="https://orgzit.com/book-demo/"
+      class="navbar-mobile-cta"
+      onclick="if (window.Calendly) { Calendly.initPopupWidget({ url: 'https://calendly.com/orgzit/personalized-consultation-30' }); return false; }"
+    >
       Book a Demo →
     </a>
   </div>
@@ -82,6 +85,6 @@ const topCategories = (categoriesData as any[])
 
 <script>
   document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
-    document.getElementById('mobile-menu')?.classList.toggle('hidden');
+    document.getElementById('mobile-menu')?.classList.toggle('is-open');
   });
 </script>

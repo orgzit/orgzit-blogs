@@ -10,7 +10,6 @@ import { formatDate, isoDate } from '@lib/dates';
 import { withBase } from '@lib/paths';
 import { slugify } from '@lib/slugify';
 import type { Post } from '@app-types/blog';
-import '@/styles/blog-post.css';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -97,30 +96,30 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
     ],
   }}
 >
-  <header class="mb-8">
+  <header class="post-header">
     {post.data.categories[0] && (
       <a
         href={`/blog/category/${catSlug(post.data.categories[0])}/`}
-        class="inline-block text-xs font-semibold bg-brand-50 text-brand-700 px-3 py-1 rounded-full mb-4 hover:bg-brand-100 transition-colors"
+        class="post-category-badge"
       >
         {post.data.categories[0]}
       </a>
     )}
 
-    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 leading-tight mb-4">
+    <h1 class="post-title">
       {post.data.title}
     </h1>
 
-    <div class="flex flex-wrap items-center gap-3 text-sm text-slate-500 mb-6">
+    <div class="post-meta">
       {post.data.authorAvatar && (
         <img
           src={post.data.authorAvatar}
           alt={post.data.author}
-          class="w-8 h-8 rounded-full"
+          class="post-meta-avatar"
           width="32" height="32"
         />
       )}
-      <span class="font-medium text-slate-700">{post.data.author}</span>
+      <span class="post-meta-author">{post.data.author}</span>
       <span>·</span>
       <time datetime={isoDate(post.data.date)}>{formatDate(post.data.date)}</time>
       <span>·</span>
@@ -134,11 +133,11 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
     </div>
 
     {post.data.featuredImage && (
-      <div class="aspect-video rounded-xl overflow-hidden bg-slate-100 mb-8">
+      <div class="post-hero-image">
         <img
           src={withBase(post.data.featuredImage)}
           alt={post.data.featuredImageAlt}
-          class="w-full h-full object-cover"
+          class="post-hero-img"
           loading="eager"
           width="1200" height="675"
         />
@@ -147,22 +146,22 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
   </header>
 
   {toc.length > 2 && (
-    <div class="lg:hidden mb-8">
+    <div class="post-toc-mobile">
       <TableOfContents items={toc} />
     </div>
   )}
 
-  <div class="prose prose-lg prose-slate max-w-none">
+  <div class="post-content">
     <Content />
   </div>
 
   {post.data.tags.length > 0 && (
-    <div class="mt-8 pt-8 border-t border-slate-200">
-      <div class="flex flex-wrap gap-2">
+    <div class="post-tags">
+      <div class="post-tags-list">
         {post.data.tags.map(tag => (
           <a
             href={`/blog/tag/${slugify(tag)}/`}
-            class="text-sm bg-slate-100 hover:bg-slate-200 text-slate-600 px-3 py-1 rounded-full transition-colors"
+            class="post-tag"
           >
             #{tag}
           </a>

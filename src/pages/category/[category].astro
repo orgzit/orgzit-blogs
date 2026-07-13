@@ -1,8 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Navbar from '@components/layout/Navbar.astro';
-import Footer from '@components/layout/Footer.astro';
+import BlogListingLayout from '@layouts/BlogListingLayout.astro';
 import BlogCard from '@components/blog/BlogCard.astro';
 import categoriesData from '@/content/data/categories.json';
 import { slugify } from '@lib/slugify';
@@ -25,23 +23,19 @@ const posts = allPosts
   )
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 ---
-<BaseLayout
+<BlogListingLayout
   title={`${category.name} Articles — Orgzit Blog`}
   description={category.description || `Browse all ${category.name} articles on the Orgzit Blog.`}
   canonical={`https://orgzit.com/blog/category/${category.slug}/`}
 >
-  <Navbar />
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-12">
-    <div class="mb-10">
-      <h1 class="text-3xl font-bold text-slate-900">{category.name}</h1>
-      {category.description && (
-        <p class="text-slate-600 mt-3 text-lg max-w-2xl">{category.description}</p>
-      )}
-      <p class="text-sm text-slate-500 mt-2">{posts.length} articles</p>
-    </div>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {posts.map(post => <BlogCard post={post.data} slug={post.slug} />)}
-    </div>
-  </main>
-  <Footer />
-</BaseLayout>
+  <div class="archive-header">
+    <h1 class="archive-title">{category.name}</h1>
+    {category.description && (
+      <p class="archive-desc">{category.description}</p>
+    )}
+    <p class="archive-count">{posts.length} articles</p>
+  </div>
+  <div class="blog-grid">
+    {posts.map(post => <BlogCard post={post.data} slug={post.slug} />)}
+  </div>
+</BlogListingLayout>

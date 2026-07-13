@@ -12,11 +12,11 @@ function pageUrl(n: number) {
 }
 ---
 {totalPages > 1 && (
-  <nav aria-label="Pagination" class="flex justify-center items-center gap-2 mt-12">
+  <nav aria-label="Pagination" class="pagination">
     {currentPage > 1 && (
       <a
         href={pageUrl(currentPage - 1)}
-        class="px-4 py-2 text-sm font-medium text-slate-600 bg-white border border-slate-200 rounded-lg hover:border-brand-300 hover:text-brand-600 transition-colors"
+        class="pagination-link"
       >
         ← Previous
       </a>
@@ -26,11 +26,7 @@ function pageUrl(n: number) {
       <a
         href={pageUrl(n)}
         aria-current={n === currentPage ? 'page' : undefined}
-        class={`px-4 py-2 text-sm font-medium rounded-lg transition-colors
-          ${n === currentPage
-            ? 'bg-brand-600 text-white border border-brand-600'
-            : 'bg-white text-slate-600 border border-slate-200 hover:border-brand-300 hover:text-brand-600'
-          }`}
+        class={`pagination-link ${n === currentPage ? 'pagination-link--active' : ''}`}
       >
         {n}
       </a>
@@ -39,7 +35,7 @@ function pageUrl(n: number) {
     {currentPage < totalPages && (
       <a
         href={pageUrl(currentPage + 1)}
-        class="px-4 py-2 text-sm font-medium text-slate-600 bg-white border border-slate-200 rounded-lg hover:border-brand-300 hover:text-brand-600 transition-colors"
+        class="pagination-link"
       >
         Next →
       </a>

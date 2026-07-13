@@ -1,8 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Navbar from '@components/layout/Navbar.astro';
-import Footer from '@components/layout/Footer.astro';
+import BlogListingLayout from '@layouts/BlogListingLayout.astro';
 import BlogCard from '@components/blog/BlogCard.astro';
 import authorsData from '@/content/data/authors.json';
 
@@ -20,33 +18,29 @@ const posts = allPosts
   .filter(p => p.data.authorSlug === author.slug)
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 ---
-<BaseLayout
+<BlogListingLayout
   title={`${author.name} — Orgzit Blog`}
   description={author.description || `Articles by ${author.name} on the Orgzit Blog.`}
   canonical={`https://orgzit.com/blog/author/${author.slug}/`}
 >
-  <Navbar />
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-12">
-    <div class="flex items-center gap-5 mb-10">
-      {author.avatar_urls?.['96'] && (
-        <img
-          src={author.avatar_urls['96']}
-          alt={author.name}
-          class="w-20 h-20 rounded-full"
-          width="80" height="80"
-        />
+  <div class="archive-author-header">
+    {author.avatar_urls?.['96'] && (
+      <img
+        src={author.avatar_urls['96']}
+        alt={author.name}
+        class="archive-author-avatar"
+        width="80" height="80"
+      />
+    )}
+    <div class="archive-author-info">
+      <h1 class="archive-title">{author.name}</h1>
+      {author.description && (
+        <p class="archive-author-bio">{author.description}</p>
       )}
-      <div>
-        <h1 class="text-3xl font-bold text-slate-900">{author.name}</h1>
-        {author.description && (
-          <p class="text-slate-600 mt-2 max-w-xl">{author.description}</p>
-        )}
-        <p class="text-sm text-slate-500 mt-1">{posts.length} articles</p>
-      </div>
+      <p class="archive-count">{posts.length} articles</p>
     </div>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {posts.map(post => <BlogCard post={post.data} slug={post.slug} />)}
-    </div>
-  </main>
-  <Footer />
-</BaseLayout>
+  </div>
+  <div class="blog-grid">
+    {posts.map(post => <BlogCard post={post.data} slug={post.slug} />)}
+  </div>
+</BlogListingLayout>

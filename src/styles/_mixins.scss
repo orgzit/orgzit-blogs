@@ -1,0 +1,25 @@
+@use 'variables' as *;
+
+@mixin sm { @media (min-width: $bp-sm) { @content; } }
+@mixin md { @media (min-width: $bp-md) { @content; } }
+@mixin lg { @media (min-width: $bp-lg) { @content; } }
+
+@mixin visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@mixin container-6xl {
+  max-width: $max-w-6xl;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: $space-6;
+  padding-right: $space-6;
+}

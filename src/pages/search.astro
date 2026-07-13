@@ -9,8 +9,8 @@ import Footer from '@components/layout/Footer.astro';
   canonical="https://orgzit.com/blog/search/"
 >
   <Navbar />
-  <main id="main-content" class="max-w-3xl mx-auto px-6 py-16">
-    <h1 class="text-2xl font-bold text-slate-900 mb-8">Search</h1>
+  <main id="main-content" class="search-main">
+    <h1 class="search-heading">Search</h1>
     <div id="search"></div>
   </main>
   <Footer />
@@ -28,3 +28,25 @@ import Footer from '@components/layout/Footer.astro';
     });
   });
 </script>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+  @use '../styles/mixins' as *;
+
+  .search-main {
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: $space-6;
+    padding-right: $space-6;
+    padding-top: $space-16;
+    padding-bottom: $space-16;
+  }
+
+  .search-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: $slate-900;
+    margin-bottom: $space-8;
+  }
+</style>

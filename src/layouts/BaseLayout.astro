@@ -1,5 +1,5 @@
 ---
-import '../styles/global.css';
+import '../styles/global.scss';
 import { withBase } from '@lib/paths';
 
 interface Props {
@@ -60,9 +60,12 @@ const ogImageFull = ogImage
 
   <link rel="icon" href="/blog/favicon.ico" />
   <link rel="preload" href="/blog/pagefind/pagefind.js" as="script" />
+
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+  <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 </head>
-<body class="bg-slate-50 text-slate-800 antialiased">
-  <a href="#main-content" class="sr-only focus:not-sr-only">Skip to content</a>
+<body>
+  <a href="#main-content" class="sr-only skip-link">Skip to content</a>
   <slot />
 </body>
 </html>

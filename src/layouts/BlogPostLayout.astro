@@ -6,9 +6,10 @@ import ReadingProgress from '@components/blog/ReadingProgress.astro';
 import TableOfContents from '@components/blog/TableOfContents.astro';
 import RelatedPosts from '@components/blog/RelatedPosts.astro';
 import Breadcrumb from '@components/ui/Breadcrumb.astro';
-import NewsletterCTA from '@components/ui/NewsletterCTA.astro';
+import BookDemoCTA from '@components/ui/BookDemoCTA.astro';
 import type { TOCItem } from '@lib/toc';
 import type { Post } from '@app-types/blog';
+import '@/styles/blog-post.scss';
 
 interface Props {
   title:            string;
@@ -51,19 +52,19 @@ const {
   <Navbar />
   <ReadingProgress />
 
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-8">
+  <main id="main-content" class="post-main">
 
     <Breadcrumb items={breadcrumbItems} />
 
-    <div class="mt-6 grid lg:grid-cols-[1fr_280px] gap-12">
+    <div class="post-grid">
 
       <article data-pagefind-body data-pagefind-filter={`category:${pagefindCategory}`}>
         <slot />
       </article>
 
       {toc.length > 2 && (
-        <aside class="hidden lg:block">
-          <div class="sticky top-24">
+        <aside class="post-toc-aside">
+          <div class="post-toc-sticky">
             <TableOfContents items={toc} />
           </div>
         </aside>
@@ -72,7 +73,7 @@ const {
 
     {relatedPosts.length > 0 && <RelatedPosts posts={relatedPosts} />}
 
-    <NewsletterCTA />
+    <BookDemoCTA />
   </main>
 
   <Footer />

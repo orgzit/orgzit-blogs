@@ -8,17 +8,17 @@ interface Props {
 
 const { name, slug, bio, avatar } = Astro.props;
 ---
-<div class="mt-12 pt-8 border-t border-slate-200 flex gap-4">
+<div class="author-card">
   {avatar
-    ? <img src={avatar} alt={name} class="w-14 h-14 rounded-full flex-shrink-0" width="56" height="56" />
-    : <div class="w-14 h-14 rounded-full bg-brand-100 flex items-center justify-center flex-shrink-0">
-        <span class="text-brand-600 font-bold text-lg">{name[0]}</span>
+    ? <img src={avatar} alt={name} class="author-card-avatar" width="56" height="56" />
+    : <div class="author-card-avatar-placeholder">
+        <span class="author-card-avatar-letter">{name[0]}</span>
       </div>
   }
   <div>
-    <a href={`/blog/author/${slug}/`} class="font-semibold text-slate-900 hover:text-brand-600 transition-colors">
+    <a href={`/blog/author/${slug}/`} class="author-card-name">
       {name}
     </a>
-    {bio && <p class="text-slate-600 text-sm mt-1 leading-relaxed">{bio}</p>}
+    {bio && <p class="author-card-bio">{bio}</p>}
   </div>
 </div>
