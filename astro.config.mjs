@@ -23,6 +23,7 @@ export default defineConfig({
   base: '/blog',
   trailingSlash: 'always',
   output: 'static',
+  devToolbar: { enabled: false },
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/404'),
