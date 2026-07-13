@@ -1,21 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Navbar from '@components/layout/Navbar.astro';
-import Footer from '@components/layout/Footer.astro';
+import BlogPostLayout from '@layouts/BlogPostLayout.astro';
 import TableOfContents from '@components/blog/TableOfContents.astro';
 import AuthorCard from '@components/blog/AuthorCard.astro';
-import RelatedPosts from '@components/blog/RelatedPosts.astro';
-import Breadcrumb from '@components/ui/Breadcrumb.astro';
 import ShareButtons from '@components/ui/ShareButtons.astro';
-import NewsletterCTA from '@components/ui/NewsletterCTA.astro';
-import ReadingProgress from '@components/blog/ReadingProgress.astro';
 import { getReadingTime } from '@lib/readingTime';
 import { getRelatedPosts } from '@lib/related';
 import { formatDate, isoDate } from '@lib/dates';
 import { withBase } from '@lib/paths';
 import { slugify } from '@lib/slugify';
 import type { Post } from '@app-types/blog';
+import '@/styles/blog-post.css';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -49,18 +44,26 @@ const siteUrl = 'https://orgzit.com';
 const rawImage = post.data.ogImage || post.data.featuredImage || '/blog-images/default-og.png';
 const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBase(rawImage)}`;
 ---
-<BaseLayout
+<BlogPostLayout
   title={post.data.seoTitle}
   description={post.data.seoDescription}
   canonical={post.data.canonicalUrl}
   ogImage={ogImageFull}
-  ogType="article"
   noIndex={post.data.noIndex}
   publishedAt={isoDate(post.data.date)}
   updatedAt={post.data.updatedDate ? isoDate(post.data.updatedDate) : undefined}
   author={post.data.author}
->
-  <script type="application/ld+json" set:html={JSON.stringify({
+  pagefindCategory={post.data.categories[0] ?? ''}
+  toc={toc}
+  relatedPosts={relatedPosts}
+  breadcrumbItems={[
+    { label: 'Blog', href: '/blog/' },
+    ...(post.data.categories[0]
+      ? [{ label: post.data.categories[0], href: `/blog/category/${catSlug(post.data.categories[0])}/` }]
+      : []),
+    { label: post.data.title },
+  ]}
+  jsonLdArticle={{
     "@context": "https://schema.org",
     "@type": "Article",
     "headline":     post.data.title,
@@ -79,9 +82,8 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
       "logo":  { "@type": "ImageObject", "url": "https://orgzit.com/logo.png" },
     },
     "mainEntityOfPage": { "@type": "WebPage", "@id": postUrl },
-  })} />
-
-  <script type="application/ld+json" set:html={JSON.stringify({
+  }}
+  jsonLdBreadcrumb={{
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
@@ -93,125 +95,88 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
         : []),
       { "@type": "ListItem", "position": post.data.categories[0] ? 4 : 3, "name": post.data.title },
     ],
-  })} />
+  }}
+>
+  <header class="mb-8">
+    {post.data.categories[0] && (
+      <a
+        href={`/blog/category/${catSlug(post.data.categories[0])}/`}
+        class="inline-block text-xs font-semibold bg-brand-50 text-brand-700 px-3 py-1 rounded-full mb-4 hover:bg-brand-100 transition-colors"
+      >
+        {post.data.categories[0]}
+      </a>
+    )}
 
-  <Navbar />
-  <ReadingProgress />
+    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 leading-tight mb-4">
+      {post.data.title}
+    </h1>
 
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-8">
-
-    <Breadcrumb
-      items={[
-        { label: 'Blog', href: '/blog/' },
-        ...(post.data.categories[0]
-          ? [{ label: post.data.categories[0], href: `/blog/category/${catSlug(post.data.categories[0])}/` }]
-          : []),
-        { label: post.data.title },
-      ]}
-    />
-
-    <div class="mt-6 grid lg:grid-cols-[1fr_280px] gap-12">
-
-      <article data-pagefind-body data-pagefind-filter={`category:${post.data.categories[0] ?? ''}`}>
-
-        <header class="mb-8">
-          {post.data.categories[0] && (
-            <a
-              href={`/blog/category/${catSlug(post.data.categories[0])}/`}
-              class="inline-block text-xs font-semibold bg-brand-50 text-brand-700 px-3 py-1 rounded-full mb-4 hover:bg-brand-100 transition-colors"
-            >
-              {post.data.categories[0]}
-            </a>
-          )}
-
-          <h1 class="text-3xl md:text-4xl font-bold text-slate-900 leading-tight mb-4">
-            {post.data.title}
-          </h1>
-
-          <div class="flex flex-wrap items-center gap-3 text-sm text-slate-500 mb-6">
-            {post.data.authorAvatar && (
-              <img
-                src={post.data.authorAvatar}
-                alt={post.data.author}
-                class="w-8 h-8 rounded-full"
-                width="32" height="32"
-              />
-            )}
-            <span class="font-medium text-slate-700">{post.data.author}</span>
-            <span>·</span>
-            <time datetime={isoDate(post.data.date)}>{formatDate(post.data.date)}</time>
-            <span>·</span>
-            <span>{readingTime} min read</span>
-            {post.data.updatedDate && post.data.updatedDate !== post.data.date && (
-              <>
-                <span>·</span>
-                <span>Updated {formatDate(post.data.updatedDate)}</span>
-              </>
-            )}
-          </div>
-
-          {post.data.featuredImage && (
-            <div class="aspect-video rounded-xl overflow-hidden bg-slate-100 mb-8">
-              <img
-                src={withBase(post.data.featuredImage)}
-                alt={post.data.featuredImageAlt}
-                class="w-full h-full object-cover"
-                loading="eager"
-                width="1200" height="675"
-              />
-            </div>
-          )}
-        </header>
-
-        {toc.length > 2 && (
-          <div class="lg:hidden mb-8">
-            <TableOfContents items={toc} />
-          </div>
-        )}
-
-        <div class="prose prose-lg prose-slate max-w-none">
-          <Content />
-        </div>
-
-        {post.data.tags.length > 0 && (
-          <div class="mt-8 pt-8 border-t border-slate-200">
-            <div class="flex flex-wrap gap-2">
-              {post.data.tags.map(tag => (
-                <a
-                  href={`/blog/tag/${slugify(tag)}/`}
-                  class="text-sm bg-slate-100 hover:bg-slate-200 text-slate-600 px-3 py-1 rounded-full transition-colors"
-                >
-                  #{tag}
-                </a>
-              ))}
-            </div>
-          </div>
-        )}
-
-        <ShareButtons url={postUrl} title={post.data.title} />
-
-        <AuthorCard
-          name={post.data.author}
-          slug={post.data.authorSlug}
-          bio={post.data.authorBio ?? ''}
-          avatar={post.data.authorAvatar ?? ''}
+    <div class="flex flex-wrap items-center gap-3 text-sm text-slate-500 mb-6">
+      {post.data.authorAvatar && (
+        <img
+          src={post.data.authorAvatar}
+          alt={post.data.author}
+          class="w-8 h-8 rounded-full"
+          width="32" height="32"
         />
-
-      </article>
-
-      {toc.length > 2 && (
-        <aside class="hidden lg:block">
-          <div class="sticky top-24">
-            <TableOfContents items={toc} />
-          </div>
-        </aside>
+      )}
+      <span class="font-medium text-slate-700">{post.data.author}</span>
+      <span>·</span>
+      <time datetime={isoDate(post.data.date)}>{formatDate(post.data.date)}</time>
+      <span>·</span>
+      <span>{readingTime} min read</span>
+      {post.data.updatedDate && post.data.updatedDate !== post.data.date && (
+        <>
+          <span>·</span>
+          <span>Updated {formatDate(post.data.updatedDate)}</span>
+        </>
       )}
     </div>
 
-    {relatedPosts.length > 0 && <RelatedPosts posts={relatedPosts} />}
+    {post.data.featuredImage && (
+      <div class="aspect-video rounded-xl overflow-hidden bg-slate-100 mb-8">
+        <img
+          src={withBase(post.data.featuredImage)}
+          alt={post.data.featuredImageAlt}
+          class="w-full h-full object-cover"
+          loading="eager"
+          width="1200" height="675"
+        />
+      </div>
+    )}
+  </header>
 
-    <NewsletterCTA />
-  </main>
+  {toc.length > 2 && (
+    <div class="lg:hidden mb-8">
+      <TableOfContents items={toc} />
+    </div>
+  )}
 
-  <Footer />
-</BaseLayout>
+  <div class="prose prose-lg prose-slate max-w-none">
+    <Content />
+  </div>
+
+  {post.data.tags.length > 0 && (
+    <div class="mt-8 pt-8 border-t border-slate-200">
+      <div class="flex flex-wrap gap-2">
+        {post.data.tags.map(tag => (
+          <a
+            href={`/blog/tag/${slugify(tag)}/`}
+            class="text-sm bg-slate-100 hover:bg-slate-200 text-slate-600 px-3 py-1 rounded-full transition-colors"
+          >
+            #{tag}
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <ShareButtons url={postUrl} title={post.data.title} />
+
+  <AuthorCard
+    name={post.data.author}
+    slug={post.data.authorSlug}
+    bio={post.data.authorBio ?? ''}
+    avatar={post.data.authorAvatar ?? ''}
+  />
+</BlogPostLayout>

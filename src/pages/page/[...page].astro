@@ -1,11 +1,10 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import { getCollection } from 'astro:content';
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Navbar from '@components/layout/Navbar.astro';
-import Footer from '@components/layout/Footer.astro';
+import BlogListingLayout from '@layouts/BlogListingLayout.astro';
 import BlogCard from '@components/blog/BlogCard.astro';
 import Pagination from '@components/ui/Pagination.astro';
+import '@/styles/blog-listing.css';
 
 export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
   const POSTS_PER_PAGE = 12;
@@ -18,20 +17,16 @@ export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
 
 const { page } = Astro.props as any;
 ---
-<BaseLayout
+<BlogListingLayout
   title={`Orgzit Blog — Page ${page.currentPage}`}
   description="Practical guides on CRM, productivity, no-code tools, and business automation."
   canonical={`https://orgzit.com/blog/page/${page.currentPage}/`}
 >
-  <Navbar />
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-12">
-    <h1 class="text-xl font-bold text-slate-900 mb-8">
-      All Articles — Page {page.currentPage}
-    </h1>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {page.data.map((post: any) => <BlogCard post={post.data} slug={post.slug} />)}
-    </div>
-    <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl="/blog" />
-  </main>
-  <Footer />
-</BaseLayout>
+  <h1 class="text-xl font-bold text-slate-900 mb-8">
+    All Articles — Page {page.currentPage}
+  </h1>
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {page.data.map((post: any) => <BlogCard post={post.data} slug={post.slug} />)}
+  </div>
+  <Pagination currentPage={page.currentPage} totalPages={page.lastPage} baseUrl="/blog" />
+</BlogListingLayout>

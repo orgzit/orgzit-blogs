@@ -1,11 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Navbar from '@components/layout/Navbar.astro';
-import Footer from '@components/layout/Footer.astro';
+import BlogListingLayout from '@layouts/BlogListingLayout.astro';
 import BlogCard from '@components/blog/BlogCard.astro';
 import Pagination from '@components/ui/Pagination.astro';
 import { withBase } from '@lib/paths';
+import '@/styles/blog-listing.css';
 
 const POSTS_PER_PAGE = 12;
 
@@ -19,15 +18,11 @@ const regular  = featured ? sorted.filter(p => p.slug !== featured.slug) : sorte
 const paginated = regular.slice(0, featured ? POSTS_PER_PAGE - 1 : POSTS_PER_PAGE);
 const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
 ---
-<BaseLayout
+<BlogListingLayout
   title="Orgzit Blog — Insights for Modern Teams"
   description="Practical guides on CRM, productivity, no-code tools, and business automation for growing teams."
   canonical="https://orgzit.com/blog/"
 >
-  <Navbar />
-
-  <main id="main-content" class="max-w-6xl mx-auto px-6 py-12">
-
     {featured && (
       <section class="mb-16">
         <a href={`/blog/${featured.slug}/`} class="group block">
@@ -87,7 +82,5 @@ const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
     )}
 
     <Pagination currentPage={1} totalPages={totalPages} baseUrl="/blog" />
-  </main>
+</BlogListingLayout>
 
-  <Footer />
-</BaseLayout>

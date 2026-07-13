@@ -1,0 +1,79 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Navbar from '@components/layout/Navbar.astro';
+import Footer from '@components/layout/Footer.astro';
+import ReadingProgress from '@components/blog/ReadingProgress.astro';
+import TableOfContents from '@components/blog/TableOfContents.astro';
+import RelatedPosts from '@components/blog/RelatedPosts.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import NewsletterCTA from '@components/ui/NewsletterCTA.astro';
+import type { TOCItem } from '@lib/toc';
+import type { Post } from '@app-types/blog';
+
+interface Props {
+  title:            string;
+  description:      string;
+  canonical:        string;
+  ogImage:          string;
+  noIndex:          boolean;
+  publishedAt:      string;
+  updatedAt?:       string;
+  author:           string;
+  jsonLdArticle:    Record<string, unknown>;
+  jsonLdBreadcrumb: Record<string, unknown>;
+  breadcrumbItems:  { label: string; href?: string }[];
+  toc:              TOCItem[];
+  pagefindCategory: string;
+  relatedPosts:     Post[];
+}
+
+const {
+  title, description, canonical, ogImage, noIndex,
+  publishedAt, updatedAt, author,
+  jsonLdArticle, jsonLdBreadcrumb, breadcrumbItems,
+  toc, pagefindCategory, relatedPosts,
+} = Astro.props;
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogImage={ogImage}
+  ogType="article"
+  noIndex={noIndex}
+  publishedAt={publishedAt}
+  updatedAt={updatedAt}
+  author={author}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLdArticle)} />
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLdBreadcrumb)} />
+
+  <Navbar />
+  <ReadingProgress />
+
+  <main id="main-content" class="max-w-6xl mx-auto px-6 py-8">
+
+    <Breadcrumb items={breadcrumbItems} />
+
+    <div class="mt-6 grid lg:grid-cols-[1fr_280px] gap-12">
+
+      <article data-pagefind-body data-pagefind-filter={`category:${pagefindCategory}`}>
+        <slot />
+      </article>
+
+      {toc.length > 2 && (
+        <aside class="hidden lg:block">
+          <div class="sticky top-24">
+            <TableOfContents items={toc} />
+          </div>
+        </aside>
+      )}
+    </div>
+
+    {relatedPosts.length > 0 && <RelatedPosts posts={relatedPosts} />}
+
+    <NewsletterCTA />
+  </main>
+
+  <Footer />
+</BaseLayout>
