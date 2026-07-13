@@ -103,7 +103,7 @@ There are many options available out there and to look for a perfectly tailored 
 
    There is no way to succeed without looking at the facts and figures. A powerful workflow automation software offers built-in reporting and analytics features.
 
-**Read More about the** **[Features of Workflow Management Software here](https://orgzit.com/blog/features-of-workflow-management-software/)!**
+**Read More about the** **[Features of Workflow Management Software here](/blog/features-of-workflow-management-software/)!**
 
 ## Top 5 Workflow Automation Softwares
 
@@ -111,7 +111,7 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 ### 1. **Flokzu**
 
-![Flokzu](https://lh6.googleusercontent.com/LSLM8XcpvbRA1lDugXQ4bsURX_fArFQQCLOBTCkYefjOJ0zzOrFPhvaZwAndbDNpndF3V1qxCBwnu6qdb4zd2rWFMK3tdfwuyaPACb8PUc72Anl-wH-gb_TNEMdpQmmn25tVQVrk)
+![Flokzu](/blog/blog-images/gdoc-EMdpQmmn25tVQVrk.png)
 
 * Icon-based flowchart for outlining your business processes without any coding knowledge.
 * Task-oriented workflows and interfaces that can be integrated with more than 700 existing apps.
@@ -123,7 +123,7 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 ### 2. Zapier
 
-![Zapier](https://lh6.googleusercontent.com/KWRYMmqSObo7SNjESHEWboOxOtJdoBKSlYCZ40wPRl0-qY8pIWxPzSMsOxiRxWNboLXHaQxu7FEuaCUQiTujjXiYazGIG_uWi8rdNqY4JPz84ous4SZqEgDghH8c0lvDMxjqKhOl)
+![Zapier](/blog/blog-images/gdoc-hH8c0lvDMxjqKhOl.png)
 
 * The workflow automation tool is powered by a simple interface.
 * Build the entire workflow using 500 integrations.
@@ -135,7 +135,7 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 ### 3. Kissflow
 
-![Kissflow](https://lh4.googleusercontent.com/qd7RUQws92jXDysHNa9nQ0bxRvBqu51BWN_nqbI8Gmi550o15LiJaZsOYgwPVnjiYuK9YaRI5p70FAjuwovXIXbAlqAMhI-88Mi3RfIlITE_FEHwJXnMkJt4PujMzuqc357tRbEF)
+![Kissflow](/blog/blog-images/gdoc-PujMzuqc357tRbEF.png)
 
 * Drag-and-drop workflow visualizations make this software quite easy to learn.
 * The right customizations help in setting different levels of permissions for different types of users.
@@ -147,7 +147,7 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 ### 4. Integrify
 
-![Integrify](https://lh4.googleusercontent.com/b5oWhhQmVf3VQYfVWxk_zsT3_d-tV_71MUxMjeeebo7NcfMBUqwwRmj0MjJ208BLjw8mV90q0JIJ70sQNGBTLT-08AjKKpAQ9wAtN7tHxnOu0J5bwwhvHCwpewqkE6onVv-zsVsJ)
+![Integrify](/blog/blog-images/gdoc-ewqkE6onVvzsVsJ.png)
 
 * A service-based approach that includes support and consulting for process improvements.
 * The drag-and-drop editor eases the automation of workflows.
@@ -158,7 +158,7 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 ### 5. Orgzit
 
-![Orgzit](https://lh5.googleusercontent.com/_qlWvGgKGjSnexKO0nntlCRV9A3BC66SuXm5G5FrKrYhSoYUeqHy02QnYw0bSatbXedbJ4rxhFN3um-4mDlxhzVaJkvOa7JDGB72qSBXpPzjYN7CJnxQvx_fkhkPk7hHMjPt6rv8)
+![Orgzit](/blog/blog-images/gdoc-khkPk7hHMjPt6rv8.png)
 
 * Powered with easy-to-use setup to configure simple to complex sales-related workflows.
 * Configure checklists for each activity, so that the users don’t miss any critical deadlines.

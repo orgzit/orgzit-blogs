@@ -43,7 +43,7 @@ Middle: the portion of leads that are considering and evaluating your business p
 
 Bottom: Customers! This is what you get at the bottom of the sales funnel.
 
-The top part is the widest with all the leads that reach out to you and the middle part shows the CRM process used to convert [leads](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) into customers and finally the lower part shows the ones who have actually made a purchase.
+The top part is the widest with all the leads that reach out to you and the middle part shows the CRM process used to convert [leads](/blog/10-ways-to-manage-sales-leads-better/) into customers and finally the lower part shows the ones who have actually made a purchase.
 
 A sales funnel broadly has 4 working stages, let us have a look at them. However, depending on your business and the depth of the sales team you may want to further define sub-stages for your team’s sales funnel.
 
@@ -53,7 +53,6 @@ Every organization has its own processes and ways of managing their sales and cu
 
 Managing each customer that is passing through your sales process required requires a tailored approach from you, the marketer, or the salesperson. For each stage you will need to have a marketing and sales strategy, which will include what content you need to generate, how you need to pitch on your sales calls, and how you push your customer to close a business deal.
 
-![stages of sales funnel](https://lh6.googleusercontent.com/zDHMFwhlqm4y5Gazv-jIdEcxMSGcXwhjAn-S7pcu2w2TwE9yErIHdDCA6fyNuofbfJVzgIHUN0yC_kyVRZBdm3grFIxcQsgOabIqNvr7xW-RBmd6LPRt_taDdQnMkkzSXyWoPzso)
 
 ### 1\. **Awareness**
 
@@ -110,7 +109,6 @@ In simpler words, you now need to focus on customer retention to make sure that 
 
 Now that you know what is a sales funnel and the different stages your leads go through to finally become customers. Let me also help you with building a sales funnel for your organization through some steps.
 
-![how to build your own sales funnel](https://lh4.googleusercontent.com/BGsdOCkexBmcLsb3gL6BA2KWEDfFvnudR5vpjVVZU1OOkmFKpx4DgstgTW1mbjBUu57DAlCRd8gb_UwgUS6Z6JJDwXyLR0ZRSkYO4cMb0EvlJLN9oktzvkavQgP4zwF12wmdgTFx)
 
 ### 1\. **Analyze how your customers interact with your business**
 
@@ -175,7 +173,6 @@ Now that you have numerous new customers, don’t forget about your existing cus
 
 Now that you know how to make a sales funnel and its stages, let us now see why a business needs to invest resources to manage a sales funnel to keep your sales engine delivering the desired results.
 
-![importance of sales funnel](https://lh6.googleusercontent.com/4GbpysojC1yL7HoR1qU5z3G4iARVKGtP2ceq4Dyt1VQZn6lLg5e2s7h88x88ZXfCjpvyPCCrQGg1g7zcf28Qqq2yuuhcwMqvmOMpvfPAs3vdqYdvIHSw_PV-wsOlY7gmBclaJ38w)
 
 ### **Marketing becomes simpler**
 

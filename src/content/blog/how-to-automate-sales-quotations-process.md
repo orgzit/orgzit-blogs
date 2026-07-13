@@ -39,14 +39,14 @@ What are your options for getting one?
 
 The answer is – **“automated quote system.”**
 
-Yes, you heard it right. In today’s tech verse and B2B space, we ought to excel in paradigms like – how to be quick in removing bottlenecks, customizing based on lead’s preferences & invest precious time in our venture’s growth. To manage all this, you need a quality mechanism which is [automation](https://orgzit.com/blog/workflow-automation-benefits-for-business/).
+Yes, you heard it right. In today’s tech verse and B2B space, we ought to excel in paradigms like – how to be quick in removing bottlenecks, customizing based on lead’s preferences & invest precious time in our venture’s growth. To manage all this, you need a quality mechanism which is [automation](/blog/workflow-automation-benefits-for-business/).
 
 In B2B business, streamlining quotation preparation is vital to be on par with your competitors. You should aim for customer-friendly numbers when quoting a potential client, without leaving room for loopholes.
 
 So, are you ready to elevate your quoting process?
 
 If yes, keep reading.  
-This blog will give you a detailed solution on how to automate your sales quotation process and [close more deals](https://orgzit.com/blog/top-sales-closing-techniques/) for your business.
+This blog will give you a detailed solution on how to automate your sales quotation process and [close more deals](/blog/top-sales-closing-techniques/) for your business.
 
 ## **What is a sales quotation? What are the elements of a sales quote?**
 
@@ -138,7 +138,7 @@ Reviews and approvals are an integral part of quoting process. Still, they can b
 
 ### **Trouble Managing your Pricing**
 
-B2B pricing systems are complicated because not all B2B buyers create the same number of [sales](https://orgzit.com/blog/b2b-sales-techniques/). There are various factors that sellers consider when setting prices in the market, including the size of the client company, the estimated sales volume, customer lifetime value, loyalty, etc.
+B2B pricing systems are complicated because not all B2B buyers create the same number of [sales](/blog/b2b-sales-techniques/). There are various factors that sellers consider when setting prices in the market, including the size of the client company, the estimated sales volume, customer lifetime value, loyalty, etc.
 
 ### **Time-Consuming Process**
 
@@ -186,7 +186,7 @@ A quotation is a long process that concludes with the signing of a contract betw
 
 **Automated reminders** – With Orgzit’s Quote Management Software, you’ll never miss a quotation follow-up or leave a quote open unattended.
 
-**Integrate with CRM and other apps** – Using Quote Management Software, you can easily convert quotations to invoices or send your sales data into accounting or other software tools.**Manage the entire customer lifecycle** – With our CRM, you can look at the entire [customer lifecycle](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/) from lead tracking to quotation to order to customer support.
+**Integrate with CRM and other apps** – Using Quote Management Software, you can easily convert quotations to invoices or send your sales data into accounting or other software tools.**Manage the entire customer lifecycle** – With our CRM, you can look at the entire [customer lifecycle](/blog/track-your-customers-with-the-help-of-crm/) from lead tracking to quotation to order to customer support.
 
 ## **Make An Impact With Automation**
 

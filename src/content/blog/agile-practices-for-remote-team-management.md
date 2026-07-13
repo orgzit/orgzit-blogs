@@ -35,7 +35,6 @@ Agile development, a popular practice for companies, faced a backward push. Many
 
 The global pandemic is unlikely to fade sooner, and hence many giants like [Google](https://www.forbes.com/sites/jackkelly/2020/07/27/google-employees-will-work-from-home-through-next-summer/#478930a73268) and [Amazon](https://www.theverge.com/2020/7/15/21326017/amazon-work-from-home-extend-january-2021-corporate) had decided to operate remotely until the year 2021. Brands like [Facebook](https://economictimes.indiatimes.com/magazines/panache/facebook-is-planning-to-do-permanent-wfh-salaries-will-be-based-on-employees-locations/articleshow/75890534.cms) and [TCS](https://www.financialexpress.com/industry/tcs-work-from-home-policy-only-one-fourth-of-workers-to-come-to-office-ceo-explains-vision-25x25/1971995/) have gone a step further and are planning to implement this “work from home” culture in the longer run.
 
-![Work from Home Culture](https://lh4.googleusercontent.com/T9rNdzAjbeyqSN5DuHrCmVvJFGF9LF6EAhOJTYHUc2gC9OuqS2YrytCkcYsSwCpXK4jYeTqd6RdoowyBZUbe11Ug9rEUzmfl3Ca_13Sl7m6HJnX9kR414GTlI4RV7wVE7deQO8lX)
 
 Many organizations believe it to be a new normal when the crisis subsides, and if that is the case, The world needs to capture the best practices and learning for adjusting with this new reality.
 
@@ -47,7 +46,6 @@ But, first thing first.
 
 ## What is Agile Methodology?
 
-![What is Agile Methodology?](https://lh4.googleusercontent.com/ksPBzHFijH7CWFHd0xgKCFyVqj72Dc3cF9MO_OrFsoSlPEyNx_s_eKYx0ZO-TRxFY55hHdWe7q2VHrrlNjolosoW9HTbMRHz98M5prV3kpTZ6-KaqesdxLk-YtJKIjaJtUr_f2QW)
 
 It is a process by which a team can manage the workflow by breaking into different stages. The methodology requires continuous collaboration with the stakeholders for improvisations.
 
@@ -58,7 +56,7 @@ _“…the agile movement in software is part of a larger movement towards more 
 
 The practice involves multiple retrospection cycles to go back and forth the development with the client, illustrating the requirements and the end problem the product would be solving. Continuous collaboration, improvisation, evaluation are the key components of this approach.  
   
-[Read More about Agile Project Management here!](https://orgzit.com/blog/what-is-agile-project-management/)
+[Read More about Agile Project Management here!](/blog/what-is-agile-project-management/)
 
 ## What are the challenges of remote working?
 
@@ -104,7 +102,6 @@ Here is the list of best agile practices that can be easily integrated into ever
 
 #### 1\. Schedule Your Day With Standups
 
-![Schedule Your Day With Standups](https://lh6.googleusercontent.com/DItK1Xf_Vnmezrj0V4qmB08E5oJO0twXtVPWSUQNl8kb9hSmMbt8PVnARGiesMJWHP_yJjUhA3kzNKYF_JV1pSTQmmRg9pkQg7H69prDZJIAjXn7zp4cVnK9lFhtW77vZOrpOpQ5)
 
 Be it remote or in-house teams, scheduling daily stand-ups with either is an important thing. With the rise of technology, everything has just become 10X times easier. Tools like Google Hangouts and Zoom Meetings are an easier way to hold such meetings.  
   
@@ -142,7 +139,6 @@ Kanban principles break the tasks into a story format and are majorly categorize
   
 This way, the complete team has an eye on the workflow and is aware of which tasks are undone.  
 
-![Kanban Board](https://lh6.googleusercontent.com/fAllxd5wvuM0GhH7xprRp-UKQc_tqVm7JLUFXklfo4cf2q1l8RxkF7pCoKuGIil0HEtR_0ugY2tqPfXR_OCkUPQw5FCAoxtHyG-XYqobT8hHXUvXOcbEONM4HK-Mx_5HDHJsz0X0)
 
 #### 5\. Key to Success- Functionality Demonstration
 
@@ -173,7 +169,6 @@ On the heavy days, you can opt for the Pareto Principle approach, i.e., 20% of y
 
 Also, it is important to set-up a branching strategy and learns to operate with pull requests. Have a separate person for reviewing codes or split the responsibility amongst the whole team. The matter of the crux is to set coding standards and adhere to them.  
 
-![Release Schedule](https://lh6.googleusercontent.com/hn_-QHLndA7q-_-JBgKgzJxzFMqDp3ZQ3gnUVk2JFFwOyYq6h9ZeVQKqYR5E-CyVACtUCtxrzDGTj_bLzq34yN-VjLRTKIGA5rxmVp9wxntEGq2w9KtlrXFX6G_rRDThN_RIUNaT)
 
 #### 8\. Retrospect with Retro Meetings
 

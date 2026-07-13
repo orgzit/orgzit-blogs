@@ -78,7 +78,7 @@ Once you know your goals, you can choose the metrics that will help you track yo
 
 It is also important to align your metrics with your sales and marketing funnels. This will help you to identify areas where you need to improve your performance.
 
-Also, you use a variety of metrics to get a complete picture of your business performance. No [single metric](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/) can tell you everything you need to know.
+Also, you use a variety of metrics to get a complete picture of your business performance. No [single metric](/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/) can tell you everything you need to know.
 
 There are several different ways to measure B2B business performance. The best approach will depend on your specific business goals and the industry you want to operate in.
 
@@ -194,7 +194,7 @@ Several tools and resources help you measure your B2B business performance. Some
 
 -   **Choose CRMs with quote management:** You can use a [CRM with quote management](https://orgzit.com/quotation-management-software/) to create and send quotes to your customers and prospects. You can also track the status of your quotes and see when they have been viewed or accepted.
 
--   **Bid dashboards:** You can also use a [bid dashboard](https://orgzit.com/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/) to track your pipeline and real-time performance. This information can help you identify improvement areas, such as your bid win rate or the average time to close a deal.
+-   **Bid dashboards:** You can also use a [bid dashboard](/blog/why-does-every-b2b-sales-team-need-a-bid-dashboard/) to track your pipeline and real-time performance. This information can help you identify improvement areas, such as your bid win rate or the average time to close a deal.
 
 -   **CRMs with proposal management:** You can use a CRM with proposal management to create, track, and send proposals to your customers and prospects. You can also track the status of your proposals and see when they have been viewed or signed.
 
@@ -208,7 +208,7 @@ Several tools and resources help you measure your B2B business performance. Some
 
 Suppose you’re a B2B marketing agency, and your goal is to improve your customer satisfaction.
 
-You want to make your customers happier, so you start tracking how satisfied they are with your products or services (CSAT). You decide to conduct [customer survey](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/) to learn more about what you can do to improve their happiness. You find that some of your customers want you to respond to their questions faster.
+You want to make your customers happier, so you start tracking how satisfied they are with your products or services (CSAT). You decide to conduct [customer survey](/blog/customer-satisfaction-survey-and-its-importance/) to learn more about what you can do to improve their happiness. You find that some of your customers want you to respond to their questions faster.
 
 Then you hire a new customer support representative to help you respond to customer questions faster. After a few weeks, you check your CSAT score again and find that it has increased to 90%.
 

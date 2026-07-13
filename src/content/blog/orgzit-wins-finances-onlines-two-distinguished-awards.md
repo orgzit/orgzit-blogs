@@ -29,11 +29,11 @@ Hey productivity seekers! We have got some awesome news for you all.
 
 After a thorough product analysis, FinancesOnline team rated and ranked our collaboration tool in categories of workflow management and data management, and found it worthy of being pushed up the ranks of tools of its kind. Checkout the full [Orgzit review](https://reviews.financesonline.com/p/orgzit/) to get a better understanding of the features and value it can add to your team.
 
-Orgzit scored **8 out 10** and got a **100% user satisfaction rating**, citing its team collaboration, integrations and [customer relationship management](https://orgzit.com/blog/setting-crm-success-orgzit/) capabilities.
+Orgzit scored **8 out 10** and got a **100% user satisfaction rating**, citing its team collaboration, integrations and [customer relationship management](/blog/setting-crm-success-orgzit/) capabilities.
 
 Experts at FinancesOnline recognized Orgzit’s ability to build highly customizable cloud applications that can aid businesses in **organizing their data, collaborating on it efficiently, and analyzing that data from different sources in order to perform major business-specific decisions**. Here are a few key features that they impressed upon –
 
--   Users are allowed to create customized solutions and workflows for business processes such as customer relations management, [project management](https://orgzit.com/blog/reasons-why-orgzit-is-the-best-for-project-management/) and recruitment, among others.
+-   Users are allowed to create customized solutions and workflows for business processes such as customer relations management, [project management](/blog/reasons-why-orgzit-is-the-best-for-project-management/) and recruitment, among others.
 -   Orgzit enables users to better analyze data and share the same with colleagues and partners while speeding up the performance of tasks.
 
 Orgzit received **FinancesOnline.com’s 2017 Rising Star Award** and **Great User Experience Award** for [workflow management](https://workflow-management.financesonline.com/) software. These awards are handed out to products that have received positive customer response owing to their unique features and ease of use. We are deeply honored by these recognitions, which only confirms Orgzit’s efficacy and great performance as a collaboration tool.

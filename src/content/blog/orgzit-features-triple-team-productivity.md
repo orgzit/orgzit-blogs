@@ -33,15 +33,6 @@ At Orgzit, we aim to become that scalable platform which helps businesses create
 
 With that pursuit in our hearts, we have released some new features, which brings Orgzit one-step closer to becoming your digitizing and business automation partner. Take a look at how can you leverage Orgzit to organize better, collaborate better, and analyze better.
 
--   [Granular User Access Control: More power to You](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Granular_User_Access_Control_More_power_to_You "Granular User Access Control: More power to You")
-    -   [What are User groups?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#What_are_User_groups "What are User groups?")
-    -   [How can I use User Groups?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#How_can_I_use_User_Groups "How can I use User Groups?")
--   [Slack Integration: Get Regular Updates](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Slack_Integration_Get_Regular_Updates "Slack Integration: Get Regular Updates")
-    -   [How can I use Slack integration?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#How_can_I_use_Slack_integration "How can I use Slack integration?")
--   [My Discussions](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#My_Discussions "My Discussions")
--   [Change Your Profile Picture On The Go](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Change_Your_Profile_Picture_On_The_Go "Change Your Profile Picture On The Go")
--   [Create A Stunning Client Portfolio](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#Create_A_Stunning_Client_Portfolio "Create A Stunning Client Portfolio")
-    -   [What are record images?](https://orgzit.com/blog/orgzit-features-triple-team-productivity/#What_are_record_images "What are record images?")
 
 ## Webhooks: Seamlessly integrate Orgzit with 3rd Party Applications
 
@@ -84,7 +75,7 @@ If you want quick updates of certain happenings in your Orgzit CRM, you can dire
 
 [![](/blog/blog-images/Slack_Integration_screenshot.jpeg)](/blog/blog-images/Slack_Integration_screenshot.jpeg)
 
-Mark’s wants to integrate Orgzit with his Slack channel and wants his team to get notified every time a new lead is added to [Orgzit CRM](https://orgzit.com/blog/setting-crm-success-orgzit/). He creates a Slack incoming webhook URL and configures the Slack integration in Orgzit in 5 minutes. Every time a new lead is generated, his team gets a custom notification on Slack mentioning the new lead info.
+Mark’s wants to integrate Orgzit with his Slack channel and wants his team to get notified every time a new lead is added to [Orgzit CRM](/blog/setting-crm-success-orgzit/). He creates a Slack incoming webhook URL and configures the Slack integration in Orgzit in 5 minutes. Every time a new lead is generated, his team gets a custom notification on Slack mentioning the new lead info.
 
 **How great is that?** If his team members want to quickly browse the lead in Orgzit, they can do that with a click from slack itself.
 

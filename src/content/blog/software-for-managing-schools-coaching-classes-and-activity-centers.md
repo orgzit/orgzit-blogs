@@ -73,7 +73,7 @@ Here’s how this sort of system can help your organization:
 
 1.  **Enroll More Students Than Ever Before**
 
-You probably receive inquiries about your programmes in several different ways, including walk-ins, phone calls, and email. Teams end up spending a lot of time aggregating inquiries, and inevitably some information slips through the cracks. _Orgzit’s CRM project_ [captures ALL leads](https://orgzit.com/blog/setting-crm-success-orgzit/), irrespective of the source, in one place.
+You probably receive inquiries about your programmes in several different ways, including walk-ins, phone calls, and email. Teams end up spending a lot of time aggregating inquiries, and inevitably some information slips through the cracks. _Orgzit’s CRM project_ [captures ALL leads](/blog/setting-crm-success-orgzit/), irrespective of the source, in one place.
 
 You can also use Orgzit to set up a webform on your website, so that lead data is directly sent to your _Orgzit CRM project_. Inquiries received over email are also automatically captured in the same place. Just imagine the amount of time that is freed up to follow up on received leads!
 
@@ -87,7 +87,7 @@ The _Orgzit_ _students project_ captures a lot of different types of informati
 
 4.  **Increase Employee Productivity** 
 
-You can use Orgzit to assign tasks to your teaching and administrative staff. Each time you put someone’s name against a task, they receive an email as well as a mobile push notification. This way, [your employees are always aware of their task list](https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/), and you are always apprised of their workload and progress.
+You can use Orgzit to assign tasks to your teaching and administrative staff. Each time you put someone’s name against a task, they receive an email as well as a mobile push notification. This way, [your employees are always aware of their task list](/blog/8-best-practices-for-task-management-with-orgzit/), and you are always apprised of their workload and progress.
 
 You can also use Orgzit to share comments, feedback, instructions, and documents for each task with your team on Orgzit. _All internal communication is stored in one place, and no one has to spend time digging through their inboxes for task-related information._
 

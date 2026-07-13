@@ -62,7 +62,7 @@ These figures demonstrate how a CRM system may have a major influence on a compa
 
 -   Securely store critical documents such as policy agreements, IDs, and medical data within the CRM.
 
--   [Track](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/) your sales success, lead conversion rates, and customer retention with CRM analytics.
+-   [Track](/blog/track-your-customers-with-the-help-of-crm/) your sales success, lead conversion rates, and customer retention with CRM analytics.
 
 -   Ensure that your CRM system conforms with data protection rules, which are particularly crucial in the insurance business.
 

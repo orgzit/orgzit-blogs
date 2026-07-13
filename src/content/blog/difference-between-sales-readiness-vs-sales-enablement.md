@@ -62,7 +62,7 @@ A sales readiness program is all about turning the potential lead into action. H
 
 -   Providing efficient and effective onboarding for reps
 -   Giving reps advice and feedback to enable them to improve their shortcomings and polish their strengths
--   Actively train sales reps with new [sales tactics](https://orgzit.com/blog/b2b-sales-techniques/) and skills.
+-   Actively train sales reps with new [sales tactics](/blog/b2b-sales-techniques/) and skills.
 -   Communicate messages, changes in the sales processes, and other enablement content to salespeople.
 -   Demo mock interview for the sales team to be sales-ready
 -   Maintain succinct communication regarding product changes to promote team cohesiveness
@@ -136,7 +136,7 @@ Technologies may also provide statistics on how prospects and customers responde
 
 You must have figured out by now how sales enablement and sales-ready go hand in hand and where they differ.
 
-To succeed, you need to have a clear sales strategy & sales process, along with robust [sales techniques](https://orgzit.com/blog/b2b-sales-techniques/) and tools. You must provide your sellers or sales rep with the right sales content and tools, followed by access to material, upskilling, and training.
+To succeed, you need to have a clear sales strategy & sales process, along with robust [sales techniques](/blog/b2b-sales-techniques/) and tools. You must provide your sellers or sales rep with the right sales content and tools, followed by access to material, upskilling, and training.
 
 For a successful sales process, sales reps should be equipped with the right platforms and tools to optimize their sales journey.
 
@@ -144,6 +144,6 @@ Want to discover how the [Orgzit](https://orgzit.com/customer-relationship-manag
 
 Become sales-ready with our help today! Request a product demo today to learn more.
 
-Stay updated with the latest ideas [here](https://orgzit.com/blog/).
+Stay updated with the latest ideas [here](/blog/).
 
 If you found this article useful, please remember to share it!

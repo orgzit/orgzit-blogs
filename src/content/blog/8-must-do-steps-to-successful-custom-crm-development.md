@@ -68,7 +68,6 @@ So basically, the complexity of processes and client interactions often determin
 
 Custom CRM is invaluable for teams dealing with intricate sales processes, long sales cycles, extensive client interactions, and diverse product or service offerings
 
-![](https://lh7-us.googleusercontent.com/Vg4SouAlimvUjSRCofOtVErEzFpS-YeDw7VFQHyX2rGjmyK3hirjEDEV77pVA1-S6zsyEef_ttZDAqZbS9MzbfzA1Qj8LfAS9TQCbL0m_9kDliMnYpKD1nw3KR9W5ZAW3LpI6UJqkp1F0wRz4VUNO0Q)
 
 ## A Deep Dive into Custom CRM: From Development to Implementation and Outcome:
 
@@ -157,7 +156,6 @@ Software updates are crucial for high-performance CRM systems. Despite the best 
 
 Addressing design flaws, bug tracking systems, and adding new AI APIs can help improve the system. Despite these changes, it’s essential to seek feedback from the team, as they are the most active users of the tool.
 
-![](https://lh7-us.googleusercontent.com/zRvzN-kq_9d0qGdm8hsA48lxGqnUCXNVzjx-DQSVoLYBmJ7rCeIhq53KABjU5Vs5uDa9za8hjzcGnmEMtRgi6sUFDGBFG4igLb87IU0egIy9rBs7WMq6d3poHw9g3qhpEHwbbB2Uv5yWCU1Asul_6eE)
 
 ### Potential Pitfalls in Customization
 
@@ -173,9 +171,9 @@ Business landscapes evolve, and so should your CRM solution. We explore how busi
 
 **To elevate your business further with the correct CRM strategy, you can also read:**
 
-[Best CRM practices to follow!](https://orgzit.com/blog/crm-best-practices-to-follow-in-2023/)
+[Best CRM practices to follow!](/blog/crm-best-practices-to-follow-in-2023/)
 
-[Top 6 proven ways to improve sales efficiency!](https://orgzit.com/blog/ways-to-improve-sales-efficiency/)
+[Top 6 proven ways to improve sales efficiency!](/blog/ways-to-improve-sales-efficiency/)
 
 ## The way forward
 
@@ -187,8 +185,6 @@ Orgzit offers support and evolution to continually fine-tune your CRM’s featur
 
 -   Visit our website [https://orgzit.com/](https://orgzit.com/) Or
 -   Connect with us for a free consultation and expert guidance at [https://orgzit.com/book-demo/](https://orgzit.com/book-demo/)
-
-### ![](https://lh7-us.googleusercontent.com/ahTZBugXxjXz9KWs18gF7il2-BmGajQKS_8AwQYSshcKthZRfmQrUo80045BkQDci9X8yylW1OhFBRkRHsesY7TJiLQx8H2pjXs9F5kz3SdzoyeBfpc47dH2yHFA9hkLlHqK1PHNvkVkDGNb4mht9Qo)
 
 ## Custom CRM vs. Ready-Made CRM: Which is the Right Choice for Your Business?
 
@@ -228,7 +224,6 @@ When considering a CRM solution, businesses must weigh the benefits of customiza
 
 In essence, the decision between a custom or ready-made CRM hinges on the unique needs, budget, and long-term vision of the business. Custom solutions offer precision and scalability but require significant resources, while ready-made options provide quick solutions with potential limitations. The key is to assess priorities and align them with the chosen CRM strategy to maximize efficiency and effectiveness in managing customer relationships.
 
-![](https://lh7-us.googleusercontent.com/HuyK6eNz1dJXSVHH-Xqj8oQTptq2eAnGp2tVZNBrRMa4gox7eKw_F14Xtjpt_1wMrROthRVBtjqaUTRMXtqUzqzHFyGaATayZh2QkXLLo7ENCAAHSerxaTDxQz_1PYWz6K9uRLX9X-IEzVGPEfiy2M8)
 
 ## Comparison
 
@@ -308,7 +303,6 @@ In essence, the decision between a custom or ready-made CRM hinges on the unique
 
 Custom CRM systems are designed to fit your unique needs and enhance your business operations. They offer the power of personalization, allowing you to create tailored workflows, fields, and data structures that match your specific business processes. Investing in a custom CRM system can lead to long-term gains in efficiency, customer satisfaction, and profitability. Custom CRM systems offer the ability to fine-tune the system to match your unique requirements, such as creating customized dashboards, reporting tools, and automation features. On the other hand, ready-made CRM systems offer a pragmatic and cost-effective approach to CRM implementation.
 
-![](https://lh7-us.googleusercontent.com/Sx9JbJODGizku8HnqGhqc1Sx7x8D8T6uNrHgHofxDqcx4_TEFNlIxkyGeZtGYGmB_mN0_7-4Qtzrk5Aji4vG2nuPkrcvJUWIhH8SQphlhJuT5gHf74gD-RM0NLD0wrNcH1Mf7nKR_9tlZEHr88sM-d0)
 
 ## FAQs
 

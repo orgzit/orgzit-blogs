@@ -83,7 +83,7 @@ Imagine a situation where you get up from the computer to grab a bite or stretch
 
 _Now, What to do?_
 
-**Also, Read:** [**What are 3 important skills for Teamwork and Collaboration?**](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/)
+**Also, Read:** [**What are 3 important skills for Teamwork and Collaboration?**](/blog/what-are-important-skills-for-teamwork-and-collaboration/)
 
 #### Best Practices for Managing a Remote Team
 

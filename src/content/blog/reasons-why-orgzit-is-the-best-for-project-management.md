@@ -25,11 +25,11 @@ featured: false
 
 Orgzit project management can prove to be the best for you! how? you will learn that in this article.
 
-[Project management](https://orgzit.com/blog/what-is-project-management/) is the act of completing things! If you are building a house, a bridge, or a software program, you are essentially working on a project.
+[Project management](/blog/what-is-project-management/) is the act of completing things! If you are building a house, a bridge, or a software program, you are essentially working on a project.
 
-When it comes to the activities and processes a typical project will broadly have five [_Project Management Phases_](https://orgzit.com/blog/project-management-process/) – initiating, planning, executing, controlling, and closing the work.
+When it comes to the activities and processes a typical project will broadly have five [_Project Management Phases_](/blog/project-management-process/) – initiating, planning, executing, controlling, and closing the work.
 
-There are several [project management methodologies](https://orgzit.com/blog/project-management-methodologies/) that help project managers direct the project development in the correct direction. And achieve desirable results while successfully meeting the deadlines and abiding by the requirements.
+There are several [project management methodologies](/blog/project-management-methodologies/) that help project managers direct the project development in the correct direction. And achieve desirable results while successfully meeting the deadlines and abiding by the requirements.
 
 Consequently, engineering companies are finding it increasingly difficult to strike the right balance between managing their expenses on business development and internal operations.
 
@@ -81,7 +81,7 @@ Suffice to say, business processes set up by a company are unique to itself. Two
 
 Orgzit allows you to set up your business processes just the way you like. Let’s take an example. So, If you want to do a monthly check of the working condition of your on-site deployed machines, you can quickly customize a dashboard widget. Orgzit’s easily customizable widgets (aka reports) are a scalable alternative to time-consuming data crunching and analysis.
 
-Just like this, whether you have to design and execute large infrastructure projects, follow up on maintenance contracts, or even give advisory services, you can [customize Orgzit to fit your business processes.](https://orgzit.com/blog/orgzit-business-tool-awesome-sharing-scaling/)
+Just like this, whether you have to design and execute large infrastructure projects, follow up on maintenance contracts, or even give advisory services, you can [customize Orgzit to fit your business processes.](/blog/orgzit-business-tool-awesome-sharing-scaling/)
 
 **Orgzitidea** – _You don’t need to fit your project in a set project management template_. _You can tailor Orgzit to set your project management template._
 

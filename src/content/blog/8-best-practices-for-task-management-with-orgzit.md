@@ -81,7 +81,7 @@ The Orgzit Task Management app captures _due dates_ as well as _completion dat
 
 Now that you’ve got all your task-related data organized, it’s time to start filtering it to get to the tasks that are important to you.
 
-In Orgzit, you can [filter](https://orgzit.com/blog/reasons-why-orgzit-is-the-best-for-project-management/) data absolutely any way you like. You can even apply a combination of filters and save it for later, so you don’t have to re-create it each team you visit. It’s logical to filter tasks by due dates to see which deadlines are creeping up on you and need to be prioritized.
+In Orgzit, you can [filter](/blog/reasons-why-orgzit-is-the-best-for-project-management/) data absolutely any way you like. You can even apply a combination of filters and save it for later, so you don’t have to re-create it each team you visit. It’s logical to filter tasks by due dates to see which deadlines are creeping up on you and need to be prioritized.
 
 **Pro tip**: _If you’re using the Covey matrix, another way to prioritize is to filter tasks by Quadrant, and know at a glance which tasks need immediate attention._
 

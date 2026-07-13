@@ -59,7 +59,7 @@ It should also offer scalability, customization options, and automated lead gene
 
 The CRM system offers workflow automation, order management, and customer service processes, with a user-friendly interface, mobile and remote access, and affordable pricing plans for manufacturing businesses of all sizes.
 
-You can also read [Essential Metrics for Manufacturer’s Rep](https://orgzit.com/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/)
+You can also read [Essential Metrics for Manufacturer’s Rep](/blog/7-essential-b2b-sales-metrics-for-manufacturers-reps/)
 
 ## What are the benefits of using CRM in the manufacturing industry?
 
@@ -85,7 +85,7 @@ You can also read [Essential Metrics for Manufacturer’s Rep](https://orgzit.co
 
 -   **HIGH-QUALITY LEADS**: More customers and greater revenue come from improved sales operations. High-quality leads can be aided, nevertheless, by enhanced sales procedures. You can achieve it thanks to lead management in CRM software for manufacturers.
 
--   **BETTER SALES PERFORMANCE**: A manufacturing company can use [CRM](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/) to analyze deal-close rates, lead generation, and other factors based on historical data, obtain insightful knowledge of consumer behavior, prioritize customers based on purchase volume, and more. The forecasting of future sales and growth requires the use of the data provided by CRM.
+-   **BETTER SALES PERFORMANCE**: A manufacturing company can use [CRM](/blog/how-to-streamline-your-business-using-a-crm/) to analyze deal-close rates, lead generation, and other factors based on historical data, obtain insightful knowledge of consumer behavior, prioritize customers based on purchase volume, and more. The forecasting of future sales and growth requires the use of the data provided by CRM.
 
 ![Benefits of manufacturing CRM software](/blog/blog-images/61.2-1024x576.jpg)
 
@@ -107,7 +107,7 @@ If you can, **figure out** the cost of the current processes so you have a bench
 
 ## Conclusion: CRM: A Strategic tool for manufacturers!
 
-Manufacturing CRMs are software systems that allow manufacturers to [keep track of client information](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/) such as addresses, phone numbers, demographics, and pain issues. Salespeople can use this data to gain a deeper understanding of their customers, spot opportunities, and close deals faster.
+Manufacturing CRMs are software systems that allow manufacturers to [keep track of client information](/blog/track-your-customers-with-the-help-of-crm/) such as addresses, phone numbers, demographics, and pain issues. Salespeople can use this data to gain a deeper understanding of their customers, spot opportunities, and close deals faster.
 
 Manufacturing CRM system is based on the fundamental tenet that it helps the business fully comprehend the requirements and expectations of their customers. It also enables them to optimize customer interactions and enhance contacts with them.
 

@@ -37,7 +37,6 @@ But once you have closed the deal, that’s where the real deal begins.
 
 The [Harvard Business Review](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers) research report shows that **increasing customer retention rates by 5% increases profits by 25–95%.**
 
-![](https://lh7-us.googleusercontent.com/cviGuG8OSkEpmAf_symgj8lCGnLGkAZFrzUuYGkDrY0gFp0LBcDCqchofCYiY_icVKgPD2LthG1VKeyziynzjO7dcMtLKrAQ6ZA0d86WUvnVHoic8DJTniXiOe-T73xLakd8uPu7ccwiAC4bgve1Uz8)
 
 Winning an opportunity is challenging in itself, and the feeling of finality that comes with closing a deal can be natural.
 

@@ -158,13 +158,13 @@ With the help of a comprehensive [CRM with quoting](https://orgzit.com/) platfor
 
 These software tools automate the process of sales quoting, allowing for quick and accurate quote creation. The software acts as the automation gear, seamlessly choreographing the steps and intricacies of crafting quotes. These tools weave together data and logic to conjure precise and dependable quotes swiftly.
 
-Read more on [Quote Management Software.](https://orgzit.com/blog/benefits-of-quote-management-software/)
+Read more on [Quote Management Software.](/blog/benefits-of-quote-management-software/)
 
 ### E-signature Platform
 
 E-signature platforms act as digital counterparts to physical signatures, allowing customers to sign and return quotes electronically. These platforms enable clients to sign and return quotes digitally, expediting the approval process.
 
-Read More on Automating Sales Quotation Process [here](https://orgzit.com/blog/how-to-automate-sales-quotations-process/).
+Read More on Automating Sales Quotation Process [here](/blog/how-to-automate-sales-quotations-process/).
 
 ## To Summarize,
 

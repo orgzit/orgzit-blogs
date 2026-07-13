@@ -49,7 +49,6 @@ But what most SMB owners don’t pay much heed to is the struggles that arise du
 
 A software solution, thus, can be the most powerful tool for managing client interactions, recording preferences, and promoting customer loyalty.
 
-![Affordable CRM Solutions](https://lh7-us.googleusercontent.com/obk2QGglNA5VYn2zJHzXcZ0-s33hTe8fHSHil0mT7vkzkVYSZHiBDCmkkuShdkd8pUTDtWH9UbRznH9mu4H4_i2ZCqRPC26x8Wlp_oBcQtYPwK0KZZTjaMNinwqgAqJb8PYnca1G_P5I3mJo-TA8EfQ)
 
 ## 27 things a CRM can do to skyrocket your small business
 
@@ -101,9 +100,8 @@ A software solution, thus, can be the most powerful tool for managing client int
 26.  Having contact management, sales management, and sales pipeline features in your pocket at all times is a powerful proposition.
 27.  Having access to in-depth information stored on the cloud at all times, you’ll be in a superior position to knock down tasks and deal with customer-facing interactions.
 
-Read here to learn more about the [types of CRM and their offerings](https://orgzit.com/blog/all-about-crms-types-offerings-benefits-and-comparison-how-to-choose-the-best/)
+Read here to learn more about the types of CRM and their offerings
 
-![Benefits of a CRM for small businesses](https://lh7-us.googleusercontent.com/28fpobdw9pXcKUfA9AQzJ2g_rJv4e4h53pLL6W_M_LBA-wDAndzyFGa2ZBMVAPHtp-flUyLgiHU6UoQBs1cEOm73bTDUr0jUtfFFfg9hPcJ8GoCHWctaYpxHmNdg2NFlIUoIzzl41mUmZxx97enTKGs)
 
 ## Recommendations
 
@@ -184,7 +182,6 @@ Don’t miss out on valuable insights and free consultation opportunities!
 
 **_With no strings attached, you can book a call with us for FREE consultation here_**: [Schedule a call now!](http://orgzit.com/book-demo/)
 
-![Frequently asked questions about CRM](https://lh7-us.googleusercontent.com/pKwh9ut7ThjmfaGzh9zCQufF4eL95yL5CSLtPAVFPdXgnnu7zOHk8g1_2HVlSTNzExZ9V195loIslj9G6UZc2xtW6MuLYxLlW3-qRBI7czSzjYjtBW9RZuvSb7FexRFBH4Tc5i034C5Xpnw8YzHGm7Y)
 
 ## FAQs
 
@@ -210,4 +207,4 @@ CRM software helps marketers create personalized content by providing them with 
 
  **🔹How does CRM help streamline the business process?**
 
-Read here to understand how CRM can help you streamline your small business: [https://orgzit.com/blog/how-can-a-crm-help-you-streamline-your-small-business/](https://orgzit.com/blog/how-can-a-crm-help-you-streamline-your-small-business/)
+Read here to understand how CRM can help you streamline your small business: [/blog/how-can-a-crm-help-you-streamline-your-small-business/](/blog/how-can-a-crm-help-you-streamline-your-small-business/)

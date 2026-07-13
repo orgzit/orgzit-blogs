@@ -27,7 +27,7 @@ Project management is the act of getting things done! If you are building a hous
 
 It more complicated terms it the implementation of processes, skills, methods, knowledge, and experience to attain definite project objectives according to the project’s requirements within the agreed framework of timelines and budgets.  
 
-When it comes to the activities and processes a typical project will broadly have five [_Project Management Phases_](https://orgzit.com/blog/project-management-process/) – initiating, planning, executing, controlling, and closing the work. You can read about them in our previous article.
+When it comes to the activities and processes a typical project will broadly have five [_Project Management Phases_](/blog/project-management-process/) – initiating, planning, executing, controlling, and closing the work. You can read about them in our previous article.
 
 The primary aim or goal of having project management in your business is to achieve all of the project objectives.
 
@@ -55,7 +55,6 @@ They are considered and held accountable for the entire project scope, project t
 
 A project manager, with the help of their team, is in charge of multiple responsibilities and duties that span the five project phases of a project life cycle (initiating, planning, executing, monitoring, and closing).  
 
-![role of a project manager in project management](https://lh3.googleusercontent.com/redAlxrpIsWlSplmWne728vh0YLNEkNQgaSMV3L-iT2-oXhxiwSq8M1LAeIw5IODSMP5kMZk6mG8c-7S5JjXnkY8D2-zUi8R2Dee6RNnAYJFRFFVYPSM8hUt-IEAIxciqvl22kUB)
 
 These phases intersect with the knowledge areas and a project manager should be thorough with all of them. Integration, scope, time, cost, quality, human resources, communication, risk procurement, and stakeholder management are the knowledge areas.
 
@@ -88,7 +87,6 @@ Using project management techniques to finish your projects in time comes with i
 
 Here I am mentioning the top 5 benefits of project management.
 
-![benefits of project management](https://lh3.googleusercontent.com/2xeaR3g5Z1gMy5Q5OlocsS2k0mu4PukAjiN8D2sFHumAPdrnwkaCEX-Ct7APN7v2EO4GvlocN2ONVeeo2BXGHgM9cjnWp2LN6N1kHX5gLbA-lgKUd2q6LT-N0207FbR0BIEVuLuc)
 
 ### **1.Realistic project plans**
 
@@ -134,6 +132,6 @@ Good project managers ensure happy, motivated teams who are aware that their wor
 
 ### **What comes next?**
 
-Now we know what is project management and why it is a useful practice. If you would like to build on your knowledge of project management and become an expert at managing projects, you should learn about [project management techniques and methodologies](https://orgzit.com/blog/project-management-methodologies/).
+Now we know what is project management and why it is a useful practice. If you would like to build on your knowledge of project management and become an expert at managing projects, you should learn about [project management techniques and methodologies](/blog/project-management-methodologies/).
 
 Start practicing the things you have learned in your daily life. Stay happy and productive in managing your projects.

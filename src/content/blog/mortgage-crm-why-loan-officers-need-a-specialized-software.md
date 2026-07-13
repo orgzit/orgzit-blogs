@@ -40,7 +40,7 @@ So, let’s look at what’s mortgage CRM Software and what are its benefits. Wh
 
 ## **Orgzit offers the best CRM software for mortgages!**
 
-Mortgage CRM software can be a important tool to help loan officers increase their productivity and eventually grow their business. It’s an investment that pays for itself many numerous times over in the form of [increased revenue](https://orgzit.com/blog/lead-scoring-best-practices-to-improve-revenue-numbers/).
+Mortgage CRM software can be a important tool to help loan officers increase their productivity and eventually grow their business. It’s an investment that pays for itself many numerous times over in the form of [increased revenue](/blog/lead-scoring-best-practices-to-improve-revenue-numbers/).
 
 We recommend considering CRM software, If you are looking to take your business to the coming position. Orgzit offers the stylish CRM software for mortgage professionals. Our software is designed to help you manage your business more efficiently and increase your product.
 

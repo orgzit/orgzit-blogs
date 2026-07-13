@@ -61,7 +61,7 @@ When you are choosing a B2B contact database for your business, it is important 
 
 ### Generate more leads
 
-**More leads means more customers, and more customers means more success.** A business contacts database provides information about potential leads and lets you identify and engage with [promising prospects](https://orgzit.com/blog/sales-prospecting-techniques/). This makes you more approachable for improving the qualification of your leads and increasing the prospect-to-customer rate for your business.
+**More leads means more customers, and more customers means more success.** A business contacts database provides information about potential leads and lets you identify and engage with [promising prospects](/blog/sales-prospecting-techniques/). This makes you more approachable for improving the qualification of your leads and increasing the prospect-to-customer rate for your business.
 
 ### Target your ideal customers more effectively
 
@@ -69,11 +69,11 @@ When you are choosing a B2B contact database for your business, it is important 
 
 ### Improve your sales process
 
-**The more you manage your sales, the more you deal with sales.** Managing accurate and up-to-date contact information can grow your [sales process](https://orgzit.com/blog/b2b-sales-techniques/) and result in manual data entry. This saves time and effort, allowing your sales team to focus on what they do best for their business.
+**The more you manage your sales, the more you deal with sales.** Managing accurate and up-to-date contact information can grow your [sales process](/blog/b2b-sales-techniques/) and result in manual data entry. This saves time and effort, allowing your sales team to focus on what they do best for their business.
 
 ### Increase sales efficiency
 
-**The more you can increase your sales, the more you make success for your business.** A business contacts database helps you prioritize your [leads](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) and your efforts on prospects more likely to convert. This improves the efficiency of your sales team and boosts their productivity.
+**The more you can increase your sales, the more you make success for your business.** A business contacts database helps you prioritize your [leads](/blog/10-ways-to-manage-sales-leads-better/) and your efforts on prospects more likely to convert. This improves the efficiency of your sales team and boosts their productivity.
 
 ## Build stronger customer relationships
 
@@ -120,7 +120,6 @@ These providers offer a variety of features, such as
 -   Advanced search and filtering capabilities
 -   Integrations with CRM and marketing automation platforms
 
-![](https://lh4.googleusercontent.com/R9tssLC_scw57M59MKsCA7KnaXrZRCqC9Ym9B4jCHhSY5g5zT5qWm9kpAuYfzIPlIoxZuGNtvAyrxasv46E4THfu0GK5D1VdqmN5YfWpJtM6fZWt-fgcYwpzubq--aB0GLw2aceezgfXYHWXXeKlDPQ)
 
 Here is a brief overview of each of these providers, along with their pros and cons:
 
@@ -197,8 +196,6 @@ However, some users find the platform to be limited in terms of features.
 **Cons:** Limited features compared to other tools on this list
 
 Overall, [Orgzit](https://orgzit.com/) is the best B2B business contact database for businesses of all sizes because it is affordable, easy to use, customizable, and integrates with various popular CRM and marketing automation platforms.
-
-## ![](https://lh5.googleusercontent.com/pVCNdMIuixvCJhbHr6m0xnw9K-8rEniN4b0-eli6jqeXNa0D4w-JWt7UiOb0XwA9azr61w4yyp4JryQY8hi4mfElmH1DH3SB-u78Z9sro61CDzOGyPlD8_ecgz1OZ5nXTsVVIGVB_ctDOnp49KTQ_2o)
 
 ## Wrapping Up
 

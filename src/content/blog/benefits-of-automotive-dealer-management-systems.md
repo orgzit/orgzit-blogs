@@ -43,7 +43,7 @@ Also, take advantage of the benefits that **dealer management** can bring to you
 
 ![Automotive Dealer Management System](/blog/blog-images/ADMS.jpg)
 
-An automotive dealer management system (DMS) is a software platform designed to help car dealerships manage their business operations more efficiently. It is used for leads, quotes, orders, [deals,](https://orgzit.com/blog/powerful-tips-for-deal-tracking-in-2023/) and other key areas of the dealership.
+An automotive dealer management system (DMS) is a software platform designed to help car dealerships manage their business operations more efficiently. It is used for leads, quotes, orders, [deals,](/blog/powerful-tips-for-deal-tracking-in-2023/) and other key areas of the dealership.
 
 The dealership management system is often integrated with other systems. This provides a comprehensive view of the business and facilitates data-driven decision-making.
 
@@ -53,7 +53,7 @@ Some dealership management systems offer additional features, such as marketing 
 
 ![benefits of automotive DMS systems](/blog/blog-images/DMS.jpg)
 
-Automotive dealer management systems (DMS) are an increasingly popular tool among car dealerships. They offer a range of benefits that can help streamline business operations, [improve sales efficiency](https://orgzit.com/blog/ways-to-improve-sales-efficiency/), and increases profits. Some of the main advantages of implementing an automotive DMS system include the following:
+Automotive dealer management systems (DMS) are an increasingly popular tool among car dealerships. They offer a range of benefits that can help streamline business operations, [improve sales efficiency](/blog/ways-to-improve-sales-efficiency/), and increases profits. Some of the main advantages of implementing an automotive DMS system include the following:
 
 ### 1\. **Improved Inventory Management**
 
@@ -83,7 +83,7 @@ A DMS can manage service appointments more efficiently by providing a centralize
 
 It refers to software and services delivered and accessed over the internet rather than installed. These solutions are often hosted on remote servers or “the cloud.” So, it allows users to access them from any location with an internet connection.
 
-[Cloud-based solutions](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/) can be easily scaled up or down to meet changing business needs. Hence, there’s no need to purchase additional hardware or software licenses. It also offers a convenient and cost-effective way for businesses to access software and services.
+[Cloud-based solutions](/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/) can be easily scaled up or down to meet changing business needs. Hence, there’s no need to purchase additional hardware or software licenses. It also offers a convenient and cost-effective way for businesses to access software and services.
 
 ### 5\. **Flexibility**
 

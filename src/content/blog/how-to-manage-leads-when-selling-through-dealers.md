@@ -30,9 +30,9 @@ This article will give you vital tips to improve **sales lead management when se
 
 ### **Understanding prospects and leads**
 
-Leads are generated in a company based on several ways and a central, shared **lead management system** is essential to react to them. If an organization sells thru dealers, it is also important that the organization get visibility of the leads across the entire sales organization so that sales managers can motivate dealers to follow-up with their local leads and convert to sales. Only then does [sales multiply and the company can achieve the revenue](https://orgzit.com/blog/close-sales-saas-proven-concepts/) targets positively.
+Leads are generated in a company based on several ways and a central, shared **lead management system** is essential to react to them. If an organization sells thru dealers, it is also important that the organization get visibility of the leads across the entire sales organization so that sales managers can motivate dealers to follow-up with their local leads and convert to sales. Only then does [sales multiply and the company can achieve the revenue](/blog/close-sales-saas-proven-concepts/) targets positively.
 
-Firstly, the sales staff and the rest of the company staff should understand that all people that the business contacts are not leads. They may still be managed by a contact management system, but a contact becomes [**lead management**](https://orgzit.com/blog/what-is-lead-management/) when the salespeople identify some attribute that tells them that this contact can potentially become a customer. From that point on, the company must contact, track and review all such contacts as they attempt to convert them into becoming a “buyer”.
+Firstly, the sales staff and the rest of the company staff should understand that all people that the business contacts are not leads. They may still be managed by a contact management system, but a contact becomes [**lead management**](/blog/what-is-lead-management/) when the salespeople identify some attribute that tells them that this contact can potentially become a customer. From that point on, the company must contact, track and review all such contacts as they attempt to convert them into becoming a “buyer”.
 
 ### **Nurturing your leads**
 
@@ -44,7 +44,7 @@ This entire series of steps is called “nurturing a lead”. You may reach out 
 
 ### **Selling through dealers**
 
-When you sell through a partner network (dealers and distributors) the need to manage ALL the leads in the entire [dealer network](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) is even more critical. Since the parent company doesn’t directly contact most of the customers, it’s critical to get some visibility into the deal nurturing being done by the dealers, both to get some estimate of sales and to maintain the [brand equity](https://www.latana.com/post/building-measuring-brand-equity-value?ref=quuu)/customer experience standards.
+When you sell through a partner network (dealers and distributors) the need to manage ALL the leads in the entire [dealer network](/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) is even more critical. Since the parent company doesn’t directly contact most of the customers, it’s critical to get some visibility into the deal nurturing being done by the dealers, both to get some estimate of sales and to maintain the [brand equity](https://www.latana.com/post/building-measuring-brand-equity-value?ref=quuu)/customer experience standards.
 
 ![replacing-lead-management-in excel](/blog/blog-images/business-coffee-computer-1080849-1024x714.jpg)
 
@@ -58,7 +58,7 @@ Cloud-based Lead Management / Customer Relations Management (CRM) system are won
 
 Since all your supervisor’s salesperson and all dealers and their staff use the same system, everyone can have visibility of the entire sales pipeline depending on what they need to know. Dealers can manage their own sales forecasts, supervisors can track their cohort of dealers and management can get visibility on weekly/ monthly/ annual revenues.
 
-Orgzit lead Management is one of the widely used cloud software for lead management by [small and medium manufacturer’s who sell thru dealers](https://orgzit.com/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/). One of their customers has in fact created a specific case study and claims to have improved both referral rates and productivity significantly.
+Orgzit lead Management is one of the widely used cloud software for lead management by [small and medium manufacturer’s who sell thru dealers](/blog/how-bichhonna-a-leading-mattress-brand-30-years-in-making-reimagined-the-potential-of-their-business-with-orgzit/). One of their customers has in fact created a specific case study and claims to have improved both referral rates and productivity significantly.
 
 Salesforce, Zoho, SugarCRM are some other lead management / CRM solutions available on the market today.
 

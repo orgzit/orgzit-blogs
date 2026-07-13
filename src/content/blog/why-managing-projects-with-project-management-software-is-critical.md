@@ -26,7 +26,7 @@ featured: false
 
 Despite all the research, accrued knowledge, and established standard practices, projects are prone to leakages, budget overruns, and delays.
 
-[Some projects never meet expectations](https://orgzit.com/blog/project-management-mistakes-that-can-harm-your-business/), some deviate from the plan, and a few even end up as absolute failures. Delivering successful projects requires a lot of innovation, focus, motivation, and technical expertise.
+[Some projects never meet expectations](/blog/project-management-mistakes-that-can-harm-your-business/), some deviate from the plan, and a few even end up as absolute failures. Delivering successful projects requires a lot of innovation, focus, motivation, and technical expertise.
 
 As more and more businesses face the realities of soaring workloads, shrinking resources, highly constrained budgets, and lack of skilled workforce, it becomes critical to imbibe technological innovations and automated workflows in your project management process.
 
@@ -44,7 +44,7 @@ Project management tools are lifelines of industry 4.0 project managers. From as
 
 Considering the complexities of modern projects and other constraints such as budget, time, employee availability, etc., it is critical for project managers to utilize project management software solutions to achieve their business goals without fail.
 
-[PM tools](https://orgzit.com/blog/features-of-project-management-software/) take care of financial, technical, managerial, and procedural aspects of the projects and leave no room for inadequacy or haphazardness in project management.
+[PM tools](/blog/features-of-project-management-software/) take care of financial, technical, managerial, and procedural aspects of the projects and leave no room for inadequacy or haphazardness in project management.
 
 Below are some areas where project management software systems make the life of project managers easy:
 

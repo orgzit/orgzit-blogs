@@ -31,7 +31,7 @@ Below are seven tips to improve your efficiency as you work from home. Keep in m
 
 ## Create an Effective Workflow
 
-Some people dive into their desks without planning. As a result, they get overwhelmed and end up completing nothing. One way to [increase productivity](https://orgzit.com/blog/how-to-boost-team-productivity/) is to make an effective workflow. Determining your priorities before you begin your day and set time for it is a good start. Note also what work you will squeeze in for the extra time.
+Some people dive into their desks without planning. As a result, they get overwhelmed and end up completing nothing. One way to [increase productivity](/blog/how-to-boost-team-productivity/) is to make an effective workflow. Determining your priorities before you begin your day and set time for it is a good start. Note also what work you will squeeze in for the extra time.
 
 We suggest you create the workflow before you sleep. So, you will have a smooth day ahead. Focus on the most challenging task first. During this time, your energy is still up. Make sure to include breaks and time to relax on your schedule.
 
@@ -55,7 +55,7 @@ These disturbances are sometimes unavoidable, but it is best to silence your pho
 
 Remote working has been made easy because of the technology. Monitoring time can be done effectively by downloading helpful software like the [GitHub time tracking app](https://timenotes.io/github-time-tracking). If you are working on a sales team and need regular meetings, you can look for a reliable app.
 
-You also need a reliable app that can handle the team’s data using an [excel spreadsheet](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/) or other platforms. Make sure you will not miss any deadline using the best but affordable managing system. Managing a sales team is easy with the help of the right software.
+You also need a reliable app that can handle the team’s data using an [excel spreadsheet](/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/) or other platforms. Make sure you will not miss any deadline using the best but affordable managing system. Managing a sales team is easy with the help of the right software.
 
 ## Put a Barrier Between Work and Personal Time
 

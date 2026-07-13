@@ -34,7 +34,7 @@ featured: false
 
 If you’re selling products or services, you know how important it is to manage and track your quotes. That’s where the sales quoting system comes in. This type of software streamlines and automates the quote process for the sales team quickly. It accurately generates quotes for customers with quote management.
 
-With quote management software, you’ll be able to save time, reduce the risk of errors, and gain a better understanding of your sales pipeline. Quote management software’s benefits make it an essential tool for any sales team. So, teams looking to improve efficiency and [close more deals](https://orgzit.com/blog/top-sales-closing-techniques/) need a quote management system
+With quote management software, you’ll be able to save time, reduce the risk of errors, and gain a better understanding of your sales pipeline. Quote management software’s benefits make it an essential tool for any sales team. So, teams looking to improve efficiency and [close more deals](/blog/top-sales-closing-techniques/) need a quote management system
 
 ## What is Quote Management?
 

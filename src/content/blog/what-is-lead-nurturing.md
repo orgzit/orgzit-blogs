@@ -35,11 +35,10 @@ This is one of the most essential steps in the sales process.
 
 The relationships you build through nurturing can make closing the deal much easier.
 
-This article will tell you all about **_lead nurturing_**, which is an important concept or element of your [lead management system](https://orgzit.com/blog/what-is-lead-management/).
+This article will tell you all about **_lead nurturing_**, which is an important concept or element of your [lead management system](/blog/what-is-lead-management/).
 
 ## **What is lead nurturing?**
 
-![ what is lead nurturing?](https://lh4.googleusercontent.com/DDFdVu1MKQZXRXlpuJRN1StAoccndpr4ezBQ5PG474UjHQzh_Eb_oe0xHok9crUSWXg6uKMkGA7nY-gcd0ia2LhsjX5OaegQgITocDMksafLflX3znbIo8rMhvTSZTCBHi9Xz813)
 
 When a random person visits your website and shares enough information about themselves which can make them a qualified lead, it is because they are interested in your brand’s product or brand.
 
@@ -65,7 +64,6 @@ Stay in touch and learn more about them while telling them more about the compan
 
 #### **7 tactics to nurture leads effectively**
 
-![7 different and effective tactics for lead nurturing](https://lh3.googleusercontent.com/9qtuThtsey6skVaoLLnJNzUzUhEGB7diCJgg2OYKCnVUBykTBMdX8qJAY3rvbHrXeE2OYSXP2DM4bll6ZJhlSPrsxvQIEs9yQmQktIR5QjkxUDAVdv1RyYT7EqQ0BDFZaOwBzOKn)
 
 #### 1\. **Leverage targeted content**
 
@@ -157,8 +155,6 @@ _Sources used: Demand gen report, Gartner research & Marketing Sherpa_
 
 ## **What does lead nurturing actually do?**
 
-![what does lead nurturing include?
-](https://lh4.googleusercontent.com/Lt9rVcxp5lrcub8Ov2w-Cp7xlnjPR4JfHyqO0m-BVZHVtkUiGRCJf0_rP_wNS8XDsemGtAUBrr9P1NzZl10Z0Vf-loWqp_-ndoFp9PgiRJuanR3tuXrVu9xaHoOYK0MHwiVSem7d)
 
 The process of **_Lead nurturing_** allows marketing agents to build the relationships that their prospects and customers actually want. When an individual visits websites and shares their information with you, they are deliberately choosing to become a lead.
 
@@ -188,7 +184,6 @@ If you become successful in building trusted relationships with your audiences, 
 
 ## **Lead nurturing for account-based marketing (ABM)**
 
-![Account-based marketing](https://lh5.googleusercontent.com/cWHBc1H8P3gGNCp7hRX1GzGhNYjKcPetx7maY4jmaxaL7kcOeJ-lxx3O4IYfJF4XhYPDYzL_5QdhzOtTZAeOZpspEb8emK3ZtTxrrjHyLWMbuoKxswxsWA-b85AQHyeHV_VDb8uI)
 
 ## **What is ABM?**
 
@@ -214,7 +209,6 @@ It attracts higher engagement with high-quality targeting throughout the entire 
 
 ## **How to get started with your lead nurturing strategy?**
 
-![ The best strategy for lead nurturing](https://lh3.googleusercontent.com/GGA1IQetp4ST8MUkvf5mEFrRmh5u4yjMccPq0X4CIQFylEg3_NmvYxqugMSOFr5Lurm9kxCy_byjdMHRX9RD2nNjStv82OUg1ZdPYkjFPyFLsz_vPE1lMspo1N0feoKxBCROLw24)
 
 Your **_lead nurturing_** strategy should get a kick start with the existing customers as they were once “leads” too.
 

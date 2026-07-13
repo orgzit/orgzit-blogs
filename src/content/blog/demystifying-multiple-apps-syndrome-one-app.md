@@ -41,7 +41,7 @@ Now that you have a brief history as to how we graduated from _CDs to PCs to sma
 
 From fitness apps to gaming apps to social media apps, they have become an integral part of our personal lives. Moreover, our work life is teeming with more application than ever. But all these apps have the same purpose – **to organize our lives**. Or do they?
 
-**Recommended Read**: “[Cloud ERP v/s On-Premise ERP](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/)”
+**Recommended Read**: “[Cloud ERP v/s On-Premise ERP](/blog/cloud-erp-vs-on-premise-erp-who-wins/)”
 
 # The Other Side
 
@@ -81,7 +81,7 @@ On a more interesting note, nearly half of them said that they used apps that we
 
 On a report closing note, you’ll find that nearly 40% of the respondents said that it took them more than 5 minutes to locate a project they had previously worked upon that as it was buried deep in time. While another 14% said it took much longer than that. One can easily say that it is not a hidden fact that due to the temporary use of so many apps (and not full-scale), the productivity of the team takes a hit.
 
-**Related**: “[Orgzit features that triple team productivity](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)”
+**Related**: “[Orgzit features that triple team productivity](/blog/orgzit-features-triple-team-productivity/)”
 
 Having read the above report, I believe the results sound credible and prove that multiple apps are indeed the reason for declining productivity standards of agile workplaces.
 
@@ -95,7 +95,7 @@ Well, App Fatigue can be debilitating when it comes to all the statistics that I
 
 **Secure:** Not only should the app be able to help you get the job done you have been assigned but it should be secure and reliable enough that it doesn’t put your data at risk. Data security trumps data entry – all the way!
 
-**Recommended Read**: “[Introducing Orgzit Granular Access Control Features](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/)”
+**Recommended Read**: “[Introducing Orgzit Granular Access Control Features](/blog/introducing-orgzit-granular-access-control-extra-power-to-you/)”
 
 **Scalable**: The app should be able to scale with the growing size of your organization. It should be flexible enough to encompass all your current requirements while at the same time leave considerable scope for upgradations in the future.
 

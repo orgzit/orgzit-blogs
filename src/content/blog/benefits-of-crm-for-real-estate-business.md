@@ -43,9 +43,9 @@ Real Estate CRM systems allow professionals to store and access important inform
 
 ### 1\. **Easily prioritize and nurture your leads**
 
-By using CRM software to manage leads effectively, real estate professionals can increase their chances of [closing more deals](https://orgzit.com/blog/top-sales-closing-techniques/). Use your Real Estate CRM systems to organize important data about each lead. It may include property preferences, budget, and any notes.
+By using CRM software to manage leads effectively, real estate professionals can increase their chances of [closing more deals](/blog/top-sales-closing-techniques/). Use your Real Estate CRM systems to organize important data about each lead. It may include property preferences, budget, and any notes.
 
-Your Real Estate CRM software should have analytics and reporting features that allow you to [track the progress of your leads](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/). It will help you understand which lead-generation strategies are most effective and where you may need to improve.
+Your Real Estate CRM software should have analytics and reporting features that allow you to [track the progress of your leads](/blog/track-your-customers-with-the-help-of-crm/). It will help you understand which lead-generation strategies are most effective and where you may need to improve.
 
 ### 2\. **Keep your information up-to-date and accurate**
 
@@ -61,7 +61,7 @@ Using a Real Estate CRM to manage drip campaigns lets you stay top of mind with 
 
 ### 4\. **Leveraging automation to ensure timely follow-up with leads**
 
-One of the key [benefits of a Real Estate CRM](https://orgzit.com/blog/workflow-automation-benefits-for-business/) is the ability to schedule and automate follow-up tasks. For example, let’s say you have a leader who expressed interest in a property but has been waiting to hear from them for a while.
+One of the key [benefits of a Real Estate CRM](/blog/workflow-automation-benefits-for-business/) is the ability to schedule and automate follow-up tasks. For example, let’s say you have a leader who expressed interest in a property but has been waiting to hear from them for a while.
 
 With a CRM, you can set up a reminder to follow up with that lead in a week or two. It ensures you take advantage of the opportunity to convert them into clients. Another way **Real Estate CRMs** improve follow-ups is by providing a centralized location for all lead information.
 
@@ -79,7 +79,7 @@ Are you tired of spending hours trying to close deals only to come up empty-hand
 
 ### 7\. **Keep track of all work activities**
 
-CRM is a fantastic tool for tracking the entire [workflow](https://orgzit.com/blog/essential-workflow-system-features/) of a business, from start to finish. It can be particularly useful for identifying bottlenecks or areas where processes might be improved upon.
+CRM is a fantastic tool for tracking the entire [workflow](/blog/essential-workflow-system-features/) of a business, from start to finish. It can be particularly useful for identifying bottlenecks or areas where processes might be improved upon.
 
 Additionally, seeing a complete record of past interactions and customer history can help inform future decisions and strategies. In short, Real Estate CRM helps businesses get the “big picture” by providing a comprehensive overview of all ongoing work.
 

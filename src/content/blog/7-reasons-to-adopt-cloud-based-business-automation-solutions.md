@@ -30,7 +30,7 @@ Your organization might already be using some level of business process automati
 
 ## What are cloud-based business automation solutions?
 
-**Cloud-based business process automation** (BPA) tools are web-based software that can be accessed via any browser. They typically employ a [SaaS](https://orgzit.com/blog/key-saas-website-product-metrics-track-mixpanel/) (Software-as-a-Service) operational model which comes without significant upfront investment in license fees or hardware costs. With a cloud delivery model, you pay only for the users that actually use the system and avoid blocking significant capital. 
+**Cloud-based business process automation** (BPA) tools are web-based software that can be accessed via any browser. They typically employ a [SaaS](/blog/key-saas-website-product-metrics-track-mixpanel/) (Software-as-a-Service) operational model which comes without significant upfront investment in license fees or hardware costs. With a cloud delivery model, you pay only for the users that actually use the system and avoid blocking significant capital. 
 
 Depending on the nature of the business and the corresponding requirements, some customization might be required. This can be done with popular industry tools such as Microsoft Dynamics or Salesforce, but smaller and relatively newer BPAs in the market might not offer self-customization.
 
@@ -42,7 +42,7 @@ Here are 7 of the most common reasons to adopt cloud-based business automation s
 
 ### **1\. Reduce human error**
 
-Humans have a tendency for making a lot of manual errors. From making an arithmetic mistake in calculations to forgetting about entire tasks, or miscategorizing documents and making it very difficult to find them again, there is a lot that can go wrong in a workplace that depends on manual work. A [business workflow](https://orgzit.com/blog/is-the-lack-of-these-9-workflow-management-features-impacting-your-business-growth-2/) automation tool will fix many of these issues.
+Humans have a tendency for making a lot of manual errors. From making an arithmetic mistake in calculations to forgetting about entire tasks, or miscategorizing documents and making it very difficult to find them again, there is a lot that can go wrong in a workplace that depends on manual work. A [business workflow](/blog/essential-workflow-system-features/) automation tool will fix many of these issues.
 
 A major concern almost every organization has is the presence of cracks within its workflows. The cracks could be in the form of a lazy salesperson not following up with customers on time, or even a manager miscalculating conversion rates and over-paying commissions to the sales team. There can be cracks within a business workflow, deliberate or otherwise, and which can cost the business useful resources.
 
@@ -52,7 +52,7 @@ While any BPA tool would be able to reduce errors, a cloud-based business workfl
 
 ### **2\. Enhance team productivity**
 
-Cloud-based automation tools typically come with [productivity](https://orgzit.com/blog/5-notorious-productivity-killers-overcome/) tools for task management, time management, communication, collaboration and so on. These tools can be utilized by teams to work more productively by actively monitoring tasks assigned to them, reacting to latest notifications, and proactively managing their time towards better utilization.
+Cloud-based automation tools typically come with [productivity](/blog/5-notorious-productivity-killers-overcome/) tools for task management, time management, communication, collaboration and so on. These tools can be utilized by teams to work more productively by actively monitoring tasks assigned to them, reacting to latest notifications, and proactively managing their time towards better utilization.
 
 ![Cloud-Based Automation Tools For Team Productivity](/blog/blog-images/increased-productivity.jpg)
 

@@ -90,7 +90,7 @@ Buy in these ground rules and take the opinions of the participants before final
 
 ### **Are the Meetings consuming longer than they should?**
 
-![](https://lh5.googleusercontent.com/4Ly7KFTWTMvOXGDCWX1tZul9NPpoLZJTEBPbMshqVGrNOqmbbWv4L39yysjq0G4OPP5kk14GZYiX3BBfCGWIhoXhErMOnsZMAOKkQvy3zfLw6g674vuQDEe7QhgDYRGx3u5u6Ftc)
+![](/blog/blog-images/gdoc-QhgDYRGx3u5u6Ftc.jpg)
 
 Longer meetings tend to inspire boredom. Participants usually lose their focus after an hour. Hence, shorten these meetings to encourage productivity. Don’t conduct meetings that require the work update. Focus on meetings with more precise goals and convey the desired outcomes. 
 
@@ -104,7 +104,7 @@ Once you’ve figured out the issues, craft new strategies, and implement them r
 
 ### **Are there too many cooks on the table?**
 
-![](https://lh4.googleusercontent.com/V99hpBqyPYcFdansKlatPNY7W_AAx1SP-bC8wuxqQPixOio4D5jhQuYjViEKMa_tGdmB26bdUnXdnWGdrGXaH2Yqs3GNeLA8o-vVKwao2XA40u7cbV-TZ-QL7CZZ50TRO14lSLmd)
+![](/blog/blog-images/gdoc-7CZZ50TRO14lSLmd.jpg)
 
 While meetings are considered a vital element, regularly finding the alternatives of these calls and gatherings is the right approach.
 
@@ -112,7 +112,7 @@ As per studies, meetings are most productive when they include only five people.
 
 ### **Give an option to “Opt-Out”**
 
-![](https://lh6.googleusercontent.com/zQgu6cJ15y-p-3rWW6LRSOvyliXx5F9qglMs8sW-M4VoguWU8kFpWmif2avCxc4x_FiQs40H58VCwNUgVrfLYeoczI_AJbFo5iTjBIge2jRcL0-3AXgO5Wqc7lfPzjXmE8BFg9CE)
+![](/blog/blog-images/gdoc-7lfPzjXmE8BFg9CE.jpg)
 
 As per surveys, most of the employees spend only three days work per week. Unnecessary meetings are nothing but a time waste, hence if an employee wishes to opt-out, then let them. Place trust in your team; give them the freedom to decide which meetings they want to attend, and which ones they don’t want. When you schedule a meeting and want the whole team to attend, please give them a heads up that the scheduled meet isn’t discretionary. 
 
@@ -138,7 +138,7 @@ Technology has simplified everything- and there are fully-fledged tools for stre
 
 [Orgzit](https://orgzit.com/), a robust and feature-rich solution can assist your organization in making the most out of the meetings and increasing productivity.  
 
-**Also Read-** [**Orgzit Features that Triple the Team Productivity**](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)
+**Also Read-** [**Orgzit Features that Triple the Team Productivity**](/blog/orgzit-features-triple-team-productivity/)
 
 ### So, how does it work exactly?
 

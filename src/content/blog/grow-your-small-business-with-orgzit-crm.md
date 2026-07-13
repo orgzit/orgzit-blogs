@@ -31,7 +31,7 @@ Many small businesses need to realize the potential of a Customer Relationship M
 
 For example, detailed customer profiles allow you to customize marketing messages and recommendations, making them more likely to buy from you. 
 
-Other useful CRM software benefits include cost savings from automation, streamlined coordination between departments, and better forecasting of a business’s performance. [A CRM tool](https://orgzit.com/blog/crm-best-practices-to-follow-in-2023/) can also help create a more focused strategy for marketing campaigns and follow-up efforts, helping raise ROI significantly.
+Other useful CRM software benefits include cost savings from automation, streamlined coordination between departments, and better forecasting of a business’s performance. [A CRM tool](/blog/crm-best-practices-to-follow-in-2023/) can also help create a more focused strategy for marketing campaigns and follow-up efforts, helping raise ROI significantly.
 
 With all these advantages, it’s easy to see why almost every successful small business uses some type of CRM solution. It is one of the best steps you can take toward achieving growth.
 
@@ -41,7 +41,7 @@ With effective and easy-to-use CRM software like Orgzit, you’ll have all the t
 
 ![What is CRM](/blog/blog-images/What-is-CRM-1024x576.jpg)
 
-[Customer Relationship Management (CRM)](https://orgzit.com/blog/top-7-crm-reports-for-small-business/) is an essential tool for businesses of every size, from small startups to multi-national corporations. CRM software is **more than a contact list**; it allows businesses to track customer details, account histories, and sales opportunities while supporting customers in a single centralized location.
+[Customer Relationship Management (CRM)](/blog/top-7-crm-reports-for-small-business/) is an essential tool for businesses of every size, from small startups to multi-national corporations. CRM software is **more than a contact list**; it allows businesses to track customer details, account histories, and sales opportunities while supporting customers in a single centralized location.
 
 With CRM systems at the core of any business structure, organizations can save time and money across multiple departments and ensure a consistent service experience throughout multiple touchpoints.
 

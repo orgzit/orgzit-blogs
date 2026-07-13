@@ -62,7 +62,7 @@ Send over any beginner guides for brand new users. Assume they’ve never seen y
 
 Follow-up with your customer for the entire duration of the onboarding period. Think of onboarding as a two to three-week timeframe rather than less than a week. Follow-up constantly, making sure they feel like their questions are addressed and that you care about their experience.
 
-**Related** – [3 Major Reasons Why Your Indian SaaS Strategy Is Failing](https://orgzit.com/blog/3-major-reasons-indian-saas-strategy-failing/)
+**Related** – [3 Major Reasons Why Your Indian SaaS Strategy Is Failing](/blog/3-major-reasons-indian-saas-strategy-failing/)
 
 # Constantly Create Content Which Empowers
 
@@ -70,7 +70,7 @@ If you consider [SEMrush](https://www.semrush.com/), one of the largest and well
 
 This [blog](https://www.semrush.com/blog/) for SEMrush does two things; it creates a massive flow of inbound traffic from organic search and social media, but it also serves as a helpful tool for their own customers. And this is also an approach any up and coming SaaS startup may want to be trying as well.
 
-Related – [There Is Insanity In Creating A Sane Product Video](https://orgzit.com/blog/how-to-create-a-great-product-video/)
+Related – [There Is Insanity In Creating A Sane Product Video](/blog/how-to-create-a-great-product-video/)
 
 # Be Mindful of Your Trial Periods
 

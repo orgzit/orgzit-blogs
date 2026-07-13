@@ -29,13 +29,6 @@ Virtual teams can prove to be a great revenue, but effectively managing remote t
 
 In this blog post, I will guide you about some hacks that you can use to handle your remote team effectively and can have an increase in your productivity.
 
--   [Project Management Tools/Software](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#Project_Management_ToolsSoftware "Project Management Tools/Software")
-    -   [1\. Slack – Real-time collaboration tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#1_Slack_%E2%80%93_Real-time_collaboration_tool "1. Slack – Real-time collaboration tool")
-    -   [2\. Orgzit – workflow & tasks management tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#2_Orgzit_%E2%80%93_workflow_tasks_management_tool "2. Orgzit – workflow & tasks management tool")
-    -   [3\. Google Drive – Document Sharing & Management Tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#3_Google_Drive_%E2%80%93_Document_Sharing_Management_Tool "3. Google Drive – Document Sharing & Management Tool")
-    -   [4\. Dropbox](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#4_Dropbox "4. Dropbox")
-    -   [5\. Zoom – Video Conferencing Tool](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#5_Zoom_%E2%80%93_Video_Conferencing_Tool "5. Zoom – Video Conferencing Tool")
--   [Conclusion](https://orgzit.com/blog/hacks-for-managing-a-remote-team/#Conclusion "Conclusion")
 
 ### **1\. Schedule time to meet face-to-face**
 
@@ -155,7 +148,7 @@ Google Drive is a software that is designed to store files on their servers, syn
 
 ### **4\. Dropbox**
 
-Dropbox is an online cloud-based [collaboration technology](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/) and a tool that offers cloud storage, file synchronization, and many other collaborative features.
+Dropbox is an online cloud-based [collaboration technology](/blog/collaboration-technologies-for-productive-teams/) and a tool that offers cloud storage, file synchronization, and many other collaborative features.
 
 ### **5\. Zoom – Video Conferencing Tool**
 

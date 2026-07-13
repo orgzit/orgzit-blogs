@@ -30,7 +30,7 @@ Is your **_Lead Management Process_** in place and is concrete? Or you still old
 
 And how do profits come in? Through leads! And how do you convert leads into customers successfully, through **_lead management_**, right?  
 
-**_Lead generation_** can be done in many ways but after that the most important ingredient in the recipe for making profits is **_[lead management](https://orgzit.com/blog/what-is-lead-management/)_**.  
+**_Lead generation_** can be done in many ways but after that the most important ingredient in the recipe for making profits is **_[lead management](/blog/what-is-lead-management/)_**.  
 
 In this article, I will be telling you 10 ways to better manage **_sales leads_**. But, first let us have a short glimpse of what exactly are sales leads?
 
@@ -64,7 +64,6 @@ To be effective in selling and earning profits, the sales department and the res
 
 ### 2\. **Install a CRM tool**.
 
-![sales Customer relationship management system explained](https://lh5.googleusercontent.com/24VYu2p74pctFE4fnIB-wjpDXkQt1-vPI8sy-nB_EzanX7Fbk_RdEfqfAup3cxZfurOeuK-_isqBUD8Uycets0Rn4zvTRS3lgmf_mMjz9-kx2XCZcKCNfIS1w1aTrY-ZEebPV0km)
 
 Now that your whole organization has a concrete definition for what are leads for your company, you need to have a **_CRM_** **tool** **_(customer relationship management)_** to manage leads that will not require the use of manual systems like emails, spreadsheets or excel.  
 
@@ -90,8 +89,6 @@ Powerful reporting in most CRM’s shows you where your best leads are coming fr
 
 ### **3\. Track the source of incoming leads.**
 
-![do not ever settle for one lead source
-](https://lh6.googleusercontent.com/tgp6MU_9y7TXONEvJ496OMGSXzN8rqtSWAv6M7zugRpdgaFwVlyoFwCp-hK1iafcAWUE6_XLU8XqOooVjIlh0qrgN6hzc3BJ42DkEBfo95AuMnQqM1Nxv8v1cvcPqdcVtDf2Qq3Q)
 
 There are many sources through which people get to know about your services and products, for example advertisements, websites, referrals, or maybe social media.  
 
@@ -113,8 +110,6 @@ Determining which salesperson should be given which lead could be tough but if y
 
 Online sales lead go cold faster than you think.  
 
-![timely distribution of leads to salesperson
-](https://lh4.googleusercontent.com/prg4KNWAMaMJ5xalZNhBBOKK15bto6PM3XkNyr0plgDXDsK8kD23XNcAiMkKGVjvo__ZJzKKXDZOAWdd2qkFd0FsA8gEBrcWKe6Wg9cU9qNQ5ZqCTt_4JpktHX6Wa1f33FUP7TW6)
 
 Studies show that salespeople need to respond to leads within 48 hours of a prospect providing a means for contact for more chances of sealing the deal.
 
@@ -124,7 +119,6 @@ So, for your leads to be interested in your product, your lead distribution shou
 
 ### **5\. Nurture your leads properly.**
 
-![salesperson nurturing leads to grow business”](https://lh5.googleusercontent.com/xbBRL8oaxtKD7LrS_UyxEha2jFUnggcxxSdaWgql6WXGv6CmAgfXjYBLxqG6PHYacPH77Krw1inuIZyHviKfnaZhpKNP9hiFP6lEO80cSqKStSJ0czKpMMfkk-ZSE7XmO-GIpvbD)
 
 Sales and marketing are like Tom and Jerry, they live together but do not always get along well.  
 
@@ -134,7 +128,7 @@ There can be two reasons for the conflict: leads are not enough or leads are nor
 
 The solution to this is the lead nurturing process that does its job well.
 
-Developing prospects into **_sales-ready leads_** is a big challenge for many organizations and **_[lead nurturing](https://orgzit.com/blog/what-is-lead-nurturing/)_** is key.
+Developing prospects into **_sales-ready leads_** is a big challenge for many organizations and **_[lead nurturing](/blog/what-is-lead-nurturing/)_** is key.
 
 Depending on the products and services you offer, most people are probably not ready to buy based on their first interaction with you. Best practices call for nurturing your leads over time.  
 

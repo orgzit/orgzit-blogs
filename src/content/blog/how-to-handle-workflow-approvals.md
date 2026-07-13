@@ -85,7 +85,7 @@ Some of the benefits of a Workflow Approval process in place are:
 
 A workflow approval ensures that managers and the other members of the team know the progress of the team as they need to review different stages of the process to proceed further.
 
-Transparency can play a major role to [boost team productivity](https://orgzit.com/blog/how-to-boost-team-productivity/) as everyone knows where they stand in the pipeline.
+Transparency can play a major role to [boost team productivity](/blog/how-to-boost-team-productivity/) as everyone knows where they stand in the pipeline.
 
 ### **2\. It helps in enforcing accountability**
 

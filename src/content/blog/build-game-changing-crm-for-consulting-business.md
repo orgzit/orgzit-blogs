@@ -112,7 +112,7 @@ CRM systems can also generate a variety of reports that can provide businesses w
 To Analyze specific business challenges like customers’ needs, modification in projects as per their preferences, sales and marketing terms, project and knowledge management, and for that it is very important to make a list of them. You need to do some steps for your consulting business success, like–
 
 -   Research, [read reviews](https://www.g2.com/products/orgzit-orgzit/reviews), and compare different CRMs to find the best fit for your business.
--   Once you [narrow down](https://orgzit.com/blog/all-about-crms-types-offerings-benefits-and-comparison-how-to-choose-the-best/) your choice of CRM you can ask for a trial and see if it is a good fit in real.
+-   Once you narrow down your choice of CRM you can ask for a trial and see if it is a good fit in real.
 -   Once you’ve made your choice, make sure your team clearly understands the benefits of the CRM and is excited to use it.
 -   Before implementing, make sure your CRM is populated with accurate and up-to-date data. This will ensure smooth and effective utilization.
 -   Lastly, invest time to train your team to use the CRM efficiently, maximizing its potential for your consulting business.
@@ -149,7 +149,6 @@ The same applies to CRM. It’s not going to increase your sales or grow your bu
 
 Just like a gym membership, CRM is an investment for your business, which will pay off in the journey toward accomplishing your business goals.
 
-![](https://lh4.googleusercontent.com/qh_DWWH62Gv1zRKzKaMuLQ6atYRqCI4Knga1RLi-wXsc_JEsgxGh5tK9xwGpMgj8qhXitoe0KfrRHCeja1tQLTrvIWetnsJ65_hS8v-bC9kY0T1y7cROPnQS_6QmMpV0kCMNn9fZjWbVdz0J4RYvZVQ)
 
 **Pro tip💡:-** _🔷Start small. Don’t try to automate everything at once. Focus on automating a few key tasks, such as sending follow-up emails and scheduling meetings. Once you’ve mastered those, you can gradually automate more tasks._
 

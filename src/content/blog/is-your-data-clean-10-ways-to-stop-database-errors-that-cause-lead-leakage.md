@@ -257,7 +257,7 @@ This helps maintain the integrity and confidentiality of customer data, even in 
 
 **Steps to Regularly Backup Your Database:**
 
--   Select the right backup solution for your database system and organization, such as [cloud-based or on-premises services.](https://orgzit.com/blog/cloud-based-vs-on-premise-manufacturer-rep-software-which-is-right-for-your-business/) 
+-   Select the right backup solution for your database system and organization, such as [cloud-based or on-premises services.](/blog/cloud-based-vs-on-premise-manufacturer-rep-software-which-is-right-for-your-business/) 
 
 -   Schedule regular backups based on your company’s operations and data update frequency.
 

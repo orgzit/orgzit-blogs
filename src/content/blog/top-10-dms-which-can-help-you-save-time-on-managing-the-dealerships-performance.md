@@ -31,7 +31,7 @@ featured: false
 
 A Dealership Management System allows a dealership to conduct all of the day-to-day duties that their dealership encounters, such as sales operations, financing operations, service operations, and more. It is crucial that all of a dealership’s functions work together.
 
-A [DMS](https://orgzit.com/blog/dealer-management-system-key-to-build-a-trust-in-used-car-sales/) allows dealers to improve every aspect of their business by putting all of the tools they require on a single platform. With all of your dealership’s daily transactions in one place, you can run your business more efficiently. To manage your inventory, create point-of-sale invoices, view service history, or follow up on leads, you no longer need to log in to separate systems.
+A [DMS](/blog/benefits-of-automotive-dealer-management-systems/) allows dealers to improve every aspect of their business by putting all of the tools they require on a single platform. With all of your dealership’s daily transactions in one place, you can run your business more efficiently. To manage your inventory, create point-of-sale invoices, view service history, or follow up on leads, you no longer need to log in to separate systems.
 
 DMS offers options to help dealerships with service and parts divisions manage service appointments, component inventories, and work orders. From scheduling to billing, it helps keep track of the complete service process.
 

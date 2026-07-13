@@ -68,7 +68,7 @@ Project managers are the crucial faces behind bringing about these transformatio
 
 Yes, Digital Transformation has definitely disrupted Project Management but for the better!
 
-It has been a rough journey as for no company is it easy to adapt to changes but it has shown results that it empowers [project management](https://orgzit.com/blog/what-is-project-management/) to handle teams better, deliver more efficient projects and ultimately meet your client’s needs.
+It has been a rough journey as for no company is it easy to adapt to changes but it has shown results that it empowers [project management](/blog/what-is-project-management/) to handle teams better, deliver more efficient projects and ultimately meet your client’s needs.
 
 Let’s get scrolling on how exactly Digital Transformation has changed Project Management!
 

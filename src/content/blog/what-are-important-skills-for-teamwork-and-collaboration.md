@@ -47,7 +47,7 @@ What are some of the reasons for team collaboration breakdowns?
 
 Despite proper instructions, often times companies are unable to reach their maximum potential because of workplace collaboration breakdowns.
 
-There are often [challenges of cross functional collaboration](https://orgzit.com/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/) which are overlooked because it seems like a minor issue but it lowers the value of the complete collaborative work.
+There are often [challenges of cross functional collaboration](/blog/challenges-of-cross-functional-collaboration-and-practical-solutions/) which are overlooked because it seems like a minor issue but it lowers the value of the complete collaborative work.
 
 Some of the reasons why workforce collaboration does not end in the best results is due to the following reasons:
 
@@ -151,7 +151,7 @@ Trello uses different approaches such as Kanban, which ultimately helps categori
 
 How to find the tool that maximizes your teamwork and collaboration output?
 
-It is not an easy task to choose the [best project management Applications](https://orgzit.com/blog/best-project-management-applications/) or tools that helps you improve your teamwork. There are steps to go about choosing just the right one for you. Listed below are the steps that you need to take to ensure that the one you choose fits your needs:
+It is not an easy task to choose the [best project management Applications](/blog/best-project-management-applications/) or tools that helps you improve your teamwork. There are steps to go about choosing just the right one for you. Listed below are the steps that you need to take to ensure that the one you choose fits your needs:
 
 -   Step1. Map out your current operational process. Analyze deeply and find out minor details such as loopholes, the time needed for each activity, etc.
 -   Step2. Prepare a blueprint based on your analysis. It should include what inefficiencies the team currently has and what parts you want to work on and what you aim to achieve.

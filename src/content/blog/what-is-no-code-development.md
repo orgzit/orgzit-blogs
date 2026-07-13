@@ -37,7 +37,7 @@ Most no-code software platforms offer methods to help develop backend software (
 
 Most no-code application platforms do not require any prior programming or coding experience or knowledge. However, it really helps if you have some knowledge of how to define and articulate requirements and rules.
 
-Taking advantage of no-code, you can equip more of your workforce with the [tools](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/) they require to build business web and mobile applications. The low technology barrier and learning curve make it easier for you to promote a new digital innovation strategy for your business through collaborative agile methodologies.
+Taking advantage of no-code, you can equip more of your workforce with the [tools](/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/) they require to build business web and mobile applications. The low technology barrier and learning curve make it easier for you to promote a new digital innovation strategy for your business through collaborative agile methodologies.
 
 No-code tools enable both normal citizens as well as software developers to quickly build customized software in a modular manner that leads to faster and bug-free delivery. Further many are building business, web, and mobile applications on their own.
 
@@ -57,7 +57,7 @@ A no-code development platform is a user interface builder using with you can ra
 
 Let us clear a major misconception about no-code development: it is not only for simple applications.
 
-In this age where technology is developing so fast, the builders of [no-code applications](https://orgzit.com/blog/best-project-management-applications/) have become extremely sophisticated to support rich functionality in all apps, in order to meet business demands. It is now possible to build many end-to-end enterprise applications using a no-code platform.
+In this age where technology is developing so fast, the builders of [no-code applications](/blog/best-project-management-applications/) have become extremely sophisticated to support rich functionality in all apps, in order to meet business demands. It is now possible to build many end-to-end enterprise applications using a no-code platform.
 
 ## **Essential features of no-code development**
 

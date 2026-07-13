@@ -67,7 +67,6 @@ For instance, track the work of employees’ status of the weekly quotes
 
 ## Tips for Streamlining Your Business
 
-![](https://lh3.googleusercontent.com/Kjm493XMO3Q6V82oVnwrKvC6dJR4-qNjcE5yOZGtDq7YS_GU0t7EruLHglciqbStGi_YNuYt_YPwk4SMLjjI1Vs-J9jzgARfPU-EKJtFfB7g9iiOq9B34zJbWXhg-EN0vj7GvT5iezTRoh_oddnZH3Y)
 
 ##### Conduct a Workflow Audit
 
@@ -91,7 +90,6 @@ Regularly review and optimize your workflows to ensure they remain efficient and
 
 ## How can a CRM streamline your sales process? Top 6 ways
 
-![](https://lh5.googleusercontent.com/y0nvpNrnVrtKm-2Ag63NiGxS4NPnjQJM5Y0tvHeZ6edshUCTB8k-2z2m1V7uADzQWNnPf-ZsbuutD6d5CsnRuZ4ZTkBZ3VhzrnM7jWrzamDONFwdKRyKXC-8MsVVzbdTcpHTr4szWmBkgWRH707LL2A)
 
 A Customer Relationship Management (CRM) system can be an effective tool for streamlining your sales process, enabling you to manage customer interactions and sales leads effectively. By automating tasks and reducing manual input, a sales CRM can help you to streamline business processes and maximize efficiency.
 

@@ -30,7 +30,7 @@ _Did you check the mail I sent in the morning?_
 
 _Did the client approve the revision?_
 
-![Monthly Report](https://lh3.googleusercontent.com/DWCdKClnAOjzVUPsFMo0d8f2aIzzDEhMYuQuyhjXQFLYcnACVsnwLlYfBQk78hDW1G8onhDKnFM7RrT48LFiIf-YZfFMWrFpZ2_EMZXSweqtemyH3v_7RPMIAQ-fGTxev2_abs5K)
+![Monthly Report](/blog/blog-images/gdoc-AQfGTxev2abs5K.jpg)
 
 If you have been part of any organization, then you must have heard these questions. Workflow management is the foundation of every company, and when handled manually, it can create various obstacles. This is where a workflow management system steps into the picture.
 
@@ -50,7 +50,7 @@ Most projects include complex procedures, and a workflow system eliminates redun
 -   Leave Requests
 -   And others
 
-![Workflow Management](https://lh5.googleusercontent.com/Bafcff1j5Kk61we6uulKyuir0rtaldFMObPcFGY0oWlK81DNn2E9hPej8RgHjHMDmVMBr6xmTX9l8wAIr9tQfJOQ2ovI6etabscMa4NCNRR5rctb-2u3t9MdyFwvp9yXhimQRDTT)
+![Workflow Management](/blog/blog-images/gdoc-yFwvp9yXhimQRDTT.jpg)
 
 Most of the processes, as mentioned above, are time-consuming, repetitive, and are prone to errors. Imagine you’ve high-budgeted clients, expecting you to handle their digital marketing activities whole and sole.  
   
@@ -88,7 +88,7 @@ On the contrary, if you seek a programmer’s perspective on the invoice approva
 
 Conclusively, a workflow system should let you think of the workflow is simple and linear loops with all the background complexities.  
 
-**Also Read,** [**What is No-Code Development?**](https://orgzit.com/blog/what-is-no-code-development/)
+**Also Read,** [**What is No-Code Development?**](/blog/what-is-no-code-development/)
 
 ### 3\. Highly Scalable
 
@@ -131,7 +131,7 @@ Still, our vote always goes for cloud-hosting solutions because of their larger 
 
 #### _After all, privacy is everything!_
 
-![Privacy is Everything](https://lh6.googleusercontent.com/XqOx-YMBc-Js8Th1qj-e3k5i_TTDguMsPQDT8_OvcG8OlAuLLPR_iVcv2t7PcvqiQeon6UGgQEGv9siZTiw811MooUwBGSBWKc1C_3YpVu1T1R8GzPIUGTAifpbsm6IcBkfDWblo)
+![Privacy is Everything](/blog/blog-images/gdoc-fpbsm6IcBkfDWblo.jpg)
 
 Let’s understand this feature with a very generic example, given that you have a digital marketing agency, and your freelancers are estimated on an hourly basis. You are using spreadsheets (or a system) that are entirely transparent to all the participants to track the work.  
   
@@ -139,7 +139,7 @@ Undoubtedly you don’t want to share all the internal costs of the company with
 
 A workflow management software that provides role-based access within projects is a must for improved privacy. This feature helps the team members understand their responsibilities and KPIs (Key Performance Indicators) without perturbing the flow order.  
 
-**Read-** [**How Workflow Management System boosts your productivity?**](https://orgzit.com/blog/how-worklfow-management-system-boosts-your-productivity/)
+**Read-** [**How Workflow Management System boosts your productivity?**](/blog/how-worklfow-management-system-boosts-your-productivity/)
 
 ### 7\. Get Mingle with other apps
 
@@ -153,7 +153,7 @@ If your chosen workflow system isn’t very easy or compatible to integrate with
 
 #### _Measure your growth_
 
-![Measure your Growth](https://lh3.googleusercontent.com/V6Y_NIsuB_al2cPHqiSInaxy6afKmooOBbWnn3neBtkWySuk1xs0WLMpFu3a5OD3wTZz6kvvKqSefPItEZ5CQznP8OgGlllGdzVoQ04koPl50U8ahDIsoOiKktwK8iLEtaTf9lrf)
+![Measure your Growth](/blog/blog-images/gdoc-ktwK8iLEtaTf9lrf.png)
 
 There is absolutely no point in working when you can’t measure the operations. A decent workflow management system should be equipped with reporting and analytics functionality to gain insights.
 

@@ -42,13 +42,13 @@ With color coding, it’s become much easier to identify the actionable items. F
 Here are a few examples where Orgzit customers use color coding:
 
 -   Issue Tracker for IT teams – for priority, status, type
--   [Lead Management](https://orgzit.com/blog/setting-crm-success-orgzit/) for Sales teams – for heatmap, status, lead size
+-   [Lead Management](/blog/setting-crm-success-orgzit/) for Sales teams – for heatmap, status, lead size
 -   Invoicing for everyone – for invoice status, payment status
 -   Order Management for Sales & Operations teams – for order type, status
--   [Dealer Network Management](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) – for order status, dispatch status
+-   [Dealer Network Management](/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) – for order status, dispatch status
 -   Task Management for everyone – for status, task type
 -   Ticket Management for Customer Service teams – for priority, severity, ticket type
--   Recruitment Tracker for [Recruiters](https://orgzit.com/blog/10-social-recruiting-platforms-first-hire/) – for job category, candidate experience
+-   Recruitment Tracker for [Recruiters](/blog/10-social-recruiting-platforms-first-hire/) – for job category, candidate experience
 -   Travel Ticketing Tracker for Travel Desk – for travel type
 -   Purchase Management for Purchase teams – for purchase order status, goods received status
 

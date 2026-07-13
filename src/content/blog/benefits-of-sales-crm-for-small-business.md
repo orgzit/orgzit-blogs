@@ -54,7 +54,7 @@ It also helps businesses analyze customer interactions and data throughout the c
 
 ![sales Automation Is Useful For Small Businesses](/blog/blog-images/How-Sales-Automation-Is-Useful-For-Small-Businesses--1024x1024.jpg)
 
-Sales automation is a way for small businesses to optimize their sales process by using technology to automate repetitive tasks and free up time for sales professionals. Sales CRM for small business can help small businesses generate leads and [close deals](https://orgzit.com/blog/top-sales-closing-techniques/) more efficiently.
+Sales automation is a way for small businesses to optimize their sales process by using technology to automate repetitive tasks and free up time for sales professionals. Sales CRM for small business can help small businesses generate leads and [close deals](/blog/top-sales-closing-techniques/) more efficiently.
 
 For example, imagine you own a small clothing store and have a list of potential customers who have expressed interest in your products. Instead of manually reaching out to each person one by one, you can use a sales automation tool to send personalized emails to your entire list at once. It allows you to track which customers are most interested in purchasing easily.
 
@@ -90,13 +90,13 @@ For example, suppose a customer frequently purchases a product from your busines
 
 ### 5\. **Close More Sales**
 
-A CRM sales system stores all customer information in a central location, making it easy for sales team members to [access customer data](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/). Sales CRM for small business includes contact information, purchase, and communication history, which can be useful in identifying personalized sales approaches.
+A CRM sales system stores all customer information in a central location, making it easy for sales team members to [access customer data](/blog/track-your-customers-with-the-help-of-crm/). Sales CRM for small business includes contact information, purchase, and communication history, which can be useful in identifying personalized sales approaches.
 
-Sales CRM for small business also helps them [track sales leads](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/), making it easier to follow up through the sales process. A CRM sales system can also help sales team members prioritize their efforts by identifying the most promising leads.
+Sales CRM for small business also helps them [track sales leads](/blog/track-your-customers-with-the-help-of-crm/), making it easier to follow up through the sales process. A CRM sales system can also help sales team members prioritize their efforts by identifying the most promising leads.
 
 ### 6\. **Increase the Efficiency Of Your Sales**
 
-[An efficient sales system](https://orgzit.com/blog/ways-to-improve-sales-efficiency/) is key to maximizing your revenues. By utilizing a CRM sales system, you can streamline customer communication and optimize the effectiveness of each sale. Automation tools, such as automated follow-ups and order tracking, help ensure that customers remain engaged throughout the entire process.
+[An efficient sales system](/blog/ways-to-improve-sales-efficiency/) is key to maximizing your revenues. By utilizing a CRM sales system, you can streamline customer communication and optimize the effectiveness of each sale. Automation tools, such as automated follow-ups and order tracking, help ensure that customers remain engaged throughout the entire process.
 
 Additionally, CRM systems provide insights into customer behavior including the total number of purchases and average customer value to enable you to plan more effective marketing campaigns that target qualified leads. By employing CRM technology, you can leverage data to increase both the accuracy and speed of your customer care and maximize your sales.
 

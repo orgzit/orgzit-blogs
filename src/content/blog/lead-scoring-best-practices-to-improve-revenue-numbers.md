@@ -59,7 +59,7 @@ Fret not! We have your back.
 
 Your sales and marketing departments must agree on what constitutes qualified leads. Then you identify common and essential characteristics of your main customers and prospects who don’t frequently convert. This is based on data from previous leads.
 
-Data like the company’s revenue and size in a [B2B](https://orgzit.com/blog/b2b-sales-techniques/) might be helpful. You can get firmographic data through the landing page of products. In addition, you can also rate positive customer behaviors. It is one of the [best methods to win more deals](https://orgzit.com/blog/top-sales-closing-techniques/).
+Data like the company’s revenue and size in a [B2B](/blog/b2b-sales-techniques/) might be helpful. You can get firmographic data through the landing page of products. In addition, you can also rate positive customer behaviors. It is one of the [best methods to win more deals](/blog/top-sales-closing-techniques/).
 
 ## Importance of Lead Scoring
 
@@ -83,7 +83,7 @@ Additionally, regular check-ins between the two departments are necessary for th
 
 ### ● More precise estimations
 
-The analysis can go beyond your [CRM](https://orgzit.com/blog/operational-crm/) and Marketing Automation data. That’s because now you can also use external data enrichment sources and product usage systems. Predictive lead scoring systems are supported by data gathered from various sources.
+The analysis can go beyond your [CRM](/blog/operational-crm/) and Marketing Automation data. That’s because now you can also use external data enrichment sources and product usage systems. Predictive lead scoring systems are supported by data gathered from various sources.
 
 This method results in a more detailed buyer profile. In addition, using machine learning to verify leads has a better likelihood than manually scoring. Manual scoring is prone to errors and other mistakes.
 
@@ -127,7 +127,7 @@ Speaking with your customers is one of the most important lead-scoring best prac
 
 Hence, you must consider all aspects of the sale to get input from both parties if you want to be successful. Interview customers to find out what encouraged them to convert.
 
-To learn more about what motivated people to purchase your goods, you might send them a [customer satisfaction survey](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/). It will provide you with their personal opinions.
+To learn more about what motivated people to purchase your goods, you might send them a [customer satisfaction survey](/blog/customer-satisfaction-survey-and-its-importance/). It will provide you with their personal opinions.
 
 You should interview customers with both short and longer buying cycles. It’s a terrific approach to learning why some people convert fast while others take their time. Customers first learn whether or not to convert and trust your company.
 
@@ -167,6 +167,6 @@ Without further ado, email sales@orgzit.com to increase sales and grow your busi
 
 Schedule a call now to grow faster!
 
-Subscribe to [Orgzit’s blogs](https://orgzit.com/blog/) to get more updates on how to build a successful company.
+Subscribe to [Orgzit’s blogs](/blog/) to get more updates on how to build a successful company.
 
 Also, remember to share this post.

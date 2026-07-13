@@ -25,7 +25,7 @@ featured: false
 
 **This post begins with an awesome news! For you and for us both!**
 
-After being acknowledged by [FinancesOnline](https://orgzit.com/blog/orgzit-wins-finances-onlines-two-distinguished-awards/), Orgzit was recently awarded by CompareCamp – _one of the leading online resources of product reviews and comparisons,_ **Great User Experience Award** and **Rising Star of 2017 Award.**
+After being acknowledged by [FinancesOnline](/blog/orgzit-wins-finances-onlines-two-distinguished-awards/), Orgzit was recently awarded by CompareCamp – _one of the leading online resources of product reviews and comparisons,_ **Great User Experience Award** and **Rising Star of 2017 Award.**
 
 Flaunting its flexibility, Orgzit landed in CompareCamp’s data management software category and scored 83 in their product quality score after being evaluated based on several factors like – customizations, core functionality, media ratings etc.
 

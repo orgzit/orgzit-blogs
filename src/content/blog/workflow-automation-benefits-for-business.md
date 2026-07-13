@@ -44,17 +44,6 @@ In this article, we will highlight workflow automation’s benefits.
 
 Read on to discover the other paradigms of workflow automation software to elevate your business success!
 
-Here’s the overview. Go through your main interest instantly!
-
-* What is workflow automation?
-* What’s the problem with manual workflows?
-* 6 Benefits of Workflow Automation
-  1. Speed up task management and completion
-  2. Cut back on labor costs
-  3. Reduce errors in processing
-  4. Streamline approval process
-  5. Improve the customer experience
-  6. Increase scalability of workflows
 
 ## **WHAT IS WORKFLOW AUTOMATION**
 
@@ -107,7 +96,7 @@ Here are a few reasons why and how manual processes impact your business:
 
 **Sluggish Customer Support**: Waiting on manual processes increases your total response time while assisting consumers. Customers demand accuracy & instant replies, and if you can’t provide them, they may go elsewhere, which is where workflow automation fits fine. You can implement timely operations and enhance client satisfaction by creating a more delightful experience.
 
-*[Organize your fragmented workflow procedures with robust workflow management tools like Orgzit to streamline your business operations.](https://orgzit.com/blog/workflow-automation-software/)*
+*[Organize your fragmented workflow procedures with robust workflow management tools like Orgzit to streamline your business operations.](/blog/workflow-automation-software/)*
 
 ## **6 BENEFITS OF WORKFLOW AUTOMATION**
 
@@ -201,10 +190,10 @@ Ex: Sales. These departments often automate the approval of proposals and quotes
 
 The benefits of workflow automation go beyond speeding up processes and cutting labor costs, and you’ll also see increased customer satisfaction and growth opportunities. You can boost productivity across your organization by working with a company that specializes in automating project and customer relationship management tasks.
 
-With [workflow automation software](https://orgzit.com/blog/workflow-automation-software/) like Orgzit, elevate approval, reduce sales pipeline bottlenecks and enhance workflow efficiency!
+With [workflow automation software](/blog/workflow-automation-software/) like Orgzit, elevate approval, reduce sales pipeline bottlenecks and enhance workflow efficiency!
 
 Reach out to us today to learn more about Orgzit and see how it can automate your manual business processes to help you meet your goals.
 
-Stay updated with the latest ideas [here](https://orgzit.com/blog/)!
+Stay updated with the latest ideas [here](/blog/)!
 
 Please don’t forget to share this post!

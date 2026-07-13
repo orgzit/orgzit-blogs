@@ -47,7 +47,6 @@ Today, in this article, we have brought the software list for project management
 
 ### 1\. Team Collaboration Tool- [Slack](https://slack.com/intl/en-in/)
 
-![Slack for Collaboration](https://lh6.googleusercontent.com/OezHVC_7w59eajcHT3sboiVnrg6eQtI4KbJf7uowTSZ7wkqhT0FeMDV_t75-93i8gJ0HGyXY9Plbwrw3tfKwhWE3GYuakvPIvbWddylN3nS83LnQoq3rBNIg9Lxhnmc8rhM6VSQb)
 
 Interacting with colleagues in an office environment is very easy- just turn your chair around and start discussing. But, in this work from home setup, everything is different!
 
@@ -74,7 +73,6 @@ Slack is an online communication tool that brings all the teammates together in 
 
 ### 2\. Employee Onboarding Tool- [Userlane](https://www.userlane.com/)
 
-![User Lane for Employee Onboarding](https://lh6.googleusercontent.com/liehlgceJ60tmwej55kQIHnMCovxvf53QR18liZgD2UrC0SLOq8tvawpdMCRNuKTANjT1NOdvBJ9kHvY7urvTFmXWnGg9GlMpoRcIREzv6UOMfxQinRCRGmejnyBHbIQrUtHHfsb)
 
 Onboarding and Employee Training is an important step. Introducing your team members to complicated software is a strenuous job. Avail an employee onboarding app like Userlane for offering a fully-fledged interacting experience.  
 
@@ -95,7 +93,6 @@ Employees can easily monitor any software without any prior knowledge. This, in 
 
 ### 3\. Video Conferencing Tool- [Skype for Business](https://www.skype.com/en/business/)
 
-![Skype for Video Conferencing](https://lh6.googleusercontent.com/0k_WLHA2Woybf5ZazSVz6uQ-IkHO8CrSIEbp1K8Qe5G7Jl9Dx1PVKWiPJE67CSmUTmFXjie1fYgH5AF8x_JRRh-g7LwFIMxQGYOgFXt5R7byjusqCFDmhadWw7Gyo6f-4ET7a7gA)
 
 Say Hello with an emoji and keep all the interactions going!!  
 
@@ -128,7 +125,6 @@ Included in different Microsoft Office 365 packages-
 
 ### 4\. Time Zone Management Tool- [World Time Buddy](https://www.worldtimebuddy.com/)
 
-![World Time Buddy for Time Zone Management](https://lh4.googleusercontent.com/wExqCIaLOInrABICfXwFoSrakkVpRBgZ2kXj4bK2EZGCBpHbrW1-pbVyb0RNXvMyT3IMrbkywcNYZcam7u3pKgTGsuYIqxhvtOLmDCmwRzL5TJFWR5gfaMLo71gbJLQLPPf_v7NP)
 
 Team management, especially in remote setup, requires freedom of place and time. And when your team is sitting across nations, the whole activity can quickly turn into a nightmare. Checking member’s availability and local timings may compromise your productive hours. This is where time zone management tools come into play.  
 
@@ -161,7 +157,6 @@ World Time Buddy is an automated team converter tool. It compares multiple time 
 
 ### 5\. Time Management Tool- [actiTime](https://www.actitime.com/about-actitime)
 
-![Actitime for Time Management](https://lh3.googleusercontent.com/J5DOmI1PyShjcVmNJVIzxFSZKTNYRImutc5xV2pF_KlQC2CiCAsB_2rn_7_q90Bw9rJgw0S8ggLgWFjF4xUxKuLtNcJ3lze0r9DsL2HYGz1vrU86dutphKUsuOmcPqGT7tNOZ6hR)
 
 Time management involves time auditing, task-related time estimation, and visual calendars for better collaboration.  
 
@@ -191,7 +186,6 @@ A time management tool like actiTime incorporates all these features and helps i
 
 ### 6\. Employee Happiness Meter- [Chimp or Champ](http://chimporchamp.com/)
 
-![Chimp for Employee Happiness Meter](https://lh4.googleusercontent.com/bDG3KColX-ASNGdpjIco_7xREJ5Gs9PuEHFHnj4c8zUI5-N2Z0gAWQRVgo_U04sY8DI7a52IMh9jTzcO_BHQL9ALQb8GY9d4DPk9w7Da5CiS0TK9UBAsgUtkiF7yCl5fRk9mOiep)
 
 Studies have shown the direct relationship between Employees Happiness and Productivity.
 
@@ -211,11 +205,10 @@ While working from home, continually observing employees’ happiness is as cruc
 -   **Premium**– $2 USD per user, per month.
 -   **Enterprise**– Tailored pricing module.
 
-**Also Read-** [**10 Hacks for Managing a Remote Team Effectively**](https://orgzit.com/blog/hacks-for-managing-a-remote-team/)
+**Also Read-** [**10 Hacks for Managing a Remote Team Effectively**](/blog/hacks-for-managing-a-remote-team/)
 
 ### 7\. Productivity Tool- [Todoist](https://todoist.com/)
 
-![Todoist Productivity Tool](https://lh4.googleusercontent.com/fMfbIzqCNJKXRnQpl1QrbAwqsbJvOCRO6TgGw0UOqI09xCpL4Efc2bEnlYcxy3IrTixPSxhFQiFCLl5p-_XmQJcZUzV5OQpOvMqleETtghC__NQ4TgVl1AB0BM7cehvdulRJB68x)
 
 In a traditional office working lifestyle, only the after-office hours are categorized in the free timings. But in a remote setup, everybody has complete freedom to manage their day. Todoist, the productivity tool, is quite helpful in the same. Around 25 million people use it for organizing, planning, and collaborating on projects.
 
@@ -243,7 +236,6 @@ As a project manager, you can
 
 ### 8\. Note-Taking Tool- [Google Keep](https://www.google.com/keep/)
 
-![Google Keep for Note Taking](https://lh6.googleusercontent.com/HOEbsfdBVeWGLD7FyCqWqG1uVOhiPSHlIv8xbw5jUT1BJv03fhywcWMVTCPOpGG2JeMZV7KZIlGUhdV0od2rlLxA8WZ6QkPFM5JUbQ45hhg0P3pafYqwQodV-ki2Aa4fxsAblpf1)
 
 For accomplishing quality work, jotting notes is very important. Google Keep is a fantastic note-taking app for seamless and productive remote working. Quickly capture whatever is there in your mind and get it automatically transcribed.
 
@@ -266,7 +258,6 @@ For accomplishing quality work, jotting notes is very important. Google Keep is 
 
 ### 9\. Cloud Storage Service- [Google Drive](https://www.google.com/drive/)
 
-![Google Drive for Cloud Storage](https://lh6.googleusercontent.com/AWR_Sbhu43UFxXG6ktFy_3BaL_4OD6kbH5zvfCeRkZTpoo-FqVMWBz_rDwsyUb2VgcR3ihC2bE1jXVIX-vFaNxmAicV9tJkCb2T2sOk1GgdW2qfxkWqO9uQ5oh1k1zORqPj1vS4d)
 
 Cloud Storage tools facilitate secure storage of all files in a centralized location. Google Drive is a perfect cloud-based storage platform for storing large documents, multimedia files, and much more. All the data in the drive is synced across all devices and backed-up safely to ensure no loss.
 
@@ -293,7 +284,6 @@ Cloud Storage tools facilitate secure storage of all files in a centralized loca
 
 ### 10\. Finance Management Tool- [Xero](https://www.xero.com/)
 
-![Xero for Finance Management](https://lh6.googleusercontent.com/eLsPa0rfGqBHbPvE9Q2OKWTNm9DnVpRZejTDqL-ZiydG5uS07oMk7C8TMfi8JpXCe-YBM1-q1ahJSgVAb3FHlGAmEI--ujwUIQOGOxtUtBCSF2Ket0cY97jL8Dr6lTLqWtk-9ED3)
 
 An online accounting app helps in managing a company’s remote finances. Bill payments, reporting, and inventory are some of its popular features. As a project manager, at times, you need to track various project expenses accurately; this is where Xero steps in. Xero is an easy-to-use, attractive cloud-based accounting solution for businesses of varied ranges.
 
@@ -320,7 +310,6 @@ An online accounting app helps in managing a company’s remote finances. Bill p
 
 ### 11\. Password Sharing Tool- [LastPass](https://www.lastpass.com/)
 
-![LastPass for Passworrd Sharing](https://lh5.googleusercontent.com/6C6NQqhmlA205_WrCSG9QvfJiFhFVjLlbiuAZzRVnd_KEPNzSGtsz_MpRJtdE1hAGHy-dlbRINtobW2s_OO4gwICWqvzKJmyB7QEmbbmrT_mDz5hob4uDwfZ8_INcV629O3CzI37)
 
 Managing teams when operating remotely is not everyone’s cup of tea. This is where software for project management comes into play. The situation becomes much more complicated when the matter is password sharing. Unlike offices, sharing passwords on notebooks with the team members isn’t feasible in a remote setup. Sending them via chats or emails isn’t very efficient either, as they can quickly get buried away in thousands of emails.  
 
@@ -350,7 +339,6 @@ LastPass is a famous password manager tool that helps in locking all your data i
 
 ### 12\. Document Management Tool- [HelloSign](https://www.hellosign.com/)
 
-![HelloSign for Document Management](https://lh4.googleusercontent.com/oz_HK_oTO0TT-pkMH76rJWSez0QhPaH6bflDh5QyF09atly_42aT2FBjNSZakcSPeeM1EGyuw7d_7mg6Wjw1GjxzaRpqw8dwPYqStJxo26o9RbT5aPi808RpYkP_kyOuMvlekW0c)
 
 A project manager or a business owner will have to deal with a lot of signatures. From contracts with clients to partners, too many signatures and documents are needed to be held carefully. Document management software will help in protecting documents that are crucial to your business.  
 
@@ -377,7 +365,6 @@ Hellosign allows you to scan, edit, and sign documents comfortably and elegantly
 
 ### 13\. Tool for Productive Headspace- [Noisli](https://www.noisli.com/)
 
-![Noisli for Productive Headspace](https://lh5.googleusercontent.com/am0qoFvnFJAp_4_58p3boT0_F3kyR8_Tz6VM40V1bOIta64ts9QjwnuiKoGfLWdMi7MUFNuSihZqRdBzYyAa-Bynjs4N-Zc_Nd-xvTShim2Y4IxZIcvynyu5q_3WweLIqEw6Y7eS)
 
 Are you working with loud-coworkers or noise-making babies? Whether you’re in work from office setup or operating remotely, there comes a situation when your space is full of noises.  
 

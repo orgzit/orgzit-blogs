@@ -42,7 +42,7 @@ The problem got worse as the mattress manufacturer had no access to their custom
 
 ## Empowering Bichhonna’s growth by efficiently managing & automating workflows
 
-Bichhonna was introduced to Orgzit through a blog post on the [best practices for workflow management](https://orgzit.com/blog/features-of-workflow-management-software/) and there has been no looking back since then. Orgzit powers a comprehensive software solution for the Bichhonna team to manage the following workflows:
+Bichhonna was introduced to Orgzit through a blog post on the [best practices for workflow management](/blog/features-of-workflow-management-software/) and there has been no looking back since then. Orgzit powers a comprehensive software solution for the Bichhonna team to manage the following workflows:
 
 **1) Order processing**: Sales teams and dealers are now able to capture leads, place and track orders through Orgzit’s web and mobile app. This has reduced the manual intervention required for every order specifically in respect to information gathering and approvals for size measurements or dispatch confirmations.
 
@@ -54,7 +54,7 @@ To successfully grow a thriving dealer network, it is critical to streamline and
 
 > _“Orgzit helps us in maintaining and enforcing win-win commercial partnerships with our dealers, this has helped both the company and our dealers close more business and generate higher profits.”, says Pramod Lamoria_
 
-**3) Connect with customers and higher brand recall:** Bichhonna management, operations team and dealers are now collaborating on a single platform which was possible because of powerful features such as [granular access controls](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/) and [personalized dashboards](https://www.youtube.com/watch?v=XmZCTGo4Oac&list=PLklUByZMIS5aAKJGAshaNZZz9BiSp-f-7&index=3). Being on a single system enables the entire team to address customer needs better, whether it is walking new customers through a digital product catalog, or sending automated warranty registration certificates via email or sending SMS updates on complaints.
+**3) Connect with customers and higher brand recall:** Bichhonna management, operations team and dealers are now collaborating on a single platform which was possible because of powerful features such as [granular access controls](/blog/introducing-orgzit-granular-access-control-extra-power-to-you/) and [personalized dashboards](https://www.youtube.com/watch?v=XmZCTGo4Oac&list=PLklUByZMIS5aAKJGAshaNZZz9BiSp-f-7&index=3). Being on a single system enables the entire team to address customer needs better, whether it is walking new customers through a digital product catalog, or sending automated warranty registration certificates via email or sending SMS updates on complaints.
 
 > _Ayush smiles and says -“We finally have complete visibility of our customers that has significantly empowered our sales and service reps to engage more effectively with every customer. Our needle measuring referral business is finally moving. ”_
 

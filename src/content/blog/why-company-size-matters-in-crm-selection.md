@@ -102,7 +102,7 @@ Furthermore, integration capabilities enable better data analysis and reporting.
 
 By consolidating data from various systems into your CRM, you can gain deeper insights into customer behavior, identify trends, and make informed business decisions.
 
-Read this article to understand [How crm will work with other software crm integrations](https://orgzit.com/blog/how-crm-will-work-with-other-software-crm-integrations/)
+Read this article to understand [How crm will work with other software crm integrations](/blog/how-crm-will-work-with-other-software-crm-integrations/)
 
 During the selection process, ensure that the CRM vendor provides documentation or support for integrating their system with your existing tools.
 
@@ -172,13 +172,13 @@ By prioritizing these considerations during your CRM selection process, you can 
 
 -   Read reviews and testimonials from similar businesses to understand their strengths and weaknesses. Request demos and trials to evaluate features, functionality, and user friendliness.
 
--   [Involve key stakeholders](https://orgzit.com/blog/who-should-be-involved-in-buying-process/) and end-users during demos and trials to ensure the CRM meets their unique needs. This collaborative approach will help you make an informed decision and choose a CRM that will be embraced by your entire team.
+-   [Involve key stakeholders](/blog/who-should-be-involved-in-buying-process/) and end-users during demos and trials to ensure the CRM meets their unique needs. This collaborative approach will help you make an informed decision and choose a CRM that will be embraced by your entire team.
 
 -   By leveraging reviews, testimonials, and personal recommendations, you can make an informed decision and find the perfect CRM system for your company.
 
 -   To find the right CRM, evaluate your company’s size and needs by assessing factors like employee size, customer base size, and sales and marketing process complexity.
 
--   Conduct thorough research on CRM options and narrow down options to ensure scalability and growth. Read here to understand in-depth [How to shortlist a CRM vendor](https://orgzit.com/blog/how-to-shortlist-a-crm-vendor/)?
+-   Conduct thorough research on CRM options and narrow down options to ensure scalability and growth. Read here to understand in-depth [How to shortlist a CRM vendor](/blog/how-to-shortlist-a-crm-vendor/)?
 
 -   Evaluate the cost and ROI of the CRM software, considering upfront costs, potential return on investment, alignment with company size, and scalability.
 

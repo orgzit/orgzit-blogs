@@ -128,6 +128,6 @@ So, why wait?
 
 Get in touch with [Orgzit](https://orgzit.com/) today to find out how you can **maximize your CRM ROI.**
 
-Click [here](https://orgzit.com/blog/) to explore CRM software.
+Click [here](/blog/) to explore CRM software.
 
 Please don’t forget to share this post!

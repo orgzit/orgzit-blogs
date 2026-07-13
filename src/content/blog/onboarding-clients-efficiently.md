@@ -52,7 +52,7 @@ Client onboarding is the process of welcoming new clients into your organization
 
 ### 1\. Welcome them on a Personal Note
 
-![Welcome Clients on a Personal Note](https://lh6.googleusercontent.com/q5900ajCzqQzI_ZM0BlPZA82iJgrXEnZUqT_SlIbmrN9c22HAMWR2-RZJC1MYOVl771vfjQAe4hoNlMgCn9guhg0bxVBCyglMA7BJ_BDjjWDIanikNURzxzbxx0-1hZoXUxLHKnp)
+![Welcome Clients on a Personal Note](/blog/blog-images/gdoc-xx01hZoXUxLHKnp.jpg)
 
 The title is pretty self-explanatory, so let’s try perceiving the situation from a different angle. Take, for example, you’re one of the service-based companies in the market, and you have got the client listed in your papers. Now what?
 
@@ -108,7 +108,7 @@ This is one of the most crucial steps in the onboarding clients checklist. Make 
   
 The best way to accomplish this is by stating your requirements, sending them for review, and then having a quick questionnaire consisting of discussed outcomes. When the client records the responses, you can use them later in the journey as evidence for denying anything irrelevant.  
 
-**Also Read,** [**7 Techniques to close deals faster**](https://orgzit.com/blog/techniques-to-close-deals-faster/)**.**
+**Also Read,** [**7 Techniques to close deals faster**](/blog/techniques-to-close-deals-faster/)**.**
 
 ### 7\. Be Ready for the Kick-Off Call
 
@@ -124,7 +124,7 @@ Hence it is essential to understand their persona and remind them of your commit
   
 Remind them that your company is extremely useful and sensitive to clients’ needs and take care of every little detail for onboarding clients efficiently. Express how the efficient onboarding system would save their money and time that is spent on redundant tasks.
 
-![Keep reminding  your value proposition for the client](https://lh5.googleusercontent.com/v-8aXlJdYiCI8yfNMLcUU-TGifZ0fUS3ZfasskkmEScW6JucSXtzx2IYGSVJkuzi0JKd_ok8Om8i8pvI1FpP_gyktsp6Fq5j8nAQcSjb4p_V5s0lLCMetWERqtHNEa6JL1YTLl58)
+![Keep reminding  your value proposition for the client](/blog/blog-images/gdoc-qtHNEa6JL1YTLl58.jpg)
 
 ### 9\. Train Your Clients
 
@@ -183,7 +183,7 @@ One way was to pass handoffs whenever somebody new steps in. However, the team m
 -   Document the contract and update it from time-to-time.
 -   Create detailed notes after calls and share them with the team for future usage.
 
-**Check out-** [**Best Practices for your Vendor Management Workflows**](https://orgzit.com/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/)**.**
+**Check out-** [**Best Practices for your Vendor Management Workflows**](/blog/vendor-management-best-practices-leveraging-cloud-vendor-workflow-management-software/)**.**
 
 ### 14\. Don’t forget to take feedback from the clients
 

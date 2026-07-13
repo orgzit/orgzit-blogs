@@ -35,7 +35,7 @@ If you want to maximize the effectiveness of your cross-functional team then you
 
 #### **2\. Resist the urge to overschedule meetings:**
 
-Although meetings are important in every organization and also for cross-functional collaborations. It can sometimes be difficult to get everyone’s schedule to align for a meeting especially when [working with a large diverse team](https://www.managementtoday.co.uk/top-ten-tips-manage-diverse-teams/leadership-lessons/article/1181428). Therefore, it is necessary to reduce the number of [meetings in cross-functional collaboration](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/). Thereby, utilizing time wisely. Instead, you can [employ the use of newer communication and collaboration tools](https://orgzit.com/blog/collaboration-technologies-for-productive-teams-in-2018/) such as that offered by Orgzit. This can help teams to collaborate between meetings, reducing the need for them to always meet physically.
+Although meetings are important in every organization and also for cross-functional collaborations. It can sometimes be difficult to get everyone’s schedule to align for a meeting especially when [working with a large diverse team](https://www.managementtoday.co.uk/top-ten-tips-manage-diverse-teams/leadership-lessons/article/1181428). Therefore, it is necessary to reduce the number of [meetings in cross-functional collaboration](/blog/accelerate-strategic-success-with-cross-functional-collaboration/). Thereby, utilizing time wisely. Instead, you can [employ the use of newer communication and collaboration tools](/blog/collaboration-technologies-for-productive-teams/) such as that offered by Orgzit. This can help teams to collaborate between meetings, reducing the need for them to always meet physically.
 
 And if there is absolutely a reason to meet physically, there must be a strict agenda and a well-defined method to document any follow-up task. You may even have to set a timer to limit the time spent on any one topic.
 
@@ -67,7 +67,7 @@ Trust is an ingredient very essential for any functional relationship, be it per
 
 Aytekin Tank, the CEO, and Founder of JotForm revealed that its company extended trust by having each team share on a weekly basis what they have done and what they have learned as a result. He revealed that this technique does it to breed two things, firstly by enabling learning and secondly, building healthy competition.
 
-Building trust will be more difficult when members are geographically dispersed. Below are some practical tips towards building trust within [multi-functional teams so as to bring about enhanced profitability, productivity, and functionality](https://orgzit.com/blog/6-hacks-for-effectively-managing-a-remote-team-in-achieving-full-productivity/).
+Building trust will be more difficult when members are geographically dispersed. Below are some practical tips towards building trust within [multi-functional teams so as to bring about enhanced profitability, productivity, and functionality](/blog/hacks-for-managing-a-remote-team/).
 
 ### **Recognizing the trust issue**
 
@@ -113,7 +113,7 @@ Whenever there is a major accomplishment by team members, such as meeting with a
 
 #### **6\. Encourage team members to voice their concerns:**
 
-This is one of the elements that destroy trust within a team. When a problem gets ignored, the chances of fixing it becomes impossible. They eventually [eat away productivity and erode trust](https://orgzit.com/blog/5-notorious-productivity-killers-overcome/). To improve trust you must create an avenue where it is safe and expected for members to voice their complaint and concerns, and even acting on it when feasible. This is a major part creating intimacy within the team and improving self-orientation. When concerns are constructively raised and addressed, team members attain confidence to confide in others without entertaining fear of retribution.
+This is one of the elements that destroy trust within a team. When a problem gets ignored, the chances of fixing it becomes impossible. They eventually [eat away productivity and erode trust](/blog/5-notorious-productivity-killers-overcome/). To improve trust you must create an avenue where it is safe and expected for members to voice their complaint and concerns, and even acting on it when feasible. This is a major part creating intimacy within the team and improving self-orientation. When concerns are constructively raised and addressed, team members attain confidence to confide in others without entertaining fear of retribution.
 
 These above methods can help to improve the trust level between team members within a multi-functional team.
 

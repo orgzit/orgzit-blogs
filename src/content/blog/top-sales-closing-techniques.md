@@ -45,18 +45,6 @@ So if your leads aren’t reaching the end of the sales funnel, then it may be t
 
 It might sound hazy, but your sales rep can take the closing sales graph to new heights using the right prospecting tools and a strong sales strategy. Here are our tried and tested closing skills that will help you engage more prospects and potentially scale your revenue!
 
-In this post:
-
--   **Top 6 Sales Closing Techniques To Close More Deals**
-
-1.  Now or Never Close
-2.  Question Close
-3.  Assumptive Close
-4.  Empathy Close
-5.  Puppy Dog Close
-6.  Analytics Close
-
--   **Some Psychological Methods To Close Deals**
 
 ## **Top 6 Sales Closing Techniques To Close More Deals**
 
@@ -112,7 +100,7 @@ This mindset is an essential part of the assumptive technique where your confide
 
 ![Empathy Close](/blog/blog-images/Empathy-Close.png)
 
-Not every deal is to be closed through follow-up calls and sales pushing. One of the most promising [B2B sales closing techniques](https://orgzit.com/blog/b2b-sales-techniques/) allows you to use compassion and empathy to convert & close.
+Not every deal is to be closed through follow-up calls and sales pushing. One of the most promising [B2B sales closing techniques](/blog/b2b-sales-techniques/) allows you to use compassion and empathy to convert & close.
 
 Yes, it is possible!
 
@@ -142,7 +130,7 @@ When you find your prospect is confused or hesitant to come to a decision, you c
 
 ## **Some psychological methods to close deals.**
 
-One of the best ways to instantly [optimize your sales](https://orgzit.com/blog/sales-optimization-practices/) and crack a deal is to use consumer psychology. Use these sales pitch tips to walk away with a closed deal!
+One of the best ways to instantly [optimize your sales](/blog/sales-optimization-practices/) and crack a deal is to use consumer psychology. Use these sales pitch tips to walk away with a closed deal!
 
 -   Equip yourself with actionable sales closing techniques in advance
 -   Provide expertise on your product to create FOMO(fear of missing out)
@@ -154,7 +142,7 @@ One of the best ways to instantly [optimize your sales](https://orgzit.com/blog/
 
 The more you close, the better your sales process becomes.
 
-There’s no quick fix for mastering the art of closing. It takes the best closing techniques, discipline, and repeated practice to make it work. Start by designing an optimal sales process with the right [sales automation software](https://orgzit.com/blog/workflow-automation-software/). With an effective sales process, you can predict your sales, increase sales efficiency, know when to follow up with potential prospects and how to nudge them, and more.
+There’s no quick fix for mastering the art of closing. It takes the best closing techniques, discipline, and repeated practice to make it work. Start by designing an optimal sales process with the right [sales automation software](/blog/workflow-automation-software/). With an effective sales process, you can predict your sales, increase sales efficiency, know when to follow up with potential prospects and how to nudge them, and more.
 
 We are sure our listed types of sales closing will prepare you to **“Always Be Closing.”** To stay in touch regularly with prospects, you should use a flexible [CRM](https://orgzit.com/customer-relationship-management/) with excellent communication capabilities. With Orgzit, you can track conversations with prospects, create automated sequences to move the conversation forward, and close more deals.
 
@@ -166,4 +154,4 @@ Get in touch with an [Orgzit](https://orgzit.com/) representative today and hit 
 
 What are you waiting for? GET, SET AND CLOSE!
 
-Stay updated with the latest ideas [here](https://orgzit.com/blog/).
+Stay updated with the latest ideas [here](/blog/).

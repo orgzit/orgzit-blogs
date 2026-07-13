@@ -42,7 +42,7 @@ Let me tell you some best project management applications:
 
 ![Trello](/blog/blog-images/Trello.jpg)
 
-Trello is one of the very well-known applications in the project management industry. It supports Web, Android, iOS. It is an application that can be used for almost everything like managing tasks, [project management](https://orgzit.com/blog/what-is-project-management/), and tracking the tasks and even keeping a check-list which is the most essential part while working on a project.
+Trello is one of the very well-known applications in the project management industry. It supports Web, Android, iOS. It is an application that can be used for almost everything like managing tasks, [project management](/blog/what-is-project-management/), and tracking the tasks and even keeping a check-list which is the most essential part while working on a project.
 
 I have listed a few features of Trello that might catch your attention more–
 
@@ -151,7 +151,7 @@ Here are a few features that will interest you in knowing about Asana –
 -   Lets you create to-do lists
 -   Lets you add due dates, instructions to tasks and even comment on items
 
-Asana offers a set of convenient features to [boost team productivity](https://orgzit.com/blog/hacks-for-managing-a-remote-team/) while managing tasks and projects. It works well for simple project management but may not be able to meet complex project requirements.
+Asana offers a set of convenient features to [boost team productivity](/blog/hacks-for-managing-a-remote-team/) while managing tasks and projects. It works well for simple project management but may not be able to meet complex project requirements.
 
 #### **Pro**
 

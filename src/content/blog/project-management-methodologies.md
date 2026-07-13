@@ -31,21 +31,6 @@ There are several project management techniques that help project managers direc
 
 Let us know what is project management methodology first so that we get in the boat on the same level!
 
-This article has 8 best Project management methodologies:
-
--   [Different types of Project Management Methodologies](https://orgzit.com/blog/project-management-methodologies/#Different_types_of_Project_Management_Methodologies "Different types of Project Management Methodologies ")
--   [Agile](https://orgzit.com/blog/project-management-methodologies/#Agile "Agile")
--   [Waterfall](https://orgzit.com/blog/project-management-methodologies/#Waterfall "Waterfall")
-    -   [Advantages:](https://orgzit.com/blog/project-management-methodologies/#Advantages "Advantages:")
-    -   [Disadvantages:](https://orgzit.com/blog/project-management-methodologies/#Disadvantages "Disadvantages:")
--   [Scrum](https://orgzit.com/blog/project-management-methodologies/#Scrum "Scrum")
--   [Kanban](https://orgzit.com/blog/project-management-methodologies/#Kanban "Kanban")
--   [5\. Hybrid](https://orgzit.com/blog/project-management-methodologies/#5_Hybrid "5. Hybrid")
--   [Critical path method(CPM)](https://orgzit.com/blog/project-management-methodologies/#Critical_path_methodCPM "Critical path method(CPM)")
--   [Critical chain project management(CCPM)](https://orgzit.com/blog/project-management-methodologies/#Critical_chain_project_managementCCPM "Critical chain project management(CCPM)")
--   [Integrated project management (IPM)](https://orgzit.com/blog/project-management-methodologies/#Integrated_project_management_IPM "Integrated project management (IPM)")
--   [Frequently asked questions about project management methodologies](https://orgzit.com/blog/project-management-methodologies/#Frequently_asked_questions_about_project_management_methodologies "Frequently asked questions about project management methodologies")
--   [Conclusion](https://orgzit.com/blog/project-management-methodologies/#Conclusion "Conclusion")
 
 ### **What are project management methodologies?**
 
@@ -59,7 +44,6 @@ Now that we have a definition for what is a project management methodology, let 
 
 One of the most popular techniques of project management is the agile method. It uses adaptive planning and continual improvement to divide the entire project work into short sprints and enhance the collaboration and self-organization level of a team.
 
-![Agile project management methodology](https://lh4.googleusercontent.com/zOFVa1yEX8WZitmq0jF-LpoOM4xgf5boAHncfw94YopkVdn_DJoTUM3gkFIO2Dc0ihcVhh60EejxfyaGoUSkE_Og8k34_uAJEZfAKWWz7dHWZTLkJVfbVYhaPD1MjNTS0jeZSXtH)
 
 The agile project management technique requires small but highly collaborative teams. It is ideal for software development projects involving recurrent iterations. As a matter of fact, Kanban and Scrum techniques are based on the agile approach.
 
@@ -100,7 +84,6 @@ For this approach, you need to have the crystal clear idea of the demands of the
 
 Therefore, The next step in the process starts right where the previous one ends.
 
-![waterfall technique described ](https://lh3.googleusercontent.com/O9OM9CGvrPbiQWtD01yZqZwm5ZnN1CofxSWecXxSmv9i45SeChlanbX98etJYZuCzqRetXMmhqbzJXYgq9pypJWxzGRmosakW0bUx_c_Mmd1I50AQiclJHzBp1ISO0xWffvN0x09)
 
 Monitoring the progress as well as the steps completed is important in the Waterfall project management technique. This is done with the help of Gantt charts( it is a visual view of tasks scheduled overtime). This is so because they offer a clear visual representation of the various tasks, phases, and their dependencies.
 
@@ -133,7 +116,6 @@ it depicts an approach to Agile management with a target on project teams, short
 
 “sprints” and daily stand-up meetings.
 
-![Scrum project management methodology described](https://lh3.googleusercontent.com/Qx9qkU6JWJptSdJmwLFCbcBKAeWlg0E8eRnDEq2fVyMhmry9oGo-VFOqx2gx_KXvaGnpxSscmKxlWhmJpgLMmcZDbGxTq6duatVM4W0dTZgZb2fvEQ92-r4qTan60409KaDbg-FX)
 
 Scrum has its own tactics and processes for dealing with project management. It puts the project team and center of the project in front. A lot of times there is no project manager. The team organizes and manages itself. This makes this approach perfect for highly skilled teams but not so much for others.  
 
@@ -162,7 +144,6 @@ The development of Kanban was for a scheduling system for improving manufacturin
 
 Kanban allows a project team to work efficiently and emphasizes continual delivery. The project management technique encourages continuous collaboration among the project team and lets them improve the workflow by prioritizing tasks, represented by boards.
 
-![KAnban methodology](https://lh3.googleusercontent.com/4GFmuS4PVtQi7b7zoltAjTE62VAnmuCcZHCIfk2pyElgINtyDwd_Y6ElBuHYHLYyorKa-2sSiA4ZaWgz39KL0f2HhGs4l7oSC3xPfqepA0Cdfeh5Hyu5hA07GE5XFXv396VP3KLH)
 
 The project board developed using Kanban helps teams visualize task(s) that must be completed today. This helps in avoiding overburdening the team as it limits the amount of progress of the project and balances the project workflow.
 
@@ -188,7 +169,6 @@ Although Kanban is most suitable for agile projects, it is possible to apply the
 
 As its name suggests, it is a mix of Agile and waterfall methodologies. It takes the strengths of both the projects and combines them together in a flexible yet structured approach that can be used for different projects.
 
-![hybrid methodology described](https://lh5.googleusercontent.com/dVtsAoI0DFM-SRrapTurtmBk0aTjLPBlpdIKUL78Zts9hJTrjwqH9btouOHRvGs2W2hNKOKLP2HhZ-ElbhDm1RhVZkReVfjJN2elgGP6u8jZsFGhEMxr2bauEojFPD1-Pb99Tcs9)
 
 Its initial focus is to gather and analyze requirements ( a point from the waterfall approach). It takes flexibility from Agile methodology.
 
@@ -212,7 +192,6 @@ By combining properties of Waterfall and Agile, the Hybrid method (sometimes cal
 
 Critical Path Method is an algorithm for planning and scheduling projects. Typically, it is used in pair with the PERT project management technique. Complex projects emphasizing on delivery terms and deadlines are the ideal use-cases for the Critical Path Method.
 
-![critical path method model elaborated](https://lh3.googleusercontent.com/7kI4-UKUhVveMhN0m8nWv1qkElcTpdqH_letdc7Mdl5OCTAfwO1gstW8eE2TNwHD81JtBMo30JkQW7WD25v2leXpWaVjA3Ilhy49LTWeLNngopqSXbj8su_3Irat_NyzkUnbRW4g)
 
 CPM allows detecting the sequence of tasks for a project as well as defining critical tasks. The task that has the ability to influence the deadlines of an entire project is called a critical task. Such a task demands strict consideration and meticulous control.
 
@@ -247,7 +226,6 @@ Critical Chain project management methodology is an alternative to the critical 
 
 First, your team has to recognize the deliverables, then use past experiences to map out the tasks required to complete the project. Also, Your team has to map out the Interdependencies between resources and allocate them accordingly to each task.
 
-![critical chain path project management methodology](https://lh4.googleusercontent.com/O1GlkpAo5L53x9pCKl8DaHjBINiY4yFglpXKuwmnCUcKuws6YUPVAAdORY0PGw-CYBtruKMUFe6vRy7MqSb0u_Akot-qnMVFyaeREOBNQmDhP5uXchABjwm0v0uHIWaWvWLGV2AS)
 
 CCPM focuses on resource utilization and minimizing lost productivity. It is heavily dependent on “monotasking”, i.e. focusing on the task at hand and avoiding multitasking.
 
@@ -271,7 +249,6 @@ CCPM can be a powerful methodology for resource-strapped project teams.
 
 This project management methodology is also called as “integrated project delivery”. Therefore, this method is commonly used by creative industries. It emphasis mainly on two things: sharing and standardization of processes across the organization.
 
-![Integrated project management](https://lh4.googleusercontent.com/DNYt3TkWdPEum62J9rdIPx3iZ3FiclH24WlxjE3IHAlyylHuHqiF9VSX652TN5OFK5NuQK5uEvjnWXYXTpvTHz9YFZRBS0JGew38I_jV1q6-J2eTng0BHT_m0HeMd5fetGGQyT9K)
 
 The IPM approach was a response to the increasingly integrated nature of creative campaigns. Organizations don’t just produce a single ad; they integrate the ad with microsites, digital content, etc. Most creative projects are a piece of a larger campaign.
 

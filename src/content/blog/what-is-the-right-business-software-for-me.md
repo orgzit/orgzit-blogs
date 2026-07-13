@@ -34,8 +34,6 @@ _“According to_ [_Gartner_](https://www.gartner.com/smarterwithgartner/speed-u
 
 As businesses who want to thrive in this digital era, the critical question must arise—How can small and midsize enterprises lead to a digital transformation journey that aligns with their unique needs and aspirations? The answer lies in making informed choices regarding the right business software.
 
-## ![](https://lh7-us.googleusercontent.com/OoWtLgxXAne8hdm8tBXsHIc0RHpcZoTXBgcNji1a7GC36Uc8faFvdsUpWxrg5gCRFQQTevly7lcty0EmB2PgmDqVfSUXOLGQnCs-yUKx9n5SWNLK-AQibdUxXUGmIvozGX3Ojh_QSLrlJBgfnmk2600)
-
 ## Repercussions of a wrong decision
 
 Every opportunity should be counted and important for better business implementation, and if you choose the wrong business software, it leads to various consequences, where other challenges may arise in the path of your success, These are—
@@ -88,8 +86,8 @@ CRM collects, organizes, and analyzes customer data from various streams of info
 4.  A CRM can help you see trends like the most significant customer, deals closed in a week, sale cycle progress, individual team members’ progress, and much more.
 5.  CRM also tracks your crucial deals and manages or assigns tasks for each customer-facing team member.
 6.  CRM technology enables businesses to control how they connect with both present and future customers for growth and make them feel connected.
-7.  CRM plays a big role in generating revenue with [transparent sales](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/) cycles and relevant insights on leads, quotes, and customer preferences.
-8.  Last but not least, CRM also enhances [consumer satisfaction](https://orgzit.com/blog/setting-crm-success-orgzit/) with timely problem-solving and streamlining numerous business procedures.
+7.  CRM plays a big role in generating revenue with [transparent sales](/blog/benefits-of-sales-crm-for-small-business/) cycles and relevant insights on leads, quotes, and customer preferences.
+8.  Last but not least, CRM also enhances [consumer satisfaction](/blog/setting-crm-success-orgzit/) with timely problem-solving and streamlining numerous business procedures.
 9.  It stores all data that allows the management to use resources optimally, brainstorm strategies, and forecast how the market will shape in the future.
 
 ### ERP (Enterprise resource planning)
@@ -103,7 +101,7 @@ ERP software is mostly used for internal business processes like operations, int
 5.  It actively manages payroll activities and enables HR executives to focus on other critical matters.
 6.  It monitors the warehouse 24/7 and organizes it in such a manner that distribution activities happen appropriately.
 
-Want to know the difference between ERP and CRM software in detail? Read [here](https://orgzit.com/blog/difference-between-crm-and-erp/).  
+Want to know the difference between ERP and CRM software in detail? Read [here](/blog/difference-between-crm-and-erp/).  
 
 ### Project Management
 
@@ -129,7 +127,7 @@ Marketing automation is used for demanding generation to implement cold email au
 5.  It collects and analyzes customer feedback to improve products and services.
 
 Want to know the difference between CRM and marketing automation software in detail? Read [here.  
-](https://orgzit.com/blog/key-values-and-guide-to-crm-vs-marketing-automation/)
+](/blog/key-values-and-guide-to-crm-vs-marketing-automation/)
 
 ### Accounting Software
 
@@ -276,7 +274,7 @@ Apart from the above differences, there is one thing common in these software an
 
 Give [Orgzit](https://support.orgzit.com/en/) a chance to clear any more doubts you have, we are happy to help!!
 
-For more related information, check out [here!](https://orgzit.com/blog/)
+For more related information, check out [here!](/blog/)
 
 Connect with us for a free consultation and expert guidance at [https://orgzit.com/book-demo/](https://orgzit.com/book-demo/)
 

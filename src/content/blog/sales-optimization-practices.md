@@ -27,11 +27,11 @@ featured: false
 
 “Prediction is very difficult, especially if it’s about the future.” – Nils Bohr.
 
-According to a Forbes Insights report by Brainshark, _organizations rank [sales productivity](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) as the most critical area of the management focus, ahead of product excellence and marketing effectiveness._
+According to a Forbes Insights report by Brainshark, _organizations rank [sales productivity](/blog/10-ways-to-manage-sales-leads-better/) as the most critical area of the management focus, ahead of product excellence and marketing effectiveness._
 
 ![sales productivity](/blog/blog-images/Sales-productivity.png)
 
-In B2B sales, you need every advantage possible to [close leads](https://orgzit.com/blog/techniques-to-close-deals-faster/) via efficient sales processes. To optimize sales, you must fit the constantly changing box of needs of your buyers/clients and go for engaging sales productivity tasks.
+In B2B sales, you need every advantage possible to [close leads](/blog/techniques-to-close-deals-faster/) via efficient sales processes. To optimize sales, you must fit the constantly changing box of needs of your buyers/clients and go for engaging sales productivity tasks.
 
 Strategy, technology, and an active sales team are the pillars of nurturing customer relationships and optimizing sales. It involves clubbing your sales process over time to win as many long-term customers as possible.
 
@@ -44,11 +44,11 @@ But do you know how to speed up the sales process and reach out to your potentia
 Sales Optimization maximizes a sales team’s financial performance over multiple time frames by optimizing how systems, processes, people, technology, and finance deploy.
 
   
-It simply means acting on what’s working and not your current sales strategy. Sales optimization is a recursive process of providing your sales team and reps with the resources they need to [close more deals](https://orgzit.com/blog/close-sales-saas-proven-concepts/). These resources may include business content, tools, knowledge, and information to sell your product or service to customers.
+It simply means acting on what’s working and not your current sales strategy. Sales optimization is a recursive process of providing your sales team and reps with the resources they need to [close more deals](/blog/close-sales-saas-proven-concepts/). These resources may include business content, tools, knowledge, and information to sell your product or service to customers.
 
 ## **10 Ways To Optimize Sales Performance**
 
-Are you curious to understand the best ways to optimize your enterprise [sales performance](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) like a pro? If yes, keep reading!
+Are you curious to understand the best ways to optimize your enterprise [sales performance](/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/) like a pro? If yes, keep reading!
 
 You would agree that optimizing any sales team is a rigorous and refined process vital for every business’s profitability. Therefore, we have curated legit tips to accomplish your long-term sales optimization goals.
 
@@ -63,7 +63,7 @@ Before you start optimizing your sales team or sale territory, you require two s
 1.  Tracking of sales data
 2.  Analyzing sales results
 
-Why so? Tracking sales [lead](https://orgzit.com/blog/what-is-lead-management/) data gives your sales team leverage to track their performance and comprehend sales process statistics on what needs to be done and what has already been done. Many options are available to track sales data, including B2B tools like web traffic analysis like [Google Analytics,](https://analytics.google.com/) mobile access updates, Sales 2.0 tools, etc.
+Why so? Tracking sales [lead](/blog/what-is-lead-management/) data gives your sales team leverage to track their performance and comprehend sales process statistics on what needs to be done and what has already been done. Many options are available to track sales data, including B2B tools like web traffic analysis like [Google Analytics,](https://analytics.google.com/) mobile access updates, Sales 2.0 tools, etc.
 
 _According to_ [_Harvard Business Review_](https://hbr.org/)_,_ **_companies with a formal sales process see up to a 28% revenue improvement versus those without._**
 
@@ -75,7 +75,7 @@ This way, your team can track customers and potential clients, where to spend mo
 
 Integrating sales and marketing is another way to optimize your sales team and increase revenue. Despite their common objectives, such as growth and income, they often have difficulty working together. For an active management sale and sales optimization, you can integrate marketing and sales by:
 
--   Creating a joint marketing/[sales funnel](https://orgzit.com/blog/what-is-sales-funnel/) to promote healthy competition and inform each team about what the other is doing.
+-   Creating a joint marketing/[sales funnel](/blog/what-is-sales-funnel/) to promote healthy competition and inform each team about what the other is doing.
 -   Marketing and sales team members plan together and bridge the gap by meeting regularly.
 -   Enable two-way lead flow from the sales team to the marketing team also. To illustrate, if a customer has not yet qualified, we can send him back to marketing, who will inform (nurture) the customers about the benefits (solving their problem) of your product/service.
 
@@ -89,7 +89,7 @@ Both teams can use CRM like [Orgzit](https://orgzit.com/customer-relationship-ma
 
 The [lead management](https://orgzit.com/lead-management-software/) optimization is crucial in generating B2B sales as it provides more qualified and long-term buyers for your product or services. Lead management is a blend of people, strategies, and technologies; shared accountability between marketing and sales. When you pay heed to your leads, you establish a strong relationship and good returns.
 
-Effectively [nurturing leads](https://orgzit.com/blog/what-is-lead-nurturing/) is an important step, and you can optimize your lead management process by:
+Effectively [nurturing leads](/blog/what-is-lead-nurturing/) is an important step, and you can optimize your lead management process by:
 
 -   Rewire the low-performing areas through continuous feedback from the existing customers.
 -   Make sure CRM is aligned with sales cycles.
@@ -115,7 +115,7 @@ A top-notch sales team makes a business successful, but your company can dwindle
 -   Provide a broad management system where new tools & techniques (to gain new clients) are readily accessible by team members.
 -   Enable healthy brainstorming & train team members to provide innovative business models for sales process optimization.
 
-These methods will enhance [team productivity](https://orgzit.com/blog/how-to-boost-team-productivity/), boost sales optimization, and motivate them to attain more significant profits.
+These methods will enhance [team productivity](/blog/how-to-boost-team-productivity/), boost sales optimization, and motivate them to attain more significant profits.
 
 ### **5\. Understand Buyer Personas**
 
@@ -125,7 +125,7 @@ Often businesses rely on numbers & stats to understand their potential buyers an
 
 The buyer personas describe your ideal/target customers, their likes and dislikes, how your products or services can fulfill their needs, what triggers the emotion of buying, what challenges they face, and how they make decisions.
 
-These detailed customer profiles enable you to address buyers’ concerns and frame strategies accordingly. Existing [customers](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/) can provide valuable insights that can be used to optimize your product, service, or sales process.
+These detailed customer profiles enable you to address buyers’ concerns and frame strategies accordingly. Existing [customers](/blog/3-ways-to-bridge-the-trust-gap-with-customers/) can provide valuable insights that can be used to optimize your product, service, or sales process.
 
 With handy buyer personas, you can convert a lead into a customer by providing a comprehensive view of their buyers’ journey, creating awareness about your product, hinting at a solution to their problem, and allowing them to decide.
 
@@ -146,7 +146,7 @@ Pipedrive Sales Report states that the **_Sales reps who use technology and_** [
 
 In addition to being time-sensitive and arduous, closing deals involves a lot of effort. If the sales reps constantly tackle banal tasks rather than selling in any given business, they stand a good chance of burnout.
 
-[Automation](https://orgzit.com/blog/workflow-automation-software/) is one driving tool that empowers your sales rep to execute and optimize sales. Several examples of CRM automation include follow-up messages, appointment reminders, personalization, referrals, etc.
+[Automation](/blog/workflow-automation-software/) is one driving tool that empowers your sales rep to execute and optimize sales. Several examples of CRM automation include follow-up messages, appointment reminders, personalization, referrals, etc.
 
 Here’s another instance – [Orgzit’s](https://orgzit.com/customer-relationship-management/) series of automated actions allows users to create time-saving [workflows](https://orgzit.com/workflow-management/). These actions enable sales reps to schedule meetings, follow-up demos, and contract signings on autopilot.
 
@@ -233,4 +233,4 @@ With a flexible and straightforward design, in-built email tracking capabilities
 Give a boost to your sales productivity today!!!
 
 Connect at [sales@orgzit.com](mailto:sales@orgzit.com) & schedule a DEMO now!  
-Stay updated with the latest ideas on sales optimization [here](https://orgzit.com/blog/)!
+Stay updated with the latest ideas on sales optimization [here](/blog/)!

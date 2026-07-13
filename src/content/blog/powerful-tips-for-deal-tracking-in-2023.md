@@ -32,7 +32,7 @@ If you’re a business owner, you know how important it is to keep track of deal
 
 A powerful deal tracking system can be an invaluable tool in managing the multiple parts of any agreement throughout its lifecycle. With that in mind, we’ve compiled some useful tips on how you can find the right deal tracking solution for your business needs.
 
-Your deal tracking process should flow naturally into your sales process. That’s because it makes you constantly aware of your deals. As a result, you’ll be ready to [**close more deals**](https://orgzit.com/blog/top-sales-closing-techniques/).
+Your deal tracking process should flow naturally into your sales process. That’s because it makes you constantly aware of your deals. As a result, you’ll be ready to [**close more deals**](/blog/top-sales-closing-techniques/).
 
 ## What is deal tracking?
 
@@ -83,7 +83,7 @@ Your leads should be collected and connected to the main deal center. At the dea
 
 ### ● Don’t try to automate fully
 
-For most firms, [automation](https://orgzit.com/blog/workflow-automation-benefits-for-business/) can save energy and time. Putting in place a good process and optimizing every component can save millions of dollars. Organizations can also boost output with this. Virtual assistants can save time and money by eliminating the need to search online.
+For most firms, [automation](/blog/workflow-automation-benefits-for-business/) can save energy and time. Putting in place a good process and optimizing every component can save millions of dollars. Organizations can also boost output with this. Virtual assistants can save time and money by eliminating the need to search online.
 
 Internet access and mobile are the only requirements for interacting with AI-powered voice assistants. Customer service and review management are a few of the many business areas that should not be completely affected by automation. The prospects for automation are virtually limitless. So, their application can produce profitable results.
 
@@ -92,7 +92,7 @@ Internet access and mobile are the only requirements for interacting with AI-pow
 There is no turning back once you master an excellent tool for deal tracking**.** Compared to the other companies, you’ll be making more money. You’ll also get free time to do something better. It may be finding leads and completing deals.
 
   
-A deal tracker or [**CRM tool**](https://orgzit.com/blog/operational-crm/) should allow you to manage many deals in a configurable sales funnel. It should also generate frequent roundups and reports of sales data. Deal tracking tools provide you with all the resources you require to nurture customers from lead to close.
+A deal tracker or [**CRM tool**](/blog/operational-crm/) should allow you to manage many deals in a configurable sales funnel. It should also generate frequent roundups and reports of sales data. Deal tracking tools provide you with all the resources you require to nurture customers from lead to close.
 
 ### ● The buying process is more complicated than your data indicates.
 
@@ -106,7 +106,7 @@ If deal tracking data does not result in improvement, it isn’t very meaningful
 
 Keep the metrics you were using before the change of data. You can assess your new procedures and prior versions to determine whether they produce improvements.
 
-### ● Keep an eye on your [workflow system](https://orgzit.com/blog/essential-workflow-system-features/)
+### ● Keep an eye on your [workflow system](/blog/essential-workflow-system-features/)
 
 In deals, there may be as many as ten internal team members. In addition to third-party accounts and attorneys, these members may even increase. So, teams should be able to create, assign, and monitor jobs with ease. They can use an efficient deal-tracking system.
 
@@ -126,7 +126,7 @@ Your company may be engaged in multiple deals at once. So, instead of using dist
 
 Remember to follow our tips for deal tracking to do this effectively. You’ll achieve a great height sooner with it.
 
-Using our [CRM or contact management system](https://orgzit.com/blog/crm-roi/), you’ll be able to manage your current customer and chase new business. Also, you can keep yourself in touch with past customers with a CRM.
+Using our [CRM or contact management system](/blog/crm-roi/), you’ll be able to manage your current customer and chase new business. Also, you can keep yourself in touch with past customers with a CRM.
 
 Not yet convinced? We’ll help you.
 
@@ -134,4 +134,4 @@ If you’re looking to track deals or leads, you can use our [CRM tool](https://
 
 You can write about your requirements to sales@orgzit.com.
 
-Also, subscribing to our [blogs](https://orgzit.com/blog/) can be another wiser and better decision.
+Also, subscribing to our [blogs](/blog/) can be another wiser and better decision.

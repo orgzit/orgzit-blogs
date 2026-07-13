@@ -72,7 +72,7 @@ Effective collaboration and communication are essential in quotation management,
 
 Reps may struggle to share quotations with other team members, leading to duplication of effort and confusion. Additionally, spreadsheets may not provide real-time updates or notifications, making it difficult to stay up-to-date on changes to the quotation or the status of negotiations.
 
-To know about the sales quotation process in further detail, [read here](https://orgzit.com/blog/how-to-automate-sales-quotations-process/).
+To know about the sales quotation process in further detail, [read here](/blog/how-to-automate-sales-quotations-process/).
 
 ## Best Practices for Creating Quotations
 

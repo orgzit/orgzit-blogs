@@ -56,7 +56,7 @@ To begin with, Mark created two team projects – _CRM_ & _Trading Operations,_ 
 
  Mark can even **add new account administrators** who will be able to perform the same functions as him. As a business owner, this allows Mark exercise extreme flexibility over the different roles played by the team members in his organization and create a digital environment that exactly reflects the real-life organization structure and processes. More power to him!
 
-**Related** – [Orgzit as a CRM](https://orgzit.com/blog/setting-crm-success-orgzit/)
+**Related** – [Orgzit as a CRM](/blog/setting-crm-success-orgzit/)
 
 ### Level 2 – Project Level: Create Multiple Apps, Exercise Robust Control
 
@@ -72,7 +72,7 @@ Since Mark strongly believes in efficiently delegating responsibilities and avoi
 
 Further, every Project Administrator can add new team members with _edit_ access for making daily changes, and vendors and _clients can be also be invited with view_ access to showcase open to all information such as a company portfolio, company policies etc. This way, Mark is able to effectively delegate and grow his business without compromising his level of control in the organization.
 
-**Related** –[Orgzit Features that Triple team Productivity](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)
+**Related** –[Orgzit Features that Triple team Productivity](/blog/orgzit-features-triple-team-productivity/)
 
 ### Level 3 – App Level: Create multiple Records, Exercise Robust Control
 
@@ -80,7 +80,7 @@ Orgzit also allows you to exercise access control at the app and _in fact every 
 
 Mark’s team has become far more productive and his business is rapidly growing with Orgzit as its centralized IT platform. He has hired a new external agency to support his operations team that takes care of after-sales and customer support services.
 
-But expansion means more collaborators and more role defining. In order to effectively manage the growing business needs, Mark has set up another project in Orgzit called _Outsourced Services_, where his team and other collaborators work on providing top-notch after-sales services and customer support. **But Mark had some reservations about opening up his company’s data with external collaborators**. Since he would now have multiple sales reps and customer support executives working from remote locations, this project has multiple apps where all reps either capture leads or work on customer tickets. **He wanted to ensure that his outsourced operations team (customer support) should only have access to the information pertinent to them and the rest should be restricted**. This is where he started using Orgzit’s super powerful ‘[**user groups**](https://orgzit.com/blog/orgzit-features-triple-team-productivity/)**’.**
+But expansion means more collaborators and more role defining. In order to effectively manage the growing business needs, Mark has set up another project in Orgzit called _Outsourced Services_, where his team and other collaborators work on providing top-notch after-sales services and customer support. **But Mark had some reservations about opening up his company’s data with external collaborators**. Since he would now have multiple sales reps and customer support executives working from remote locations, this project has multiple apps where all reps either capture leads or work on customer tickets. **He wanted to ensure that his outsourced operations team (customer support) should only have access to the information pertinent to them and the rest should be restricted**. This is where he started using Orgzit’s super powerful ‘[**user groups**](/blog/orgzit-features-triple-team-productivity/)**’.**
 
 ![Orgzit\_user\_groups](/blog/blog-images/User-Groups-804x1024.png)
 
@@ -108,14 +108,14 @@ _She has one project, one application, two user groups, and all data in one plac
 
 She has given _create and edit_ access to her team of freelancers whereas _create, edit, download, delete_ access to his in-house team. Now if she still worries about the changes made in the records, she can always check the changes made in _Orgzit History_.
 
-Related – ‘[Orgzit for Digital Marketing’](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/)
+Related – ‘[Orgzit for Digital Marketing’](/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/)
 
 Both Mark and Paola are working in perfect unison in the Orgzit environment. What can be better than this? 🙂
 
 Other Scenarios Where Orgzit’s Granular Access Control Can Be Used?
 
 -   Orgzit can be very useful for **managing your dealer network for sales**, operations and customer support. You can easily setup Orgzit in a way that permits the dealers to view & collaborate on only the information linked to their own customers and leads.
--   You can **create an applicant-tracking system** to collaborate with multiple external recruitment agencies without compromising on data security or duplication of work. In Orgzit, a flexible setup can be easily created where all job openings in your company are shared and open to all [recruitment agencies](https://orgzit.com/blog/use-orgzit-to-streamline-your-hiring-processes/) you work with and the suggested candidates are all added into a single location – which would save a lot of your internal team’s time in collating candidate information and providing interview feedback.
+-   You can **create an applicant-tracking system** to collaborate with multiple external recruitment agencies without compromising on data security or duplication of work. In Orgzit, a flexible setup can be easily created where all job openings in your company are shared and open to all [recruitment agencies](/blog/use-orgzit-to-streamline-your-hiring-processes/) you work with and the suggested candidates are all added into a single location – which would save a lot of your internal team’s time in collating candidate information and providing interview feedback.
 -   Collaborating with vendors and sub-contractors is very effectively done in Orgzit. All vendor information such as quotations, purchase orders, and technical information can be put in a single place within Orgzit powered by fine-grain access control which will ensure no vendor is able to see information about other vendors on your vendor management system.
 -   Financial Institutions, donor agencies as well as government departments can efficiently use Orgzit for setting up monitoring & evaluation frameworks. Using the **granular access control features a complete ring-fence** can be created for internal vs external partners.
 

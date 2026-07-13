@@ -37,7 +37,6 @@ Below we explain what are leads, what is **_lead management_** and why your orga
 
 ## **What are the leads?**
 
-![ lead management of leads from different sources](https://lh6.googleusercontent.com/DcP1PxkdIZ9zmYunW7WeVNDB0o2403YEuyhWLGDzn3heloFyBbqT-bZBcj5ktUtiwDlk41u806bZI_bBBTcsrjDaIKULme8xpW3RU4surQ7zardwO1pant_Gg-ua65BGbsq1PdmH)
 
 A lead is anyone or a person who has shown his interest in your organization’s product or service. A lead can find his way towards your organization through numerous sources.
 
@@ -69,8 +68,6 @@ In comparison to numerous business organizations your painting organization will
 
 ## **What is Lead Management?**
 
-![lead management ideas
-](https://lh3.googleusercontent.com/9ezyDuLkMYk-tD5CnsssI_EzrN2DpC_c0ZPu9L8HdmAZliFvPJ7LguhEUxXJebkPkRPaGTHfBEz0T6rZkWU-d6d0Lf2orYjYpcWhuvHVEFcLpHmoeKOPnK2CtYfq86GmcAD97BT0)
 
 Imagine, your painting organization has a sales team of 4 people who are responsible for everything related to sales, leads, and profits.
 
@@ -84,7 +81,7 @@ If you emphasize on this situation, why do you think this would have happened? B
 
 Now imagine, if your website gets 10 leads every hour which makes the number of leads 240 every day. 240 a day is quite a big number to track.
 
-So, there is a chance of you missing out on leads which could have been a prospect for your organization. Missing out on leads will prove to be a loss for your business, as you know no [SALES LEADS](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) no PROFIT!
+So, there is a chance of you missing out on leads which could have been a prospect for your organization. Missing out on leads will prove to be a loss for your business, as you know no [SALES LEADS](/blog/10-ways-to-manage-sales-leads-better/) no PROFIT!
 
 Why do you think you will lose leads? Because you were not able to track them.
 
@@ -102,14 +99,11 @@ Not only this, but lead management also helps you in keeping an individual’s f
 
 As I said earlier, lead management is a process, every process has some steps to follow so does lead management.  
 
-![steps involved in lead management process
-](https://lh6.googleusercontent.com/hSS77lZqIF-oKd-Gvs4Wop17RaOYd0L4eh-YGSeanMQuwNFogWhYq9yXAZoZj8MShrVzOwcmWdag1QDfsLT1zsYJQ8lNFLLO4Jq19h3BCPigK67SC2vtsQ97LQyyGtKsrEd5kcxk)
 
   
 
 ## **1\. Lead Capturing**
 
-![leads going through sales funnel](https://lh4.googleusercontent.com/4v39sB7NjWYj8ZyZqR9lzc2ABGIwWTTfgZtPA1tvKUlu7BjZdUHTZux3Sr7qc63GCClEBDONN_pOiHl4tgpAJY_sMKDuimIFgn5iqUl8lsXKssdGQmwFmWmW5Y6_wnUOy-eMBQT8)
 
 As you are a painter and you own a painting organization that delivers paintings at the customer’s doorstep,.
 
@@ -121,7 +115,6 @@ Therefore, whenever someone will land on your website, they will become a lead a
 
 ## **2\. Lead Tracking**
 
-![tracking of leads through different modes](https://lh4.googleusercontent.com/qHUGXFMxHOHLOED7KXrQlbvPwH5MSQfRF2z59Y5kHsRrpAdo6eF36XH2auqVLJ03jJhnYC1uDCPIWm-z17HLf8bYsQSy-6zFyH6I6J8Fw1pD4dz1F60Gz_phcsN2UPm7ES_HlRQW)
 
 When a lead is captured successfully, the **_Lead Management software_** used by your organization will start tracking the activities done by the leads. Activities like:
 
@@ -134,7 +127,6 @@ Therefore, _Lead tracking_ is a process of tracking the activities of your leads
 
 ## **3\. Lead Qualification**
 
-![leads turning into customers](https://lh3.googleusercontent.com/_YSX5Miw55NBrkmb4P1Rj8phd8lbMtrp4ELzuI70iHCXetk8Nx8JB06pL--Be4fH0Oct6_jhiFQiId6ug5urE5kZzSYDtfq_ItUksLOigihh8eqErS62B_qHGBLo7YxZixSmUOns)
 
 Your organization sells paintings, so the profit will come from the customers who really want your paintings and value art.
 
@@ -150,7 +142,6 @@ For instance, if a 15-year-old child lands on your website while playfully surfi
 
 ## **4.Lead Distribution**
 
-![distribution of leads to the sales team](https://lh4.googleusercontent.com/ut5dN9m7Q694kHFOLnOR_wsAffW4JxPYHwTBr0S3UMaNXOurQelYMGFdz8_MNMWvMEKPIIQAgStDneN1cDqObOh2dZ05qzkBE86DXSYg4ED5jgv2bPOzpjz_58pO2UP2bTRGy8q8)
 
 After capturing and qualifying the leads, it’s time to distribute them to your sales representative team. But there are some points you would have to consider while distributing leads.
 
@@ -166,7 +157,6 @@ In simpler words,
 
 ## **5.Lead Nurturing**
 
-![ watering leads to grow them into business](https://lh6.googleusercontent.com/Y_xq9s76Er5ZYVPgcuGCq7osGXjEL2-cZ_r1I7iIr4tYGuz_P3sLffwVkuJ6C3femU9OQTrhfDbS11IBx4Zfi77ttotC0qUDnbeEjFO1XD53tMvx-C2GQESKJQCDX--zhmAl8eyv)
 
 Now that you know your leads and prospects, it is not a compulsion that every lead or prospect will turn into a customer at that time, but at some point in the future, he can be a customer as he holds the potential to be.
 
@@ -174,7 +164,7 @@ Therefore, with such leads or prospects, your organization should maintain a goo
 
 As a result when they finally make their mind to buy any painting, your painting organization becomes their first choice.
 
-**_[Lead Nurturing](https://orgzit.com/blog/what-is-lead-nurturing/)_** is the process of maintaining a relationship with individuals and creating awareness and a good brand image of your organization and product so that you come to their mind first when they finally decide to buy.  
+**_[Lead Nurturing](/blog/what-is-lead-nurturing/)_** is the process of maintaining a relationship with individuals and creating awareness and a good brand image of your organization and product so that you come to their mind first when they finally decide to buy.  
 
 ## **Benefits of Lead Management**
 
@@ -205,7 +195,6 @@ Lead management helps you to do that with a very efficient lead tracking system.
 
 ## **How Does it Help?**
 
-![uses of lead management software](https://lh3.googleusercontent.com/aJ1B6jAN7ZYcjK-SrsbvijwHvDBrtCRj1Ij-8EK_cwdSphTtlpphVPm27ni9wGeMphfQnbHU17kOq-opWakjgSDVGa_65SrDmqetwbdm0Br0CRYSdG3YHzyN65RZw9vIku-DBPe8)
 
 Finally we have the required knowledge about what is **_lead management_** and why do we need it, **_lead management process_**, etc. Let us know how it will help your painting organization.
 

@@ -67,7 +67,7 @@ It is generally known that the bigger an organization, the longer it takes to ma
 
 #### **3\. Everyone learns more:**
 
-When there is efficient cross functional collaboration, everyone learns more, everyone’s a winner. [Collaboration brings people from different sections/departments of business](https://orgzit.com/blog/collaboration-technologies-for-productive-teams-in-2018/) together thereby encouraging the cross-pollination of ideas and knowledge. Each person would then be aware about what the other person does. They can understand their role and how it fits into the larger picture. It is an added advantage for any organization if, for instance, the Marketing coordinator understands how Finance process payment to vendors.
+When there is efficient cross functional collaboration, everyone learns more, everyone’s a winner. [Collaboration brings people from different sections/departments of business](/blog/collaboration-technologies-for-productive-teams/) together thereby encouraging the cross-pollination of ideas and knowledge. Each person would then be aware about what the other person does. They can understand their role and how it fits into the larger picture. It is an added advantage for any organization if, for instance, the Marketing coordinator understands how Finance process payment to vendors.
 
 ![Everyone learns more in cross functional collaboration-Orgzit](/blog/blog-images/35238-1024x745.jpg)
 
@@ -81,7 +81,7 @@ It is quite difficult for anyone to genuinely find fault in his/her own work. Th
 
 #### **5\. A level playing field:**
 
-While hierarchy and structure may be essential in every organization. Ideas are not exclusive to this section of the organization. Sometimes a more [multi-directional approach is required to achieve a more productive result](https://orgzit.com/blog/8-ways-to-increase-productivity-with-workflow-management/). Cross-platform collaboration ensures that not all ideas originate from the executives or the top Management. It ensures that people from any level can contribute and participate in the creation of new ideas, which increases engagement on all fronts.
+While hierarchy and structure may be essential in every organization. Ideas are not exclusive to this section of the organization. Sometimes a more multi-directional approach is required to achieve a more productive result. Cross-platform collaboration ensures that not all ideas originate from the executives or the top Management. It ensures that people from any level can contribute and participate in the creation of new ideas, which increases engagement on all fronts.
 
 In the mid-2000s, Cisco instituted a cross-functional team which included representatives from software engineering, marketing, quality assurance, manufacturing, and customer service. The aim was to heighten security for router lines. The team was made of a three-layer structure.
 

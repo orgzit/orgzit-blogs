@@ -51,7 +51,7 @@ When it comes to the activities and processes a typical project will broadly hav
 
 Therefore, to get through with the project management, learning these phases and _Project Management Methodologies_ is very important.
 
-In this article, we will focus on the key project management phases. For **_[Project Management Methodologies](https://orgzit.com/blog/project-management-methodologies/)_**, do read our detailed article on that.
+In this article, we will focus on the key project management phases. For **_[Project Management Methodologies](/blog/project-management-methodologies/)_**, do read our detailed article on that.
 
 ## **5 Phases of the project management process**
 
@@ -59,7 +59,6 @@ As mentioned above, there are five different Project Management Phases in the Pr
 
 Let us study them in detail.
 
-![5 phases of project management process](https://lh5.googleusercontent.com/m9jh70Ss81juof2qhCXAhEUfx0861TPmwulrt4aozhlECCJPfx4uYk4CS3omRgiUEiJTN2VuWOp4Wdsz65t_b4ICQX29MS6EWTKIcqQfwQQSKBhCv_IaH6Ar2N_Prr6o1sfJtEdk)
 
 ## 1.**Project Initiation**
 
@@ -85,7 +84,6 @@ It is a document that covers the key elements of the project, its key goals, del
 
 This phase comprises of:
 
-![important points to be covered in the project initiation phase](https://lh3.googleusercontent.com/lXAbRhf7L9vmUziWx6bVBDjaxch2qqT-eF1OmDrbY9uR2twuckkfwEwh3bqidgXifH-RwxIZ0XMvz-O0tzQubIIW-HsugqI6D1PhIX4b4KkGdDSMEUl9FL6fPwuolUkX-kV0nC3v)
 
 #### **Undertake the feasibility study**
 
@@ -113,7 +111,6 @@ Lastly, forming the right team and creating a statement of work (SOW) marks the 
 
 ## **2\. Project Planning**
 
-![3rd step of project management process](https://lh5.googleusercontent.com/RTbX7TkNLbVMF9qVaWVF81kY3mOaaV0eLEgRiFgxS3j-INoI5MgQlWmA4bsG5OpvN727ek0CdfDVj5RViVY_smg-uP1cNqwiUARlGKXGiaiLZ53lg5DBscXVQiYMneaTARSQ7snn)
 
 In this phase, a lot of planning related to the project happens. Now that you are aware of the objectives of the project, it is time for making a plan which everyone will follow.
 
@@ -187,7 +184,6 @@ Also, the hampering of the team’s morale can occur as a problem, so make sure 
 
 ## **4\. Monitoring and controlling**
 
-![4th step of project management process](https://lh4.googleusercontent.com/8gCtyam96Di2o1FJQOVmE2_EUdSgsyKc8F4PrF-JO728wDghxc4w429C_2LWh6WrzEGcpIyoeCp9ueU30JcX7p5VWnCqGjS2VEiEHdhAUXPjbiAr1swrkKgfsp_ItjnuHVUP_FXC)
 
 This phase is all about tracking the progress of the project as well as mapping the performance of the project. To check whether everything goes smoothly according to the project management plan, especially financial and timeline parameters is the main objective of this phase.  
 
@@ -215,7 +211,6 @@ The project is closed after it is handed over to the client, the documentation i
 
 ### Below are some steps that are important to help you close projects efficiently
 
-![Various important points to be covered in the project closure phase](https://lh3.googleusercontent.com/Dp4zt6wuBuwNn5y6JSgymWsTH2IWJDwmKhrTg93RfEMmaMF5YWaOyGndXgmtT3bUGV0S36SkGimEB7Ni4xYQANocKksVUpA_EqASDjf5fLT7zBdNEERl6-WNV4eZBpkJKUrwHrdF)
 
 #### **Analyzing project performance**
 

@@ -39,7 +39,6 @@ Now, let’s move on to understand what a real estate CRM is.
 
 ## How Can Realtors Use Orgzit Real Estate CRM?
 
-![](https://lh7-us.googleusercontent.com/oCOd_nejlnZ6rJ6qpgPXXmhy7HJfnr4rtDHno5VjQQAzWAd7uS61pUEvHYhF282ykbaDvt0CTJHJR2dHzXmmRTUtGPQXxJl1AyOYGrbhk_BKeUuIyQhHiEGvG86eBbMcMkDedWnz8pi323mJ624jXw8)
 
 With [Orgzit’s user-friendly](https://orgzit.com/customer-relationship-management/) system, realtors can easily access data from anywhere and anytime to track transactions, deals, and contracts, Let’s explore them how!
 
@@ -56,9 +55,8 @@ So,5 functions you can achieve in your real estate business with Orgzit CRM:
 
 ## Benefits of Using Orgzit CRM in Real Estate System
 
-![](https://lh7-us.googleusercontent.com/nx-qnyeh9Jl_FBsRHAn8qlQGZ0kR7IZr9o_3fs7T-GsPWOT2Gr5BqkE44LpTPJkuaKhIlc0UF10AziyIg_08wSsgvXIw4ujoKH1S9wbENm8Wk0gWFVlLRz-hk2J6LKOoBST9YaRoS5XgfKxl8IRe_U0)
 
-How real estate CRM systems can assist both realtors and customers, it is essential to highlight the [top benefits of utilizing a real estate CRM system.](https://orgzit.com/blog/benefits-of-crm-for-real-estate-business/)
+How real estate CRM systems can assist both realtors and customers, it is essential to highlight the [top benefits of utilizing a real estate CRM system.](/blog/benefits-of-crm-for-real-estate-business/)
 
 ### Data Input of Buyer and Seller
 
@@ -86,7 +84,6 @@ Realtors can utilize all this in our real estate CRM system to understand where 
 
 ## 10 Features of Orgzit Real Estate CRM
 
-![](https://lh7-us.googleusercontent.com/GzQXASd29TWCT-U6jameNi-7nLG6OjmjdAm4_AWQQ3MgsBmpab0F5lAiODfaCdjj44dLUiE0pxV1y4Agm_IevS1tPRlv81k6gGudgl_k2LvLKxomY8b6dOQEGDsGWq5QMNlJSiUQNqsY2wMGwY-QNu4)
 
 Some of the features that Real Estate CRM should have are listed below:
 
@@ -96,7 +93,6 @@ A real estate CRM monitors deals through each sales cycle stage. This feature sh
 
 ### Lead management
 
-![](https://lh7-us.googleusercontent.com/zuoVylGb8o3BloeRarfsPGtHHYuKdTUIVialTLdv-cZcD8CM1w4Ro-YWleAixFYBAnGDiuSMJK3EHawaCt9PmqQZG9cWk2An9jQIlpSRGVe7VDkJUBXU3ME90kv98Ka5RbZFl0V8S5hHlJQwQ3rH73g)
 
 Orgzit offers agile Lead Management software to help businesses eliminate lead leakage and boost revenue. Businesses can use [Lead Management Software](https://orgzit.com/lead-management-software/) to track a person’s interactions and experiences with a company.
 
@@ -142,7 +138,6 @@ Orgzit offers a Field Sales Management tool to help businesses track and manage 
 
 ### Integration with other tools and apps
 
-![](https://lh7-us.googleusercontent.com/M3TEbORDgFZgAkIXCEPVVyk35vnNwcC2JOi4y8u-gyqH8aVfKvCgoDU84Kkxr_MIgPNdXbW3QWC_20CHb5XkH-MW2Wfi5v_xUQfL7b28RyRk0_rZ0IpvV_mdpoCtfa2Y1Gnqfy3I7ExaZzSjO6Hq-xU)
 
 Integrating your real estate CRM system with third-party products such as MailChimp, Google products, Magento, and others can expand your audience by attracting those familiar with these tools. It is also crucial to consider the user portal, a central hub for all users to schedule meetings, share documents, and monitor transactions.
 
@@ -190,7 +185,6 @@ Below are some of the key use cases of real estate CRM.
 
 1.  Manage clients and properties from one place.
 
-![](https://lh7-us.googleusercontent.com/m3vRAubhzfOkPDLNEIh7AV3EQfwBKWn7Ih6xuyxaTARfnk0UUk4UUH-ZGqTe3tRhrv2O935uyASrP55H2BcNYlZO4GKGszNOSjP6z30Drkrq6or873Y-2S68hWtRdyoY_4I7GUyhXtHQaTM2fPpk1mw)
 
 Real estate CRM enables you to collaborate with associates and simplify deal sharing. You can share relevant information with your team members, such as property details, client information, and deal status, and keep everyone on the same page. It improves communication and helps to close deals faster.
 

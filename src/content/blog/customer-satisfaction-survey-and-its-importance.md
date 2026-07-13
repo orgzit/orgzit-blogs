@@ -117,4 +117,4 @@ Keep clients first, no matter what company model you pursue. Learn the skill of 
 
 However, appropriate feedback analysis is essential, for which technologies like [CRM](https://orgzit.com/) come in handy for diverse insights and reviews.
 
-[Sign up](https://orgzit.com/) today to get an idea of how you can turn your customer feedback into insights that will help make your business more successful.Stay updated with the latest ideas [here](https://orgzit.com/blog/)!
+[Sign up](https://orgzit.com/) today to get an idea of how you can turn your customer feedback into insights that will help make your business more successful.Stay updated with the latest ideas [here](/blog/)!

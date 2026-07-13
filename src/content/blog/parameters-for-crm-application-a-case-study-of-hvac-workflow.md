@@ -28,7 +28,7 @@ featured: false
 
 As a business owner, you try to manually write up your invoices and estimates and send everything over and over, which absolutely frustrating for day-to-day and your customers haven’t been receiving them in their normal inbox, maybe it goes to their spam, and that is getting super annoying for you right!
 
-That is where Customer Relationship Management (CRM) comes in. It is one of the most popular types of business [software solutions](https://orgzit.com/blog/how-will-a-crm-help-me-in-my-business-goals/), where–
+That is where Customer Relationship Management (CRM) comes in. It is one of the most popular types of business software solutions, where–
 
 1.  Your customer data is scattered all around–with CRM, everything is centralized whether you work alone or with a team of a hundred.
 2.  Lack of visibility into your sales team–by using a CRM, every customer interaction can be tracked and monitored.

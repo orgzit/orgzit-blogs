@@ -103,7 +103,7 @@ You have ten other things to do, family, children, television, and the internet.
 
 To make sure you do not get distracted, keep all the tasks and other things to do after your set working hours or during breaks.
 
-The greatest [productivity killer](https://orgzit.com/blog/5-notorious-productivity-killers-overcome/) is when you are working on some task but actually thinking about something else!
+The greatest [productivity killer](/blog/5-notorious-productivity-killers-overcome/) is when you are working on some task but actually thinking about something else!
 
 Go easy on your brain cells and work on the task at hand before moving on to something else.
 
@@ -127,7 +127,7 @@ We find ourselves working while eating, and while doing something else, we forge
 
 But that is very unhealthy for the body and mind both.
 
-As far as possible maintain clear boundaries between work and personal life. This is the [best way to manage a good work-life balance](https://orgzit.com/blog/tips-for-building-cross-functional-team/).
+As far as possible maintain clear boundaries between work and personal life. This is the [best way to manage a good work-life balance](/blog/tips-for-building-cross-functional-team/).
 
 You need to draw a line between your work and life. It is important to learn when to stop and give time to yourself, friends and family; otherwise, you are just increasing your chances of slipping into complex mental health issues, eg. anxiety as soon as your boss gets angry when you do not meet deadlines.
 

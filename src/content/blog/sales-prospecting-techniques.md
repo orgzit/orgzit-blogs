@@ -30,7 +30,7 @@ featured: false
 
 Every successful business knows the importance of lead generation, yet many struggles to find techniques that yield tangible results. As a business owner, it’s essential to understand the latest strategies for finding potential customers, nurturing relationships with them, and ultimately boosting your organization’s sales.
 
-We will talk about recent trends in [sales techniques](https://orgzit.com/blog/top-sales-closing-techniques/).
+We will talk about recent trends in [sales techniques](/blog/top-sales-closing-techniques/).
 
 There are more methods than ever for connecting with your target market. One of the **best** methods is **sales prospecting**. It’s a great way to encourage them to buy your product. However, figuring out which techniques produce the best results and which you should use in your marketing campaigns can be challenging.
 
@@ -50,7 +50,7 @@ So, we believe the buzz is justified. That’s because inbound marketing and pro
 
 Your investment in this **sales prospecting method** can pay off consistently over time. Why?
 
-It can result from a marketing strategy; a well-built [sales funnel](https://orgzit.com/blog/what-is-sales-funnel/), supportive content, and marketing automation.
+It can result from a marketing strategy; a well-built [sales funnel](/blog/what-is-sales-funnel/), supportive content, and marketing automation.
 
 ### 2\. **Social Media Outreach**
 
@@ -142,7 +142,7 @@ A lead should qualify in areas such as industry model fit, company size, revenue
 
 Keep your leads structured when you’re dealing with a huge prospecting pool or offering a service with a lengthy sales cycle. It’s also important to keep them prioritized.
 
-A marketing automation tool helps you to make the appropriate connections at the right time. You can make choices based on meaningful data. You can also [monitor deadlines](https://orgzit.com/blog/how-to-prioritize-tasks-and-meetings/) regularly and prevent potential income from sliding off your hands.
+A marketing automation tool helps you to make the appropriate connections at the right time. You can make choices based on meaningful data. You can also [monitor deadlines](/blog/how-to-prioritize-tasks-and-meetings/) regularly and prevent potential income from sliding off your hands.
 
 ### 7\. Profit from Referrals
 
@@ -196,7 +196,7 @@ It provides access to an audience that might not have been available for a long 
 
 ### 14\. Survey Old Customers For Future Opportunities
 
-The old and new [customers](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/) are beautiful things one can have. Old customers are already aware of your service or product. They were sufficiently pleased with it to become a user at some time.
+The old and new [customers](/blog/customer-satisfaction-survey-and-its-importance/) are beautiful things one can have. Old customers are already aware of your service or product. They were sufficiently pleased with it to become a user at some time.
 
 While consumers depart for a variety of reasons, no rule says you can’t bring them again. You can get them back when their needs coincide, or your product evolves to meet their demands.
 
@@ -222,4 +222,4 @@ Still in doubt? No biggies! Relax and sit back.
 
 Connect with [sales@orgzit.com](mailto:sales@orgzit.com) right away to know about our CRM tool. With this tool, we help you get new clients like never before. We also focus on generating more revenue with our [best CRM tool](https://orgzit.com/).
 
-Also, don’t forget to subscribe to our blogs for the latest updates on effective sales techniques. Click [here](https://orgzit.com/blog/) to get more information.
+Also, don’t forget to subscribe to our blogs for the latest updates on effective sales techniques. Click [here](/blog/) to get more information.

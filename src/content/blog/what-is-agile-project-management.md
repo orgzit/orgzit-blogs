@@ -80,7 +80,7 @@ Agile does value documentation, but it values working products (think software) 
 
 Negotiations are essential. It’s about the time when customers and a product manager work out the details of delivery with all the details. However, collaboration is an entirely a different feature, and it matters.
 
-Customers generally negotiate the requirements for their product and commercials, often in great detail, before any work starts. The agile methodology describes a customer who collaborates throughout the development process, making negotiations a core part of the entire [project development process](https://orgzit.com/blog/project-management-process/).
+Customers generally negotiate the requirements for their product and commercials, often in great detail, before any work starts. The agile methodology describes a customer who collaborates throughout the development process, making negotiations a core part of the entire [project development process](/blog/project-management-process/).
 
 Following an agile methodology give the team a lot of freedom to work in the best way that suits them and take decisions on the fly – but as long as they are aligned for delivering the final product the customer needs. This approach makes it easier for the project team to meet the expectations of the customer.
 

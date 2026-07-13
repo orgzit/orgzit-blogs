@@ -115,7 +115,7 @@ A business is exposed to several types of risks – legal, hazardous, strategic,
 
 **Asking yourself a question again and again about – What can possibly go wrong in the process?**
 
-This process does not necessarily have to be a dull experience for the company but instead, a positive one, wherein [teamwork and collaboration](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/) come in handy for a great brainstorming session to identify the possible risks. Such a process also encourages [cross-functional collaboration](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/) as well as learning.
+This process does not necessarily have to be a dull experience for the company but instead, a positive one, wherein [teamwork and collaboration](/blog/what-are-important-skills-for-teamwork-and-collaboration/) come in handy for a great brainstorming session to identify the possible risks. Such a process also encourages [cross-functional collaboration](/blog/accelerate-strategic-success-with-cross-functional-collaboration/) as well as learning.
 
 It is essential that you have a proper structure in place where you mention the risks and break it down into specific details. The more specific, the easier it would be to ascertain the impact of the risk and the mitigation measures you need to plan for.
 

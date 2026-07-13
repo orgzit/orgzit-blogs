@@ -32,7 +32,7 @@ Let’s take a look at today’s standard SMB – small team, global aspirations
 -   Wrike: It calls itself the cloud-based collaboration and project management software that scales across teams in any business.
 -   Bitrix 24: It calls itself the united platform for your entire business.
 
-All of the above solutions became exceedingly useful in [streamlining the business processes of an organization](https://orgzit.com/blog/7-reasons-to-adopt-cloud-based-business-automation-solutions/). But as the company size grew, it became apparent that these solution tools take more and more time to implement owing to the complex structure of the configurations. And SMBs started realizing that using all these tools together was getting increasingly difficult to manage distributed teams, organize the scattered data collected from multiple sources, share it easily, and leverage that data to make more informed decisions. The problem? **They were getting features packed complicated solutions they never asked for.** Not to include the beast of all problems – the cost for using all software together was skyrocketing.
+All of the above solutions became exceedingly useful in [streamlining the business processes of an organization](/blog/7-reasons-to-adopt-cloud-based-business-automation-solutions/). But as the company size grew, it became apparent that these solution tools take more and more time to implement owing to the complex structure of the configurations. And SMBs started realizing that using all these tools together was getting increasingly difficult to manage distributed teams, organize the scattered data collected from multiple sources, share it easily, and leverage that data to make more informed decisions. The problem? **They were getting features packed complicated solutions they never asked for.** Not to include the beast of all problems – the cost for using all software together was skyrocketing.
 
 ### **Why Is Orgzit The Best Zoho Alternative?**
 
@@ -75,7 +75,7 @@ Now consider a new user who has limited knowledge of ZOHO CRM. He might need to 
 
 See the difference? That’s just one. There are many other functions in Orgzit that are easy and ready to use.
 
-Related – ‘[Orgzit as a CRM’](https://orgzit.com/blog/setting-crm-success-orgzit/)
+Related – ‘[Orgzit as a CRM’](/blog/setting-crm-success-orgzit/)
 
 #### **Third Party Collaboration in Project Management**
 
@@ -87,7 +87,7 @@ Whereas, Orgzit’s access control structure is pretty awesome. You can define a
 
 ![Orgzit\_securtiy levels](/blog/blog-images/Security-levels-1024x640.png)
 
-Related – [Orgzit for project management](https://orgzit.com/blog/reasons-why-orgzit-is-the-best-for-project-management/)
+Related – [Orgzit for project management](/blog/reasons-why-orgzit-is-the-best-for-project-management/)
 
 #### **One Mobile Application**
 

@@ -112,7 +112,7 @@ Allow me to explain better. Consider a simple string field; its behavior can be 
 
 **♦ Required** – to indicate that this is a required piece of information
 
-It’s like having a database on which users can create their own customized information schema to a large extent – _with zero coding required so that even non-programmers can do it_. Once the information schema is defined, data can be added – referred to as [records](https://orgzit.com/blog/the-structure-of-orgzit/) in Orgzit (analogous to a row of information in a spreadsheet or a database table).
+It’s like having a database on which users can create their own customized information schema to a large extent – _with zero coding required so that even non-programmers can do it_. Once the information schema is defined, data can be added – referred to as [records](/blog/the-structure-of-orgzit/) in Orgzit (analogous to a row of information in a spreadsheet or a database table).
 
 Collaboration is always at the forefront with the ability to add tasks, discussions, and files to every record.
 

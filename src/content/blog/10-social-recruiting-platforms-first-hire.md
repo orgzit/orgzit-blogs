@@ -135,7 +135,7 @@ That being said, Angel List is a platform that uniquely allows the candidate to 
 
 The last but not the least! LinkedIn is the booming new recruitment platform which has been adding new features to its website recently. It is a platform where experienced and freshers alike flock together and search for the job they like most.
 
-\[su\_button url=”https://orgzit.com/blog/angellist-vs-linkedin-where-does-actual-talent-lie/” target=”blank” style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read AngelList V/S LinkedIn – Where Does Actual Talent Lie?\[/su\_button\]
+\[su\_button url=”/blog/angellist-vs-linkedin-where-does-actual-talent-lie/” target=”blank” style=”3d” background=”006EB7″ color=”#000000″ center=”yes” icon\_color=”#ffffff”\]Read AngelList V/S LinkedIn – Where Does Actual Talent Lie?\[/su\_button\]
 
 **Question #3 – Where do you keep track of all the candidates you’ve matched with from the above platforms?**
 

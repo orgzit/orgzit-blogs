@@ -32,31 +32,6 @@ Luckily, modern technology has lived up to the challenge, and there are many **c
 
 In this article, we will take a look at some of the most popular and effective **collaboration technologies** for **productive teams** in **2018**.
 
-    -   [4\. HeySpace](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#4_HeySpace "4. HeySpace 
-        ")
--   [Design](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Design "Design")
-    -   [5\. Sketch](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#5_Sketch "5. Sketch")
-    -   [6\. InVision](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#6_InVision "6. InVision")
-    -   [7\. Draw.io](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#7_Drawio "7. Draw.io")
--   [Documentation](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Documentation "Documentation")
-    -   [8\. Office Online](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#8_Office_Online "8. Office Online")
-    -   [9\. Google Docs](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#9_Google_Docs "9. Google Docs")
-    -   [10\. Dropbox Paper](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#10_Dropbox_Paper "10. Dropbox Paper")
-    -   [11\. Evernote](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#11_Evernote "11. Evernote")
--   [File Sharing](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#File_Sharing "File Sharing")
-    -   [12\. OneDrive](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#12_OneDrive "12. OneDrive")
-    -   [13\. Dropbox](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#13_Dropbox "13. Dropbox")
-    -   [14\. Mega](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#14_Mega "14. Mega")
--   [Project Management](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Project_Management "Project Management")
-    -   [15\. Asana](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#15_Asana "15. Asana")
-    -   [16\. Jira](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#16_Jira "16. Jira")
-    -   [17\. Orgzit](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#17_Orgzit "17. Orgzit")
--   [Source control (software)](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Source_control_software "Source control (software)")
-    -   [18\. GitHub](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#18_GitHub "18. GitHub")
-    -   [19\. BitBucket](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#19_BitBucket "19. BitBucket")
-    -   [20\. Abstract](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#20_Abstract "20. Abstract")
--   [Conclusion](https://orgzit.com/blog/collaboration-technologies-for-productive-teams/#Conclusion "Conclusion")
-
 ## **Communication**
 
 The most important aspect of team collaboration is **communication**. Unfortunately, a lot of teams are still using emails to communicate with each other. Imagine how much time is wasted reading unwanted emails, crafting replies, waiting for responses and making sure everyone concerned is CCd in. There are many great tools that can improve this process.

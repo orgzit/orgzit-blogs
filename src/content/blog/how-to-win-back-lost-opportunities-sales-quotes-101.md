@@ -109,7 +109,6 @@ Try researching and understanding your customers’ needs and desires. Create of
 
 **Example:** “If you accept the quotes in the next ten days, we will provide you with premium on-site post-sales service at no additional cost. Otherwise, the services are available at the original price.”
 
-![Roadmap to winning quotes](https://lh7-us.googleusercontent.com/MIEqPm_XjlQ5mZ_SKo3wVB7zFFCSFEMXQlzXgAx9q73WQNlVV8x0DS4l-LIiV6hvjeU_qHbjZQWamELd2PvtFPFXZp2buw9C7y72z2CjbFGuHk_UsWHB_4w5SqYFevRjSOgI8RB1IOFyvKbw1939uFo)
 
 ### 4\. Be Responsive and Follow-Up:
 
@@ -182,11 +181,9 @@ OR
 -   Utilize technology for efficiency
 -   Offer incentives or bonuses for prompt acceptance
 
-Also Read: [How to automate Sales Quotations Process](https://orgzit.com/blog/how-to-automate-sales-quotations-process/)
+Also Read: [How to automate Sales Quotations Process](/blog/how-to-automate-sales-quotations-process/)
 
-![Sample quote template](https://lh7-us.googleusercontent.com/_G5WIMxnfO1mHFoTBtfsVCa1o0MDm2rd_7HFGfmoVFXWNxHYNoPxK1lx-TielHSP1eJFa83c3HCNCR_LOsrSO6XI9GxKnLhxUwWigxly3NOeL0vWLCbP8Ha9v11m3dEBrTcsVtmsvCQzT00-TK0d9Cs)
 
-![quote template cover letter](https://lh7-us.googleusercontent.com/p7eBJ0O_eRkFDhjpO8AKd7xYp-3_nF7iSh9e2yEKCjlfzd80RBjfAAg7nxZGYGw-pTdxPqSDS7OLG3C4cIKu8zuSZ82iXBwYBSdp68Vi1InYFB8dO8544M_1daViqIPHOUk9uBuQ5kZr3MafVMUnxB0)
 
 ## **Other Factors that Make a Winning Quote**
 
@@ -217,7 +214,6 @@ Include a **buffer** in your quote. This accounts for potential price fluctuatio
 -   Use professional language, but keep the tone reassuring and affectionate.
 -   Personalize your quotations to address specific needs or challenges.
 
-![](https://lh7-us.googleusercontent.com/LvgYRfTM9j-oS6T0aVtMbxZszSw_cUIecBbf-xgHkAsS9RPBV2hKRzxIU-kxIEstRtrACfBwhEbVQ6YC75NtADGrH7HMO42LsoBqisnu_GMnoO_UR760gCjiuOzhhTJZUQAGwGA-6gj296vAYgetrMw)
 
 **_Get a free personalized consultation and learn how to automate and make your quote to win in the quickest possible way!_**
 

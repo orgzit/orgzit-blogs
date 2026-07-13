@@ -33,13 +33,13 @@ It’s time you know how inside sales differ from outside sales! Let’s begin!
 
 The inside and outside sales terms are common in the B2B industry as they work and impact differently, and the major difference lies in the concepts and functioning of the inside and outside sales mechanisms.
 
-Every organization wants to increase its profits, and this depends to a large extent on the [sales techniques](https://orgzit.com/blog/b2b-sales-techniques/) used by the sales team. The team decides which type of sales will be efficient for their business based on criteria like buyer’s persona, buyer’s journey, etc.
+Every organization wants to increase its profits, and this depends to a large extent on the [sales techniques](/blog/b2b-sales-techniques/) used by the sales team. The team decides which type of sales will be efficient for their business based on criteria like buyer’s persona, buyer’s journey, etc.
 
 Nevertheless, it is imperative to notice that employees in inside sales need to be better acquainted with the outside sales process and vice versa. We have covered the difference between inside and outside sales to help sales reps elevate your business rapidly.
 
 ## **What’s The Difference Between Inside And Outside Sales?**
 
-Inside sales vs outside sales are fundamentally different based on how you sell your product/services in alignment with sales goals. Outside sales is a conventional method of selling your services (door to door) to attract and make aware customers of your product in the market. In outside sales, your sales rep meets the prospect in person and conducts conferences and meetings to [close a deal](https://orgzit.com/blog/sales-optimization-practices/).
+Inside sales vs outside sales are fundamentally different based on how you sell your product/services in alignment with sales goals. Outside sales is a conventional method of selling your services (door to door) to attract and make aware customers of your product in the market. In outside sales, your sales rep meets the prospect in person and conducts conferences and meetings to [close a deal](/blog/sales-optimization-practices/).
 
 [According to 2019 data](https://www.linkedin.com/pulse/19-inside-sales-trends-2019-josiane-feigon/), of the 5.7 million professional salespeople in the U.S., approximately 45.5% are inside sales professionals, and outside sales reps represent 52.8%.
 
@@ -97,7 +97,7 @@ The Inside Sales Model includes
 
 ## **The Essentials Of Inside Sales**
 
-Inside sales is considered reasonably easy. However, it is quite tricky and monotonous. The best sales reps are the ones who can persuade leads to convert. Multiple factors define good inside [sales efficiency.](https://orgzit.com/blog/ways-to-improve-sales-efficiency/) They are as follows:
+Inside sales is considered reasonably easy. However, it is quite tricky and monotonous. The best sales reps are the ones who can persuade leads to convert. Multiple factors define good inside [sales efficiency.](/blog/ways-to-improve-sales-efficiency/) They are as follows:
 
 -   If you’re interested in [inside sales](https://orgzit.com/launchers/inside-sales-bpo/), be intuitive and skillful. Since the major work is done through technology (phone/call/mails), your sales rep should be approachable and hold in-depth knowledge about your business, products, services, etc. Inside sales require you to quickly solve customers’ queries and build their trust via instant solutions to their problems.
 
@@ -155,6 +155,6 @@ You can opt for any sales structure and generate revenue by making sales funnel 
 
 Sometimes, a salesperson (inside or outside) can close a million deals over a call, while other times, an impactful meeting develops the same sales results. Everything depends on your buyer.
 
-Check out our [blog](https://orgzit.com/blog/) for more articles regarding the many components of sales.
+Check out our [blog](/blog/) for more articles regarding the many components of sales.
 
 Remember to like and share!

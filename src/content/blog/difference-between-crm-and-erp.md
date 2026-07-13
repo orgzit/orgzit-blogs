@@ -114,7 +114,7 @@ The function of project management is to ensure that with the joint effort of th
 -   Finishes On-Time
 -   Stays In-Scope
 
-**Recommended Read**: “[Top 5 Project Management Tools Businesses are using in 2017](https://orgzit.com/blog/best-project-management-applications/)”
+**Recommended Read**: “[Top 5 Project Management Tools Businesses are using in 2017](/blog/best-project-management-applications/)”
 
 If you’re still confused about what does your organization need, we can give you a [quick call](https://orgzit.com/?requestdemo=1) and help you better understand your needs and see if Orgzit can be the right fit for you.
 

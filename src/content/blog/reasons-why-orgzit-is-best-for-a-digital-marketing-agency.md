@@ -25,7 +25,7 @@ featured: false
 
 If you’re part of a digital marketing agency, you know what it’s like to juggle multiple clients and projects at once. Staying on top of assignments and deadlines can be tough, more so if you’re constantly collaborating with consultants and freelancers.
 
-With the right [project management](https://orgzit.com/blog/what-is-project-management/) tool, you can keep track of all your business processes. And ensure efficiency and productivity for the entire organization.
+With the right [project management](/blog/what-is-project-management/) tool, you can keep track of all your business processes. And ensure efficiency and productivity for the entire organization.
 
 But with [so many tools to choose from](http://www.capterra.com/project-management-software/), how do you decide on the right one for your business?
 
@@ -63,7 +63,7 @@ The tool you pick should be able to maintain a comprehensive log of all communic
 
 – Orgzit lets you on-board all your agency’s verticals to one standardized operational platform. You can store project data and information from across projects and workgroups in one place. So, you can access it anytime you like.
 
-– Orgzit is super easy to set-up and can be quickly customized to match the unique requirements of your organization. It offers great [scalability](https://orgzit.com/blog/orgzit-overview-workflow-management-software/) and therefore, will continue to meet the needs of your digital marketing agency as it changes and grows.
+– Orgzit is super easy to set-up and can be quickly customized to match the unique requirements of your organization. It offers great [scalability](/blog/orgzit-overview-workflow-management-software/) and therefore, will continue to meet the needs of your digital marketing agency as it changes and grows.
 
 – Orgzit allows you to share project data and information with both internal and external team members. You can customize permission levels so that your freelancers and clients only have access to the data that you want them to see.
 

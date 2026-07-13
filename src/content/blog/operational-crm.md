@@ -40,11 +40,11 @@ So let’s start!
 
 ## **WHAT IS OPERATIONAL CRM?**
 
-When it comes to business, every company/startup aims to advance and get a hold over certain paradigms like service/sales automation, efficient task handling, [lead](https://orgzit.com/blog/what-is-lead-management/) conversion, and the ability to get customers to buy in fewer steps. For this, an Operational CRM works like a magic wand because it enables handling multi-tasks in no time.
+When it comes to business, every company/startup aims to advance and get a hold over certain paradigms like service/sales automation, efficient task handling, [lead](/blog/what-is-lead-management/) conversion, and the ability to get customers to buy in fewer steps. For this, an Operational CRM works like a magic wand because it enables handling multi-tasks in no time.
 
 [Operational CRM](https://orgzit.com/customer-relationship-management/) refers to a service that integrates sales, marketing, and service automation tools that store and process data about every interaction about & between your company and customers.
 
-The central role of an Operational CRM is to improve customer satisfaction and retention, [lead generation](https://orgzit.com/blog/what-is-lead-nurturing/), cross-selling, upselling, and develop automated and personalized communication with your customers. Operational CRM streamlines and simplifies an organization’s primary business processes.
+The central role of an Operational CRM is to improve customer satisfaction and retention, [lead generation](/blog/what-is-lead-nurturing/), cross-selling, upselling, and develop automated and personalized communication with your customers. Operational CRM streamlines and simplifies an organization’s primary business processes.
 
 Some good examples of operational customer relationship management include contact and call centers, websites, and data aggregation systems.
 
@@ -68,7 +68,7 @@ For any Operational CRM, you need to know the basic business process, which refe
 
 #### **1\. Marketing Campaigns**
 
-Whenever a company runs a [marketing](https://orgzit.com/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/) ad/campaign, it collects relevant information and data of potential leads and stores it in the Operational CRM. The software then automates emails, messages, and other relevant information about your product to interested customers. It is one of the most effective ways to retain new and existing customers in your business.
+Whenever a company runs a [marketing](/blog/reasons-why-orgzit-is-best-for-a-digital-marketing-agency/) ad/campaign, it collects relevant information and data of potential leads and stores it in the Operational CRM. The software then automates emails, messages, and other relevant information about your product to interested customers. It is one of the most effective ways to retain new and existing customers in your business.
 
 #### **2\. Sales Activities**
 
@@ -132,7 +132,7 @@ To get the best results from CRM operations, you need to implement it efficientl
 
 Let’s take the example of Operational CRM. One of its primary features is marketing automation which lets your target audience receive all updates about your services via mail, social media, text, etc., to help you develop a customer base and attain business goals.
 
-[**Sales-force Automation**](https://orgzit.com/blog/techniques-to-close-deals-faster/)– is another great advantage of a reliable CRM. It tracks leads from step one to conversion and everything in between. You don’t have to worry about updates or backlogs. An example of Operational CRM is Orgzit which lets you focus on business strategy by doing all the essentials – follow-up schedule, team communication, customer focus, and sales performance.
+[**Sales-force Automation**](/blog/techniques-to-close-deals-faster/)– is another great advantage of a reliable CRM. It tracks leads from step one to conversion and everything in between. You don’t have to worry about updates or backlogs. An example of Operational CRM is Orgzit which lets you focus on business strategy by doing all the essentials – follow-up schedule, team communication, customer focus, and sales performance.
 
 ![Sales-force Automation](/blog/blog-images/6.png)
 
@@ -148,7 +148,7 @@ Let’s take the example of Operational CRM. One of its primary features is mark
 
 By the way, ANSWER me one thing!
 
-Are you someone who has a business with questions like how to attain optimal performance, [automate workflow](https://orgzit.com/blog/workflow-automation-software/), manage routine data, build buyers’ journeys and retain customers?
+Are you someone who has a business with questions like how to attain optimal performance, [automate workflow](/blog/workflow-automation-software/), manage routine data, build buyers’ journeys and retain customers?
 
 If yes, I will tell you what the Orgzit CRM is and whether it is worth trying for your business.
 
@@ -166,6 +166,6 @@ I’ll say – “Of course, yes! Go ahead & thrive in your business! What are y
 
 Got any queries? Connect Orgzit at [sales@orgzit.com](mailto:sales@orgzit.com)
 
-Subscribe [here](https://orgzit.com/blog/) for continued learning on sales optimization today.
+Subscribe [here](/blog/) for continued learning on sales optimization today.
 
 Please don’t forget to share this post!

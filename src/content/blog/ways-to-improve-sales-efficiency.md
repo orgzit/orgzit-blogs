@@ -40,7 +40,7 @@ This article will cover the meaning of sales efficiency, why you need to priorit
 
 ## **What Is Sales Efficiency?**
 
-When you tend to sell a product, you keep a margin, known as the sale’s profit. For any enterprise, knowing the number of sales made by their sales team after investment (like marketing ads, promotions, sales process, etc.) is known as sales efficiency. It is a way to demonstrate how your sales process, strategies & team has managed to convert [leads](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) into customers.
+When you tend to sell a product, you keep a margin, known as the sale’s profit. For any enterprise, knowing the number of sales made by their sales team after investment (like marketing ads, promotions, sales process, etc.) is known as sales efficiency. It is a way to demonstrate how your sales process, strategies & team has managed to convert [leads](/blog/10-ways-to-manage-sales-leads-better/) into customers.
 
 Sales efficiency is a game-changer for many businesses as they reflect upon certain paradigms like the success rate, market penetration, customers’ needs satisfaction, and articulated; sales strategies through it.
 
@@ -80,7 +80,7 @@ One of the best ways to improve your sales team performance is through smart inf
 
 ### 3\. **Synergize sales and marketing teams**
 
-Often, a business holds everything but communication. Syncing sales and marketing [teams](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/) dramatically improve the sales process and efficiency, and they tend to engage, convert, and avoid slash in your sales operations.
+Often, a business holds everything but communication. Syncing sales and marketing [teams](/blog/what-are-important-skills-for-teamwork-and-collaboration/) dramatically improve the sales process and efficiency, and they tend to engage, convert, and avoid slash in your sales operations.
 
 ### **4\. Identify & Connect Content With The Buyer Journey**
 
@@ -101,7 +101,7 @@ The fundamental rule for most businesses today is – that the better you know y
 ## **Sales Efficiency Metrics To Start Tracking**
 
 What’s the daily goal of any sales team? It’s to convert leads and make the upselling and cross-selling every hour/minute. How do they measure lead progression? The sales efficiency metrics enable the sales team to track the impact of their sales process.  
-You would want to know them to [track your customers](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/) and level-up sales efficiency.
+You would want to know them to [track your customers](/blog/track-your-customers-with-the-help-of-crm/) and level-up sales efficiency.
 
 ### **Customer Acquisition Cost & Customer Lifetime Value**
 
@@ -123,7 +123,7 @@ This sales metric is crucial to understand/reflect your buyers’ persona who wo
 
 ![How To Boost Your Sales Efficiency](/blog/blog-images/How-To-Boost-Your-Sales-Efficiency-1.png)
 
-So these are the top 6 techniques any organization can use to boost their sales process and strategy to ensure a comprehensive sale boost & [ROI](https://orgzit.com/blog/crm-roi/).
+So these are the top 6 techniques any organization can use to boost their sales process and strategy to ensure a comprehensive sale boost & [ROI](/blog/crm-roi/).
 
 The takeaway from this article: keep a close eye on your sales efficiency and constantly look for ways to improve the sales process. Interestingly, [Orgzit](https://orgzit.com/customer-relationship-management/) holds a flair for scaling the sale efficiency of any business, improving the sales process, and closing as many leads as possible.
 
@@ -135,4 +135,4 @@ What are you waiting for?
 
 Hit your sales goals! Schedule a demo now!
 
-Stay updated with the latest ideas [here](https://orgzit.com/blog/)!
+Stay updated with the latest ideas [here](/blog/)!

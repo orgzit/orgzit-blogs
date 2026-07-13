@@ -180,7 +180,7 @@ Also, encourage your employees for virtual appointments with doctors to discuss 
 
 Productivity hits the sky when the right technical tools are employed. [As per studies](http://transformingbusiness.economist.com/technology-uks-productivity-challenge/), 90% of the CEOs in the UK vote for digital technology as a vital aspect of raising productivity standards.
 
-**Also, Read:**  [**Top 15 cloud-based tools to collaborate remotely during the coronavirus pandemic**](https://orgzit.com/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/)
+**Also, Read:**  [**Top 15 cloud-based tools to collaborate remotely during the coronavirus pandemic**](/blog/top-cloud-based-tools-to-collaborate-remotely-during-the-coronavirus-pandemic/)
 
 The potential to instantly message colleagues, assign work, share files and documents, and collaborate on shared projects reduces the reliance on emails and calls, which are huge productivity killers. In such cases, the right project management software is a major help.
 

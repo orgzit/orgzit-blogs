@@ -84,7 +84,7 @@ In the time of multiple projects, and tasks, a collaboration features of a proje
 
 If resources are not managed properly or are utilized in an inefficient manner, it can create chaos in any project leading to budget overruns and delays.
 
-Adopting the right [project management processes](https://orgzit.com/blog/project-management-process/) along with a flexible project management tool for managing a project can help you utilize the right resources and the right ideology, that works well for your team. Maximizing and making proper utilization of resources ensures you make optimal profits on every project.
+Adopting the right [project management processes](/blog/project-management-process/) along with a flexible project management tool for managing a project can help you utilize the right resources and the right ideology, that works well for your team. Maximizing and making proper utilization of resources ensures you make optimal profits on every project.
 
 ### **5\. Risk Management**
 

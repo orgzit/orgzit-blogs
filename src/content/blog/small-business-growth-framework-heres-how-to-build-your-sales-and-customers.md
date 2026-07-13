@@ -38,7 +38,7 @@ For example, extensive client profiles enable you to personalize marketing messa
 
 Other significant CRM software features include cost savings via automation, easier departmental cooperation, and enhanced performance forecasts.
 
-[A CRM tool](https://orgzit.com/blog/crm-best-practices-to-follow-in-2023/) can also help create a more focused strategy for marketing campaigns and follow-up efforts, helping raise ROI significantly.
+[A CRM tool](/blog/crm-best-practices-to-follow-in-2023/) can also help create a more focused strategy for marketing campaigns and follow-up efforts, helping raise ROI significantly.
 
 With all of these benefits, it’s easy to see why nearly every successful small business employs some form of CRM technology. It is one of the most effective strategies you may take to achieve growth.
 

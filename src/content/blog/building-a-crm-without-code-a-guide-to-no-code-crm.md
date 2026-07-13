@@ -44,17 +44,15 @@ Usually, you can use the drag-and-drop approach to make it on your own, which is
 
 No code development platforms allow for experimenting, prototyping, testing, and deployment. It is many times faster than traditional CRM platforms.
 
-## ![](https://lh7-us.googleusercontent.com/Pyv3MdGO4ROCRihO-nlWH8HV2whn6EM-X62ViErNXvghEMp9p50FAQTCuceqInSP5XsC61kaBxMQ72QuWVn_QvDjoBMSku1Fdvr9qGt45WwH3o_FYdRDp9BEzUypuKQ2Vyrxir9CYVxInBYbzhFUhMQ)
-
 ## How to build a no-code CRM?
 
 Building a no-code CRM is like **putting together a puzzle**. You have all the pieces you need, but you need to figure out how they fit together to create the finished product.
 
 In case of CRM, you need to think about the different features that you need like contact management, lead management, sales pipeline management, etc. the layout of the features, and the data that you need to store. 
 
-Once you have a [good idea of what you need](https://orgzit.com/blog/crm-best-practices-to-follow-in-2023/), you can start to build your CRM. You can either hire a developer to do all of the work for you or use a no-code platform to build it yourself. If you use a no-code platform, you will not need to write any code. Instead, you will use a point and click to build your CRM.
+Once you have a [good idea of what you need](/blog/crm-best-practices-to-follow-in-2023/), you can start to build your CRM. You can either hire a developer to do all of the work for you or use a no-code platform to build it yourself. If you use a no-code platform, you will not need to write any code. Instead, you will use a point and click to build your CRM.
 
-There are several key points you need to consider when you go with a [no-code](https://orgzit.com/blog/what-is-no-code-development/) CRM system–
+There are several key points you need to consider when you go with a [no-code](/blog/what-is-no-code-development/) CRM system–
 
 ### 1\. Style the CRM features you want
 

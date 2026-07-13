@@ -34,7 +34,7 @@ Since a client and service providers’ needs are pretty fluid, so as to keep a 
   
 These documents can be applied to a varied range of cases. However, before discussing various kinds of templates suiting different industries, which is the article’s intent, let’s talk a bit more about the significance of the same.
 
-![Service Level Agreement](https://lh4.googleusercontent.com/3UthvyQrKXIrTgnLSqo4T7vSEKcJr2OGCfQY5KViDrzoAx3rFCrc3upZqheCC-JVDeTsyyHwGb_rW3ZGfxNgLrMEUCxm401xQeSjXmh5FDclhLeYOv__LH2Z2fjM_oUcCDUWPTsP)
+![Service Level Agreement](/blog/blog-images/gdoc-2fjMoUcCDUWPTsP.jpg)
 
 ## Why is it important to have a Service Level Agreement?
 
@@ -60,7 +60,7 @@ Service level agreements define the set of requirements and other intricacies of
   
 Therefore, SLAs are a must-have if you wish to run the operations smoothly.
 
-![SLAs for operations](https://lh6.googleusercontent.com/prdfad-ZB1Yfg-uclx5gKoKqgHXnCx8_quG8vGh_Nrqbx9e_PC9kIINeDRAaNIIpWALxbC63-ij96BsXUq-D8whyR5GxvZPpTmeggnRmVWl8xGLy4pnWJO90Rdobop82kVys2FPl)
+![SLAs for operations](/blog/blog-images/gdoc-Rdobop82kVys2FPl.jpg)
 
 You’re probably convinced of the importance these documents hold in customer-provider relationships, and you have gone a step further and drafted something in the name of SLA to be sure that you aren’t lagging.
 
@@ -120,7 +120,7 @@ Let’s begin with the basic version before boiling it down to industry-specific
 
 <table><tbody><tr><td><strong>Title</strong></td><td><strong>Details</strong></td></tr><tr><td>Introduction</td><td>Define the participants of the agreementCategory of the Services the organization belongs to</td></tr><tr><td>Agreement’s Purpose</td><td>Contains the Purpose of Agreement</td></tr><tr><td>Agreement’s Goal</td><td>Specifies goal of the Agreement</td></tr><tr><td>Agreement’s Objective</td><td>Mentions objective of the Agreement</td></tr><tr><td>Duration of Agreement</td><td>Certify the Lifespan of SLAConfirm Performance Review Protocols</td></tr><tr><td>Service Provider Services &amp; Requirements</td><td>Draft a list of services to be provided. Detail the services to be provided. Enlist the service provider’s requirements</td></tr><tr><td>Customer Requirements</td><td>Enlist Customer Requirements Email the client regarding their requirements. Approval of customer requirements</td></tr><tr><td>Post Agreement Management</td><td>Confirm the methods to get in contact</td></tr><tr><td>Agreement Review</td><td>Double-check the draft of SLA</td></tr><tr><td>Handing over the Agreement</td><td>Sending emails to the customer in loopSteps for Customer Approval</td></tr><tr><td>Sending the Approved Agreement</td><td>Format the Agreement appropriately, Email the approved SLA to the customer</td></tr><tr><td>Sources</td><td>Enlist the sources</td></tr><tr><td>References</td><td>Enlist the references</td></tr></tbody></table>
 
-**Also Read,** [**3 Ways to Bridge Trust Gap with Customers**](https://orgzit.com/blog/3-ways-to-bridge-the-trust-gap-with-customers/)**.**
+**Also Read,** [**3 Ways to Bridge Trust Gap with Customers**](/blog/3-ways-to-bridge-the-trust-gap-with-customers/)**.**
 
 -   **SLA Management Checklist Template**
 
@@ -162,7 +162,7 @@ _Assuming the SLA contracts have been created and implemented, and now you are c
 
 _Going forward, here are different SLA metrics process templates for conducting periodic reviews of SLAs for the same use case, but let’s begin with the basic example first__–_  
 
-Check this out- [Bringing Management, Dealers, Salesmen & Customers Together – Orgzit Dealer CRM Solution](https://orgzit.com/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/)  
+Check this out- [Bringing Management, Dealers, Salesmen & Customers Together – Orgzit Dealer CRM Solution](/blog/bringing-management-dealers-salesmen-customers-together-orgzit-dealer-crm-solution/)  
 
 -   SLA Metrics Process Template
 

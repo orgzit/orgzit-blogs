@@ -41,7 +41,7 @@ SGS has a working team of close to 40 people serving a host of 500+ customers. T
 
 In their line of business, things change all the time and emailing about employees’ work schedules, tasks they are working on, project timelines, or product brochures and their availability needed robust tracking. Depending upon manual processes risked employees having inaccurate information.
 
-**Related read:** [Spreadsheet Alternative | Top reasons why Orgzit works better than Spreadsheets](https://orgzit.com/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/)
+**Related read:** [Spreadsheet Alternative | Top reasons why Orgzit works better than Spreadsheets](/blog/spreadsheet-alternative-top-reasons-why-orgzit-works-better-than-spreadsheets/)
 
 **Tedious collaboration process:** Lack of transparency in their business operations was costing SGS their business. Leads were getting lost. Team had no idea who was working on what. Greatest impact was borne by after-sales department. The operations went haywire as the team started losing its alignment to the business vision and mission.
 

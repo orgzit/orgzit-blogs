@@ -33,7 +33,7 @@ Amusingly, a few months before the HBR article, Quartz came up with the headline
 
 Recommended Test: [Clance IP Scale Test for Imposter Syndrome](https://paulineroseclance.com/pdf/IPscoringtest.pdf)
 
-TEDx speaker and coach Melody Wilding took a dig at the subject in fast company by categorizing this universal phenomenon into subgroups in [her article](https://orgzit.com/blog/growth-hackers-dilemma-imposter-syndrome/) titled
+TEDx speaker and coach Melody Wilding took a dig at the subject in fast company by categorizing this universal phenomenon into subgroups in [her article](/blog/growth-hackers-dilemma-imposter-syndrome/) titled
 
 _“The Five Types Of Imposter Syndrome And How To Beat Them”._ She brilliantly put her point forth by breaking down the 5 personalities into an array of questions, which if answered in tandem, establishes the hold of the syndrome over him/her.
 
@@ -69,7 +69,7 @@ Somewhere between the first and the second step, my team and I struggled in crea
 
 After a few days, we combined notes and came up with an amazing storyboard. It looked something like this –
 
-[![Orgzit\_Video](/blog/blog-images/Orgzit-Storyboard-578x1024.jpeg)](http://orgzit.com/blog/how-to-create-a-great-product-video/)
+[![Orgzit\_Video](/blog/blog-images/Orgzit-Storyboard-578x1024.jpeg)](/blog/how-to-create-a-great-product-video/)
 
 With an awesome voice over done one of the fiverr guys, our video was well received within the startup community in India. And we started getting more demo requests than expected. Right then, I knew we had created value for the customers with that video.
 
@@ -119,7 +119,7 @@ It isn’t easy in the beginning. It’s important to recognize these feelings, 
 
 Essentially, I began talking to other people and started _asking for advice._ The best way to remove self-doubt about anything is to simply ask other people about it. I had a brief talk with a couple of friends of mine who were in the software selling business and shared what I felt. And voila, I wasn’t the only one! Looks the imposter syndrome is actually becoming a global phenomenon that is taking shape slowly.
 
-Recommended Read – [How Orgzit serves as a excellent CRM for your sales cycle](https://orgzit.com/blog/setting-crm-success-orgzit/)
+Recommended Read – [How Orgzit serves as a excellent CRM for your sales cycle](/blog/setting-crm-success-orgzit/)
 
 **Just to sum it up….**
 

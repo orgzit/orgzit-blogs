@@ -71,7 +71,6 @@ A CRM especially designed for manufacturers’ reps!
 
 From keeping track of customers and chasing leads to juggling between jobs and getting sales insights, the right CRM can make all these tasks smoother and more manageable. 
 
-![](https://lh7-us.googleusercontent.com/5rl1RXlKg_qlJnb9DvWzphqCSUQ0LtzJO1nl06GkdJxpHjtOJxRtzKep07Ak_pMFFu8qSbEy2hpkAYEZGzod4KWRRKHEsZuTAYTaNmoDKo-lPslWvn4UamqLyzTSVjdu0BMKqDqMTwuM02xgfMumf0g)
 
 Let’s learn from Jane about the 12 ultimate essential features that a CRM for manufacturers’ reps must have in order to actually make a difference.
 

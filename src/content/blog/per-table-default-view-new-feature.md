@@ -23,7 +23,7 @@ draft: false
 featured: false
 ---
 
-We got very encouraging feedback from our users for the [Record Views](https://orgzit.com/blog/introducing-record-views-quickly-see-relevant-columns/) feature. Thank you! Along with it, we also got some great ideas on how to improve the View feature. One of these ideas was to be able to set different a default view on Orgzit Tables so that users saw the most appropriate view right out of the box. Our team said “Great idea, let’s do it!”
+We got very encouraging feedback from our users for the [Record Views](/blog/introducing-record-views-quickly-see-relevant-columns/) feature. Thank you! Along with it, we also got some great ideas on how to improve the View feature. One of these ideas was to be able to set different a default view on Orgzit Tables so that users saw the most appropriate view right out of the box. Our team said “Great idea, let’s do it!”
 
 We are excited to share the release of a new feature on Orgzit – **Default View**. With this feature, you can now set up a different default view for your Orgzit Tables. Once the workspace administrator sets the default view, it is applicable to all users by default.
 

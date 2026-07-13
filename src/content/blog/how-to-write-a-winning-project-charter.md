@@ -33,7 +33,7 @@ That’s clearly a smarter way to approach things!
 
 If you’re reading this today and are responsible for defining everything about a project for a business, you’ll get everything you need to know to be able to write a Winning Project Charter!
 
-This guide will get you covered from the basics of a Project Charter to some mind-blowing tips that will help you successfully embed a project charter for a better [project management process](https://orgzit.com/blog/project-management-process/) in action.
+This guide will get you covered from the basics of a Project Charter to some mind-blowing tips that will help you successfully embed a project charter for a better [project management process](/blog/project-management-process/) in action.
 
 So, without further ado, let us get started.
 
@@ -121,7 +121,7 @@ Who does not like to be heard?
 
 Discussions are underrated and thereby not valued enough. However, a great brainstorming session with your team before planning the Project Charter gets everyone on board and makes everyone believe that their opinions are valued.
 
-Such a discussion helps to build trust and bring out the best effective ways of doing the project. Not just that, a discussion encourages for an [accelerated Strategic success with Cross-Functional Collaboration.](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/)
+Such a discussion helps to build trust and bring out the best effective ways of doing the project. Not just that, a discussion encourages for an [accelerated Strategic success with Cross-Functional Collaboration.](/blog/accelerate-strategic-success-with-cross-functional-collaboration/)
 
 The team needs to trust their manager and a manager who values everyone’s opinion and is open to have a creative discussion is encouraged by his team. This boosts the team’s morale too and makes sure that everyone is on board and is willing to collaborate to fulfil a shared goal.
 
@@ -151,7 +151,7 @@ Come up with a backup plan if things don’t go as planned or if some new threat
 
 The Stakeholders always have a lot of doubts and questions in mind regarding the project. The way to take them into confidence is by answering all of their questions in your Project Charter.
 
-Go the extra mile and be as precise as you can be. Do not just go by taking their doubts by one simple answer but give the reasoning behind and give them numbers to analyze and justify. Make sure to cover all the [project management phases.](https://orgzit.com/blog/project-management-process/)
+Go the extra mile and be as precise as you can be. Do not just go by taking their doubts by one simple answer but give the reasoning behind and give them numbers to analyze and justify. Make sure to cover all the [project management phases.](/blog/project-management-process/)
 
 Some of the questions that can be answered in your Project Charter are:
 

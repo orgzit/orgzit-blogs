@@ -27,7 +27,7 @@ featured: false
 
 Imagine you own a company that sells a type of software to different business organizations. You have a business organization, what for? For-profits, right?
 
-Remember, no leads, no profits? If you don’t remember, go to our [**_lead management_** article](https://orgzit.com/blog/what-is-lead-management/), you will get to know its importance.  
+Remember, no leads, no profits? If you don’t remember, go to our [**_lead management_** article](/blog/what-is-lead-management/), you will get to know its importance.  
 
 If you don’t know which lead is qualified enough to become a prospect or qualified enough for you and your sales team to invest the time on it, how will you make business? You will make business, but you will have to invest a lot of time in it.  
 
@@ -41,7 +41,6 @@ In this article, I will tell you more about **_lead scoring._**
 
 ## **What is lead scoring?**
 
-![<img decoding=](https://lh6.googleusercontent.com/1G98N7jd94gm5PwqMMRJ_zNefZS7BSNINDkFwZY4gkAg_EQWdstcQ3bWgjAmECxTNS3hE71UIBRIWgrdG1zL-FpjhEpfW8cbTKTs_v8YYYadB8NLOeL-zuzwbx_RrJzLO9kDIRqy)
 
   
 It is a system or a methodology of assigning a rank to the leads according to the chances of the customer’s will and readiness for buying your product and services.
@@ -156,7 +155,7 @@ If any lead has subscribed to receive emails from your company, your sales team 
 
 On the other hand, open and clickthrough rates will give your sales team a better idea of their interest level.  
 
-In the process of **_[Lead Nurturing](https://orgzit.com/blog/what-is-lead-nurturing/),_** your sales team would want to know who is opening every email.
+In the process of **_[Lead Nurturing](/blog/what-is-lead-nurturing/),_** your sales team would want to know who is opening every email.
 
 And who always clicks on the offer promotion emails. This way they can divert their complete attention towards the opportunities that most actively engage with your brand.
 
@@ -176,7 +175,6 @@ You might also know that by the email address a lead uses. If you only sell to e
 
 ## **How to deal with more than one lead?**
 
-![<img decoding=](https://lh5.googleusercontent.com/WcNK3qR9UGDcUNd_EIUhoRrNiAn5sxm6g2Uhahh7xRqxz7ocgNc6ePPjelkHZBcLn62wdKAmHVkN4yF1IZhiv-ze7psOHE_VGlQOkAGDQsnnuDfjI1qkFTiEtJxt8dDE5h5OoCwo)
 
   
 If your software selling company just has one or two core customers right now and no new leads, it becomes easy to manage your sales and you do not need to rank or score your leads.
@@ -221,7 +219,6 @@ These are some examples that can help you in managing more than one lead score.
 
 ## **Ways to calculate a basic lead score**
 
-![<img decoding=](https://lh5.googleusercontent.com/t1IWltDZrkEq9ubqqDTG2-NTivBKyZxWDh9yjdhg2qLyphhZtnAdqXI3gfTqccnPluDTJpdcNcwUpH-MSfbAwRc0cwv3ieXr5F2KXYhjgx9h2Fm_Bucb5dGVU0BcFVx9idpHYlYy)
 
 ### 1.**Manual lead scoring**
 

@@ -30,7 +30,7 @@ Managing the tactical aspects of construction systems can be challenging sometim
 
 Crafting a beneficial CRM in construction isn’t just about completing multiple projects—it’s about translating your client’s vision into a tangible reality that involves a myriad of risk assessments, timely project delivery, safety compliance, labor adherence, and adherence to project timelines.
 
-In this guide, we’ll explore relevant things you need to know about construction CRM. This includes guidance on selecting the right system for your specific requirements and analyzing your [CRM investment](https://orgzit.com/blog/crms-in-market-place-a-real-buying-dilemma/).
+In this guide, we’ll explore relevant things you need to know about construction CRM. This includes guidance on selecting the right system for your specific requirements and analyzing your [CRM investment](/blog/crms-in-market-place-a-real-buying-dilemma/).
 
 ### Implementations Norms,
 
@@ -119,8 +119,6 @@ Certainly! When it comes to marketing for a construction Customer Relationship M
 -   Calculate the CLV to understand the long-term value of your customers.
 -   Use this information to allocate resources for customer acquisition and retention efforts.
 
-## ![](https://lh7-us.googleusercontent.com/Oi8PYteia0QNxjQajCBZ2S46NmvvOh7ce9kVLW54ngR-3lLa1vgUINFU_QHymsrOgm1HAh7RxdLJNlUndFN_W_Zv4xZ8sFuRTr0k7Pyx263M-80zRSiy0YFYOUqeAXshSp8jz-HgfI9OpEhcm-nRP28)
-
 ## Top Use Cases of A CRM—Replace your Challenges with Opportunities
 
 Here are some of the top use cases of using a CRM that replaces your challenges into opportunities—where
@@ -155,7 +153,6 @@ Here are some of the top use cases of using a CRM that replaces your challenges 
 
 ✔ With CRM, construction businesses can use CRM software to generate [comprehensive and insightful reports](https://orgzit.com/workflow-management/) on their sales pipeline, project progress, and customer interactions.
 
-![](https://lh7-us.googleusercontent.com/7B_o52KcL6cXHtbYxXp_GDgUXk-6k6hVrypGHX4Ck0j7GRr0UaWmuZmLiOSxr_V7muaThNOcZTXUlqFxklYWGqlXiaG7ey___Ckij9NYz1P7N5Y27_dxtvu3zQdga9ipRnrHwyneQqYw2v8ZB2wlXPM)
 
 ## How can a Construction Project Manager—Map project’s success with just 4 easy steps
 

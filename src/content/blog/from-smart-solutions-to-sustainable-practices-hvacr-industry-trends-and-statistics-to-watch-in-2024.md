@@ -127,7 +127,7 @@ Sustainability is critical in the HVACR industry to reduce environmental effects
 
 ****▪️ What is the importance of integrating CRM systems and HVACR automation?****
 
-[CRM integration](https://orgzit.com/blog/how-crm-will-work-with-other-software-crm-integrations/) improves client interactions, individualized service offers, and predictive maintenance practices in the HVACR industry.  
+[CRM integration](/blog/how-crm-will-work-with-other-software-crm-integrations/) improves client interactions, individualized service offers, and predictive maintenance practices in the HVACR industry.  
   
 
 ****▪️ What does the future hold for HVACR technology?****

@@ -53,7 +53,6 @@ The calculation is: NPS Score =% of Promoters –% of Detractors. A high NPS sco
 
 -   **_Expansion Revenue:_** This metric refers to the amount of revenue a company generates from existing customers through upselling and cross-selling.
 
-![](https://lh7-us.googleusercontent.com/ymm1wiEtPoRxiNYdaDNkILiip-uiCeGw8s-Rnd22VkjW1aFs7S5js-6NH5PAJj9e97rTaQyqoJxZ1DSMfAL96MWR2tO8dv_IvTybJ-kvm8hbYs5XcECSainwvo4ny7qH8Jg2U8In8riko-z2gaUOAhI)
 
 ### **Why are business goals important?**
 
@@ -89,7 +88,6 @@ Developing a solid business objective is critical for your organization because 
 
 These issues, when combined, create roadblocks for SMBs in achieving their business goals, affecting their competitiveness and ability to adapt to fast-paced business environments.
 
-![](https://lh7-us.googleusercontent.com/Zr0tJ56VNR_hVExm0pF3vzpvTG-EPBXImT7-O594u7iMwUk5HhQKDEfRjzmfd4TGwKZSIEJ4lYSQOiCk_XeDwKDfHJxLSzsA9iKlq2FSMVm2pmDGaUXpIYwWzwU25fAXr1Kp3m4m8O5G8gt-2q8vXDM)
 
 ### **How can implementing a CRM help you achieve these goals?**
 
@@ -123,9 +121,9 @@ Thus, implementing a CRM system transforms the SMB’s operations by addressing 
 
 To further understand what implementing a CRM can do for your small business and how to choose the right one, read here:
 
--   [30 things CRM can do for your small business!](https://orgzit.com/blog/increase-your-profitability-by-up-to-50-percent-30-things-crm-can-do-for-your-small-business/)
+-   30 things CRM can do for your small business!
 
--   [What is the right business software for your small business?](https://orgzit.com/blog/what-is-the-right-business-software-for-me/)
+-   [What is the right business software for your small business?](/blog/what-is-the-right-business-software-for-me/)
 
 ### **Aligning CRM Features with Industry-Specific Goals**
 
@@ -147,7 +145,6 @@ A comprehensive approach to CRM implementation contributes significantly to the 
 
 To learn more about CRM, its implementation, and how it can solve all your business problems, connect with us for a free demo session at [orgzit.com/book-demo](http://orgzit.com/book-demo)
 
-![](https://lh7-us.googleusercontent.com/ShMqj8ddrXagZ84j6AYybpaNlx9P-zeWOf394BjpeuyaKlIGuD8GgEHQj9YqJm-2v_Xwo2PKe-Wd0Cqe8A9pbNgIZX6r4aId_Z2jVkyeXUVbvV1gWmO53axrxeYdnRmjVDyzjkIZiZasroeyqTkH4w8)
 
 ### **FAQS**
 

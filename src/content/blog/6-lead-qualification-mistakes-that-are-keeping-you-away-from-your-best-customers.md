@@ -70,7 +70,6 @@ Having a clear sales process and a sales pipeline in place is important, as it s
 
 Setting up a strategy will take some time as it involves a lot of exploration, but you can get help from **Lead Qualification Frameworks**, which are a set of instructions and rules for salespeople to use when qualifying leads.
 
-![](https://lh7-us.googleusercontent.com/9FT8uTXrFFSW7mJWQcl5ZC-nU4NkW2GzYCmHeg48lWsoqRcbc0fl_ZYtUxRaQIWpI48UVAGVzOiLFZBwkyWYX5DqqcWisXFWxitFW2wYHiV923DOA_kN_4wQG4y571JqQmTiApD6xJMeeCWwJMSXfj8)
 
 There are mainly five lead qualification frameworks:
 
@@ -97,7 +96,7 @@ Some benefits of lead scoring are:
 -   Revenue forecasting
 -   Better sales and marketing alignment
 
-Read more about the [best lead-scoring software here](https://orgzit.com/blog/7-best-lead-scoring-software/).
+Read more about the [best lead-scoring software here](/blog/7-best-lead-scoring-software/).
 
 You can also make your life much easier with Orgzit’s **auto-score lead** based on qualification criteria.
 
@@ -118,7 +117,6 @@ Businesses can optimize lead qualification procedures by implementing a coherent
 
 To help you address these issues and establish a lead qualification process aligned with your business goals, [Orgzit CRM](https://orgzit.com/) provides customized solutions for [acquiring, tracking, and scoring leads](https://orgzit.com/lead-management-software/). 
 
-![](https://lh7-us.googleusercontent.com/a9b3TfjgrNMgbbIuXl600oS0nYPsEtKcDBgU0BQULiPMYher7hk5DyoNptw7IiLyP8NLuBM-9zrf0CC1hJe0GffL3-e-7h56U2V5I8G89vprB8cswScBiMlXdcBvKVGP5q8Gjd0xl939oNmX2zbSqgQ)
 
 Transform your leads into loyal customers with our tailored solutions. [Schedule your free consultation now](https://orgzit.com/book-demo/)!
 

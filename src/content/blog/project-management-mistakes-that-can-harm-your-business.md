@@ -66,7 +66,7 @@ While hiring a team, get a mixed bag of different roles based on values, persona
 -   For evaluating results, and keeping the project on track, get process-focussed people.
 -   For keeping the team in high-spirits, get energetic and risk-taking individuals.
 
-**Check this out-** [**What are 3 important skills for Teamwork and Collaboration?**](https://orgzit.com/blog/what-are-important-skills-for-teamwork-and-collaboration/)
+**Check this out-** [**What are 3 important skills for Teamwork and Collaboration?**](/blog/what-are-important-skills-for-teamwork-and-collaboration/)
 
 ### 3\. Inadequate Amount of Resources
 
@@ -170,7 +170,7 @@ All the problems mentioned above boil down to this mistake. Unclear objectives, 
 
 Good Communication is the heart of a project. By good communication, we not only refer to status updates but a healthy bond with the members. Pick a day of the week and discuss the obstacles for better engagement. This way, the team would be motivated to work smoothly. Formulate a communication plan for informing the stakeholders time-to-time.
 
-**Also Read,** [**Top Communication Mistakes to avoid with your Remote Team**](https://orgzit.com/blog/top-communication-mistakes-to-avoid-with-your-remote-team/)
+**Also Read,** [**Top Communication Mistakes to avoid with your Remote Team**](/blog/top-communication-mistakes-to-avoid-with-your-remote-team/)
 
 ### 14\. Breathing under the neck of team members
 

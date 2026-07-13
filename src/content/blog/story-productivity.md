@@ -80,7 +80,7 @@ Now since my growing association with Orgzit has made me an acute judge of the s
 2.  Our customers are using it as their customizable ERP for quite a number of use cases
 3.  They like it
 
-I think all the ‘[**daily productive task activities**](https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/)’ blogposts that you read, you might be directly able to implement them in Orgzit.
+I think all the ‘[**daily productive task activities**](/blog/8-best-practices-for-task-management-with-orgzit/)’ blogposts that you read, you might be directly able to implement them in Orgzit.
 
 I think I have made my point.
 
@@ -88,6 +88,6 @@ If you think this is something that might be of some help to increase your daily
 
 P.S – I think Orgzit is a fresh breath in the overcrowded town of productivity.
 
-[![](/blog/blog-images/Co-innovation.png)](https://orgzit.com/blog/startups-pay-attention-co-innovation/)
+[![](/blog/blog-images/Co-innovation.png)](/blog/startups-pay-attention-co-innovation/)
 
-We are high on [co-innovation](https://orgzit.com/blog/startups-pay-attention-co-innovation/), and we follow its ethics as religiously as a pundit. Come join us 🙂
+We are high on [co-innovation](/blog/startups-pay-attention-co-innovation/), and we follow its ethics as religiously as a pundit. Come join us 🙂

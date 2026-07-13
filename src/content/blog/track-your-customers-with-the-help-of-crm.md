@@ -48,7 +48,7 @@ _90% of companies are now using at least two lead enrichment tools to learn more
 Now let’s understand **what all CRM can do for your business:**
 
 -   With CRM software, you can rule the client tracking, which will elevate your business relationships and processes. Also, it can enhance your communication with the customers and their views about your services.
--   With most CRM, including [Orgzit](https://orgzit.com/blog/setting-crm-success-orgzit/), you can exceed the best customer support. You can align your sales & management and track their progress at any time of the day. On top of this, you can build agile teams without complex configurations and customize them as per the clients.
+-   With most CRM, including [Orgzit](/blog/setting-crm-success-orgzit/), you can exceed the best customer support. You can align your sales & management and track their progress at any time of the day. On top of this, you can build agile teams without complex configurations and customize them as per the clients.
 -   It boosts sales and provides an overall satisfying customer experience. Also, it helps to acquire, retain, and effectively manage [leads](https://orgzit.com/lead-management-software/) and customers.
 -   It _tracks customer interaction_ and uploads every customer information individually or in bulk.
 -   Further, you can define and segregate your potential and high-value clients through solid communication and well-crafted campaigns on board!
@@ -164,6 +164,6 @@ So without any ado, give [Orgzit](https://orgzit.com/) a try!
 
 Get in touch with us today to know more about CRMs or other practices to level up/effectively run your business.
 
-Stay updated with the latest ideas [here](https://orgzit.com/blog/)
+Stay updated with the latest ideas [here](/blog/)
 
 Please don’t forget to share this post!

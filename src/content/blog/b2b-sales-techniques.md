@@ -50,7 +50,7 @@ Throughout the entire sales process with the prospect companies, you will encoun
 
 ![Research your target customers and B2B prospects](/blog/blog-images/Research-your-target-customers-and-B2B-prospects-1024x576.png)
 
-If you want to crack a B2B [sale deal](https://orgzit.com/blog/techniques-to-close-deals-faster/), you must learn the art of understanding your target customers and prospects. How? By using B2B sales tips, you can jot down why and how your product/service can serve their problem and solve their business hurdle. When you know what they want, you can convince them why you are the solution! Simple, isn’t it?
+If you want to crack a B2B [sale deal](/blog/techniques-to-close-deals-faster/), you must learn the art of understanding your target customers and prospects. How? By using B2B sales tips, you can jot down why and how your product/service can serve their problem and solve their business hurdle. When you know what they want, you can convince them why you are the solution! Simple, isn’t it?
 
 ### **2\. Know your customer’s business and follow their marketing pattern**
 
@@ -68,19 +68,19 @@ It is difficult to stand out without rock-substantial proof in any competitive m
 
 ![Listen to your customers' needs.](/blog/blog-images/Listen-to-your-customers-needs..jpg)
 
-Someone has rightly said that communication is the key to any relationship, which is also applicable in B2B business. Paying more attention and gaining essential input about your customers’ needs is always beneficial. If you provide the relevant flow of information and let the potential buyer provide inputs from their end, there’s always a good chance of [sale](https://orgzit.com/blog/10-ways-to-manage-sales-leads-better/) conversion. One of the famous business-to-business sales tips includes – Before putting in your views, listen to what they have to say!
+Someone has rightly said that communication is the key to any relationship, which is also applicable in B2B business. Paying more attention and gaining essential input about your customers’ needs is always beneficial. If you provide the relevant flow of information and let the potential buyer provide inputs from their end, there’s always a good chance of [sale](/blog/10-ways-to-manage-sales-leads-better/) conversion. One of the famous business-to-business sales tips includes – Before putting in your views, listen to what they have to say!
 
 ### **5\. Be an expert on your products/services.**
 
 ![Be an expert on your products/services.](/blog/blog-images/Be-an-expert-on-your-products-1024x576.jpg)
 
-It is imperative to note how championing your product is a crucial B2B sales technique. Suppose I’m interested in your product and have certain expectations. As a product expert, your primary role is to showcase the pros/efficiency/credibility through an impactful demo and convince you how your product can solve your problem. And Voila! I will trust you with my business; this is how your expertise will upgrade your [agile](https://orgzit.com/blog/what-is-agile-project-management/) business.
+It is imperative to note how championing your product is a crucial B2B sales technique. Suppose I’m interested in your product and have certain expectations. As a product expert, your primary role is to showcase the pros/efficiency/credibility through an impactful demo and convince you how your product can solve your problem. And Voila! I will trust you with my business; this is how your expertise will upgrade your [agile](/blog/what-is-agile-project-management/) business.
 
 ### **6\. Use a Customer Relationship Management**
 
 ![Customer Relationship Management](/blog/blog-images/Customer-Relationship-Management.jpg)
 
-To be pitch-perfect, you must know how to track your potential customers, needs, and expectations. And how to achieve that? By using a [CRM](https://orgzit.com/blog/track-your-customers-with-the-help-of-crm/) system as part of your B2B sales process. A CRM system is the fast, easy and advanced version to transcend your sales because it integrates and channels customer data (like emails, calls, messages, sales pitches, etc.) in one place. It allows you and the team to frame the sales strategies as per the customers instantly.
+To be pitch-perfect, you must know how to track your potential customers, needs, and expectations. And how to achieve that? By using a [CRM](/blog/track-your-customers-with-the-help-of-crm/) system as part of your B2B sales process. A CRM system is the fast, easy and advanced version to transcend your sales because it integrates and channels customer data (like emails, calls, messages, sales pitches, etc.) in one place. It allows you and the team to frame the sales strategies as per the customers instantly.
 
 ### **7\. Sell Business Solutions And Outcomes**
 
@@ -104,7 +104,7 @@ To be the best, you must learn how to be one. In B2B sales, it is considerate to
 
 ![Qualify your leads](/blog/blog-images/Qualify-your-leads-1024x640.png)
 
-It is a monumental task to convert [leads](https://orgzit.com/blog/what-is-lead-nurturing/) in B2B, but you should know how to be patient and cross-check prospects occasionally. For this, set a concrete goal for the business, develop a mutual plan, identify the challenges that will arise, and set a timeline to achieve the target. After that, determine the budget of your potential customers, figure out the specific need you have to cater to, and game up your sales!
+It is a monumental task to convert [leads](/blog/what-is-lead-nurturing/) in B2B, but you should know how to be patient and cross-check prospects occasionally. For this, set a concrete goal for the business, develop a mutual plan, identify the challenges that will arise, and set a timeline to achieve the target. After that, determine the budget of your potential customers, figure out the specific need you have to cater to, and game up your sales!
 
 ## **FINAL WORD**
 
@@ -116,4 +116,4 @@ Give a boost to your sales productivity with [Orgzit](https://orgzit.com/) today
 
 Connect at [sales@orgzit.com](mailto:sales@orgzit.com)
 
-Subscribe to the [Orgzit Blog](https://orgzit.com/blog/) feed for continued learning on sales optimization! Share your thoughts and goals in the comments below.
+Subscribe to the [Orgzit Blog](/blog/) feed for continued learning on sales optimization! Share your thoughts and goals in the comments below.

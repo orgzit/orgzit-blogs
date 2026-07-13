@@ -37,7 +37,7 @@ Investing in CRM solutions and using them correctly are two separate things. CRM
 While deciding on which CRM best practices your company should follow, remember to consider the 3 Ps of successful CRM practices. These include:
 
 -   **Planning:** Ensure a strategic plan on how your CRM system should work.
--   **People:** All your CRM systems and practices must revolve around [customer satisfaction.](https://orgzit.com/blog/customer-satisfaction-survey-and-its-importance/)
+-   **People:** All your CRM systems and practices must revolve around [customer satisfaction.](/blog/customer-satisfaction-survey-and-its-importance/)
 -   **Platform:** Your company must use a high-quality platform that meets its unique customer-related needs.
 
 ## **Importance of using a good CRM system**
@@ -46,7 +46,7 @@ While deciding on which CRM best practices your company should follow, remember 
 
 CRM systems and practices hold great importance for any business that wants to expand its network. CRM system helps store and manage customers’ data smartly. It adds customer data to customer service software that contact agents can use to personalize customer service for each customer. Using the information regarding customers’ expectations and pain points, agents can engage with customers most pleasingly.
 
-Thus, with CRM best practices, the business’s marketing teams will be able to attract new customers, and [sales teams will close more deals](https://orgzit.com/blog/top-sales-closing-techniques/) quickly. CRM best practices ensure satisfying customer service, thus increasing the number of leads reaching your business.
+Thus, with CRM best practices, the business’s marketing teams will be able to attract new customers, and [sales teams will close more deals](/blog/top-sales-closing-techniques/) quickly. CRM best practices ensure satisfying customer service, thus increasing the number of leads reaching your business.
 
 CRM best practices cover more than ensuring seamless database management and email functionality. Nowadays, CRM is not just a part of a business but is important as a service itself. It gives you the means to manage clients and customers, streamline processes like proposal creation, and even upgrade your website for better performance. There’s no better time than now to use these CRM best practices in your next project.
 
@@ -109,7 +109,7 @@ Many CRM tools available in the market will help you test and check real-time re
 
 ### 7\. **Automate repetitive tasks**
 
-Automating repetitive activities is one of the most underrated CRM best practices**.** Such tasks consume most of your team’s time, which hinders them from speeding up their work in other important business areas. [Automated activities](https://orgzit.com/blog/automated-invoice-processing/) help employees work more efficiently on projects. Some common repetitive tasks include scheduling emails to send customers and other activity reminders. Employees achieve great productivity on their existing projects and focus on many in-line urgent projects with their spare time.
+Automating repetitive activities is one of the most underrated CRM best practices**.** Such tasks consume most of your team’s time, which hinders them from speeding up their work in other important business areas. [Automated activities](/blog/automated-invoice-processing/) help employees work more efficiently on projects. Some common repetitive tasks include scheduling emails to send customers and other activity reminders. Employees achieve great productivity on their existing projects and focus on many in-line urgent projects with their spare time.
 
 ## **Streamline Your Sales Process with Orgzit!**
 

@@ -49,7 +49,6 @@ Making the best choice for your business requires addressing these questions hea
 
 ## FAQs
 
-![](https://lh7-us.googleusercontent.com/xNP71hbn8JdIqgKO6iQzaqF6PkfXG-fZSiISWuS2J8CMBIfno5ZRbzBAUTMEgJXWbU6TWaYhe1EQKKT4OYnBLG9fh8uTwgGtNrlD1HRkEPBr7l6zrtZ4C8K4k8xW-9VZ6fz400WfPDs0yx5G0ILKR6Y)
 
 ****▪️ Is cloud-based software more cost-effective than on-premise software in the long run?**  
 **

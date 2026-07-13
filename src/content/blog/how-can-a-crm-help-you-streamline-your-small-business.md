@@ -81,7 +81,7 @@ An ideal CRM can be like a valuable team member. It creates a common ground wher
 
 Insights from your CRM can help you analyze your customer’s needs and wants. A product feature or a new product that a customer is looking for can easily be implemented if the customer’s interactions are recorded in the CRM and assessed by a manager effectively.
 
-Read more on benefits of CRM [here](https://orgzit.com/blog/benefits-of-sales-crm-for-small-business/).
+Read more on benefits of CRM [here](/blog/benefits-of-sales-crm-for-small-business/).
 
 ![CRM for small business](/blog/blog-images/Blog-45-Blog-Image-Features-of-CRM-for-small-business-1024x536.jpg)
 
@@ -103,7 +103,7 @@ Depending on the needs of business and its operation, popular use cases of CRM c
 
 -   Customer Management – CRM software can help you provide fast and efficient customer service. You can automate tasks such as creating tickets, assigning agents, and sending notifications. You can also track the resolution time, customer satisfaction, and feedback .
 
-Read more on on CRM [here](https://orgzit.com/blog/how-to-streamline-your-business-using-a-crm/).
+Read more on on CRM [here](/blog/how-to-streamline-your-business-using-a-crm/).
 
 ## Tips for Maximizing the Benefits of a CRM
 

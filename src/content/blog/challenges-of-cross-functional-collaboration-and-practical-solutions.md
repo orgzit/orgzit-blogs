@@ -35,7 +35,7 @@ This put you and the other team at loggerhead as you lack an alignment of goals.
 
 #### **Solution**
 
-The solution to such lock jam is to encourage the top Management or senior leaders to share the company’s goals publicly with everyone. This way, everyone within the organization knows what the company goals are. Orgzit is one of [the most effective tools for cross-functional collaboration](https://orgzit.com/blog/collaboration-technologies-for-productive-teams-in-2018/). It can be used to list the company’s goals and objectives. This can then be shared with everyone in the entire company so they can have a better understanding of the bigger picture.
+The solution to such lock jam is to encourage the top Management or senior leaders to share the company’s goals publicly with everyone. This way, everyone within the organization knows what the company goals are. Orgzit is one of [the most effective tools for cross-functional collaboration](/blog/collaboration-technologies-for-productive-teams/). It can be used to list the company’s goals and objectives. This can then be shared with everyone in the entire company so they can have a better understanding of the bigger picture.
 
 ![Effective-way-of-collaboration-Orgzit](/blog/blog-images/webapp-orgzit-tasks-kanban-1024x576.png)
 
@@ -71,13 +71,13 @@ The key reason for this is that getting involved in a new project often feels ti
 
 Since getting involved in a new project may seem daunting, the solution will be to present a clear proposal, timeline, and estimated time commitment. Before you take the step of asking a coworker to help out on a project ensure you have the above information on hand, including the worker’s role and how much time he/she would need to invest. With a clearer understanding of exactly what you need them to do and the time they would invest, the barrier to pitching becomes smaller.
 
-Orgzit can help in this regard by allowing workers to create projects, due dates, and description. You can then [assign these tasks to individual teammates](https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/). This tool will help them have a better understanding of what is needed to be done.
+Orgzit can help in this regard by allowing workers to create projects, due dates, and description. You can then [assign these tasks to individual teammates](/blog/8-best-practices-for-task-management-with-orgzit/). This tool will help them have a better understanding of what is needed to be done.
 
 ### **5\. There’s a reluctance to adopt new ways of working:**
 
 Change, although unstoppable, is one of the toughest things to do for most people. In the workplace, it is not uncommon for most people to be reluctant towards adopting a new method or way of working. They employ the if-it’s-not-broken-why-fix-it mentality.
 
-[Cross-functional collaboration often relates to changing our work habits as new tools](https://orgzit.com/blog/accelerate-strategic-success-with-cross-functional-collaboration/) or methods may be necessary to bring onboard. Alternatively, sticking to old habits means ignoring better opportunities be more efficient at work. It can be time-saving and can help get ahead of the pack.   
+[Cross-functional collaboration often relates to changing our work habits as new tools](/blog/accelerate-strategic-success-with-cross-functional-collaboration/) or methods may be necessary to bring onboard. Alternatively, sticking to old habits means ignoring better opportunities be more efficient at work. It can be time-saving and can help get ahead of the pack.   
 
 #### **Solution**
 

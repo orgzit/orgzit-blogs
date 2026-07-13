@@ -42,7 +42,6 @@ DMSs offer a more systematic approach to data management, allowing dealerships t
 
 ## CRM (Customer Relationship Management) solution for used-car dealers
 
-![](https://lh7-us.googleusercontent.com/t04twhRMHgnNYfzgLOORVRFKXc_6i5EajPIHi_OFyC5NmOVX-8IaPVd9hmgaUHxcJJwT2uEf5HELXw3Hv2OqL48V4tXvQp1-p8iOq93c-P9L0rnZY-YViOvd2oIyKrR5GeZjgtllKntrDrWqe4Vqbw8)
 
 The integrated CRM system at the used-car dealership tracks sales and marketing activities and provides for sales performance tracking. Other users in the system can assign and control tasks, and customer segmentation can be done using financial data or other relevant factors. Furthermore, the system is linked to the accounting department of the dealership, providing complete client history and financial data. Furthermore, the system’s interface with phone exchanges enables more efficient call operations, which can be easily analyzed for performance indicators.
 
@@ -63,7 +62,6 @@ Other significant challenges include:
 
 These issues can lead to missed sales and poor customer experiences.
 
-![](https://lh7-us.googleusercontent.com/HgYjXv-Jg1GCWLnYzVekInIjacFvSqfVZCEIiA-ihtU0RzdOp3hJOT0IkXcYfrDltQBHKAe0yvItsFU9SBWt1lLwkzFMXo1ZIragICPE2LBCBcsR8I5ZaQ571Qa6wNEhD6SYzIQ0hcTBWxn8iNN_JZg)
 
 ## Orgzit DMS: Your helpmate for dealership management of used cars
 

@@ -25,9 +25,9 @@ featured: false
 
 To find the best software for your team, consider which features you need to manage your projects efficiently. Ensure that you don’t leave some important aspects uncovered when searching for new software. Take a look at the must-have features of project management software.
 
-[Project management](https://orgzit.com/blog/what-is-project-management/) is the act of completing activities.! If you are building a house, a bridge, or a software program, you are essentially working on a project.
+[Project management](/blog/what-is-project-management/) is the act of completing activities.! If you are building a house, a bridge, or a software program, you are essentially working on a project.
 
-The [process](https://orgzit.com/blog/project-management-process/) of managing the team, tools, and resources to get your project completed i.e. achieve your goal is called Project Management.
+The [process](/blog/project-management-process/) of managing the team, tools, and resources to get your project completed i.e. achieve your goal is called Project Management.
 
 A small business owner has to wear many hats at any given time.
 
@@ -43,7 +43,7 @@ Fortunately for curious and productivity hungry entrepreneurs, there are if not 
 
 But the question here lies is how to select the best tool to meet your specific needs. As fellow entrepreneurs, we have had the same challenges and ended up experimenting with various software applications. Through this article, we endeavor to share with you what we think are important features of project management.
 
--   [There is no perfect tool. Pick the project management software that works for your team.](https://orgzit.com/blog/features-of-project-management-software/#There_is_no_perfect_tool_Pick_the_project_management_software_that_works_for_your_team "There is no perfect tool. Pick the project management software that works for your team. ")
+-   [There is no perfect tool. Pick the project management software that works for your team.](/blog/features-of-project-management-software/#There_is_no_perfect_tool_Pick_the_project_management_software_that_works_for_your_team "There is no perfect tool. Pick the project management software that works for your team. ")
 
 ### **The features of project management you should keep in mind are:**
 

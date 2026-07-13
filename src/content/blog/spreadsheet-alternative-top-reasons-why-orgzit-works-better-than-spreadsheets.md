@@ -70,7 +70,7 @@ Add multiple files in OrgzitAdd and schedule multiple tasks in Orgzit
 
 ![Orgzit Is A Better Spreadsheet Alternative?](/blog/blog-images/Orgzit-simplifies-work3-1.png)
 
-**Related read:** [**How to perform task management in Orgzit**](https://orgzit.com/blog/8-best-practices-for-task-management-with-orgzit/)
+**Related read:** [**How to perform task management in Orgzit**](/blog/8-best-practices-for-task-management-with-orgzit/)
 
 ### **#3 Spreadsheets cannot get your conversations in one place, again – Orgzit can!**
 
@@ -82,7 +82,7 @@ In Orgzit, you can simply see all tasks assigned to you at all three levels- Acc
 
 See all discussions you had from all projects from all apps from all records.
 
-**Related read:** [**“Since Orgzit happened to us, we have been continuously adding new ways to delight our customers,” – George Thomas, CEO, Beth Lifestyle**](https://orgzit.com/blog/beth-lifestyle-accelerated-sales-and-increased-operational-efficiency-with-orgzit/)**.**
+**Related read:** [**“Since Orgzit happened to us, we have been continuously adding new ways to delight our customers,” – George Thomas, CEO, Beth Lifestyle**](/blog/beth-lifestyle-accelerated-sales-and-increased-operational-efficiency-with-orgzit/)**.**
 
 ### **#4 Orgzit enables user-defined access to information, Spreadsheets offers only a part of it**
 
@@ -94,7 +94,7 @@ None!
 
 This is where Orgzit takes the stage and allows you to define role-based access for team members. In Orgzit, you can define multi-level security to enhance the way data is shared within your organization.
 
-**Related read:** [**Orgzit granular access control levels**](https://orgzit.com/blog/introducing-orgzit-granular-access-control-extra-power-to-you/)
+**Related read:** [**Orgzit granular access control levels**](/blog/introducing-orgzit-granular-access-control-extra-power-to-you/)
 
 ### **#5 Spreadsheets cannot automate workflows. Orgzit automates your projects’ journeys.**
 
@@ -110,7 +110,7 @@ In Orgzit, you can assign different stages to individual projects to track the p
 
 What’s more? You can also define permissions for users to restrict backward action once a project stage has been moved from ‘In progress’ to ‘Completed’. This ensures that there is no constant switching of project statuses.
 
-> _“Our data is so well-organized that it takes us no time at all to generate detailed and accurate reports. Our clients are always delighted with our quick turnarounds.” –_ [_Subhash Verma, Technical Lead and Director, Spans Envirotech_](https://orgzit.com/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/)_._
+> _“Our data is so well-organized that it takes us no time at all to generate detailed and accurate reports. Our clients are always delighted with our quick turnarounds.” –_ [_Subhash Verma, Technical Lead and Director, Spans Envirotech_](/blog/spans-envirotech-transforms-their-functioning-inside-out-increases-productivity-with-better-collaboration/)_._
 
 ### **#6 Orgzit gives you complete control of your work management system. Lets you automatically assign Ids, completion dates and even send custom notifications**
 
@@ -140,11 +140,11 @@ Whereas in Orgzit, you can check _detailed record changes_ in a click of a butto
 
 **You can quickly discover minute details in Orgzit**
 
-**Related read:** [Orgzit Features that triple productivity](https://orgzit.com/blog/top-5-project-management-apps-businesses-are-using-in-2017/)
+**Related read:** [Orgzit Features that triple productivity](/blog/orgzit-features-triple-team-productivity/)
 
 ### **#8 Spreadsheets give limited scalability, Orgzit empowers you with an impressive scalability**
 
-**Imagine this:** You outsource customer support to an external agency, they require you to share your existing client database & related information. If you share an unorganized, ‘make-sense-out-of-it-yourself’ spreadsheet with them, you only complicate things for them. We live in a simplification age- [cloud age](https://orgzit.com/blog/cloud-erp-vs-on-premise-erp-who-wins/). Orgzit is meant to simplify your work processes to help you excel (no pun intended) faster.
+**Imagine this:** You outsource customer support to an external agency, they require you to share your existing client database & related information. If you share an unorganized, ‘make-sense-out-of-it-yourself’ spreadsheet with them, you only complicate things for them. We live in a simplification age- [cloud age](/blog/cloud-erp-vs-on-premise-erp-who-wins/). Orgzit is meant to simplify your work processes to help you excel (no pun intended) faster.
 
 Secondly, Orgzit helps you draw meaningful insights from your data to help you make informed business decisions. With the ability to customize cloud apps that expertly mimic your business processes and structure. You can use Orgzit for more than just project management:
 
@@ -177,7 +177,7 @@ If you want to pay for a VPN for simple project management (sharing files and ta
 
 You’ll be amazed at how splendidly will you be able to manage your whole project within Orgzit – without being afraid of a _security issue in case of a bad VPN_.
 
-**Related read:** [Here’s My (Your) Story of Productivity](https://orgzit.com/blog/story-productivity/)
+**Related read:** [Here’s My (Your) Story of Productivity](/blog/story-productivity/)
 
 ### **Pricing**
 
