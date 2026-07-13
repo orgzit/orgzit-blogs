@@ -78,7 +78,7 @@ Be quick in responding to their queries, returning their calls, and helping them
 
 This will help them in making a decision, which is the next stage in our sales funnel.
 
-### 3.**Decision**
+### 3.** Decision**
 
 This is the time in the sales process to enable your leads to take the final purchase decision.
 
@@ -88,7 +88,7 @@ Offer them what your competitors are not offering like free shipping when most o
 
 After they have taken the decision in their minds, they will finally take the action to buy your product or service.
 
-### 4.**Action**
+### 4.** Action**
 
 At the very last stage of the sales funnel, the customer finally acts. They finally write the check or click on buy to purchase your product or service.
 
@@ -127,7 +127,7 @@ _Do they share your product or service details with their friends?_
 All of this data (and more) will help you refine your buyer personas and set a target audience or the top of the funnel for your business.
 
 ###   
-2.**Capture your audience’s attention**
+2.** Capture your audience’s attention**
 
 The only way your sales funnel is going to work is if you can drag people into it and retain them as they move through the various stages of the funnel. This means bringing up your content – both marketing and sales pitches in front of your target audience.
 
@@ -135,7 +135,7 @@ I would suggest you take the organic route and post lots of content across all o
 
 If you have a good budget, you can also run a few paid marketing campaigns to get more people into your funnel, quickly. The ideal platform to post advertisements depends on where your target audience hangs out. For example, if you are a customer who are hanging out on LinkedIn more than Facebook, LinkedIn is likely to be a better place for attracting more people i.e. lead generation.
 
-### 3.**Build a landing page**  
+### 3.** Build a landing page**  
 
 Your content marketing and paid advertisement across various platforms would get your target audience interested, which would get them to come to your website or web store. This is where you need to get hold of their information so that you can put them into your sales funnel.
 
@@ -147,7 +147,7 @@ Since these people are new entries into your sales funnel, your focus should be 
   
 You need a bold _call to action_ that tells them exactly what to do, whether it’s downloading a free e-book or watching an instructional video.
 
-### 4.**Create an email drip campaign**
+### 4.** Create an email drip campaign**
 
 Adopt email-marketing. Send your leads attractive and informative e-mails about your product or service. Do so regularly, but not too frequently. One or two emails per week should be enough. Inform them, not irritate.
 

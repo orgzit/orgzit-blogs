@@ -168,7 +168,7 @@ As a result when they finally make their mind to buy any painting, your painting
 
 ## **Benefits of Lead Management**
 
-### 1.**It saves your valuable time**
+### 1.** It saves your valuable time**
 
 Any system which is automated is meant and designed to save time, so does **_[lead management software](https://orgzit.com/launchers/lead-management-project-management-invoicing/)_**. Therefore, this software is designed in a way that automatically assigns tasks to the team which leaves you with enough time to pursue the leads and convert them into an actual business.
 

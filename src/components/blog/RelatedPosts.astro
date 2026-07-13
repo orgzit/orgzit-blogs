@@ -10,9 +10,43 @@ const { posts } = Astro.props;
 ---
 {posts.length > 0 && (
   <section class="related-posts">
-    <h2 class="related-posts-heading">Related Articles</h2>
-    <div class="blog-grid">
-      {posts.map(post => <BlogCard post={post} slug={post.slug} />)}
+    <div class="related-posts-header">
+      <h2 class="related-posts-heading">Related Articles</h2>
+      {posts.length > 3 && (
+        <div class="related-posts-nav">
+          <button type="button" class="related-posts-arrow related-posts-arrow--prev" aria-label="Previous articles">‹</button>
+          <button type="button" class="related-posts-arrow related-posts-arrow--next" aria-label="Next articles">›</button>
+        </div>
+      )}
+    </div>
+    <div class="related-posts-track">
+      {posts.map(post => (
+        <div class="related-posts-item">
+          <BlogCard post={post} slug={post.slug} />
+        </div>
+      ))}
     </div>
   </section>
 )}
+
+<script>
+  document.querySelectorAll<HTMLElement>('.related-posts').forEach((section) => {
+    const track = section.querySelector<HTMLElement>('.related-posts-track');
+    const prevBtn = section.querySelector<HTMLButtonElement>('.related-posts-arrow--prev');
+    const nextBtn = section.querySelector<HTMLButtonElement>('.related-posts-arrow--next');
+    if (!track) return;
+
+    const scrollAmount = () => track.clientWidth * 0.9;
+    prevBtn?.addEventListener('click', () => track.scrollBy({ left: -scrollAmount(), behavior: 'smooth' }));
+    nextBtn?.addEventListener('click', () => track.scrollBy({ left: scrollAmount(), behavior: 'smooth' }));
+
+    const updateArrows = () => {
+      if (!prevBtn || !nextBtn) return;
+      const maxScroll = track.scrollWidth - track.clientWidth - 1;
+      prevBtn.toggleAttribute('disabled', track.scrollLeft <= 0);
+      nextBtn.toggleAttribute('disabled', track.scrollLeft >= maxScroll);
+    };
+    track.addEventListener('scroll', updateArrows, { passive: true });
+    updateArrows();
+  });
+</script>

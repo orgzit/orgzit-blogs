@@ -117,7 +117,7 @@ Here I present six different **_lead scoring factors_**.
 
 Hence, based on the _type of information_ you collect from the people who get engaged with your business.  
 
-### 1.**Demographic Information**
+### 1.** Demographic Information**
 
 As you own a company that sells software, do you sell your software based on any demographic, like to a particular organization, industry-based or maybe location-based? Ask demographic questions in the forms on your landing pages.
 
@@ -125,7 +125,7 @@ This way you can use the answers to see if they are a perfect fit for your desir
 
 Therefore, one benefit of this type of model can be that you save the time of your sales team by subtracting points for leads who do not fall into the category of people your product or service is not made for.
 
-### 2.**Company Information**
+### 2.** Company Information**
 
 Does your company have a particular type and size of the business you sell your software to?  
 
@@ -133,7 +133,7 @@ These types of questions about the company (their size, industry) can be asked t
 
 Through marketing efforts or during pre-sales discussions so that you can give and take points from their lead scores to the people who fit in and people who do not.
 
-### 3.**Online Behaviour**
+### 3.** Online Behaviour**
 
 Every business these days has a website and social media presence for reaching out to their customers. How a lead interacts with your website can tell you a lot about how interested they are.  
 
@@ -149,7 +149,7 @@ If your sales team will give high scores to every lead, then you can only imagin
 
 Hence, for most businesses, it might be better to ignore the leads with a low score as it is a good sign that they might not be interested anymore.
 
-### 4.**Email Engagement**
+### 4.** Email Engagement**
 
 If any lead has subscribed to receive emails from your company, your sales team would not be that sure if they want to buy.
 
@@ -159,13 +159,13 @@ In the process of **_[Lead Nurturing](/blog/what-is-lead-nurturing/),_** your sa
 
 And who always clicks on the offer promotion emails. This way they can divert their complete attention towards the opportunities that most actively engage with your brand.
 
-### 5.**Social Engagement**
+### 5.** Social Engagement**
 
 Your software selling company must be having social media networks like Instagram, Facebook or Twitter accounts, etc.
 
 If your leads or target buyers are engaged with your company on social media networks, then they will be getting high scores.
 
-### 6.**Spam Detection**
+### 6.** Spam Detection**
 
 Lastly, your sales team would want to give negative points to the leads who land on your landing page.
 
@@ -193,7 +193,7 @@ Let’s say, for instance, the sales team of your company wants to evaluate cust
 
 If both of these attributes are a priority, you can create both an engagement score and a fit score, so that you can prioritize outreach to contacts whose values are high in both categories.  
 
-### 2.**Multiple Personas**
+### 2.** Multiple Personas**
 
 Say your software company started selling one more software, now you sell two different software via different sales teams and obviously to different buyers.
 
@@ -203,7 +203,7 @@ One for the buyer’s fit and the other one for their interest in either clothes
 
 Then, you’d use these respective scores to route leads to the right sales teams.  
 
-### 3.**New business v/s up-sell**
+### 3.** New business v/s up-sell**
 
 As your company grows, you might start diverting your attention towards up-sell (Upselling means trading up to a better version of what’s being purchased) and cross-sell (offering the customer a similar product or service) as much as a new business.  
 
@@ -220,7 +220,7 @@ These are some examples that can help you in managing more than one lead score.
 ## **Ways to calculate a basic lead score**
 
 
-### 1.**Manual lead scoring**
+### 1.** Manual lead scoring**
 
 This is created by the user, meaning you assign a numerical value or grade to certain leads and lead activities (reading a blog post might be 5 points, downloading an eBook maybe 15, etc.)**.**
 
@@ -274,7 +274,7 @@ Then the close rate of your requested trial attribute is 14 times than your over
 
 This way you can award 14 points to the leads with those attributes.  
 
-### 2.**Probability-based lead scoring**
+### 2.** Probability-based lead scoring**
 
 The above-mentioned method is a bit simple. However, the most mathematical way is data mining techniques such as logistic regression.  
 
@@ -289,7 +289,7 @@ It’s more accurate than the technique we’ve outlined above since it’s a ho
 -   whether or not someone requested a trial
 -   Interaction with your company: engagement
 
-### 3.**Predictive lead scoring**
+### 3.** Predictive lead scoring**
 
 Creating a lead score can do great things for your business: improve the lead-handoff process, increase lead conversion rate, and more.
 
@@ -325,29 +325,29 @@ To know this, read our article on **_what is a lead value?_**
 
 Here are some benefits of a **_lead scoring system_** which will prove why it is important for your business.  
 
-### 1.**Less lost opportunities**
+### 1.** Less lost opportunities**
 
 As you know there are higher chances of losing leads than to gain them because of poor follow up and mismanagement of your sales team.
 
 Lead scoring prioritizes leads so that you do not miss out on any hot lead and execute the follow up in a better way.  
 
-### 2.**Helps in increasing conversions**
+### 2.** Helps in increasing conversions**
 
 When you start having more leads instead of losing them, higher total conversions will obviously be one of the results of having more leads.  
 
-### 3.**Improves productivity** of
+### 3.** Improves productivity** of
 
 Now that you and your sales team are not wasting time chasing wrong (lower score) leads.
 
 Therefore, Your sales team will have more time to focus on the right prospects (higher lead scores) and convert more leads into the customers.  
 
-### 4.**Better alignment of sales and marketing** teams
+### 4.** Better alignment of sales and marketing** teams
 
 Above all, it is important that sales and marketing work together to assure that the right leads are coming through the **_sales funnel_**.  
 
 Having data-driven proof of lead quality can help marketers to better understand who they’re attracting for the sales team, what the high-scoring leads have in common, and where adjustments need to be made to continue attracting better leads.  
 
-### 5.**Higher ROI (return on investment)**
+### 5.** Higher ROI (return on investment)**
 
 When your sales process is efficient, sales teams prioritize the best leads, conversions increase, and marketing and sales are better aligned, it reflects in your ROI.
 

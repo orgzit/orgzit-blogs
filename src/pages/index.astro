@@ -43,7 +43,7 @@ const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
             </div>
             <div class="featured-post-content">
               <div class="featured-post-label">
-                Featured Post
+                <span class="featured-post-label-icon">★</span> Featured Post
               </div>
               <h2 class="featured-post-title">
                 {featured.data.title}
@@ -58,6 +58,7 @@ const totalPages = Math.ceil(sorted.length / POSTS_PER_PAGE);
                   })}
                 </span>
               </div>
+              <span class="featured-post-cta">Read article →</span>
             </div>
           </div>
         </a>

@@ -81,17 +81,19 @@
 .featured-post-card {
   display: grid;
   gap: $space-8;
-  background-color: $white;
+  background-image: linear-gradient(135deg, $white, $brand-50);
   border-radius: $radius-2xl;
   overflow: hidden;
-  border: 1px solid $slate-200;
-  transition: border-color 200ms, box-shadow 200ms;
+  border: 1px solid $brand-100;
+  box-shadow: 0 10px 25px -8px rgb(37 99 235 / 0.15), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+  transition: border-color 200ms, box-shadow 200ms, transform 200ms;
 
   @include md { grid-template-columns: repeat(2, 1fr); }
 
   &:hover {
     border-color: $brand-300;
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow: 0 20px 35px -10px rgb(37 99 235 / 0.25), 0 8px 10px -6px rgb(0 0 0 / 0.08);
+    transform: translateY(-2px);
   }
 }
 
@@ -124,20 +126,31 @@
 }
 
 .featured-post-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
   font-size: 0.75rem;
-  font-weight: 600;
-  color: $brand-600;
+  font-weight: 700;
+  color: $white;
+  background-color: $brand-600;
+  padding: 0.375rem $space-3;
+  border-radius: $radius-full;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin-bottom: $space-3;
+  margin-bottom: $space-4;
+  width: fit-content;
 }
+
+.featured-post-label-icon { font-size: 0.75rem; }
 
 .featured-post-title {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 800;
   color: $slate-900;
   margin-bottom: $space-4;
   line-height: 1.25;
+
+  @include md { font-size: 1.875rem; }
 
   .featured-post-link:hover & { color: $brand-700; }
 }
@@ -154,6 +167,19 @@
   gap: $space-3;
   font-size: 0.875rem;
   color: $slate-500;
+}
+
+.featured-post-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-1;
+  margin-top: $space-6;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: $brand-600;
+  transition: gap 200ms;
+
+  .featured-post-link:hover & { gap: $space-2; }
 }
 
 // ── Archive headers (category/tag/author pages) ───────────────────

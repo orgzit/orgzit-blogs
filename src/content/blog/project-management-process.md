@@ -60,7 +60,7 @@ As mentioned above, there are five different Project Management Phases in the Pr
 Let us study them in detail.
 
 
-## 1.**Project Initiation**
+## 1.** Project Initiation**
 
 Project initiation is the first phase out of five phases from the Project Management Phases where the airplane of the project takes off for the destination. Therefore, this phase of the journey provides an overview of the project, apart from the overview it tells us about the strategies required to reach the destination.
 
@@ -244,13 +244,13 @@ Still not convinced on why should you use project management??
 
 Here are the 6 most noteworthy reasons to convince you:
 
-#### 1.**Realistic project planning**
+#### 1.** Realistic project planning**
 
 If you do not plan your project and start working on it randomly without any planned deliverables, time frame, guidelines, etc, you are planning a project which is going to be a failure.
 
 To set the realistic goals and objectives for the project, the project manager communicates with different stakeholders to understand their needs and priorities and to strategize the project accordingly.
 
-#### 2.**Clear Focus and Objectives**
+#### 2.** Clear Focus and Objectives**
 
 Unclear focus and a project without a goal is the most common reason for project failure.
 
@@ -260,13 +260,13 @@ Therefore, Project managers should define the goal and objectives of the project
 
 So, to prevent such mistakes, a good project management process is a must.
 
-#### 3.**Maximum resource utilization**
+#### 3.** Maximum resource utilization**
 
 The level of complexity of the project does not matter when it comes to the utilization of resources, wrongly or improperly managed resources can create havoc in any project.
 
 The project management process makes sure that you use the right resources and the right method, that works for your team. Maximizing resource utilization ensures you make optimal profits on every project.
 
-#### 4.**Risk management**
+#### 4.** Risk management**
 
 Seldom before starting the project we forget to mark out the potential risks.
 
@@ -274,7 +274,7 @@ As a result we face failure due to them or maybe it can hamper the growth of the
 
 Therefore, with effective project management, you and your team would be ready to face the risks in advance and with already thought solutions.
 
-#### 5.**Quality Control**
+#### 5.** Quality Control**
 
 There is a lot of pressure on the project manager and the team regarding the quality of the project if your project management is in place then it will be easy for you to track the quality and progress of the project at every stage.
 

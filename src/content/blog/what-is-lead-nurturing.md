@@ -85,7 +85,7 @@ A good multi-channel lead nurturing approach involves a combination of utilizing
 
 Because of many tactics and tools that are involved, to execute this a good lead nurturing strategy, you really need to ensure that your sales and marketing teams are well aligned and working as one united team.
 
-#### 3.**Focus on multiple touches**
+#### 3.** Focus on multiple touches**
 
 As we know the journey of buyers for every product and service can be quite contrasting.
 
@@ -216,15 +216,15 @@ Think about which marketing strategy worked best for them and kept them engaged.
 
 Once you know what your new lead strategies need, you need to take the following into account:
 
-#### 1.**Campaign types**
+#### 1.** Campaign types**
 
 There are several types of **_lead nurturing_** campaigns. The right choice depends on what you’d like to accomplish. Do you want to generate sales leads? Revive inactive leads? Remind current clients that renewals are up soon? The answers to these questions will help you determine the right kind of campaigns to launch.
 
-#### 2.**Campaign content**
+#### 2.** Campaign content**
 
 What you need to do is adjust your content choices according to the types of campaigns you’re creating. For example, if your campaign is planned to generate sales leads, you should identify and send content that you know prospects will be interested in. You’ll also need various kinds of content to send based on where your prospects are in the sales cycle. Think of each piece of content you send as a new chapter in a story you’re sharing with your audience.
 
-#### 3.**Campaign complexity**
+#### 3.** Campaign complexity**
 
 Your **_lead nurturing_** campaigns will have a number of different routes for your audiences. You can make these tracks either simple or complicated according to your liking — it all depends on what you’d like your audience to engage with, and when.
 
@@ -238,7 +238,7 @@ If you want to nurture a specific audience group from new prospects to establish
 
 Once you’ve made the rules and filtered your audience according to them, the addition of new prospects to the right segments and lists will be automatic!
 
-#### 5.**Lead nurturing for small business**
+#### 5.** Lead nurturing for small business**
 
 Small businesses tend to have some advantages when it comes to lead nurturing.
 

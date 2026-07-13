@@ -126,7 +126,7 @@ The quotation process begins when a prospective buyer expresses interest in your
 
 **iii) Make a quotation document** – You will need to copy/paste the table from an Excel sheet into a Word document, compose the quote, and save it as a PDF.
 
-**iv) Send the quote for internal approvals** – The sales rep will forward the quote for approval to the manager/CEO.**v) Follow-up** – After the manager has approved the quotation, the sales rep will send it through email for signatures and do a follow-up with clients.
+**iv) Send the quote for internal approvals** – The sales rep will forward the quote for approval to the manager/CEO.** v) Follow-up** – After the manager has approved the quotation, the sales rep will send it through email for signatures and do a follow-up with clients.
 
 ## **Challenges of Manual Sales Quotation Process**
 
@@ -186,7 +186,7 @@ A quotation is a long process that concludes with the signing of a contract betw
 
 **Automated reminders** – With Orgzit’s Quote Management Software, you’ll never miss a quotation follow-up or leave a quote open unattended.
 
-**Integrate with CRM and other apps** – Using Quote Management Software, you can easily convert quotations to invoices or send your sales data into accounting or other software tools.**Manage the entire customer lifecycle** – With our CRM, you can look at the entire [customer lifecycle](/blog/track-your-customers-with-the-help-of-crm/) from lead tracking to quotation to order to customer support.
+**Integrate with CRM and other apps** – Using Quote Management Software, you can easily convert quotations to invoices or send your sales data into accounting or other software tools.** Manage the entire customer lifecycle** – With our CRM, you can look at the entire [customer lifecycle](/blog/track-your-customers-with-the-help-of-crm/) from lead tracking to quotation to order to customer support.
 
 ## **Make An Impact With Automation**
 

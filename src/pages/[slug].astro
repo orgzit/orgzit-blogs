@@ -34,6 +34,7 @@ const postData: Post = { ...post.data, slug: post.slug, readingTime };
 const relatedPosts = getRelatedPosts(
   postData,
   allPosts.map(p => ({ ...p.data, slug: p.slug, readingTime: 5 })),
+  9,
 );
 
 const postUrl = `https://orgzit.com/blog/${post.slug}/`;
