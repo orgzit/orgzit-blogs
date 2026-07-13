@@ -112,15 +112,17 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
     </h1>
 
     <div class="post-meta">
-      {post.data.authorAvatar && (
-        <img
-          src={post.data.authorAvatar}
-          alt={post.data.author}
-          class="post-meta-avatar"
-          width="32" height="32"
-        />
-      )}
-      <span class="post-meta-author">{post.data.author}</span>
+      <a href={`/blog/author/${post.data.authorSlug}/`} class="post-meta-author-link">
+        {post.data.authorAvatar && (
+          <img
+            src={post.data.authorAvatar}
+            alt={post.data.author}
+            class="post-meta-avatar"
+            width="32" height="32"
+          />
+        )}
+        <span class="post-meta-author">{post.data.author}</span>
+      </a>
       <span>·</span>
       <time datetime={isoDate(post.data.date)}>{formatDate(post.data.date)}</time>
       <span>·</span>

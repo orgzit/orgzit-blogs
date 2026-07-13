@@ -81,9 +81,18 @@
   border-radius: $radius-full;
 }
 
+.post-meta-author-link {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-2;
+}
+
 .post-meta-author {
   font-weight: 500;
   color: $slate-700;
+  transition: color 150ms;
+
+  .post-meta-author-link:hover & { color: $brand-600; }
 }
 
 .post-hero-image {

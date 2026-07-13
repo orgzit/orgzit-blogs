@@ -3,7 +3,7 @@ updatedDate: '2023-02-09'
 authorAvatar: 'https://www.gravatar.com/avatar/74bd31d820bcad0e88c1363b0530884e?s=96&d=identicon'
 authorBio: ''
 draft: false
-featured: true
+featured: false
 title: 6 Business-Boosting Benefits of Workflow Automation
 slug: workflow-automation-benefits-for-business
 date: 2022-10-31T00:00:00.000Z
@@ -43,7 +43,6 @@ The [In(sight) report](https://www.workmarket.com/press/workmarket-2020-insight-
 In this article, we will highlight workflow automation’s benefits.
 
 Read on to discover the other paradigms of workflow automation software to elevate your business success!
-
 
 ## **WHAT IS WORKFLOW AUTOMATION**
 

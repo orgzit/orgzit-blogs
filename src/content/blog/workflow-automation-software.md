@@ -3,7 +3,7 @@ updatedDate: '2023-09-15'
 authorAvatar: 'https://www.gravatar.com/avatar/cab26faf5e9740ad6703a03458ae83f9?s=96&d=identicon'
 authorBio: 'Pavan is the CTO of Orgzit. When not hacking code or helping customers, Pavan loves to listen to different kinds of music and travel with his 8-year old son and 1-year old daughter. Talk with Pavan on <a href="https://twitter.com/yinyangpavan">Twitter</a> and connect with him on <a href="https://in.linkedin.com/in/pavanv0">LinkedIn</a>.'
 draft: false
-featured: true
+featured: false
 title: Workflow Automation Software in 2022
 slug: workflow-automation-software
 date: 2021-04-15T00:00:00.000Z
