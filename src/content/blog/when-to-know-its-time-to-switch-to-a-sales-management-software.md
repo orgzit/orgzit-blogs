@@ -155,7 +155,7 @@ Book your free personalized consultation now. 
 
 ---
 
-## Your Questions Answered
+## FAQs
 
 **1\. Is there a significant learning curve for our sales team to adapt to Sales Management Software?**
 

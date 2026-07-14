@@ -294,7 +294,11 @@
   }
 
   // FAQ section — each Q&A pair gets a highlighted card, matching the
-  // lavender FAQ boxes from the original WordPress site.
+  // lavender FAQ boxes from the original WordPress site. Some posts put
+  // the question and answer in one paragraph; others split them into two
+  // (a question-only paragraph followed by an answer paragraph) — the
+  // :has() rule below visually merges that split-paragraph case into a
+  // single box instead of rendering two separate ones.
   h2[id="faqs"] ~ p {
     background-color: #f3ecfc;
     border-radius: $radius-lg;
@@ -304,6 +308,43 @@
       display: block;
       color: $slate-900;
       margin-bottom: $space-2;
+    }
+
+    &:has(> strong:only-child) {
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+      margin-bottom: 0 !important;
+      padding-bottom: $space-2;
+
+      + p {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        margin-top: 0 !important;
+        padding-top: 0;
+      }
+    }
+  }
+
+  // Some posts format each FAQ question as its own single-item numbered
+  // list instead of a paragraph — give it the same box, merged with the
+  // answer paragraph that follows.
+  h2[id="faqs"] ~ ol {
+    background-color: #f3ecfc;
+    border-radius: $radius-lg;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: $space-4 $space-5 $space-2 (2 * $space-5);
+    margin-bottom: 0 !important;
+
+    li strong {
+      color: $slate-900;
+    }
+
+    + p {
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+      margin-top: 0 !important;
+      padding-top: 0;
     }
   }
 }

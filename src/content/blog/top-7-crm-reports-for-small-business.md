@@ -172,7 +172,7 @@ The goal of sales reporting is to eliminate the guesswork from customer transact
 
 In a nutshell, generate all the reports with CRM & upgrade your business success. With our [sales CRM](https://orgzit.com/customer-relationship-management/), you can have a varied CRM reporting feature and simplify complex sales activities.
 
-**With** **all-in-one CRM**, you can:**
+**With** **all-in-one CRM**, you can:
 
 -   Track leads lifecycle & prospects’ journey in your sales funnel
 -   Streamline sales, quotation, and services

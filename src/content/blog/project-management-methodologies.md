@@ -279,7 +279,7 @@ So, this makes IPM, particularly for Creative agencies.
 -   It is best for large or bigger agencies that have diverse teams and processes.
 -   It is best for complex projects which have various departments to integrate and which can have resources from multiple teams.
 
-## **Frequently asked questions about project management methodologies**
+## FAQs
 
 #### **What are budget and cost control in project management?**
 

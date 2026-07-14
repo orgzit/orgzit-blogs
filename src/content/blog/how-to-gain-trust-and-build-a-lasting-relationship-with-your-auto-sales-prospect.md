@@ -136,14 +136,12 @@ Schedule a call with us now to learn more!
 
 ## FAQs
 
-**🔹Why should you use automotive CRM systems?  
-**
+**🔹Why should you use automotive CRM systems?**
 
 Automotive CRM software automates your sales processes. It assists you in increasing the productivity of your car dealership, improving customer relationships, and reducing friction, allowing you to sell more cars.  
   
 
-**🔹What features should automotive CRM software have?  
-**
+**🔹What features should automotive CRM software have?**
 
 Automotive CRM software should include the following features:  
 Contact administration  
@@ -154,8 +152,7 @@ Reporting and analytics
 Aside from that, an automotive CRM must be secure, simple to use, and scalable—just like Orgzit.  
   
 
-**🔹What are the advantages of using an automotive CRM?  
-**
+**🔹What are the advantages of using an automotive CRM?**
 
 The advantages of an automotive CRM include:  
 1\. Increase revenue and conversions.  
@@ -164,8 +161,7 @@ The advantages of an automotive CRM include:
 4\. Re-engage and nurture prospects.  
   
 
-**🔹What should an auto dealership CRM look for in a CRM?  
-**
+**🔹What should an auto dealership CRM look for in a CRM?**
 
 Here are a few features that an automotive CRM for a dealership must have:    
 Full lead management system \[from inquiry capture to automated distribution\]   
@@ -174,7 +170,6 @@ inventory and partner management \[Easy onboarding and tracking of partners and 
 Advanced analytics \[complete team, channel, and dealership performance drill-down\]   
   
 
-**🔹How can auto dealers use CRM to increase customer loyalty?  
-**
+**🔹How can auto dealers use CRM to increase customer loyalty?**
 
 [Automotive CRMs](https://twelverays.agency/blog/the-benefits-of-crm-for-the-automotive-industry#:~:text=A%20CRM%20can%20help%20with,show%20up%20at%20the%20dealership) capture customer interactions, allowing automakers to differentiate between hot and cold leads and create personalized experiences to move customers down the buyer’s journey.

@@ -1,11 +1,13 @@
 ---
+import { withBase } from '@lib/paths';
+
 const year = new Date().getFullYear();
 ---
 <footer class="footer">
   <div class="footer-inner">
     <div class="footer-grid">
       <div class="footer-col-wide">
-        <a href="/blog/" class="footer-brand">Orgzit Blog</a>
+        <a href={withBase('/')} class="footer-brand">Orgzit Blog</a>
         <p class="footer-desc">
           Practical insights on CRM, productivity, no-code tools, and business automation for growing teams.
         </p>
@@ -13,10 +15,10 @@ const year = new Date().getFullYear();
       <div>
         <h3 class="footer-heading">Topics</h3>
         <ul class="footer-list">
-          <li><a href="/blog/category/crm/" class="footer-link">CRM</a></li>
-          <li><a href="/blog/category/productivity/" class="footer-link">Productivity</a></li>
-          <li><a href="/blog/category/no-code/" class="footer-link">No Code</a></li>
-          <li><a href="/blog/category/sales/" class="footer-link">Sales</a></li>
+          <li><a href={withBase('/category/crm/')} class="footer-link">CRM</a></li>
+          <li><a href={withBase('/category/productivity/')} class="footer-link">Productivity</a></li>
+          <li><a href={withBase('/category/no-code/')} class="footer-link">No Code</a></li>
+          <li><a href={withBase('/category/sales/')} class="footer-link">Sales</a></li>
         </ul>
       </div>
       <div>
@@ -24,8 +26,8 @@ const year = new Date().getFullYear();
         <ul class="footer-list">
           <li><a href="https://orgzit.com" class="footer-link">Website</a></li>
           <li><a href="https://orgzit.com/book-demo/" class="footer-link">Book a Demo</a></li>
-          <li><a href="/blog/rss.xml" class="footer-link">RSS Feed</a></li>
-          <li><a href="/blog/sitemap-index.xml" class="footer-link">Sitemap</a></li>
+          <li><a href={withBase('/rss.xml')} class="footer-link">RSS Feed</a></li>
+          <li><a href={withBase('/sitemap-index.xml')} class="footer-link">Sitemap</a></li>
         </ul>
       </div>
     </div>

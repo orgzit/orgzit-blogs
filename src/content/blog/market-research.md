@@ -45,8 +45,8 @@ We’ve [structured our business in Orgzit at three levels](/blog/the-structure-
 
 [Video: https://youtube.com/watch?v=jW56P8c6lyY]
 
-**Project management  
-**Like I mentioned earlier, market research projects demand a massive amount of coordination among different people, and things change constantly. For each research project, we need to complete a wide range of tasks, such as create recruitment questionnaires, brief the field team, build discussion guides, hire moderators, fix venues and logistics, send audio for transcription, write reports, make presentations, and get client approvals for everything.
+**Project management**  
+Like I mentioned earlier, market research projects demand a massive amount of coordination among different people, and things change constantly. For each research project, we need to complete a wide range of tasks, such as create recruitment questionnaires, brief the field team, build discussion guides, hire moderators, fix venues and logistics, send audio for transcription, write reports, make presentations, and get client approvals for everything.
 
 **→** We are now using three Tables to manage each research project in Orgzit.
 

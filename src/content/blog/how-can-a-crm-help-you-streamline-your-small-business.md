@@ -139,7 +139,7 @@ Analyzing your requirements and market research on which is [CRM](http://orgzit.
 
 The right CRM platform is not just a choice, and it’s a decision that can lift a small business. It can help you serve customers more effectively, leading to better business.CRM software is an effective tool that may help you reach your business goals and manage your operations.
 
-## Frequently Asked Questions
+## FAQs
 
 **Why does a small business need a CRM?**
 

@@ -1,5 +1,6 @@
 ---
 import categoriesData from '@/content/data/categories.json';
+import { withBase } from '@lib/paths';
 
 const topCategories = (categoriesData as any[])
   .sort((a, b) => b.count - a.count)
@@ -8,13 +9,13 @@ const topCategories = (categoriesData as any[])
 <header class="navbar">
   <nav class="navbar-inner">
 
-    <a href="/blog/" class="navbar-logo">
-      <img src="/blog/orgzit-logo.png" alt="Orgzit" class="navbar-logo-img" width="99" height="28" />
+    <a href={withBase('/')} class="navbar-logo">
+      <img src={withBase('/orgzit-logo.png')} alt="Orgzit" class="navbar-logo-img" width="99" height="28" />
       <span class="navbar-logo-suffix">Blog</span>
     </a>
 
     <div class="navbar-links">
-      <a href="/blog/" class="navbar-link">
+      <a href={withBase('/')} class="navbar-link">
         All Posts
       </a>
 
@@ -29,7 +30,7 @@ const topCategories = (categoriesData as any[])
           <div class="navbar-dropdown-panel">
             {topCategories.map((cat: any) => (
               <a
-                href={`/blog/category/${cat.slug}/`}
+                href={withBase(`/category/${cat.slug}/`)}
                 class="navbar-dropdown-item"
               >
                 {cat.name}
@@ -40,7 +41,7 @@ const topCategories = (categoriesData as any[])
         </div>
       )}
 
-      <a href="/blog/search/" class="navbar-link">
+      <a href={withBase('/search/')} class="navbar-link">
         Search
       </a>
     </div>
@@ -61,18 +62,18 @@ const topCategories = (categoriesData as any[])
   </nav>
 
   <div id="mobile-menu" class="navbar-mobile-menu">
-    <a href="/blog/" class="navbar-mobile-link">All Posts</a>
+    <a href={withBase('/')} class="navbar-mobile-link">All Posts</a>
     {topCategories.length > 0 && (
       <div class="navbar-mobile-categories">
         <div class="navbar-mobile-categories-label">Categories</div>
         {topCategories.map((cat: any) => (
-          <a href={`/blog/category/${cat.slug}/`} class="navbar-mobile-category-link">
+          <a href={withBase(`/category/${cat.slug}/`)} class="navbar-mobile-category-link">
             {cat.name}
           </a>
         ))}
       </div>
     )}
-    <a href="/blog/search/" class="navbar-mobile-link">Search</a>
+    <a href={withBase('/search/')} class="navbar-mobile-link">Search</a>
     <a
       href="https://orgzit.com/book-demo/"
       class="navbar-mobile-cta"

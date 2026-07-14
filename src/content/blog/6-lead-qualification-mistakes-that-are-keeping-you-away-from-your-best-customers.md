@@ -239,7 +239,7 @@ To help you address these issues and establish a lead qualification process alig
 
 Transform your leads into loyal customers with our tailored solutions. [Schedule your free consultation now](https://calendly.com/orgzit/personalized-consultation-30)!
 
-## **Your Questions Answered**
+## FAQs
 
 **1\. How can businesses ensure they are qualifying leads effectively?**
 

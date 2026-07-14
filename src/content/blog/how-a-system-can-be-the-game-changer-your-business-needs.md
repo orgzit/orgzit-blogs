@@ -135,8 +135,8 @@ Book a free, [personalized consultation](https://calendly.com/orgzit/personalize
 
 ## FAQs
 
-1.  **What should I look for when choosing a system for my business?  
-    **Look for ease of use, scalability (can it grow with you?), and whether it fits your budget. Ensure it solves your main pain points and integrates well with your current processes.
+1.  **What should I look for when choosing a system for my business?**  
+    Look for ease of use, scalability (can it grow with you?), and whether it fits your budget. Ensure it solves your main pain points and integrates well with your current processes.
 2.  **How quickly can I expect to see benefits after implementing a new system?** While setup can take a bit of time, many businesses start seeing improvements in efficiency and organization within a few weeks of going live. Read [How Origo Commodities established tech-enabled business vertical with no-code software](https://orgzit.com/customer-stories/how-origo-commodities-established-tech-enabled-business-vertical-with-no-code-software/)
 3.  **What kind of support will I need after getting a new system?** Expect to need ongoing support for updates, enhancements, and troubleshooting. Regular check-ins with your provider or consultant will help you keep the system running smoothly and adapt as your business grows.
 4.  **How can I ensure my new system continues to meet my business needs?** Regularly review how the system is performing and make adjustments as needed. Staying in touch with a support expert and updating the system as your business evolves will keep it aligned with your goals.

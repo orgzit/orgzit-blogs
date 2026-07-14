@@ -214,16 +214,14 @@ It streamlines the process of prospect segmentation, performance tracking, and R
 
 Want to see how Orgzit can help you automate? [Get a demo today](https://calendly.com/orgzit/personalized-consultation-30)!
 
-## FAQ’s
+## FAQs
 
-**How does a CRM add value to your business?  
-**
+**How does a CRM add value to your business?**
 
 You can use a CRM tool to improve and streamline the sales process, build a sales pipeline, automate tasks, and analyze sales data. All of this leads to more sales.  
   
 
-**How do I implement CRM in a small business?  
-**
+**How do I implement CRM in a small business?**
 
 1\. Organize your sales process. Begin by ensuring your business has a well-organized, measurable sales process.  
 2\. Appoint a project manager.  
@@ -234,7 +232,6 @@ You can use a CRM tool to improve and streamline the sales process, build a sale
 7\. Launch and improve.  
   
 
-**Why do small businesses need CRM?  
-**
+**Why do small businesses need CRM?**
 
 Small businesses need for CRM or Customer Relationship Management platforms enables small and medium business owners to manage operational challenges, such as client attrition, sales decline, misalignment between corporate revenue targets, and their salespeople’s commission policy.

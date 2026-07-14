@@ -211,17 +211,14 @@ However, Business Central only manages operations/ for services (CRM) you will h
 
 <table><tbody><tr><td></td><td><strong>Orgzit</strong></td><td><strong>Microsoft Dynamics Business Central</strong></td><td><strong>Microsoft Dynamics </strong><strong>Customer Service</strong></td><td><strong>Microsoft Dynamics 365</strong><strong>Sales</strong></td><td><strong>Microsoft Dynamics </strong><strong>Marketing</strong></td></tr><tr><td><strong>Team Type</strong></td><td>Sales,ServiceFinanceOperations</td><td>Sales, FinanceOperations</td><td>Sales, Service,FinanceOperations</td><td>Only Sales</td><td>Customer Insights</td></tr><tr><td><strong>Team Size</strong></td><td>&lt;100</td><td>100+</td><td>100+</td><td>100+</td><td>100+</td></tr><tr><td><strong>Business Type</strong></td><td>Small Business</td><td>Small Business</td><td>Small Business</td><td>Enterprise</td><td>Enterprise</td></tr><tr><td><strong>Pricing</strong></td><td><a href="https://orgzit.com/pricing/" target="_blank" rel="noreferrer noopener">Starts @ $29</a></td><td>Starts @ $70</td><td>Starts @ $50</td><td>Starts @ $ 65</td><td>Starts @ $ 1700</td></tr><tr><td><strong>Implementation Time</strong></td><td>Days</td><td>Months</td><td>Months</td><td>Months</td><td>Months</td></tr><tr><td><strong>Ease of Use</strong></td><td>Simple, Intuitive</td><td>Complex</td><td>Complex</td><td>Complex</td><td>Complex</td></tr><tr><td><strong>Customer Success</strong></td><td>Dedicated Team</td><td>Pay Extra</td><td>Pay Extra</td><td>Pay Extra</td><td>Pay Extra</td></tr><tr><td><strong>Training and Implementation</strong></td><td>Optional</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 
-**  
-Is MS Dynamics 365 for Sales better than Orgzit CRM?**
+**Is MS Dynamics 365 for Sales better than Orgzit CRM?**
 
 While MS Dynamics 365 is a veteran player, it is best suited for enterprises. However, Orgzit is agile and flexible and can be customized for small to medium businesses as the business grows.  
 
-**  
-Are MS Dynamics 365 for Sales and Orgzit the same?**
+**Are MS Dynamics 365 for Sales and Orgzit the same?**
 
 No, Dynamics 365 for sales is a product of Microsoft company. Orgzit is a software product of a different company. Both of them are business applications to manage business processes.  
 
-**  
-Is Business Central the same as Dynamics 365?**
+**Is Business Central the same as Dynamics 365?**
 
 Business Central and Dynamics 365 are both separate applications of Microsoft. While Dynamics 365 is more suited for enterprise, business central is a crmfor small business.

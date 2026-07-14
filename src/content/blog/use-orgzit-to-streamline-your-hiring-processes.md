@@ -39,8 +39,8 @@ Over the course of my career, I have done hiring work for around 50 different co
 
 Still, with no better system in sight, I continued using a rudimentary database to track new inquiries and record key points discussed with clients. I never quite had a good system to track my network – my personal candidate database that I’ve built over many years. These are the people who I’m always enlisting – whether or not I’m working on an active job opening – so that I have a group of people ready to go in case a position opens up.
 
-**My introduction to Orgzit  
-**When I began working for Orgzit co-founders Nitin and Pavan, they were already using Orgzit to manage their engineering services company Spans Envirotech’s projects. When they made it compulsory for everyone on their team to use Orgzit for internal processes, including working on hiring requirements, I was rather peeved. I’m not very tech savvy and had neither time nor inclination to learn how to use a new IT product.
+**My introduction to Orgzit**  
+When I began working for Orgzit co-founders Nitin and Pavan, they were already using Orgzit to manage their engineering services company Spans Envirotech’s projects. When they made it compulsory for everyone on their team to use Orgzit for internal processes, including working on hiring requirements, I was rather peeved. I’m not very tech savvy and had neither time nor inclination to learn how to use a new IT product.
 
 I’ve now been using [Orgzit](https://orgzit.com/product/) for nearly 6 months, and have to say that I’m pleasantly surprised by how easily I’ve been able to adapt to the tool and how much I’m enjoying using it. Beats using those unwieldy spreadsheets any day!
 
@@ -48,8 +48,8 @@ Before I begin explaining how I’ve used Orgzit to streamline my recruitment ta
 
 **[Comprehensive software solution for recruitment agencies powered by Orgzit](https://www.slideshare.net/orgzit/comprehensive-solution-for-recruitment-agencies-powered-by-orgzit "Comprehensive software solution for recruitment agencies powered by Orgzit")** from **[Orgzit](https://www.slideshare.net/orgzit)**
 
-**How I used Orgzit to up my hiring game  
-**My work is focused on helping small and medium companies build their teams. To manage my work in Orgzit, I have four lists ([apps](https://orgzit.freshdesk.com/support/solutions/articles/17000043481-how-to-create-an-app)) in a shared space (project). These apps are [pre-built Orgzit library apps](https://orgzit.com/launchers/) that come fully set up. You don’t need to worry about creating them on your own. The app names are:
+**How I used Orgzit to up my hiring game**  
+My work is focused on helping small and medium companies build their teams. To manage my work in Orgzit, I have four lists ([apps](https://orgzit.freshdesk.com/support/solutions/articles/17000043481-how-to-create-an-app)) in a shared space (project). These apps are [pre-built Orgzit library apps](https://orgzit.com/launchers/) that come fully set up. You don’t need to worry about creating them on your own. The app names are:
 
 1.  Job Openings
 2.  Candidates

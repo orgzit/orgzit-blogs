@@ -134,25 +134,19 @@ Don’t believe us, hear from our [customers](https://orgzit.com/customer-storie
 
 ## FAQs
 
-**🔹What is a CRM for manufacturing?  
-**
+**🔹What is a CRM for manufacturing?**
 
 A manufacturing CRM serves as a central point for accurate data, assisting manufacturers in sales, production predictions, asset tracking, leads nurturing, and ERP connection.  
   
 
-**🔹What are the features of a good manufacturing CRM?  
-**
+**🔹What are the features of a good manufacturing CRM?**
 
 A CRM system for manufacturers should provide analytics, dashboards, reporting, scalability, customization, automated lead generation, workflow automation, order management, customer service, user-friendly interface, mobile and remote access, and affordable pricing.  
 
-**  
-🔹What are the CRM roles and responsibilities in the manufacturing industry?  
-**
+**🔹What are the CRM roles and responsibilities in the manufacturing industry?**
 
 CRM software offers numerous benefits to the manufacturing industry, including efficiency, improved customer relationships, communication, inventory tracking, centralized customer data, analytics, quality monitoring, competitive edge, post-purchase support, regulatory compliance management, high-quality leads, better sales performance, and better customer experience.  
 
-**  
-🔹How to select the right Manufacturing CRM?  
-**
+**🔹How to select the right Manufacturing CRM?**
 
 To choose the right CRM for your manufacturing firm, create a cross-functional team with representatives from sales, marketing, and other departments to understand the system’s effectiveness. Include end customers to increase adoption. Discuss workflow issues, analyze reports, and evaluate team performance. Compile a list of CRM-related programs and systems, and calculate the cost of current processes to measure the potential impact of a CRM system.

@@ -176,8 +176,7 @@ Good customer relationship management equates to a better business. A customer r
 
 ## FAQs
 
-**🔹What’s the significance of CRMs?  
-**
+**🔹What’s the significance of CRMs?**
 
 CRMs are significant as they are used to strengthen client relationships. They assist companies to efficiently provide personalized, pertinent communications to their customers by offering a safe, well-organized, low-touch storage solution for client information.  
   
@@ -191,8 +190,7 @@ There are four main types Of CRM applications:
 •Strategic  
   
 
-**🔹What is the difference between a sales pipeline and a sales process?  
-**
+**🔹What is the difference between a sales pipeline and a sales process?**
 
 A sales pipeline focuses on the set of actions a seller takes whereas a sales process is a set of important steps that a sales team can follow to complete a sales cycle.  
   
@@ -202,8 +200,7 @@ A sales pipeline focuses on the set of actions a seller takes whereas a sales pr
 Yes. CRM systems provide real-time data, helping businesses to improve relationships and increase sales.  
   
 
-**🔹What are some of the main factors to consider while choosing a CRM?  
-**
+**🔹What are some of the main factors to consider while choosing a CRM?**
 
 Some of the major factors to consider are:  
 •Clearly defined business goals  

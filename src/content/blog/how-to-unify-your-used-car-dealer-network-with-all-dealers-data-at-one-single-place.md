@@ -165,7 +165,7 @@ With Orgzit’s sophisticated DMS, you can take charge of your business and opti
 
 Trust us to provide exceptional customer service and fast turnaround times to meet your needs.
 
-## **FAQ**s
+## FAQs
 
 **How can we reduce manual work for car sales?**
 

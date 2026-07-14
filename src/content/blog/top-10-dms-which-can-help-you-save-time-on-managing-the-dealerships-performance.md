@@ -293,25 +293,21 @@ Choosing the right dealership management software system requires a thorough eva
 
 ![](/blog/blog-images/533.jpg)
 
-**What is a Dealer Management System (DMS)?  
-**
+**What is a Dealer Management System (DMS)?**
 
 Car dealerships and industrial equipment sellers utilize Dealer Management Systems (DMS) to manage inventory, provide ancillary software tools, and automate marketing, customer relationships, and sales.  
   
 
-**Why is a dealer management system needed?  
-**
+**Why is a dealer management system needed?**
 
 A dealer management system helps you achieve your goals by creating an effective and cooperative way for departments to communicate, interact, and stay informed about transactions happening within other areas of the dealership.  
   
 
-**What is the role of CRM in a dealership?  
-**
+**What is the role of CRM in a dealership?**
 
 An automotive CRM (customer relationship management) is a software solution that helps car companies with customer service, sales, and marketing. It enables dealerships to collect leads, coordinate a multi-channel sales operation, and foster deeper customer relationships.  
   
 
-**How big is the dealer management system market?  
-**
+**How big is the dealer management system market?**
 
 The automotive [dealer management system market](https://finance.yahoo.com/news/dealer-management-system-market-size-144100805.html) is projected to reach USD 7.85 billion by 2030 from USD 3.66 billion in 2022, at a CAGR of 9.98% during the forecast period.

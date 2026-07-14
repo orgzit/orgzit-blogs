@@ -52,8 +52,8 @@ For a manufacturer’s representative, quoting is the first step in the buyers�
 
 **Quote Looks Unprofessional or Sloppy**A poorly formatted or error-ridden quote can give clients the impression of a lack of attention to detail or professionalism. This can undermine their confidence in your company.  
 
-**Quote Didn’t Reflect the Customer’s Wishes  
-**If a quote fails to address the client’s specific requirements or preferences, this can lead to dissatisfaction and the loss of the deal. 
+**Quote Didn’t Reflect the Customer’s Wishes**  
+If a quote fails to address the client’s specific requirements or preferences, this can lead to dissatisfaction and the loss of the deal. 
 
 ### 2\. Customer frustration
 
@@ -105,20 +105,20 @@ By incorporating a Sales Management Software or Sales CRM, you can automate vari
 
 When selecting a sales management system or sales CRM for a manufacturer rep firm, it’s essential to focus on features that will support your goals of consistency, accuracy, and efficiency. Here are the five most important attributes to consider:
 
-**1\. User-Friendly Interface  
-**Choose a system that is intuitive and easy to use. A user-friendly interface helps your team adopt the system quickly, reducing the learning curve and improving efficiency.
+**1\. User-Friendly Interface**  
+Choose a system that is intuitive and easy to use. A user-friendly interface helps your team adopt the system quickly, reducing the learning curve and improving efficiency.
 
-**2\. Automation Capabilities  
-**Automate repetitive tasks such as data entry, calculations, and formatting. This reduces human error and speeds up the quoting process. Automation ensures that each quote is consistent and accurate, freeing up your team to focus on more strategic tasks.  
+**2\. Automation Capabilities**  
+Automate repetitive tasks such as data entry, calculations, and formatting. This reduces human error and speeds up the quoting process. Automation ensures that each quote is consistent and accurate, freeing up your team to focus on more strategic tasks.  
   
-**3\. Integration with Existing Systems  
-**Ensure the quoting system integrates seamlessly with your existing CRM and ERP systems. This allows for real-time data updates and a unified workflow, minimizing discrepancies. 
+**3\. Integration with Existing Systems**  
+Ensure the quoting system integrates seamlessly with your existing CRM and ERP systems. This allows for real-time data updates and a unified workflow, minimizing discrepancies. 
 
-**4\. Customizable Templates  
-**Use standardized, customizable templates tailored to your business needs. This ensures every quote follows the same format and guidelines, enhancing professionalism and consistency.
+**4\. Customizable Templates**  
+Use standardized, customizable templates tailored to your business needs. This ensures every quote follows the same format and guidelines, enhancing professionalism and consistency.
 
-**5\. Centralized Data Management  
-**Centralize all relevant data, such as product information, pricing, and customer details. This will ensure that everyone on your team uses the most up-to-date information and reduce inconsistencies.
+**5\. Centralized Data Management**  
+Centralize all relevant data, such as product information, pricing, and customer details. This will ensure that everyone on your team uses the most up-to-date information and reduce inconsistencies.
 
 Focusing on these key features can help you select a quoting system that will help you achieve greater consistency, accuracy, and efficiency in your quoting process. This will ultimately lead to improved business outcomes for your manufacturer rep firm.
 

@@ -144,26 +144,22 @@ Remember that the goal is not just to reduce errors, but to make more accurate, 
 
 ## FAQs
 
-**1\. **What are some common types of spreadsheet errors in quoting?**  
-**
+**1\. What are some common types of spreadsheet errors in quoting?**
 
 Common types of spreadsheet errors in quoting include numerical inaccuracies, formula discrepancies, a lack of data validation, and improper organization of data.  
   
 
-**2\. **How can I prevent spreadsheet errors in my quoting process?**  
-**
+**2\. How can I prevent spreadsheet errors in my quoting process?**
 
 You can prevent spreadsheet errors by organizing your workbook effectively, using Excel’s data validation tools, implementing double-check procedures, providing training on proper quoting procedures, and considering the use of quote management software like Orgzit CRM.  
   
 
-**3\. **Why is it important to standardize templates and formulas in quoting spreadsheets?**  
-**
+**3\. Why is it important to standardize templates and formulas in quoting spreadsheets?**
 
 Standardizing templates and formulas helps reduce errors and ensures consistency across all quotes. It also makes it easier for team members to understand and use the spreadsheet effectively.  
   
 
-**4\. **How can I further improve the accuracy of my spreadsheets beyond the basic strategies mentioned?**  
-**
+**4\. How can I further improve the accuracy of my spreadsheets beyond the basic strategies mentioned?**
 
 You can improve accuracy by utilizing Excel’s error-checking and auditing tools, implementing a review and approval process, investing in staff training, and considering the use of third-party tools like Rep Order Management (ROM).  
   
@@ -173,7 +169,6 @@ You can improve accuracy by utilizing Excel’s error-checking and auditing tool
 Quote management software centralizes data, automates tasks, provides error checking, offers customizable templates, integrates with existing systems, and enhances reporting capabilities, ultimately reducing the risk of spreadsheet errors and improving efficiency in the quoting process.  
   
 
-**6\. **How can I get assistance in implementing these strategies and improving my quoting process?**  
-**
+**6\. How can I get assistance in implementing these strategies and improving my quoting process?**
 
 You can contact Orgzit for assistance in implementing these strategies and optimizing your quoting process. The team can provide expert guidance, support, and customized solutions tailored to your business needs.

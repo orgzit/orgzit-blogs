@@ -248,14 +248,12 @@ By investing in modern CRM solutions, reps can position themselves as trusted ad
 
 ## FAQs
 
-**▪️ What are some key challenges faced by manufacturers’ reps that CRM software can address?  
-**
+**▪️ What are some key challenges faced by manufacturers’ reps that CRM software can address?**
 
 CRM software can help reps overcome challenges such as managing multiple manufacturer relationships, accessing accurate market data, and maintaining consistent messaging across sales and marketing efforts.  
   
 
-**▪️ How can CRM software enhance collaboration among manufacturers’ rep teams?  
-**
+**▪️ How can CRM software enhance collaboration among manufacturers’ rep teams?**
 
 CRM platforms enable seamless collaboration by allowing team members to share insights, coordinate efforts, and consistently support customers across all touchpoints.  
   

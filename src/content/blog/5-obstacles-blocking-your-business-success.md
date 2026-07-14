@@ -227,20 +227,17 @@ To learn more about CRM, its implementation, and how it can solve all your busin
 
 ### **FAQS**
 
-**🔹How do you set a good business goal?  
-**
+**🔹How do you set a good business goal?**
 
 Try to set precise goals.  
 Putting in dates, times, and amounts while setting a business goal will help you measure and evaluate your achievement.  
   
 
-**🔹What are the goals of the CRM business framework?  
-**
+**🔹What are the goals of the CRM business framework?**
 
 The fundamental goal of a CRM is to develop and maintain long-term dependencies and relationships between firms and their customers.  
   
 
-**🔹How do different business functions benefit from using CRM?  
-**
+**🔹How do different business functions benefit from using CRM?**
 
 CRM software allows your business to collect, store, and manage your customers’ data. You can mine this data for insights, use it to forecast future sales, and automate your marketing and sales processes.
