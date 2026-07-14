@@ -188,7 +188,7 @@ Regular consultations with your development partner can address any challenges e
 Orgzit offers support and evolution to continually fine-tune your CRM’s features and processes to meet emerging user needs.
 
 -   Visit our website [https://orgzit.com/](https://orgzit.com/) Or
--   Connect with us for a free consultation and expert guidance at [https://orgzit.com/book-demo/](https://orgzit.com/book-demo/)
+-   Connect with us for a free consultation and expert guidance at [https://calendly.com/orgzit/personalized-consultation-30](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## Custom CRM vs. Ready-Made CRM: Which is the Right Choice for Your Business?
 

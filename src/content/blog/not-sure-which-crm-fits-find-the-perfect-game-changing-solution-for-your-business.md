@@ -98,13 +98,13 @@ Choosing the right CRM doesn’t have to be stressful or expensive. Whether you 
 
 Still confused?
 
-[Book a personalized one-on-one consultation](https://orgzit.com/book-demo/) with our expert today and find the perfect CRM solution for your business.
+[Book a personalized one-on-one consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert today and find the perfect CRM solution for your business.
 
 ![](/blog/blog-images/cta-6-1-1024x1024.png)
 
 Find the perfect CRM solution for your business.
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

@@ -91,13 +91,13 @@ If you’re interested in exploring custom CRMs and how they can truly fit your 
 
 Our expert is here to help you navigate through the options and find the right solution for your business.
 
-[Book a call](https://orgzit.com/book-demo/) with us today, and let’s figure this out together!
+[Book a call](https://calendly.com/orgzit/personalized-consultation-30) with us today, and let’s figure this out together!
 
 ![](/blog/blog-images/cta-7-1024x1024.png)
 
 Let us help you make things easier and more efficient.
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

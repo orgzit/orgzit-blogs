@@ -89,13 +89,13 @@ If you’re struggling with your current setup and need guidance, know that you�
 
 We understand the unique challenges you face as a manufacturer’s rep, and we’re here to help.
 
-[Book a call](https://orgzit.com/book-demo/) with our expert to learn how a no-code CRM could ease your burdens and enhance your operations. 
+[Book a call](https://calendly.com/orgzit/personalized-consultation-30) with our expert to learn how a no-code CRM could ease your burdens and enhance your operations. 
 
 ![](/blog/blog-images/cta-6-3-1024x1024.png)
 
 We’re ready to support you on this journey.
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

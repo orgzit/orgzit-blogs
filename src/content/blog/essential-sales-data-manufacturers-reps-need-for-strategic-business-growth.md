@@ -165,7 +165,7 @@ Examining buying habits can reveal preferences and future purchasing intentions.
 
 **_Book a ZERO INVESTMENT personalized call with our expert now._**
 
-[TALK TO US!](https://orgzit.com/book-demo/)
+[TALK TO US!](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

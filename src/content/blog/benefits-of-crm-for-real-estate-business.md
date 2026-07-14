@@ -89,4 +89,4 @@ All in all, it’s a no-brainer that Real Estate CRM is a game-changer for profe
 
 With Orgzit, you can now revolutionize your real estate business with the help of a powerful CRM. Streamline communication within your organization and automate routine tasks to save time and focus on what matters – start experiencing the pros of [**CRM**](https://orgzit.com/customer-relationship-management/) today with us!
 
-[Click here](https://orgzit.com/book-demo/) to contact our expert team.
+[Click here](https://calendly.com/orgzit/personalized-consultation-30) to contact our expert team.

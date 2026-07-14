@@ -241,7 +241,7 @@ Include a **buffer** in your quote. This accounts for potential price fluctuatio
 
 **_Get a free personalized consultation and learn how to automate and make your quote to win in the quickest possible way!_**
 
-**_[SCHEDULE YOUR CALL NOW!](https://orgzit.com/book-demo/)_**
+**_[SCHEDULE YOUR CALL NOW!](https://calendly.com/orgzit/personalized-consultation-30)_**
 
 ## FAQs
 

@@ -285,7 +285,7 @@ To address this dilemma of build vs. buy, we recommend a hybrid approach to CRM 
 
 This balances ease of use and convenience while allowing flexibility. The hybrid approach also addresses the challenge of cost-effectiveness by using a pre-built solution that is often less expensive and faster to build and implement.
 
-To learn more and get expert guidance on CRM, its implementation, and its buying journey, connect with us at: [http://orgzit.com/book-demo](http://orgzit.com/book-demo)
+To learn more and get expert guidance on CRM, its implementation, and its buying journey, connect with us at: [https://calendly.com/orgzit/personalized-consultation-30](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQS’
 

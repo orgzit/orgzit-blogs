@@ -181,7 +181,7 @@ Overall, reps can use their customer database to engage customers well. They can
 
 **_Get a free personalized consultation from our expert and learn how to engage your customers effectively!_**
 
-**_[SCHEDULE YOUR CALL NOW!](https://orgzit.com/book-demo/)_**
+**_[SCHEDULE YOUR CALL NOW!](https://calendly.com/orgzit/personalized-consultation-30)_**
 
 ## **FAQ**
 

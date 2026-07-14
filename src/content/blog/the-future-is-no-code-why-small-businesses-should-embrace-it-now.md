@@ -90,9 +90,9 @@ Don’t miss out on this opportunity to elevate your business—reach out today!
 
 ![](/blog/blog-images/cta-6-2-1024x1024.png)
 
-[Book a one-on-one consultation](https://orgzit.com/book-demo/) with our expert and let us help you elevate you business.
+[Book a one-on-one consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert and let us help you elevate you business.
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

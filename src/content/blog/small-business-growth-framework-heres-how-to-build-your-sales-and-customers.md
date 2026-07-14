@@ -212,7 +212,7 @@ Orgzit ensures that all of your disparate parts work together to form a genuinel
 
 It streamlines the process of prospect segmentation, performance tracking, and ROI calculation. Its powerful reporting feature ensures that businesses always have access to the data they need to track progress and make data-driven choices.
 
-Want to see how Orgzit can help you automate? [Get a demo today](https://orgzit.com/book-demo/)!
+Want to see how Orgzit can help you automate? [Get a demo today](https://calendly.com/orgzit/personalized-consultation-30)!
 
 ## FAQ’s
 

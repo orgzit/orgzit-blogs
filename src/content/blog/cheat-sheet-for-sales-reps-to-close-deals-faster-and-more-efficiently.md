@@ -203,7 +203,7 @@ Equip yourself with the right tools to understand and engage your customers effe
 
 Book a personalized consultation with our expert and discover how to transform your sales process to stay ahead in this competitive market.
 
-[Click here](https://orgzit.com/book-demo/)
+[Click here](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

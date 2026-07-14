@@ -113,7 +113,7 @@ Let’s book a quick call and turn those daily struggles into streamlined soluti
 
 Click below to book a free one-on-one consultation with our expert  
 
-[Book a Call](https://orgzit.com/book-demo/)
+[Book a Call](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

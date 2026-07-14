@@ -217,7 +217,7 @@ Customer satisfaction has also risen to 8.5 on a scale of 1-10, while the Net Pr
 
 A mid-sized HVAC company with 10 technicians sees a 10% increase in customer retention due to improved service with CRM. This results in 1 additional service call per technician per week, generating an additional $500 per week in revenue. By the end of the year, this translates to a revenue increase of $260,000 from customer retention alone.
 
-This is how a CRM parameter is applicable to different industries for their valuable business goals. To learn more about [CRM application](https://orgzit.com/), its implementation, and how it can solve all your business problems, connect with us for a free demo session at [orgzit.com/book-demo](http://orgzit.com/book-demo).
+This is how a CRM parameter is applicable to different industries for their valuable business goals. To learn more about [CRM application](https://orgzit.com/), its implementation, and how it can solve all your business problems, connect with us for a free demo session at [calendly.com/orgzit](https://calendly.com/orgzit/personalized-consultation-30).
 
 ## FAQs
 

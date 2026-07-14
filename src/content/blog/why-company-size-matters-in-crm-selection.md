@@ -250,7 +250,7 @@ While recommendations from industry peers should not be the sole basis for your 
 
 Combine these insights with thorough research, demos, and trials to ensure you find a CRM solution that aligns with your company’s size and goals.
 
-To get expert guidance on CRM buying, connect with us at [orgzit.com/book-demo/](http://orgzit.com/book-demo/) or collaborate@orgzit.com
+To get expert guidance on CRM buying, connect with us at [calendly.com/orgzit](https://calendly.com/orgzit/personalized-consultation-30) or collaborate@orgzit.com
 
 ## Conclusion
 

@@ -135,7 +135,7 @@ Remember to prioritize user feedback, involve stakeholders early, and emphasize 
 
 ![](https://lh7-us.googleusercontent.com/Vu_g84hED6MgCC9zfPfVYF8OdiTqypVXuiALYfzxYb5Wz8SHA0B4MfsLjzFBh8rvp0hQh1VuWJ0sOUuLaMsAUp2jtHw1ri9cYyI6ZFPTrw5jhTcH6qBjq-WiO4bzjkjV7Ogz5GRGf1stvNg8WpRQYSo)
 
-Connect with our experts and get guidance and assistance for leveraging the latest technology here: [**SCHEDULE NOW!**](http://orgzit.com/book-demo)
+Connect with our experts and get guidance and assistance for leveraging the latest technology here: [**SCHEDULE NOW!**](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## **FAQs**
 

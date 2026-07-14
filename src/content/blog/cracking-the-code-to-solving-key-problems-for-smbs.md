@@ -114,13 +114,13 @@ Let’s chat about how we can turn these challenges into growth opportunities fo
 
 Want to dive deeper?
 
-[Schedule a quick call with our expert](https://orgzit.com/book-demo/), and let’s figure out how to make things easier and more efficient for you.
+[Schedule a quick call with our expert](https://calendly.com/orgzit/personalized-consultation-30), and let’s figure out how to make things easier and more efficient for you.
 
 ![](/blog/blog-images/cta-5-1024x1024.png)
 
 Turn challenges into growth opportunities for your business.
 
-[Book now](https://orgzit.com/book-demo/)
+[Book now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

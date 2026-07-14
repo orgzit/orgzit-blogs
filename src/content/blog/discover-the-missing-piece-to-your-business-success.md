@@ -126,7 +126,7 @@ We’ll help you find the best solution to make your business run smoother and g
 
 Let’s chat and figure out your business problems together. 
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

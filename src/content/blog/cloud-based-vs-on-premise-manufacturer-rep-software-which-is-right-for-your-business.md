@@ -154,7 +154,7 @@ In summary, the choice between cloud-based and on-premise manufacturer rep softw
 **_Are you struggling to choose the right software solution?_**  
 Book a **zero-investment** call for a 1-on-1 consultation with our Software Solution Expert.
 
-[Schedule A Call](http://orgzit.com/book-demo/)
+[Schedule A Call](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

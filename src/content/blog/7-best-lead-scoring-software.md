@@ -197,4 +197,4 @@ Thank you for reading this article! I hope it was helpful. I’m glad you’re i
 
 Please share this article with your colleagues and friends who may also be interested in lead-scoring software—the more you know about this valuable tool, the better you maintain your business verse.
 
-[**Happy lead hunting! 🌟**](https://orgzit.com/book-demo/)
+[**Happy lead hunting! 🌟**](https://calendly.com/orgzit/personalized-consultation-30)

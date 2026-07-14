@@ -109,7 +109,7 @@ It’s time to move away from outdated methods and embrace the power of technolo
 
 Still trying to understand which system is best suited for your business needs?
 
-[Book a free one-on-one consultation](https://orgzit.com/book-demo/) with our CRM and ERP expert now.
+[Book a free one-on-one consultation](https://calendly.com/orgzit/personalized-consultation-30) with our CRM and ERP expert now.
 
 ![](/blog/blog-images/cta-1-1024x1024.png)
 

@@ -125,11 +125,11 @@ This isn’t a distant dream; it can be your reality. A well-implemented system 
 
 With the right system in place, you’re not just improving operations—you’re setting your business on a path to new heights of success and profitability. Take that next step, and watch your business thrive like never before.
 
-Still unsure which system fits your business needs? Let us help you find the perfect solution. Book a free, [personalized consultation](https://orgzit.com/book-demo/) with our expert to discover how a tailored system can drive your business success.
+Still unsure which system fits your business needs? Let us help you find the perfect solution. Book a free, [personalized consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert to discover how a tailored system can drive your business success.
 
 ![](/blog/blog-images/cta-2-1024x1024.png)
 
-Book a free, [personalized consultation](https://orgzit.com/book-demo/) with our expert now.
+Book a free, [personalized consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert now.
 
 ---
 

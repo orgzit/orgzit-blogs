@@ -151,7 +151,7 @@ Curious about how Sales Management Software can specifically benefit your team?Â
 
 Book your free personalized consultation now.Â 
 
-[Book now](https://orgzit.com/book-demo/)
+[Book now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

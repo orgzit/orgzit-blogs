@@ -291,7 +291,7 @@ _**Stop using Excel now!**_ 
 
 Learn how to find the best alternative to your spreadsheet and Excel chaos from our sales solutions expert. Book your free consultation here: 
 
-[Schedule Now](https://orgzit.com/book-demo/)
+[Schedule Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

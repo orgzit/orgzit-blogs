@@ -185,13 +185,13 @@ Adapting to a new technology can seem daunting at first, but it will ultimately 
 
 Still confused about how a sales CRM can simplify your daily tasks?
 
-Book a [free one-on-one consultation with our expert](https://orgzit.com/book-demo/) now!
+Book a [free one-on-one consultation with our expert](https://calendly.com/orgzit/personalized-consultation-30) now!
 
 ![](/blog/blog-images/cta-1024x1024.png)
 
 Take the first step to an error-free sales workflow and increase your productivity by 2x.
 
-[Book now](https://orgzit.com/book-demo/)
+[Book now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 
@@ -213,4 +213,4 @@ No-code CRMs like [Org](https://orgzit.com/)[z](https://orgzit.com/)[it](https:/
 
 5.  **Where can I get help to choose the right CRM for my business?**
 
-While there are a number of CRMs available in the market, most of them are not suitable for an SMB. They usually can’t provide you with the glove-fit solution for your specific needs. If you are looking for guidance in finding a solution that fits your needs, then book our no-obligation one-on-one consultation call with an [expert CRM strategist](https://orgzit.com/book-demo/). Get personalized recommendations based on your specific business needs and goals.
+While there are a number of CRMs available in the market, most of them are not suitable for an SMB. They usually can’t provide you with the glove-fit solution for your specific needs. If you are looking for guidance in finding a solution that fits your needs, then book our no-obligation one-on-one consultation call with an [expert CRM strategist](https://calendly.com/orgzit/personalized-consultation-30). Get personalized recommendations based on your specific business needs and goals.

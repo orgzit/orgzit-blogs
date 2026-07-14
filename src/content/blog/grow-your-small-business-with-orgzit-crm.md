@@ -191,4 +191,4 @@ Orgzit ensures that all your separate pieces will flow together cohesively and m
 
 It simplifies the process of segmenting prospects, tracking performance, and measuring ROI. Its robust reporting functionality ensures organizations always have access to the information they need to track progress and make data-driven decisions.
 
-Want to see how Orgzit can help you automate? [Get a demo today](https://orgzit.com/book-demo/)!
+Want to see how Orgzit can help you automate? [Get a demo today](https://calendly.com/orgzit/personalized-consultation-30)!

@@ -140,7 +140,7 @@ To avoid spreadsheet errors, review your current practices and identify areas fo
 
 Remember that the goal is not just to reduce errors, but to make more accurate, informed decisions that drive your business forward.
 
-**Take the first step towards more reliable spreadsheets and contact experts at Orgzit for assistance**. [**Talk to us now!**](http://orgzit.com/book-demo)
+**Take the first step towards more reliable spreadsheets and contact experts at Orgzit for assistance**. [**Talk to us now!**](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

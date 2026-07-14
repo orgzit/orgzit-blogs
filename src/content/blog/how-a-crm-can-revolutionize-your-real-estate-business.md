@@ -237,4 +237,4 @@ Orgzit’s real estate CRM system is the best option for businesses with a compl
 
 Real estate agents implementing Orgzit’s CRM system can quickly experience real results. Additionally, Orgzit’s straightforward and transparent pricing, with no expensive consulting costs, makes it a cost-effective solution for businesses of all sizes.
 
-So, why wait? [Book a demo](https://orgzit.com/book-demo/) today!
+So, why wait? [Book a demo](https://calendly.com/orgzit/personalized-consultation-30) today!

@@ -150,4 +150,4 @@ Mortgage CRM software can be a important tool to help loan officers increase the
 
 We recommend considering CRM software, If you are looking to take your business to the coming position. Orgzit offers the stylish CRM software for mortgage professionals. Our software is designed to help you manage your business more efficiently and increase your product.
 
-Feel free to reach out to us, we are here to [help](https://orgzit.com/book-demo/).
+Feel free to reach out to us, we are here to [help](https://calendly.com/orgzit/personalized-consultation-30).

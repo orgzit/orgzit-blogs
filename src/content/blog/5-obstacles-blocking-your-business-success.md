@@ -222,7 +222,7 @@ Businesses can overcome challenges and position themselves competitively in the 
 
 A comprehensive approach to CRM implementation contributes significantly to the long-term success and sustainability of SMBs across diverse industries.
 
-To learn more about CRM, its implementation, and how it can solve all your business problems, connect with us for a free demo session at [orgzit.com/book-demo](http://orgzit.com/book-demo)
+To learn more about CRM, its implementation, and how it can solve all your business problems, connect with us for a free demo session at [calendly.com/orgzit](https://calendly.com/orgzit/personalized-consultation-30)
 
 
 ### **FAQS**

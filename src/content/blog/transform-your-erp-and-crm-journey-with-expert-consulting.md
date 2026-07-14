@@ -92,13 +92,13 @@ If you’re serious about staying competitive and fostering long-term growth, co
 
 Looking for support with your ERP and CRM implementation?
 
-[Schedule a quick call with our expert](https://orgzit.com/book-demo/) to discuss how we can help make your journey smoother.
+[Schedule a quick call with our expert](https://calendly.com/orgzit/personalized-consultation-30) to discuss how we can help make your journey smoother.
 
 ![](/blog/blog-images/cta-5-1-1024x1024.png)
 
 Let us help you make your journey smoother.
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

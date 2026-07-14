@@ -133,7 +133,7 @@ As we traverse the changing environment of HVACR technology, one thing is certai
 
 ![](/blog/blog-images/97.4.jpg)
 
-**To get further guidance and assistance in learning and implementing the latest software technology, contact experts at Orgzit**. [**TALK TO US!**](http://orgzit.com/book-demo)
+**To get further guidance and assistance in learning and implementing the latest software technology, contact experts at Orgzit**. [**TALK TO US!**](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQS
 

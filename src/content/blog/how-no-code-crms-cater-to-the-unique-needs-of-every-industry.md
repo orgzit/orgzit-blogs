@@ -110,13 +110,13 @@ Read more on [**How Origo Commodities established tech-enabled business vertical
 
 In today’s dynamic business landscape, having a CRM that adapts to your unique needs is not just important—it’s essential!
 
-If you want to discover how a no-code, customizable CRM can help your business thrive, book a [one-on-one consultation](https://orgzit.com/book-demo/) with our expert. We’ll be happy to help you out!
+If you want to discover how a no-code, customizable CRM can help your business thrive, book a [one-on-one consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert. We’ll be happy to help you out!
 
 ![](/blog/blog-images/cta-6-1024x1024.png)
 
 Wish to make your business thrive? We’re here to help!
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

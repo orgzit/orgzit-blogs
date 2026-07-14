@@ -191,7 +191,7 @@ Even if your challenge is unique we can support you to find the right tech for y
 
 Don’t miss out on valuable insights and free consultation opportunities!
 
-**_With no strings attached, you can book a call with us for FREE consultation here_**: [Schedule a call now!](http://orgzit.com/book-demo/)
+**_With no strings attached, you can book a call with us for FREE consultation here_**: [Schedule a call now!](https://calendly.com/orgzit/personalized-consultation-30)
 
 
 ## FAQs

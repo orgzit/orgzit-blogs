@@ -201,4 +201,4 @@ Now, you are ready to stay on track and manage the project more effectively, and
 
 A construction CRM solution is a tactical to publish your business solutions. By consolidating all client, project, and business data into a single platform, you enhance operational efficiency and elevate the overall client experience. With honest self-evaluation, you can pinpoint where the majority of your time is spent on a typical day!
 
-Hit your construction goals by scheduling a demo [with us](https://orgzit.com/book-demo/)!
+Hit your construction goals by scheduling a demo [with us](https://calendly.com/orgzit/personalized-consultation-30)!

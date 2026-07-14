@@ -127,11 +127,11 @@ Embracing these solutions will help you manage your data more effectively, reduc
 
 Don’t let outdated spreadsheets hold you back.
 
-Still unsure which system fits your business needs? Let us help you find the perfect solution. [Book a free, personalized consultation](https://orgzit.com/book-demo/) with our expert to discover how a tailored system can drive your business success.
+Still unsure which system fits your business needs? Let us help you find the perfect solution. [Book a free, personalized consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert to discover how a tailored system can drive your business success.
 
 ![](/blog/blog-images/cta-3-1024x1024.png)
 
-[Book your free consultation now](https://orgzit.com/book-demo/) and learn how a customized system can boost your business success.
+[Book your free consultation now](https://calendly.com/orgzit/personalized-consultation-30) and learn how a customized system can boost your business success.
 
 ---
 

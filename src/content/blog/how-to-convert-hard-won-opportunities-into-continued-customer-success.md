@@ -251,7 +251,7 @@ To sum it all up, we can say that only businesses that focus on developing trust
 
 **_Get a free personalized consultation and see how easy it is to convert leads into lifelong customers!_**
 
-[**SCHEDULE NOW**](https://orgzit.com/book-demo/)****[!](https://orgzit.com/book-demo/)**** 
+[**SCHEDULE NOW**](https://calendly.com/orgzit/personalized-consultation-30)****[!](https://calendly.com/orgzit/personalized-consultation-30)**** 
 
 ## FAQs
 

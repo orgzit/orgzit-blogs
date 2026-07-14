@@ -191,4 +191,4 @@ Say goodbye to scattered spreadsheets, as Orgzit enables efficient management of
 
 The bid dashboard, quick quote creation, automated email functionalities, and follow-up reminders add further convenience and productivity to your sales process. Embrace the power of Orgzit and elevate your business operations to new heights.
 
-[Schedule a demo](https://orgzit.com/book-demo/) today to explore more.
+[Schedule a demo](https://calendly.com/orgzit/personalized-consultation-30) today to explore more.

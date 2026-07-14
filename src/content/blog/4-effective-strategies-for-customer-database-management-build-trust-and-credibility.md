@@ -257,4 +257,4 @@ Transform your customer database management with:
 -   Scalable Solutions
 -   Enhanced Security
 
-[Book your Call for a FREE consultation](https://orgzit.com/book-demo/)
+[Book your Call for a FREE consultation](https://calendly.com/orgzit/personalized-consultation-30)

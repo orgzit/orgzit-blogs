@@ -117,4 +117,4 @@ While there is no denying that CRM systems can be used extremely effectively wit
 
 [Orgzit](https://orgzit.com) is the best platform offering advanced and high-quality CRM services. They allow you to customize your CRM system as per your business needs. Our CRM system is designed to help you easily track, monitor, and optimize your sales process. With Orgzit, you can get the most out of your sales efforts and maximize your success.
 
-[Schedule a demo today](https://orgzit.com/book-demo/)!
+[Schedule a demo today](https://calendly.com/orgzit/personalized-consultation-30)!

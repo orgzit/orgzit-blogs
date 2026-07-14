@@ -106,7 +106,7 @@ Fortunately, businesses have access to a variety of tools and resources, ranging
 
 By embracing best practices and implementing innovative solutions, organizations can confidently navigate the challenges of quote visibility, establishing themselves for success in the interconnected world of business.
 
-Take the first step towards more accurate quotes and their visibility. Contact experts at Orgzit for assistance here: [http://orgzit.com/book-demo](http://orgzit.com/book-demo) 
+Take the first step towards more accurate quotes and their visibility. Contact experts at Orgzit for assistance here: [https://calendly.com/orgzit/personalized-consultation-30](https://calendly.com/orgzit/personalized-consultation-30) 
 
 ## FAQs
 

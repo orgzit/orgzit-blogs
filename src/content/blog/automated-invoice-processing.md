@@ -139,7 +139,7 @@ Want to pay vendors remotely, approve invoices, and reduce your accounts payable
 
 Our goal is to provide you with a solution to replacing manual invoice processing with something more impactful. [Workflow automation](https://orgzit.com/workflow-management/) is the new essential strategy that uses technology to streamline your processes. With secure, cost-effective, and strategic payments, your financial team can avoid constriction and streamline invoicing process.
 
-Create an Orgzit account for free as the first step. Let us set up a [demo](https://orgzit.com/book-demo/) so you and your team can start working more efficiently. Be assured of an easy and strategic process because we won’t let you settle for any less:)
+Create an Orgzit account for free as the first step. Let us set up a [demo](https://calendly.com/orgzit/personalized-consultation-30) so you and your team can start working more efficiently. Be assured of an easy and strategic process because we won’t let you settle for any less:)
 
 Happy Automating!
 

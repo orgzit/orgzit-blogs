@@ -151,7 +151,7 @@ Based on quantified goals and data-driven analysis, they choose Vendor A, potent
 
 By taking your time, researching thoroughly, and making data-driven decisions, you’ll find the [CRM](https://orgzit.com/about/) that empowers your business to reach its full potential. Make an informed decision based on the comprehensive evaluation and move forward with the CRM vendor that best suits your organization’s needs.
 
-Explore more at [Orgzit](https://orgzit.com/) and read our [blog post](/blog/) for more. I hope this helps! If you have any further questions or need additional clarification, [feel free to ask](https://orgzit.com/book-demo/).
+Explore more at [Orgzit](https://orgzit.com/) and read our [blog post](/blog/) for more. I hope this helps! If you have any further questions or need additional clarification, [feel free to ask](https://calendly.com/orgzit/personalized-consultation-30).
 
 ## FAQs
 

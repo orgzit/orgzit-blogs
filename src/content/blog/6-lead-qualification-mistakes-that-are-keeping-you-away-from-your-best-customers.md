@@ -237,7 +237,7 @@ Businesses can optimize lead qualification procedures by implementing a coherent
 To help you address these issues and establish a lead qualification process aligned with your business goals, [Orgzit CRM](https://orgzit.com/) provides customized solutions for [acquiring, tracking, and scoring leads](https://orgzit.com/lead-management-software/). 
 
 
-Transform your leads into loyal customers with our tailored solutions. [Schedule your free consultation now](https://orgzit.com/book-demo/)!
+Transform your leads into loyal customers with our tailored solutions. [Schedule your free consultation now](https://calendly.com/orgzit/personalized-consultation-30)!
 
 ## **Your Questions Answered**
 

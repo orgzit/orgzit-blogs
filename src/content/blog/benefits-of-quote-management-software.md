@@ -366,4 +366,4 @@ This will help you improve not just your revenues, but overall quality across al
 
 What are you waiting for? Unlock greater potential today by upgrading with our [quote management software](https://orgzit.com/quotation-management-software/)!
 
-[Let’s connect](https://orgzit.com/book-demo/) to discuss more!
+[Let’s connect](https://calendly.com/orgzit/personalized-consultation-30) to discuss more!

@@ -161,7 +161,7 @@ Orgzit’s powerful DMS will revolutionize the way you do business. Our all-in-o
 
 With Orgzit’s sophisticated DMS, you can take charge of your business and optimize your processes for success.
 
-[Schedule a call today](https://orgzit.com/book-demo/) to learn more about how Orgzit can help your business thrive.
+[Schedule a call today](https://calendly.com/orgzit/personalized-consultation-30) to learn more about how Orgzit can help your business thrive.
 
 Trust us to provide exceptional customer service and fast turnaround times to meet your needs.
 

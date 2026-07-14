@@ -137,4 +137,4 @@ A sales CRM is worth considering if you want to streamline your business process
 
 [Orgzit’s business CRM](https://orgzit.com/) software offers a user-friendly platform to streamline your business processes, including sales, estimation, and finance teams. It’s an easy-to-use, cost-effective solution that can help you manage customer relationships effectively. Sign up for a free trial today and experience the benefits of Orgzit CRM.
 
-[Schedule a demo](https://orgzit.com/book-demo/) today to explore more.
+[Schedule a demo](https://calendly.com/orgzit/personalized-consultation-30) today to explore more.

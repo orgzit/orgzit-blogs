@@ -190,7 +190,7 @@ Take the first step towards the digital revolution and boost your sales like nev
 
 Embrace the latest sales technologies and get ahead of the competition. 
 
-Book a [FREE consultation](https://orgzit.com/book-demo/) with us today and start boosting your sales. Don’t get left behind—get future-ready now!
+Book a [FREE consultation](https://calendly.com/orgzit/personalized-consultation-30) with us today and start boosting your sales. Don’t get left behind—get future-ready now!
 
 ![](/blog/blog-images/Laptop-Mockup-of-Fashion-Clothing-Instagram-Post-1024x1024.png)
 

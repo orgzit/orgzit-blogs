@@ -208,7 +208,7 @@ Maximizing your Return on Investment (ROI) involves strategic planning and execu
 
 -   Promote collaboration between departments by ensuring smooth data flow to facilitate collaboration between sales and customer support through CRM integration.
 
-Give [Orgzit](https://support.orgzit.com/en/) a try and see how it can help you improve your business’s ROI. Contact us today for a [demo!](https://orgzit.com/book-demo/)
+Give [Orgzit](https://support.orgzit.com/en/) a try and see how it can help you improve your business’s ROI. Contact us today for a [demo!](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## Bottom line
 

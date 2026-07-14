@@ -129,7 +129,7 @@ Orgzit stands out as a top-tier no-code application with its all-in-one CRM capa
 
 One of the core strengths of Orgzit lies in its bid dashboard, which provides businesses with a comprehensive overview of ongoing bids and projects. This enables users to track and manage their bids effectively, ensuring no opportunities are overlooked or neglected.
 
-Orgzit’s intuitive design makes it accessible for users looking to create customized applications and databases without [coding](https://orgzit.com/book-demo/).
+Orgzit’s intuitive design makes it accessible for users looking to create customized applications and databases without [coding](https://calendly.com/orgzit/personalized-consultation-30).
 
 ### Airtable
 

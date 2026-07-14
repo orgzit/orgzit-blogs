@@ -286,7 +286,7 @@ Give [Orgzit](https://support.orgzit.com/en/) a chance to clear any more doubts 
 
 For more related information, check out [here!](/blog/)
 
-Connect with us for a free consultation and expert guidance at [https://orgzit.com/book-demo/](https://orgzit.com/book-demo/)
+Connect with us for a free consultation and expert guidance at [https://calendly.com/orgzit/personalized-consultation-30](https://calendly.com/orgzit/personalized-consultation-30)
 
 ## FAQs
 

@@ -189,7 +189,7 @@ Let us help you overcome your CRM adoption challenges.
 
 Book a free one-on-one consultation with our CRM expert today!
 
-[Book now](https://orgzit.com/book-demo/)
+[Book now](https://calendly.com/orgzit/personalized-consultation-30)
 
 ---
 

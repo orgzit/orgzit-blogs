@@ -154,4 +154,4 @@ Orgzit provides a comprehensive solution that empowers sales teams to optimize t
 
 This tool allows teams to monitor key metrics, analyze past performance, and gain valuable insights to refine their approach. By identifying successful tactics and areas for improvement, sales professionals can make strategic adjustments to increase their win rates and drive business growth.
 
-[Schedule a demo](https://orgzit.com/book-demo/) today to learn more.
+[Schedule a demo](https://calendly.com/orgzit/personalized-consultation-30) today to learn more.

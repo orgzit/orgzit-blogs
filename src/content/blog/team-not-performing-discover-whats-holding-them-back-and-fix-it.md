@@ -150,7 +150,7 @@ Still unsure which system is best for your business?
 
 Let us help you make your business run effortlessly
 
-[Book a free 1-on-1 consultation](https://orgzit.com/book-demo/) with our expert today and find the perfect system to meet your needs.
+[Book a free 1-on-1 consultation](https://calendly.com/orgzit/personalized-consultation-30) with our expert today and find the perfect system to meet your needs.
 
 ![](/blog/blog-images/cta-3-1024x1024.png)
 
@@ -158,7 +158,7 @@ Find the perfect system to meet your needs.
 
 Book a free 1-on-1 consultation with our expert today
 
-[Book Now](https://orgzit.com/book-demo/)
+[Book Now](https://calendly.com/orgzit/personalized-consultation-30)
 
   
 

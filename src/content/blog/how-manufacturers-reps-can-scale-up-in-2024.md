@@ -242,7 +242,7 @@ These tools will streamline sales processes, optimize customer interactions, dri
 
 By investing in modern CRM solutions, reps can position themselves as trusted advisors, exceed customer expectations, and achieve sales goals.
 
-**_To learn why modern CRMs are essential, get expert recommendations, and discover your growth potential, connect with us for a 1-1 personalized consultation at_**: [http://orgzit.com/book-demo/](http://orgzit.com/book-demo/)
+**_To learn why modern CRMs are essential, get expert recommendations, and discover your growth potential, connect with us for a 1-1 personalized consultation at_**: [https://calendly.com/orgzit/personalized-consultation-30](https://calendly.com/orgzit/personalized-consultation-30)
 
 ![](/blog/blog-images/image-1.png)
 
