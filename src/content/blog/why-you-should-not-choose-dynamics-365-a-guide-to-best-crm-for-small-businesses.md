@@ -47,6 +47,51 @@ While enterprises have surpassed these initial operational and sales hiccups the
 
 Keeping these fundamental differences in mind, it is important to understand that not all CRMs are for small businesses, and not all CRMs are for enterprises.
 
+## What do SMBs don’t want in a CRM?
+
+Complex application!
+
+-   Rigid structure
+-   Extensive customization
+-   Long implementation cycle
+-   Difficult adaption to software
+
+## What do SMBs want in a CRM?
+
+Flexible and customizable CRM that has an in-built:
+
+– Lead management system to qualify, nurture, and convert the leads.
+
+– Quoting system that quickly relates the product range, product variation, pricing, computes margins accurately
+
+– invoicing software that manages invoices, and payments, and even accounts
+
+– Reporting of daily, weekly, and monthly sales along with team member’s progress
+
+– Control and role-based access to the companies data
+
+– Service platform that manages customer interaction with feedback and comments
+
+– automation of repetitive tasks
+
+And all of it with the ease and flexibility of usage.
+
+## Why is Dynamics 365 not right for an SMB?
+
+### **Too many applications all sold separately**
+
+Dynamics 365 is a portfolio of various applications. So, you may need all applications and in case you need some of those, you will have to purchase each of these applications: marketing, sales, service, supply chain or finance etc.
+
+Microsoft also offers a separate application for Small and Medium Businesses
+
+Business Central- Essential, Premium, and Team Members
+
+Customer Service-Professional and Enterprise
+
+However, all are sold separately at a price far more expensive than its competitors like Orgzit. Business Central is an application developed for small businesses that starts at $70 per user per month, far more than its counterparts like Orgzit, which starts at $29.
+
+> > “The standard has nothing and you must pay for every single function or specific report you may need.”  [Verified consumer in User Goods](https://www.g2.com/products/microsoft-microsoft-dynamics-365-business-central/reviews/microsoft-dynamics-365-business-central-review-2607575)
+
 ### Way too complicated to adapt
 
 While Dynamics 365 is robust, SMBs do not have a lot of time to put on training and support.

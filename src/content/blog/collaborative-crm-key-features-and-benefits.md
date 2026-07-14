@@ -40,6 +40,14 @@ This article will look at **Collaborative CRM 101: Its Key Features and Benefits
 
 Let’s begin!
 
+## **WHAT IS COLLABORATIVE CRM?**
+
+A collaborative CRM is focused on facilitating communication and synergy between different stakeholders and organizational teams (like [sales](/blog/10-ways-to-manage-sales-leads-better/), marketing, technical, quotations, finance, and delivery) to address prospects’ needs and enrich [customer service](https://orgzit.com/launchers/customer-service-desk/) & satisfaction.
+
+The products and services sold, customer service interactions, marketing preferences, and technical support interactions are just a few examples of collaborative CRM.
+
+![What is Collaborative CRM](/blog/blog-images/5.jpg)
+
 The primary role of this CRM is to simplify workflows, maximize growth and [automate](/blog/workflow-automation-software/) processes through better coordination amongst teams and hierarchies. A collaborative CRM is proficient at collecting and storing every aspect of your customer interaction from the very beginning to enhance the overall customer experience.
 
 ## **KEY COMPONENTS OF COLLABORATIVE CRM**

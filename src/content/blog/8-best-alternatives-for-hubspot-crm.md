@@ -40,6 +40,45 @@ There is no one software that can cater to all businesses, and that is why we ha
 
 This article will explore why HubSpot may not be the best choice for you.
 
+## What is HubSpot Sales Hub?
+
+HubSpot is an all in one CRM platform. The sales hub is where businesses can store customer data, use sales tools and collaborate with teams.
+
+As a part of larger HubSpot ecosystem, users of HubSpot can use full CRM with paid add ons and get richer insights, warmer leads and better alignment for optimized efficiency.
+
+You can also leverage HubSpot’s huge ecosystem of app and solution partners to create an exceptional end-to-end customer experience.
+
+However, no product is a good fit for all businesses. Though it may work well for some businesses, it may not be the right choice for others.
+
+## HubSpot Features
+
+Hubspot is loaded with features. Some of the most popular features of HubSpot are as follows;
+
+-   Templates for Emails
+-   Email Monitoring
+-   Tracking and managing documents
+-   Call Monitoring
+-   Automation in Sales
+-   Quotes
+-   Analytics and reporting on sales
+-   CRM App for Mobile
+-   Management of Pipelines
+-   Account-Based Marketing (ABM)
+
+PROs
+
+-   Sales Process
+-   Usability
+-   Collaboration
+-   Navigation
+
+CONs
+
+-   Deployment Time
+-   Price
+-   Customization
+-   Steep Learning Curve
+
 ## Hubspot Pricing
 
 HubSpot Sales Hub pricing is divided into three categories; Free, Starter and Professional.

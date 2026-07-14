@@ -53,6 +53,34 @@ Sure, there are buttload of articles that claim to be informational;
 
 But processing so much information is next to impossible.
 
+## Let’s understand the market of CRM
+
+CRM is a business application to streamline and scale your growth with customers and grow your business.
+
+Most of the articles you have read tell you to choose the CRM as per your needs. Nobody explains the needs of a business. But what are your needs?
+
+Even if you understand your business needs, there is enough jargon for you to get confused;
+
+### Let us de-clutter the CRM market first;
+
+**Business process applications competing with CRM**: ERP, sales automation, inside sales focus applications, sales pipeline only or sales process focus, and marketing automation etc.
+
+I am sure your head is already spinning, and this is just the tip of the iceberg!
+
+-   **CRMs are also classified per business model**– small business, start-up, SMB, and Enterprise.
+-   **Another classification is based on business teams**: Sales, Marketing, HR, Finance and Accounting, and Customer Service.
+-   **Yet another classification in industry type**: B2B, B2C, Retail, E-Commerce, Manufacturing, Real Estate, banking, Complex SOlutions- IT Products, construction, Chemicals, Electrical Goods, etc.
+
+All this information is available online, scattered over different websites and blogs. So, a first or second-time reader will get confused with so much information out there and eventually end up not making a buying decision or making a wrong purchase.
+
+**Prepare your mind for these three things when considering a CRM.**
+
+1.  It is not a one-time set-up tool like any other business tool you buy. It’s more than technology and will bear fruit if you use it consistently.
+
+2.  Digital Readiness- Is your team and company ready for a digital transformation?
+
+3.  Cheapest or the Most Bought CRM isn’t always the best for your business.
+
 ## Business Applications that are bringing digital transformation for Businesses around the world
 
 ### CRM- Customer Relationship Management

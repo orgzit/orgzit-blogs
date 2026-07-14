@@ -47,6 +47,38 @@ Key points under 2 mins
 -   The three simple steps to achieving digital readiness are:- understand each stakeholder’s needs, create a strategic road map, and appoint a digital champion.
 -   Go through 16-point checklist to assess your company’s digital readiness.
 
+## But why do you need digital transformation?
+
+1.  There are plenty of business applications available to improve your day-to-day work life. Business applications like CRM, Inventory Management, Task Trackers, Resource Planning Platforms etc.
+2.  If you don’t do it, you will lag behind your competition. Post-Corona, almost every business is digital, mostly because many businesses function remotely or in hybrid mode.
+3.  Even if you are not remote, you need to go digital because it makes your life better. Digitalization of manual tasks can save up to 4 hrs of your team’s daily work.
+
+\# **Remember when you asked for a monthly sales report from your sales manager?**
+
+How long did it take for your manager to retrieve data from the system: 3 hours, a day? When you digitize your sales data, you can just click a few times on the screen, and voila! You have weekly, monthly, and quarterly reports in front of you.
+
+Power of data knowledge: You will get data insights in minutes, which is impossible with manual data collation into reports. You can visualize your reports into bar graphs, charts, and pie diagrams to make them more readable and easily comprehended.
+
+\# **Your customer ratings are going down!**
+
+When your customer support team answers a query, it feels like a cold call. Because the customer success guy has no idea who he is talking to and what their problem is. There is no connection between the customer and your support team.
+
+Digitization of data on a business tool like [CRM](https://orgzit.com/) can bridge the gap between your customer and your support team by putting the right information in front of them. While also personalizing the call with the interaction history easily accessible on the platform with the ticket number assigned.
+
+\# **Have you ever lost any files or data on the computer because of a bug or a virus?**
+
+Scattered spreadsheets sometimes get deleted by users or corrupted due to viruses. It is a serious loss of data that is irreplaceable. An intelligent data management platform can store all your data safely on a cloud while helping you utilize it in the most efficient manner.
+
+\# **What happens if your crucial information gets leaked by a former employee?**
+
+Data breach is so easy when you use basic docs and spreadsheets. There is no access control to the data present in the computer. All team members have access to everything. This is a serious issue faced by many company owners.
+
+Digital tools can help you control access to the data that is available based on their roles in the company.
+
+## Challenges of Digital Transformation
+
+-   **Change Management:** It’s human nature to get comfortable and nest. Employees tend to get comfortable in the way they have been working. Asking them to change their daily routine is a huge ask. And it cannot be done abruptly. Or your digital project may fail completely.
+
 An abrupt change can only be useful if the employees are struggling to keep up the workflow and are unhappy with the current status.
 
 But business can not function in this way. Especially B2B businesses need to evolve with the market. To get the team digitally ready, it is important to prepare it judiciously.

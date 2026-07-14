@@ -37,6 +37,24 @@ CRM stands for customer relationship management. The core functionality of CRM i
 4.  Nucleus Research claims that CRM technology can reduce the complexity of the sales cycle by 8-14% on average.
 5.  A [Forrester Study](https://findstack.com/resources/crm-statistics/) found that CRM can deliver ROI of 245%.
 
+## What is a CRM for Small Business?
+
+CRM is a software application that can help you expand your business by providing a centralized platform for your customers’ data. You can view all interactions and get up to speed before reaching out to a customer.
+
+Small companies count on customer engagement for growth. Because each and every customer counts. As Peppers and Rogers said, it is simpler to keep an old customer than it is to get a new one. To this effect, it is essential to have a CRM for small businesses in a place that serves as a centralized platform for all the customer data, where businesses can store and analyze customer’s needs and requirements effectively.
+
+A CRM platform gives you the ability to search for new customers by managing your leads and hot prospects, managing sales cycle in an organized manner, and equipping you with data insights that can help in finding problem areas in the sales cycle and improve with strategic efforts.
+
+With a CRM at your disposal, you get a free pass to all your past interactions with customers. This means you can prepare like a pro before facing your customers and prospects. Your customer interactions become more than just transactions; they become genuine, personalized moments that make your business shine.
+
+## Why Do Small Businesses Need a CRM?
+
+-   For small businesses every opportunity is gold. CRM software can automate repetitive operations like follow-ups on opportunities. It can make the sales process transparent by making each opportunity visible.
+
+-   Monitoring the success of your sales operation, and marketing efforts is made easier with CRM software. Sorting out customer information and automating recurring actions like cold emails, follow-up emails or even reminders provides different business teams with a good amount of time. Automating these tasks enable them to focus on meaningful connections and closing important deals.
+
+-   CRM can empower you with the capability to make well-informed choices by sharing significant insights on data and allows you to enhance your strategies for optimal results.
+
 ## How Does A CRM Help Your Small Business?
 
 CRM software is a tool to collect, organize and analyze customer data from various streams of information and sources. These sources are most often email, social media, and websites etc.

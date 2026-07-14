@@ -37,6 +37,80 @@ That is where Customer Relationship Management (CRM) comes in. It is one of the 
 
 CRM replaces less effective methods that use disparate apps such as spreadsheets, standalone databases, and email, making it accessible to multiple user groups within an organization. Let’s take a simple case study of the HVAC industry to better understand how CRM parameters are applicable in the HVAC industry.
 
+## What parameters are required in CRM for the HVAC industry?
+
+An HVAC distribution company has to manage a workflow that involves the following steps:-
+
+### Inquiry and Assessment
+
+-   Potential customers contact the distributor to inquire about cooling/heating issues, installation requests, or maintenance needs.
+-   Technicians or sales representatives visit the specific customer who wants to assess the specific requirements and recommend suitable solutions for their problem.
+
+### Quote and Agreement
+
+-   Based on the assessment, the company provides a detailed quote outlining project details, equipment costs, labor charges, and timelines to the customer.
+-   Once the customer approves the quote, a formal agreement is signed for further responsibilities and expectations.
+
+### Procurement and Equipment
+
+-   Then, the company provides the necessary types of equipment (furnaces, AC units, ductwork, etc.) from each of the manufacturers or suppliers.
+-   After providing equipment permits and licenses required for specific installations, the company must ensure compliance.
+
+### Installation and Commissioning
+
+-   Trained technicians handle the installation according to customers’ expectations and industry standards with safety regulations.
+-   Once the system is operational, technicians test and calibrate it to ensure proper functioning and optimal performance is happening or not.
+
+### Maintenance and Service
+
+-   The company conducts regular maintenance for the system’s efficiency to prevent future problems.
+-   Accordingly, they offered maintenance plans or responded to individual service requests daily, including filter changes, system inspections, minor repairs, and troubleshooting performance issues.
+
+### Customer Support
+
+-   The company also provides customer support throughout the process, answering questions, addressing concerns, and ensuring satisfaction.
+-   This offers warranties, scheduling follow-up appointments, and handling any post-installation issues.
+
+## The four things that every HVAC distributor wants to achieve
+
+The specific goals of an HVAC business will depend on its size, location, customer relationships, and unique strengths and priorities, where the HVAC distributor wants—
+
+### Build long-term relationships with existing customers
+
+The main goal of HVAC distributors is to build long-term relationships with existing customers because existing customers are more likely to buy from them again and again, especially if they have had positive experiences in the past. They can also be a valuable source of referrals for new businesses.
+
+### Build more new customers with additional referrals from existing customers
+
+Growing a customer base is essential for any business, and HVAC distributors eagerly want more referrals from their existing customers so that people are more likely to trust their service and recommend friends and family. This is the second main goal of an HVAC distributor.
+
+### Provide excellent customer service, prompt response times, and high-quality work
+
+The next goal of the HVAC distributor is to provide excellent customer service that can turn one-time customers into loyal fans. It can also help you build a positive reputation in the community.
+
+### Increase brand recognition and reputation through positive customer experiences
+
+A strong brand can help to differentiate from the competition and attract new customers. It can also command premium prices for products and services.
+
+An HVAC distributor provides consistently excellent customer service to create a positive online presence through the website and social media so that their customer get involved in their community and sponsor local events.
+
+## How a CRM’s parameter can help in HVAC workflow?
+
+A CRM system is guaranteed to benefit a company, no matter what industry it’s.
+
+### In terms of inquiry and assessment–
+
+-   **Before CRM**
+
+1.  Inquiry handling is manual, relying on spreadsheets or paper records.
+2.  Technicians lack immediate access to customer history during assessments.
+
+-   **After CRM**
+
+1.  Customer inquiries are logged and tracked systematically.
+2.  Technicians access a [centralized CRM platform](https://orgzit.com/customer-relationship-management/) with customer history, facilitating informed assessments.
+
+_❌ Before CRM—The average response time for inquiries was 48 hours._
+
 _✔️ After CRM—The average response time reduced to 12 hours._
 
 **Result-** Customer queries are resolved faster with quick responses, and the average time spent on each ticket is reduced by several hours. It becomes a benefit for both the customer and the company.

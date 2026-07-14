@@ -36,6 +36,27 @@ If you are worried that your time and money on marketing and sales initiatives a
 
 Let us walk you through some key indicators that can help you measure your business performance. These indicators are applicable on all business and industries in some way or the other.
 
+### TL;DR
+
+-   To measure your B2B business performance, it is important to identify where you need to improve efficiency, increase customer satisfaction, and boost your sales and profits.
+
+-   There are so many ways to measure B2B business performance. The best way will depend on your specific business goals and your industry.
+
+-   However, there are a few key metrics that all B2B businesses should track: sales, marketing and financial metrics. Read more about them in the article.
+    -   Cost per lead (CPL)
+    -   Number of leads generated
+    -   Website Traffic
+    -   Conversion rate
+    -   Revenue growth
+    -   Average sales cycle length
+    -   Win rate
+    -   Churn rate
+    -   Time to Market
+
+-   Pro Tips: Choose the right metrics, track them over time, identify problem areas and improve by strategizing. For example, if you notice that your churn rate is increasing, you need to investigate why and develop strategies to reduce it.
+
+-   Customer retention and conversion rate are two of the most important metrics for B2B businesses. By focusing on these metrics, you can significantly impact your bottom line.
+
 ## **What is the B2B business process?**
 
 ![Key points to measure your B2B business performance

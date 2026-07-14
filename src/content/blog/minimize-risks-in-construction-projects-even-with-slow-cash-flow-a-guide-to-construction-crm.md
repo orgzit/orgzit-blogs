@@ -32,6 +32,29 @@ Crafting a beneficial CRM in construction isn’t just about completing multiple
 
 In this guide, we’ll explore relevant things you need to know about construction CRM. This includes guidance on selecting the right system for your specific requirements and analyzing your [CRM investment](/blog/crms-in-market-place-a-real-buying-dilemma/).
 
+## What is a Construction CRM?
+
+Beyond being a system to collect and track all customer interaction, from original contact to project completion steps, a construction company benefits from a CRM to deliver superior client service and point openings for upselling and cross-selling.
+
+One company may use a [CRM system](https://orgzit.com/product/) to oversee their deals channel, tracking the progress of each project and identifying the most promising conversions.
+
+Another might employ it to manage their systems, covering task progress, relating implicit issues, and easing communication with all design stakeholders.
+
+## Challenges in Construction
+
+Construction is a complex industry with a lot of moving parts. Where—construction companies have some challenges that are—
+
+-   **Vender operation**
+-   **Safety operation**
+-   **Budget tracking**
+-   **Cost estimation**
+-   **Change orders**
+-   **Design schedules**
+-   **Daily, weekly, and yearly examination logs**
+-   **Bidding processes and contract accommodations**
+-   **Quality control**
+-   **Job point monitoring**
+
 ### Implementations Norms,
 
 #### **For vendor operation—**

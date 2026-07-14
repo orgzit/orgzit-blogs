@@ -35,6 +35,85 @@ Well, this wishful thinking can be your reality because a CRM can help you go al
 
 Read this article to learn more about how a CRM can assist you in achieving your business goals!
 
+### **I**ntroduction
+
+Are you an SMB owner having the following business goals?
+
+-   Reaching more customers
+-   Increase customer retention
+-   Expand your brand
+-   Increase your product sales.
+-   Increase your revenue
+
+Well, to achieve these objectives in a sustainable manner, you must put processes in place to get—and stay—organized.
+
+As a business owner, your asset is your team and its productivity, which is always hampered by repetitive, mundane tasks done manually.
+
+For them, spending hours updating Excel spreadsheets with contact information or manually sorting through stacks of business cards may work now, but it won’t last.
+
+This is where CRM comes in. The right CRM software assists your company in meeting these objectives efficiently—no spreadsheets are required.
+
+It can also grow alongside your company. This means you can put in place customer management processes that will last for a long time.
+
+### **Understanding SMB Business Goals**
+
+#### A. Identifying Key Business Objectives
+
+Simply put, a business objective is a measurable result that an organization aims to achieve.
+
+As the organization grows, it is crucial to establish new business objectives on a regular basis in order to effectively track employee performance and ensure the business is progressing and improving.
+
+Business objectives can also help you and your team members identify your strengths and areas for improvement.
+
+Once you’ve determined these, you can implement new strategies to help improve your own performance, which contributes to overall organizational efficiency.
+
+Some common business goals for every SMB owner are:
+
+-   Revenue Growth
+-   Customer Retention
+-   Operational Efficiency
+-   Market Expansion
+
+Some other goals that cannot be missed are:
+
+-   Reduce Credit business with reminders and payment follow-up systems in place
+-   Unblock flow by finding high-margin selling products
+-   Expand product offerings to enhance cash flow diversity.
+-   Improve credit risk management by 10% by improving creditworthiness assessment procedures.
+-   Improve cash flow by negotiating better payment terms with key suppliers.
+
+#### B. Setting Specific and Measurable Goals
+
+SMART Goal method
+
+Simply put, SMART goals are specific, measurable, and actionable. By using a series of five benchmarks that comprise the SMART method, you’ll be able to create concise goals and action steps that will keep you on track. Let’s look at an example to understand the difference between a vague goal and a SMART goal.
+
+**How to set/identify business goals relevant to you through the SMART method?**
+
+**Vague goal**: I aim to boost our company’s performance this quarter.
+
+**SMART goal**:
+
+Defining clear targets and establishing timelines are the most crucial parts of setting relevant and achievable business goals. Let’s understand it with an example;
+
+-   Ex. By the end of this quarter, convert 100 leads, a 20% boost from last quarter.
+
+-   **_Specific_**: Your goal must focus on one clearly defined metric.
+
+-   **_Measurable_**: You must measure your goal against that defined metric.
+
+100 leads into customers.
+
+-   **_Attainable_**: You need to be able to achieve the goal within a specific timeframe.
+
+Previous quarter 80, this quarter more efforts, 100
+
+-   **_Relevant_**: Your goal aligns with your company’s values and objectives. The purpose is to boost revenue.
+
+-   **_Timely_**: Specify when you can achieve these results.
+
+By the end of this quarter.
+
 ### **How to Measure CRM Goals**
 
 Now that we’ve explored the business goals you can achieve with a CRM, let’s take a look at how you can measure your CRM goals.

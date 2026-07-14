@@ -57,6 +57,45 @@ And one more thing before integrating your business with lead scoring software: 
 
 Lead scoring is a way of ranking your leads based on how likely they are to become your prospective customers and modify your business to live longer with a proper growth circle.
 
+## How do you assess your lead scoring?
+
+Suppose you’re an electronic goods distributor, and your leads will be all the electronic goods shops in a residential area. Here are some attributes to look at while scoring your leads:
+
+-   **Company Size/Revenue—**Look at the size of the retail shops. Are they small mom-and-pop stores or larger, well-established shops? Bigger shops might have more potential!
+-   **Job Title—**Who’s in charge of these shops? Knowing their role helps you understand who makes the decisions!
+-   **Industry—**Are they exclusively electronic goods shops, or do they have a broader range of products? This can give you a clue about their potential interest!
+-   **Web Visits—**Keep an eye on how often they visit your website. This shows they’re interested and looking for something specific!
+-   **Email Opens and Clicks—**Consider whether they’re opening and clicking on your emails. It’s a sign they’re engaged and curious!
+-   **Downloads and Registrations—**Are they grabbing resources from your website? This indicates a deeper interest in what you offer!
+
+![tips & trick](https://lh7-us.googleusercontent.com/vZN1Ip45RCa0OMDxjAPoO4alLBXHGvTCWzrUdVbqEgf7YR6osMZkD4vwZf-cJuc1pxwh94lTe64Kx-tXbCkSnCDroLXjcgImIbGrxL2fMEmUE3s0p49mLX_20ge_b9qKXKMxJ3fL_yLYxG5rU5hSo98)
+
+## Quick RFM Analysis on the Leads
+
+To get the full benefit, make sure you’re registered with all the info about your leads. It’s like having a well-stocked toolbox for your business.
+
+You could give leads a point for each time they visit your website, open an email, or download a resource. You could also give them points based on how much money they spend with your company.
+
+Once you have assigned each lead a score, you can segment them into different categories. For example, you can create a category for hot leads, who are most likely to convert, and a category for cold leads, who are less likely to convert.
+
+You can use the information from your RFM analysis to score your leads more effectively by assigning them weights based on their importance to your business. For example, you might give more weight to recency and monetary value than to frequency.
+
+You can also use this information to create different lead-scoring models for different types of leads. For example, you might have a different lead scoring model for hot leads than you do for cold leads.
+
+### **Let’s say you have two leads:**
+
+**Lead 1:** An established e-commerce company specializing in electronics. The owner has visited your website twice and opened your last two emails.
+
+**Lead 2:** A large electronics chain with multiple stores in the area. The decision-maker at the company has visited your website once and opened your last email.
+
+Based on the RFM analysis, Lead 2 would be considered a hotter lead than Lead 1. Lead 2 is a larger company with more potential revenue. They have also visited your website more recently than Lead 1.
+
+However, you could also consider other factors when scoring your leads, such as the lead’s industry or the type of products they are interested in. If Lead 1 is interested in a new product you are launching, it might be a more valuable lead than Lead 2, even if Lead 2 is a larger company.
+
+### Fun Fact!
+
+_RFM Analysis is like a superhero lens for your leads. It helps you spot the brightest stars in your customer’s galaxy. Remember, the fresher, more frequent, and potentially lucrative, the better the lead! So, armed with these insights, you’re all set to score your leads like a pro. Let’s find those hidden gems and turn them into loyal customers!_
+
 ## Lead Scoring Software: Making your Life Easy!
 
 Lead scoring software is a tool that helps a business’s deals and marketing team identify and prioritize their most promising prospects or leads by pointing a score to each of them predicated on their demographics, past behavior, and other factors. However, also more likely they are to be interested in buying the company’s product or service if the lead score is high for any lead or prospect.

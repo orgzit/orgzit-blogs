@@ -32,6 +32,18 @@ CRM enlightenment begins by understanding the complex interaction between existi
 
 One more thing about the vendor you are going to note is that they must be an approved partner of the CRM you are going to work with. So, you need to pick a package that fits the size of your organization first. That’s a key decision influencing your business growth, aligning with your business partner to improve your system better than before, and being a catalyst for growth for your team.
 
+## The selection process of CRM vendor
+
+Selecting vendor process going through the long list where—
+
+### Existing relationships with vendors for SMBs or large companies
+
+Your organization has existing relationships with vendors, especially if they have products or services suitable for SMBs or large companies.
+
+Understand this with an example—If your company already uses a vendor for certain software or services, it makes sense to consider them for CRM to leverage existing relationships, potential integration benefits, or bundled offerings.
+
+_“A study found that businesses that leverage existing vendor relationships can reduce implementation time by up to 20%, leading to faster adoption and returns on investment.”_
+
 ### Major and general requirements
 
 Major and general CRM requirements are based on the insights gained from your discovery process. For example, if a major requirement is a seamless [integration](/blog/how-crm-will-work-with-other-software-crm-integrations/) with existing tools and systems, a CRM vendor with robust API capabilities becomes crucial to streamline processes.

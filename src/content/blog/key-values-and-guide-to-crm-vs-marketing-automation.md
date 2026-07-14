@@ -35,6 +35,10 @@ The most important factor of any business is the customer. Without customers, th
 
 In this situation, you need some guidance about tools and techniques that help you. This blog will walk you through the two main techniques, CRM vs marketing automation, and provide knowledge about how these techniques can make things easier for your business and help you achieve your sales and marketing goals to attract and satisfy your customers.
 
+## TL;DR
+
+<table><tbody><tr><td><strong>Tool</strong></td><td><strong>CRM</strong></td><td><strong>Marketing Automation</strong></td></tr><tr><td><strong>Purpose</strong></td><td>Manage customer interactions and relationships</td><td>Automate marketing tasks</td></tr><tr><td><strong>Key features</strong></td><td>Lead tracking, relationship management, contact management, opportunity management, automation of repetitive tasks, sales management, marketing, customer service</td><td>Email marketing, lead nurturing, social media marketing, campaign management, advertising, sales</td></tr><tr><td><strong>Benefits</strong></td><td>Collects, organizes, and analyzes customer data, save your time and money, Increase efficiency, Generate more leads and sales, Nurture leads and convert them into customers, Improve customer retention</td><td>IImprove customer engagement, Generate more leads and sales, Nurture leads, and convert them into customers</td></tr><tr><td><strong>Tools</strong></td><td>Orgzit, HubSpot, Zoho etc.</td><td>Mailchimp, Marketo, Pardot etc.</td></tr></tbody></table>
+
 ![What is CRM?](/blog/blog-images/2-1024x576.jpg)
 
 ## What is a CRM?
