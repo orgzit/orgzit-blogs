@@ -3,9 +3,3 @@
 
 # Fix TinaCMS Media Manager thumbnail previews missing the /blog base path
 /blog-images/*  /blog/blog-images/*  200
-
-# TEMP: makes the bare *.netlify.app URL work for testing before orgzit.com/blog/*
-# is proxied here for real (which will strip /blog before it reaches this site).
-# Safe to remove once that proxy is set up — this rule simply won't trigger once
-# incoming requests no longer carry a /blog prefix.
-/blog/*  /:splat  200
