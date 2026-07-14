@@ -6,7 +6,7 @@
     "verify-urls": "node scripts/verify-urls.mjs",
     "dev": "astro dev",
     "tina-dev": "tinacms dev -c \"astro dev\"",
-    "build": "cross-env NODE_OPTIONS=--max-old-space-size=6144 tinacms build --content=local -c \"astro build\" && npx pagefind --site dist --output-path dist/pagefind",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=6144 tinacms build -c \"astro build\" && npx pagefind --site dist --output-path dist/pagefind",
     "preview": "astro preview",
     "check": "astro check"
   },
