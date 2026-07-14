@@ -112,31 +112,26 @@ Take the first step towards more accurate quotes and their visibility. Contact e
 
 ![](/blog/blog-images/image-2.png)
 
-****▪️ Why is quote visibility important in today’s marketplace?**  
-**
+**▪️ Why is quote visibility important in today’s marketplace?**
 
 Quote visibility is crucial for maintaining brand reputation and customer loyalty, as inconsistencies can damage trust and lead to lost sales opportunities.  
   
 
-****▪️ What are some common challenges businesses face regarding quote visibility?**  
-**
+**▪️ What are some common challenges businesses face regarding quote visibility?**
 
 Common challenges in the industry include pricing disparities, branding inconsistencies, and a lack of centralized control or management to maintain uniformity across different locations.  
   
 
-****▪️ How can businesses improve quote visibility?**  
-**
+**▪️ How can businesses improve quote visibility?**
 
 Centralized pricing systems, branding standardization, and technology solutions enhance quote visibility, ensuring consistency and transparency across multiple locations.  
   
 
-****▪️ What tools and resources are available to help businesses manage multi-location quotes?**  
-**
+**▪️ What tools and resources are available to help businesses manage multi-location quotes?**
 
 Businesses can utilize enterprise-level pricing platforms like Pricefx, Vendavo, and PROS, as well as [ERP systems](https://zapier.com/blog/best-erp-software/) such as SAP and Oracle. CRM systems integrated with pricing and inventory systems, like Orgzit, can also facilitate quote management and enhance customer engagement.  
   
 
-****▪️ What are the consequences of poor quote visibility?**  
-**
+**▪️ What are the consequences of poor quote visibility?**
 
 Poor quote visibility can lead to decreased consumer trust, missed sales opportunities, and damage to brand reputation. In today’s digital age, where online reviews and social media influence consumer decisions, pricing inconsistencies can quickly escalate into public relations disasters.

@@ -31,7 +31,7 @@ featured: false
 
 **Customer Relationship Management** refers to any business process or software solution that allows businesses to manage their relationship with customers by collecting, analyzing, and sharing data related to customer engagement processes. [CRM](https://orgzit.com/customer-relationship-management/) technology is used by organizations that want to maintain a relationship with their potential clients/prospects. CRM enables companies to align their sales, marketing, and customer relationship activities. In addition to employee productivity and team communication, CRM also assists in improving customer experience by centralizing data into one place.
 
-****_CRM will explode in 2022, achieving an 11.6 percent CAGR from 2022 to 2027_**** _(_**Source**_: Globe Newswire)_
+**_CRM will explode in 2022, achieving an 11.6 percent CAGR from 2022 to 2027_** _(_**Source**_: Globe Newswire)_
 
 Broadly, there are two types of business models, B2B (business to business) and B2C (business to customer), that utilize CRM systems to track prospects, nurture leads, boost sales, and manage customer lifecycle. By tracking customer interactions, CRMs allow organizations to increase their customers’ lifetime value & establish loyalty.
 

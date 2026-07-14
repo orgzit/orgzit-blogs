@@ -185,13 +185,11 @@ Overall, reps can use their customer database to engage customers well. They can
 
 ## **FAQ**
 
-****▪️ What are some practical ways to use my customer database to increase engagement?**  
-**
+**▪️ What are some practical ways to use my customer database to increase engagement?**
 
 Segment your customer list based on their purchase history and preferences. Send personalized emails with their names and recommend products similar to their previous purchases. Set up automated follow-up messages for abandoned carts or special occasions, such as birthdays.  
   
 
-****▪️ What immediate steps can I take to implement predictive analytics?**  
-**
+**▪️ What immediate steps can I take to implement predictive analytics?**
 
 Start by collecting and categorizing customer data from various sources, including online interactions, purchase history, and social media. Use predictive analytics tools to spot patterns and trends, and personalize your marketing campaigns to meet the unique needs and preferences of different customer segments.

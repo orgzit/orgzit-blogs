@@ -171,4 +171,4 @@ Having discussed various tips and pointers to be taken into consideration while 
 
 *Got what you came looking for? If yes, then don’t forget to share it with your network.*
 
-*Till then,* ***Happy Automating!***
+*Till then,* **Happy Automating!**

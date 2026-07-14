@@ -141,22 +141,22 @@ The right CRM platform is not just a choice, and it’s a decision that can lift
 
 ## Frequently Asked Questions
 
-****Why does a small business need a CRM?****
+**Why does a small business need a CRM?**
 
 A small business needs a CRM to manage customer information, improve communication, and streamline operations between them and their customers. It helps manage leads, track sales, and provide better customer service.
 
-****Why is CRM a better tool to streamline the business?****
+**Why is CRM a better tool to streamline the business?**
 
 To automate customer and sales processes, small businesses rely on basic spreadsheets due to lack of funds or budget constraints. Choosing an affordable CRM platform can significantly improve the company’s sales without causing a hole in the pocket.
 
-****How does a CRM help to streamline your business operation**s?**
+**How does a CRM help to streamline your business operations?**
 
 CRM typically includes features like contact management, lead management, quote management, and invoicing which are core operations of any business. It helps sales teams keep track of their to-dos and ensure nothing falls through the cracks. Also, CRM can automate repetitive tasks like, if you automating follow-up emails after each customer interaction.
 
-****How does a CRM differ from Marketing Automation tools?****
+**How does a CRM differ from Marketing Automation tools?**
 
 CRM is a comprehensive tool that has sales, marketing, and customer service as its core applications. While Marketing Automation only helps streamline the marketing operations. Marketing automation software is generally focused on Internet marketing, whereas CRM is focused on business operations like sales, marketing, customer support, accounting  for your small business.
 
-****What favorable outcomes does CRM help a business to achieve?****
+**What favorable outcomes does CRM help a business to achieve?**
 
 By using CRM you are able to focus on the core aspects of your business, sales, marketing and even product development. By reducing your time and resources on non-core activities, you can free up resources to invest in activities that generate revenue. An optimized CRM process can reduce the length of your sales cycle, help you strategise efforts based on data insights and let you focus on more important tasks like customer engagement.

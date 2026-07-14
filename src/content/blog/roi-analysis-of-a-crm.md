@@ -219,16 +219,16 @@ Give [Orgzit](https://support.orgzit.com/en/) a try and see how it can help you 
 
 ## FAQs
 
-****Why is maximizing ROI important in CRM?****
+**Why is maximizing ROI important in CRM?**
 
 Maximizing ROI ensures that every dollar invested in CRM delivers measurable returns, contributing to overall business success. It’s crucial to extract the full potential from your CRM investment.  
   
 
-****What key metrics matter in determining CRM ROI?****
+**What key metrics matter in determining CRM ROI?**
 
 Different key metrics matter in determining CRM ROI, including lead conversion rates, sales velocity, activity metrics, pipeline value, team productivity, customer retention rate, overall revenue growth, customer lifetime value (CLV), and ROI.  
   
 
-****What are the key strategies for maximizing CRM ROI?****
+**What are the key strategies for maximizing CRM ROI?**
 
 Regular reassessment is essential, adapting to evolving business goals and technological advancements. Continuous monitoring ensures that your CRM strategy remains aligned with your organizational objectives.

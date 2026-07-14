@@ -167,19 +167,19 @@ Trust us to provide exceptional customer service and fast turnaround times to me
 
 ## **FAQ**s
 
-****How can we reduce manual work for car sales?****
+**How can we reduce manual work for car sales?**
 
 The integrated CRM system provides a centralized customer information and financial data database for car sales and returns. Businesses can perform marketing and sales activities, analyze the outcomes, perform vehicle self-cost management, integrate cross-departmental activities, automate cost calculation, and reduce errors and manual work.  
 Users can include or exclude discounts for the entire vehicle or specific car options on printed documents.  
   
 
-****How do you organize an international car sales business?****
+**How do you organize an international car sales business?**
 
 With Orgzit DMS, users can operate in different currencies concurrently. It means the system supports transactions and payments in multiple currencies, and the currency rates are applied to all transactions posted to the general ledger.  
 Additionally, the system offers individual localization for each country, ensuring a seamless experience for users across various regions.  
   
 
-****How do you manage B2B relations in the automotive industry?****
+**How do you manage B2B relations in the automotive industry?**
 
 Orgzit DMS offers an integrated online solution that manages business-to-business relations through CRM software. The solution offers centralized web data management by directly linking the dealer management system to your web page.  
 It offers a range of full web functionality, such as showcasing car items, user registration and passwords, document and file management, price per customer, offers, ordering, and much more.  

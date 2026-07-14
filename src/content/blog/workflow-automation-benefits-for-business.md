@@ -177,7 +177,7 @@ Automation helps in efficiently standardizing work management, downsizing human 
 
 ### **Streamline Workflows with Automation Now**
 
-***Manual Workflow is outdated, as automation is the new star!***
+**Manual Workflow is outdated, as automation is the new star!**
 
 ![Streamline Workflows with Automation Now](/blog/blog-images/Streamline-Workflows-with-Automation-Now-1024x536.jpeg)
 

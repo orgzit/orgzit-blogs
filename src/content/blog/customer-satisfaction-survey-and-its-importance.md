@@ -48,7 +48,7 @@ Let us discover why satisfaction surveys are pivotal in shaping a business.
 
 -   Surveys can also help businesses track improvements over time & to measure customer loyalty and advocacy.
 
-## ****Customer Satisfaction Survey**: What’s The Goal?**
+**## Customer Satisfaction Survey: What’s The Goal?**
 
 Customers are the lifeblood of any business. Understanding what customers want and need is essential to company success, but customer surveys can be tricky! A poorly constructed survey can do more harm than good.
 
@@ -66,7 +66,7 @@ Moreover, surveys should also be well-timed. After customer interaction, a custo
 
 The purpose of customer surveys should be simple – to instill a customer-centric mindset within the organization, anticipate market trends, identify customers’ perceptions of your competitors, and deliver the best customer experience possible.
 
-## ****Importance Of Customer Satisfaction Survey****
+## **Importance Of Customer Satisfaction Survey**
 
 ![Importance Of Customer Satisfaction Survey
 ](/blog/blog-images/Importance-Of-Customer-Satisfaction-Survey-1024x726.jpg)

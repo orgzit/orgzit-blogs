@@ -169,12 +169,11 @@ Examining buying habits can reveal preferences and future purchasing intentions.
 
 ## FAQs
 
-****▪️ What kind of customer interaction data should I track?**  
-**
+**▪️ What kind of customer interaction data should I track?**
 
 Track records of all customer interactions, including calls, emails, and meetings. Note customer inquiries, feedback, complaints, and any follow-up actions required to ensure a thorough understanding of customer needs.  
   
 
-****▪️ What is the best way to manage inventory data for better sales outcomes?**** 
+**▪️ What is the best way to manage inventory data for better sales outcomes?**
 
 Access real-time information on product availability, stock levels, and lead times. Coordinate closely with warehouse teams to fulfill orders promptly and adjust sales strategies to anticipate and manage inventory shortages or excesses.
