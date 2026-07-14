@@ -19,6 +19,6 @@ const { name, slug, bio, avatar } = Astro.props;
     <a href={`/blog/author/${slug}/`} class="author-card-name">
       {name}
     </a>
-    {bio && <p class="author-card-bio">{bio}</p>}
+    {bio && <p class="author-card-bio" set:html={bio} />}
   </div>
 </div>

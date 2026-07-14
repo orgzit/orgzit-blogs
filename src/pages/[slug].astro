@@ -160,13 +160,14 @@ const ogImageFull = rawImage.startsWith('http') ? rawImage : `${siteUrl}${withBa
 
   {post.data.tags.length > 0 && (
     <div class="post-tags">
+      <h5 class="post-tags-label">Tags In</h5>
       <div class="post-tags-list">
         {post.data.tags.map(tag => (
           <a
             href={`/blog/tag/${slugify(tag)}/`}
             class="post-tag"
           >
-            #{tag}
+            {tag}
           </a>
         ))}
       </div>

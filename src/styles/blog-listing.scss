@@ -209,18 +209,30 @@
   align-items: center;
   gap: $space-5;
   margin-bottom: $space-10;
+  padding: $space-6;
+  border: 1px solid $slate-200;
+  border-radius: $radius-xl;
 }
 
 .archive-author-avatar {
   width: 5rem;
   height: 5rem;
   border-radius: $radius-full;
+  flex-shrink: 0;
 }
 
 .archive-author-bio {
   color: $slate-600;
   margin-top: $space-2;
   max-width: 36rem;
+
+  a {
+    color: $brand-600;
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
 }
 
 .archive-author-info .archive-count { margin-top: $space-1; }

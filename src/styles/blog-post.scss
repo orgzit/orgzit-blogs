@@ -116,6 +116,13 @@
   border-top: 1px solid $slate-200;
 }
 
+.post-tags-label {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: $slate-900;
+  margin-bottom: $space-3;
+}
+
 .post-tags-list {
   display: flex;
   flex-wrap: wrap;
@@ -123,14 +130,22 @@
 }
 
 .post-tag {
-  font-size: 0.875rem;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 2rem;
   background-color: $slate-100;
   color: $slate-600;
-  padding: $space-1 $space-3;
-  border-radius: $radius-full;
-  transition: background-color 150ms;
+  padding: 0 $space-3;
+  border-radius: $radius-lg;
+  transition: background-color 150ms, color 150ms;
 
-  &:hover { background-color: $slate-200; }
+  &:hover {
+    background-color: $brand-600;
+    color: $white;
+  }
 }
 
 // ── Post content (markdown body) ──────────────────────────────────
@@ -277,6 +292,20 @@
     vertical-align: top;
     padding: 0.5714em;
   }
+
+  // FAQ section — each Q&A pair gets a highlighted card, matching the
+  // lavender FAQ boxes from the original WordPress site.
+  h2[id="faqs"] ~ p {
+    background-color: #f3ecfc;
+    border-radius: $radius-lg;
+    padding: $space-4 $space-5;
+
+    strong:first-child {
+      display: block;
+      color: $slate-900;
+      margin-bottom: $space-2;
+    }
+  }
 }
 
 // ── Book a Demo CTA ────────────────────────────────────────────────
@@ -338,9 +367,12 @@
   border-radius: $radius-lg;
   background-color: $slate-100;
   color: $slate-700;
-  transition: background-color 150ms;
+  transition: background-color 150ms, color 150ms;
 
-  &:hover { background-color: $slate-200; }
+  &:hover {
+    background-color: $brand-600;
+    color: $white;
+  }
 }
 
 // ── Reading progress bar ───────────────────────────────────────────
@@ -387,8 +419,9 @@
 // ── Author card ────────────────────────────────────────────────────
 .author-card {
   margin-top: $space-12;
-  padding-top: $space-8;
-  border-top: 1px solid $slate-200;
+  padding: $space-6;
+  border: 1px solid $slate-200;
+  border-radius: $radius-xl;
   display: flex;
   gap: $space-4;
 }
@@ -430,6 +463,14 @@
   font-size: 0.875rem;
   margin-top: $space-1;
   line-height: 1.625;
+
+  a {
+    color: $brand-600;
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
 }
 
 // ── Related posts ──────────────────────────────────────────────────

@@ -35,7 +35,7 @@ const posts = allPosts
     <div class="archive-author-info">
       <h1 class="archive-title">{author.name}</h1>
       {author.description && (
-        <p class="archive-author-bio">{author.description}</p>
+        <p class="archive-author-bio" set:html={author.description} />
       )}
       <p class="archive-count">{posts.length} articles</p>
     </div>
